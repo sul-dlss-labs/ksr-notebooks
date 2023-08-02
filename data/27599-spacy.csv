@@ -1,0 +1,27 @@
+text,label,fe_id
+Stephen O’Brien,PERSON,27599
+20,DATE,27599
+a car around 12:15 a.m.,TIME,27599
+Monday,DATE,27599
+300,CARDINAL,27599
+10th,ORDINAL,27599
+Wilson County Sheriff Joe Tackitt,ORG,27599
+SAN ANTONIO,GPE,27599
+Floresville Walmart,ORG,27599
+overnight,TIME,27599
+Stephen O’Brien,PERSON,27599
+20,DATE,27599
+a car around 12:15 a.m.,TIME,27599
+Monday,DATE,27599
+300,CARDINAL,27599
+10th,ORDINAL,27599
+Wilson County Sheriff Joe Tackitt,ORG,27599
+Department of Public Safety,ORG,27599
+Jason Reyes,PERSON,27599
+14-year-old,DATE,27599
+Tackitt,ORG,27599
+two,CARDINAL,27599
+Reyes,ORG,27599
+first,ORDINAL,27599
+the Floresville EMS,ORG,27599
+Texas Rangers,ORG,27599

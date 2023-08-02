@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,4614
+Alabama,GPE,4614
+Alaska,GPE,4614
+Arizona,GPE,4614
+Arkansas,GPE,4614
+California,GPE,4614
+Colorado,GPE,4614
+Connecticut,GPE,4614
+Delaware,GPE,4614
+Florida,GPE,4614
+Georgia,GPE,4614
+Hawaii,GPE,4614
+Idaho,GPE,4614
+Indiana,GPE,4614
+Iowa,GPE,4614
+Kansas,GPE,4614
+Kentucky,GPE,4614
+Louisiana,GPE,4614
+Maine,GPE,4614
+Maryland,GPE,4614
+Massachusetts,GPE,4614
+Michigan,GPE,4614
+Minnesota,GPE,4614
+Mississippi,GPE,4614
+Missouri,GPE,4614
+Montana,GPE,4614
+Nebraska,GPE,4614
+Nevada,GPE,4614
+New Hampshire,GPE,4614
+New Jersey,GPE,4614
+Ohio,GPE,4614
+Oklahoma,GPE,4614
+Oregon,GPE,4614
+Pennsylvania,GPE,4614
+Rhode Island,GPE,4614
+Tennessee,GPE,4614
+Texas,GPE,4614
+Utah,GPE,4614
+Vermont,GPE,4614
+Virginia,GPE,4614
+Washington,GPE,4614
+Washington,GPE,4614
+D.C.,GPE,4614
+Wisconsin,GPE,4614
+Wyoming,GPE,4614
+US,GPE,4614
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,4614
+Marshall Islands American Samoa Federated States,ORG,4614
+Micronesia Guam,FAC,4614
+Alberta,GPE,4614
+Canada,GPE,4614
+British Columbia,GPE,4614
+Canada Manitoba,GPE,4614
+Canada,GPE,4614
+New Brunswick,GPE,4614
+Canada Newfoundland,PERSON,4614
+Canada,GPE,4614
+Canada,GPE,4614
+Canada Ontario,GPE,4614
+Canada,GPE,4614
+Edward Island,GPE,4614
+Canada Quebec,GPE,4614
+Canada,GPE,4614
+Saskatchewan,GPE,4614
+Canada Yukon Territory,ORG,4614
+Canada,GPE,4614
+Zip Code,PERSON,4614

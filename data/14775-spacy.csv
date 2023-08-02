@@ -1,0 +1,37 @@
+text,label,fe_id
+first,ORDINAL,14775
+the Police Department,ORG,14775
+Greenville,GPE,14775
+N.C.,GPE,14775
+first,ORDINAL,14775
+E.M.S.,GPE,14775
+first,ORDINAL,14775
+Houston,GPE,14775
+4,CARDINAL,14775
+Constable Mark Herman,PERSON,14775
+Ron Hickman,PERSON,14775
+Harris County,GPE,14775
+Sheriff Hickman,PERSON,14775
+Constable Herman,PERSON,14775
+Texas,GPE,14775
+Harris County,GPE,14775
+Jeff McShan,PERSON,14775
+Cypress Creek,FAC,14775
+E.M.S.,GPE,14775
+10 minutes,TIME,14775
+Harris County,GPE,14775
+12 minutes,TIME,14775
+more than an hour,TIME,14775
+Goodridge,PERSON,14775
+30-mile,QUANTITY,14775
+Ben Taub Hospital,PERSON,14775
+Houston,GPE,14775
+Cypress Creek,LOC,14775
+E.M.S.,GPE,14775
+Goodridge,PERSON,14775
+two,CARDINAL,14775
+John M. Walton,PERSON,14775
+Constable Andres Rosas,PERSON,14775
+Hispanic,NORP,14775
+E.M.S.,GPE,14775
+Sergeant Walton,PERSON,14775

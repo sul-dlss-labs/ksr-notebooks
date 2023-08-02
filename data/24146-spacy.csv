@@ -1,0 +1,31 @@
+text,label,fe_id
+a weekend,DATE,24146
+two,CARDINAL,24146
+Monday,DATE,24146
+Wyoming Medical Center,ORG,24146
+Casper,GPE,24146
+Casper,GPE,24146
+Wyoming,GPE,24146
+second,ORDINAL,24146
+David P. Wolosin,PERSON,24146
+38,DATE,24146
+Casper,GPE,24146
+1:36 p.m.,TIME,24146
+Sunday,DATE,24146
+two,CARDINAL,24146
+two,CARDINAL,24146
+The Casper Police Department,ORG,24146
+the Wyoming Division of Criminal Investigation,ORG,24146
+two,CARDINAL,24146
+15,CARDINAL,24146
+20,CARDINAL,24146
+Travis Barker,PERSON,24146
+KCWY-TV,ORG,24146
+James Gray,PERSON,24146
+the Casper Star-Tribune,ORG,24146
+Gray,PERSON,24146
+two,CARDINAL,24146
+Gray,PERSON,24146
+Gray,PERSON,24146
+Casper,GPE,24146
+Star-Tribune,ORG,24146

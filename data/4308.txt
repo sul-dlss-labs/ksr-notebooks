@@ -1,0 +1,267 @@
+Court of Appeals of Texas,Waco. CITY OF WACO, Appellant, v. Robert Earl WILLIAMS, Jr. and Maggie Williams Walton, Individually and on behalf of the Estate of Robert Earl Williams, Sr., Deceased, Appellees. No. 10-06-00072-CV. Decided: October 18, 2006
+
+Before Chief Justice GRAY, Justice VANCE, and Justice REYNA. Alfred MacKenzie, Haley & Olson PC, Waco, for appellant. Vic Feazell, Feazell Tighe LLP, Austin, Douglas D. Fletcher, Fletcher & Springer LLP, Dallas, for appellees.
+
+In this interlocutory appeal of the trial court's denial of the city's plea to the jurisdiction, we must decide if the Texas Tort Claims Act's intentional-tort exception to its waiver of sovereign immunity applies when police officers shoot a person with Tasers. We hold that the plaintiffs' claims allege an intentional tort and that immunity has not been waived. We will reverse the trial court's ruling and dismiss the case against the city for want of subject-matter jurisdiction.
+
+Background
+
+The plaintiffs, the children of Robert Earl Williams, Sr., the decedent, sued the City of Waco under the Texas Tort Claims Act (the TTCA). See Tex. Civ. Prac. & Rem.Code Ann. § 101.001-.109 (Vernon 2005 & Supp.2006). Waco filed a plea to the jurisdiction, asserting that the trial court lacked subject-matter jurisdiction because Waco is immune from suit. The trial court denied the plea, and this interlocutory appeal followed. See id. § 51.014(a)(8) (Vernon Supp.2006).
+
+Standard of Review
+
+A plea to the jurisdiction challenges the trial court's authority to determine the subject matter of the action. Texas Dep't Transp. v. Jones, 8 S.W.3d 636, 638 (Tex.1999). Whether the trial court has subject-matter jurisdiction is a question of law that we review de novo. Texas Natural Resource Conservation Comm'n v. IT-Davy, 74 S.W.3d 849, 855 (Tex.2002). The plaintiff has the burden of alleging facts that affirmatively establish the trial court's subject-matter jurisdiction. Texas Ass'n Bus. v. Texas Air Control Bd., 852 S.W.2d 440, 446 (Tex.1993). In determining whether jurisdiction exists, we accept the allegations in the pleadings as true and construe them liberally in favor of the plaintiff. Texas Dep't Parks & Wildlife v. Miranda, 133 S.W.3d 217, 227 (Tex.2004).
+
+The Pleadings
+
+The Williamses pled the following facts in their first amended original petition:
+
+7. On June 14, 2005, Waco police responded to a call made by Mr. Williams' sister, complaining that Decedent would not leave her property. By the time the officers arrived, the sister was asking Mr. Williams [Decedent] to come back into her home since any misunderstanding had been resolved. As Mr. Williams attempted to walk back towards his sister's house, the officers tackled him, pushing and dragging him to the ground. Mr. Williams did not resist, and in fact simply held his hands up as he lay prone.
+
+8. Suddenly and without provocation, four officers at the scene stood over Mr. Williams as he lay helpless on the ground and negligently began shooting him with Tasers, shocking him over and over with 50,000 volts of electricity. Each of the shooting officers negligently held the Taser triggers for various durations, all the while causing a continuous current to surge through Mr. Williams' body. While an initial Taser blast is designed to last five seconds, subsequent blasts can last as long as officers hold down the triggers.
+
+․
+
+10. At no time did Mr. Williams resist. During much of this time, he was actually laying prone on the ground. He was shot with the Tasers while he was on the ground, immobilized, compliant, and utterly defenseless. He began to have difficulty breathing. Whether it was the screams of the witnesses, or the realization of what they had just done, the officers eventually stopped shooting him with their Tasers. As he lay on the ground outside his sister's home, his breathing grew more labored, and he passed out. Mr. Williams had stopped breathing by the time the ambulance arrived and medical personnel's efforts to revive him proved fruitless. At no time did any of the shooting officers-nor any other Waco police officer on the scene-attempt to revive him, or offer him medical assistance of any kind.
+
+․
+
+12. The official autopsy report stated that Decedent's death was a homicide, caused by “multiple electrical shocks during attempted restraint by police.” As a witness at the scene said in more blunt and plaintive terms: “They killed that man.”
+
+The Williamses' negligence cause of action alleges:
+
+24. Robert Earl Williams, Sr. died as a direct and proximate result of the negligence of the City of Waco and its agents, servants, and officers, including in the following particulars: furnishing and use of tangible personal property (Tasers) that were defective, inadequate, and lacking integral safety component(s); negligent implementation of a policy concerning the use of tangible personal property (Tasers); the improper, negligent, careless and reckless use of inappropriate tangible personal property; and undertaking to train and instruct the officers involved in the use of Tasers, but then acting negligently in implementing its policies by failing to adequately train and supervise those officers on the appropriate use of Tasers.
+
+Texas Tort Claims Act
+
+The TTCA provides a limited waiver of sovereign immunity and allows suits against governmental units only in certain narrow circumstances. Texas Dep't Crim. Justice v. Miller, 51 S.W.3d 583, 587 (Tex.2001); see Tex. Civ. Prac. & Rem.Code Ann. § 101.021. We look to the terms of the TTCA to determine the scope of waiver and then consider the particular facts of the case to determine whether the case comes within that scope. Miller, 51 S.W.3d at 587. For immunity to be waived under the TTCA, a claim must arise under one of the three specific areas of liability for which immunity is waived and the claim must not fall under one of the exceptions from waiver. Durbin v. City of Winnsboro, 135 S.W.3d 317, 320 (Tex.App.-Texarkana 2004, pet. denied).
+
+A governmental unit in this state is liable for:
+
+(1) property damage, personal injury, and death proximately caused by the wrongful act or omission or the negligence of an employee acting within his scope of employment if:
+
+(A) the property damage, personal injury, or death arises from the operation or use of a motor-driven vehicle or motor-driven equipment; and
+
+(B) the employee would be personally liable to the claimant according to Texas law; and
+
+(2) personal injury and death so caused by a condition or use of tangible personal or real property if the governmental unit would, were it a private person, be liable to the claimant according to Texas law.
+
+Tex. Civ. Prac. & Rem.Code Ann. § 101.021.
+
+One of the TTCA's exceptions from this waiver of immunity is the intentional-tort exception: the TTCA does not apply to a claim “arising out of assault, battery, false imprisonment, or any other intentional tort, including a tort involving disciplinary action by school authorities.” Id. § 101.057(2).
+
+Discussion
+
+In its first and second issues, Waco asserts that the trial court lacked subject-matter jurisdiction because the Williamses did not plead a cause of action for which Waco's sovereign immunity has been waived-that the Williamses' negligence claims are claims arising out of an intentional tort. Waco relies on a line of cases standing for the proposition that a negligence claim under the TTCA cannot arise out of the intentional acts, including excessive force, of a law enforcement officer against a person:
+
+ Texas Dep't of Pub. Safety v. Petta, 44 S.W.3d 575, 580 (Tex.2001) (plaintiff's claim that officer was negligent in ignoring police procedure did not obviate fact that officer's conduct was intentional; conduct complained of-officer's hitting car window, aiming gun, blocking car in with police cruiser, and firing at car's tires-was clearly intentional; despite plaintiff's claim that injuries were proximately caused by officer's and department's negligence, plaintiff's allegations fit squarely within section 101.057's exclusion).
+
+ Harris County v. Cabazos, 177 S.W.3d 105, 111 (Tex.App.-Houston [1st Dist.] 2005, no pet.) (holding intentional-tort exception applicable to plaintiff's negligence claim that officer, who had intentionally shot plaintiff during traffic stop, negligently discharged his pistol and negligently effectuated arrest).
+
+ Morgan v. City of Alvin, 175 S.W.3d 408, 418-19 (Tex.App.-Houston [1st Dist.] 2004, no pet.) (holding intentional-tort exception applicable to plaintiff's negligence claim arising out of plaintiff's allegation that officer negligently instigated a physical confrontation, handcuffing appellant, dragging him out of laundromat, slamming his head against hood of parked car, and “smashing his person” to the gravel parking lot).
+
+ City of Garland v. Rivera, 146 S.W.3d 334, 337 (Tex.App.-Dallas 2004, no pet.) (finding no immunity waiver under intentional-tort exception where plaintiff's father died after use of force during arrest; plaintiff's claim that police negligently used pepper spray, handcuffs, and K-9 unit hinged on intentional, rather than negligent, conduct).
+
+ City of Laredo v. Nuno, 94 S.W.3d 786, 788 (Tex.App.-San Antonio 2002, no pet.) (despite plaintiff's efforts to phrase claims in terms of officer's negligent failure to properly place plaintiff in police vehicle and negligent indifference of other officers and city, focus of plaintiff's claims against city was officer's intentional tortious acts of using excessive force to arrest plaintiff and to illegally seize car).
+
+ Medrano v. City of Pearsall, 989 S.W.2d 141, 144 (Tex.App.-San Antonio 1999, no pet.) (where focus of claim was on officers' alleged violent and negligent beating of handcuffed driver, intentional-tort exception could not be circumvented merely by alleging negligent hiring, negligent training, and negligent failure to train).
+
+ City of San Antonio v. Dunn, 796 S.W.2d 258, 261 (Tex.App.-San Antonio 1990, writ denied) (plaintiff's claim that officer wrongfully arrested him and negligently applied handcuffs so tightly that they caused discomfort and swelling to wrist arose out of intentional tort).4
+
+“If a plaintiff pleads facts which amount to an intentional tort, no matter if the claim is framed as negligence, the claim generally is for an intentional tort and is barred by the TTCA. A plaintiff cannot circumvent the intentional tort exception by couching his claims in terms of negligence.” Cabazos, 177 S.W.3d at 111 (citations omitted).
+
+In response, the Williamses cite three cases that they claim support the conclusion that they have not pled an intentional tort. In City of San Augustine, v.Parrish, 10 S.W.3d 734 (Tex.App.-Tyler 1999, pet. dism'd w.o.j.), a wrongful-death case arising from a police shooting, the city appealed both the trial court's denial of its plea to the jurisdiction on sovereign immunity and its motion for summary judgment on official immunity. In upholding the trial court's denial of the plea, the court considered only the plaintiffs' pleadings; it rejected the city's reliance on the summary judgment evidence. Id. at 739-40. Relying solely on the pleadings-in which the plaintiffs alleged that the decedent was “ ‘negligently shot and killed’ ” by a police officer who negligently used his pistol when “ ‘such use was not reasonable or reasonably necessary to control or subdue a citizen and negligently endangered those in the vicinity’ ”-the court held that the intentional-tort exception did not bar the suit. Id.
+
+In Bridges v. Robinson, 20 S.W.3d 104 (Tex.App.-Houston [14th Dist.] 2000, no pet.), overruled in part on other grounds by Telthorster v. Tennell, 92 S.W.3d 457, 464 (Tex.2002), a man involved in an altercation at a department store was confronted by security guards and Houston police officers, who dragged the man to an office, “hog-tied” him, broke his ribs, and placed him on the curb outside; he later died from his injuries. In the wrongful-death suit against the city under the TTCA, the city moved for summary judgment, contending that, under section 101.057, “hog-tying” and restraining the deceased was an intentional tort in the category of false arrest, false imprisonment, and assault and was not actionable under the TTCA. The court stated that “[t]he fundamental difference between a negligence injury and an intentional injury is the specific intent to inflict injury.” Id. at 114 (citing Reed Tool Co. v. Copelin, 689 S.W.2d 404, 406 (Tex.1985)). The plaintiffs had pled that the police officers had negligently employed “hog-tie” restraints, and there was no summary judgment proof the officers intended to injure or kill the deceased. Id. Relying primarily on Reed Tool, the court concluded the city had not established the plaintiffs' claims as intentional torts; therefore, section 101.057 was inapplicable. Id.
+
+Finally, and perhaps most instructive, is Durbin v. City of Winnsboro. Durbin, 135 S.W.3d 317. There the parents of the decedent sued the city after one of its officers bumped the decedent's motorcycle with his patrol car in an attempt to stop the decedent during a chase. The decedent wrecked, and the patrol car ran over and killed him. After the trial court denied the city's plea to the jurisdiction and motion for summary judgment on the intentional-tort exception, on appeal the city argued that the plaintiffs had pled an intentional act-the officer's bumping of the decedent's motorcycle-and thus an intentional tort under section 101.057. The court's analysis included a discussion of Petta, Nuno, and Huong, noting how the intent to injure could be inferred from the alleged intentional acts in those cases. Id. at 322-24. But the court also examined and adopted the analyses of Bridges and Reed Tool, noting their focus on whether the actors intended to cause injury. Id. at 324. Applying that focus to the plaintiffs' allegation that the officer intended to bump the decedent's motorcycle-and being unable to infer an intent to injure from that act-the court found that the plaintiffs' claims did not arise from an intentional tort. Id. at 325.
+
+Under both lines of cases, we find that the Williamses' claims allege an intentional tort and that section 101.057 applies to except the claims from the TTCA's waiver of sovereign immunity. Plainly, under the Petta line of cases, the Williamses have alleged claims that “arise out” of the officers' use of force-repeated Tasering-against the decedent, which allege the intentional tort of assault. “ ‘There is, properly speaking, no such thing as a negligent assault.’ ” Medrano, 989 S.W.2d at 145 n. 2 (quoting W. Page Keeton, et al., Prosser and Keeton on The Law of Torts, § 10, at 46 (5th ed.1984)); see also Tarrant County Hosp. Dist. v. Henry, 52 S.W.3d 434, 441 (Tex.App.-Fort Worth 2001, no pet.) (“The plaintiff must allege facts that, if true, would support a negligence claim apart from a claim for an intentional tort.”).
+
+If we were to apply the Reed Tool/Durbin line of cases, we would infer from the act of Tasering an intent to cause an injury that is more than mere offensive touching. An intentional tort requires a specific intent to inflict injury, Reed Tool, 689 S.W.2d at 406, but an actor need not intend the specific injury complained of for an intentional tort to be committed. See Texas State Technical College v. Wehba, 2006 WL 572022, at *2 (Tex.App.-Eastland Mar.9, 2006, no pet. h.) (mem. op.). Although the officers may not have intended the result-Mr. Williams's death-the pleadings allege that they did intentionally shoot him repeatedly with Tasers, and we would infer from their acts that they did intend an injury that is more than mere offensive touching. We sustain Waco's first and second issues.
+
+In issues three and four, Waco asserts that the Williamses' claims of negligent implementation of policy and negligent training fail because the TTCA does not waive sovereign immunity for its exercise of discretionary powers and for claims arising from the method of providing police protection.
+
+Although the Tort Claims Act waives sovereign immunity for claims that an officer negligently carried out governmental policy, Petta, 44 S.W.3d at 580, the negligent implementation theory of liability does not itself waive immunity. Guadalupe-Blanco River Auth. v. Pitonyak, 84 S.W.3d 326, 342 (Tex.App.-Corpus Christi 2002, no pet.). It arises only after a plaintiff has established a waiver of immunity under some other provision of the Texas Tort Claims Act. Id. Accordingly, a plaintiff has to state a waiver of immunity under some provision of section 101.021 of the civil practice and remedies code before she can invoke a claim of negligent implementation of policy.
+
+Rivera, 146 S.W.3d at 338. A claim of negligent training also does not state a claim under the TTCA because it does not allege an injury resulting from the “condition or use of tangible personal or real property.” Id. at 338-39 (citing Petta, 44 S.W.3d at 580); see Nuno, 94 S.W.3d at 789-90. The trial court erred in not granting Waco's plea to the jurisdiction on the Williamses' claims for negligent implementation of policy and negligent training; they have not shown a waiver of sovereign immunity under the TTCA. We sustain issues three and four.
+
+We need not address issue five, as the Williamses concede they are not suing Waco for strict products liability.
+
+Conclusion
+
+We reverse the trial court's denial of Waco's plea to the jurisdiction and dismiss the case against the City of Waco. Tex.R.App. P. 43.2.
+
+According to the lead opinion, the City of Waco's immunity from suit is not waived because the Williamses' petition alleges only an intentional tort. Because I believe Texas law requires that a person intend to cause injury to be liable for an intentional tort and because the Williamses allege the commission of a reckless assault (which is not an intentional tort), I respectfully dissent.
+
+When we review an order granting or denying a plea to the jurisdiction, “[w]e construe the pleadings liberally in favor of the plaintiffs and look to the pleaders' intent.” Tex. Dep't of Parks & Wildlife v. Miranda, 133 S.W.3d 217, 226 (Tex.2004). “We indulge every reasonable inference and resolve any doubts in the [plaintiffs'] favor.” Id. at 228.
+
+Under the Texas Tort Claims Act, there is no waiver of immunity for any claim “arising out of assault, battery, false imprisonment, or any other intentional tort.” See Tex. Civ. Prac. & Rem.Code Ann. § 101.057(2) (Vernon 2005). This exclusion applies only to intentional torts. See id.; Delaney v. Univ. of Houston, 835 S.W.2d 56, 59 (Tex.1992); Harris County v. Cabazos, 177 S.W.3d 105, 109 (Tex.App.-Houston [1st Dist.] 2005, no pet.); Durbin v. City of Winnsboro, 135 S.W.3d 317, 322 (Tex.App.-Texarkana 2004, pet. denied); Tarrant County Hosp. Dist. v. Henry, 52 S.W.3d 434, 441 (Tex.App.-Fort Worth 2001, no pet.).
+
+There are two lines of authority regarding the intent required to invoke the intentional tort exclusion of section 101.057(2). The first of these relies primarily on a workers' compensation decision by the Supreme Court, Reed Tool Co. v. Copelin. 689 S.W.2d 404 (Tex.1985). In Reed Tool, the Supreme Court addressed what is required to establish an “intentional injury” for which the Texas Workers' Compensation Act does not provide the exclusive remedy. Id. at 406. Although the Court used the term “intentional injury” rather than “intentional tort,” its subsequent decision in Medina v. Herrera indicates that the Court was defining “intentional torts” for this purpose. 927 S.W.2d 597, 600 (Tex.1996) (“Middleton and its progeny [including Reed Tool ] clearly remove from the Act's coverage intentional torts attributable directly to an employer”).
+
+Citing section 8A of the Restatement (Second) of Torts, the Court observed:
+
+The fundamental difference between negligent injury, or even grossly negligent injury, and intentional injury is the specific intent to inflict injury. The Restatement Second of Torts defines intent to mean that “the actor desires to cause consequences of his act, or that he believes that the consequences are substantially certain to result from it.”
+
+Reed Tool, 689 S.W.2d at 406 (quoting Restatement (Second) of Torts § 8A (1965)).
+
+Section 8A provides, “The word ‘intent’ is used throughout the Restatement of this Subject to denote that the actor desires to cause consequences of his act, or that he believes that the consequences are substantially certain to result from it.” Restatement (Second) of Torts § 8A. Comment b further elaborates:
+
+All consequences which the actor desires to bring about are intended, as the word is used in this Restatement. Intent is not, however, limited to consequences which are desired. If the actor knows that the consequences are certain, or substantially certain, to result from his act, and still goes ahead, he is treated by the law as if he had in fact desired to produce the result. As the probability that the consequences will follow decreases, and becomes less than substantial certainty, the actor's conduct loses the character of intent, and becomes mere recklessness, as defined in § 500. As the probability decreases further, and amounts only to a risk that the result will follow, it becomes ordinary negligence, as defined in § 282. All three have their important place in the law of torts, but the liability attached to them will differ.
+
+Id. cmt. b.
+
+The Restatement also provides an illustration which, I believe, is helpful in resolving the issue presented.
+
+On a curve in a narrow highway A, without any desire to injure B, or belief that he is substantially certain to do so, recklessly drives his automobile in an attempt to pass B's car. As a result of this recklessness, A crashes into B's car, injuring B. A is subject to liability to B for his reckless conduct, but is not liable to B for any intentional tort.
+
+Id. illus. 2 (emphasis added).
+
+Applying the reasoning of the Restatement, the Court in Reed Tool held that the failure to provide a safe workplace does not rise to the level of an intentional tort unless “the employer believes its conduct is substantially certain to cause the injury.” See Reed Tool, 689 S.W.2d at 407.
+
+At least two courts of appeals have applied this reasoning to determine whether the plaintiffs in the cases before them had alleged intentional torts for which immunity was not waived under section 101.057(2). See Durbin, 135 S.W.3d at 324-25; Bridges v. Robinson, 20 S.W.3d 104, 114 (Tex.App.-Houston [14th Dist.] 2000, no pet.), overruled on other grounds by Telthorster v. Tennell, 92 S.W.3d 457, 464 (Tex.2002). Thus in Durbin, the appellate court held that the plaintiff's allegation that the defendant police officer failed to use reasonable care in operating his patrol car, which struck the decedent's motorcycle, was not an allegation of an intentional tort because there was no allegation that the officer intended to injure or kill the decedent. See Durbin, 135 S.W.3d at 324-25 (citing Reed Tool, 689 S.W.2d at 406).
+
+Similarly in Bridges, the appellate court held that the allegation that the defendant officers “negligently employed hogtie restraints” was not an allegation of an intentional tort because there was no allegation or evidence that the officers intended to injure or kill the decedent. See Bridges, 20 S.W.3d at 114 (citing Reed Tool ).
+
+Conversely, in Texas Department of Public Safety v. Petta and similar cases, appellate courts have held that the plaintiffs in those cases alleged intentional torts, even if their claims were nominally framed as negligence claims. 44 S.W.3d 575, 580-81 (Tex.2001).
+
+Petta involved a confrontation between a motorist, Petta, who disputed the basis for a traffic stop and the officer, Rivera. Id. at 577.
+
+Rivera tried to open the door and started yelling obscenities at her. The incident escalated as he began beating the window with his nightstick and threatening to break the glass. At this point, Rivera stopped and called a tow truck and moved his cruiser in front of her car, but she pulled around him, apparently then stopping. Rivera again approached her window and ordered her to get out. When she again refused, Rivera allegedly aimed his handgun at her and threatened to kill her. Petta then fled in her car, and Rivera pursued. During the course of the pursuit, Rivera shot at her tires more than once. He also aimed his shotgun at her while he was driving, but a civilian observer in Rivera's cruiser, James Cleland, took the shotgun away.
+
+Id. at 577-78.
+
+The Supreme Court held, “The specific conduct-hitting the window, calling a tow truck, aiming the gun, blocking Petta in with the cruiser, and firing at Petta's tires-is clearly intentional.” Id. at 580. The Court did not address whether the officer intended to injure Petta. However, as the court observed in Durbin, intent to injure could be readily inferred from the officer's conduct. See Durbin, 135 S.W.3d at 324-25.
+
+In other cases following Petta, including one relied on by the City of Waco, the appellate courts considered not only whether the officers in those cases had engaged in intentional conduct but also whether they intended to injure the plaintiffs. See Cabazos, 177 S.W.3d at 111-13; Pineda v. City of Houston, 175 S.W.3d 276, 282-83 (Tex.App.-Houston [1st Dist.] 2004, no pet.); Eastland County Coop. Dispatch v. Poyner, 64 S.W.3d 182, 199 (Tex.App.-Eastland 2001, pet. denied). Each of these cases (and Petta ) involved an officer's use of a firearm. See Petta, 44 S.W.3d at 578; Cabazos, 177 S.W.3d at 111; Pineda, 175 S.W.3d at 278; Poyner, 64 S.W.3d at 189. The only reasonable inference to be drawn from the use of a firearm is that the shooter intends to injure or kill. See Durbin, 135 S.W.3d at 324-25; see also Miranda, 133 S.W.3d at 228 (in reviewing a ruling on a plea to the jurisdiction, “[w]e indulge every reasonable inference” in favor of the plaintiff).
+
+Further support exists for the Durbin approach in the criminal law, which Texas courts have long recognized establishes the same elements for assault as the civil law. See Hall v. Sonic Drive-In of Angleton, Inc., 177 S.W.3d 636, 649 (Tex.App.-Houston [1st Dist.] 2005, pet. denied); Baribeau v. Gustafson, 107 S.W.3d 52, 60 (Tex.App.-San Antonio 2003, pet. denied); Hogenson v. Williams, 542 S.W.2d 456, 458 (Tex.Civ.App.-Texarkana 1976, no writ); Tex. Bus Lines v. Anderson, 233 S.W.2d 961, 964 (Tex.Civ.App.-Galveston 1950, writ ref'd n.r.e.).
+
+Under the criminal law, assault is a result-oriented crime. Ford v. State, 38 S.W.3d 836, 844 (Tex.App.-Houston [14th Dist.] 2001, pet. ref'd); Juneau v. State, 49 S.W.3d 387, 392 (Tex.App.-Fort Worth 2000, pet. ref'd). Thus, “it is not enough for the State to prove that the defendant engaged in conduct with the requisite criminal intent, the State must also prove that the appellant caused the result with the requisite criminal intent.” Ford, 38 S.W.3d at 844 (citing Cook v. State, 884 S.W.2d 485, 490 (Tex.Crim.App.1994)).
+
+For these reasons, I believe that Durbin and similar cases correctly hold that an intentional tort is committed only when the actor intends to cause injury. Construing the pleadings liberally and indulging all reasonable inferences in the Williamses' favor, I would hold that the Williamses do not allege that the officers committed an intentional tort because they do not allege that the officers intended to injure the decedent.
+
+Finally, even assuming that “[t]here is, properly speaking, no such thing as negligent assault,” the Williamses allege that the officers acted recklessly. An assault can be committed recklessly. See Hall, 177 S.W.3d at 649-50; Baribeau, 107 S.W.3d at 60-61. The section 101.057(2) exclusion applies only to intentional torts. See Tex. Civ. Prac. & Rem.Code Ann. § 101.057(2); Delaney, 835 S.W.2d at 59; Cabazos, 177 S.W.3d at 109; Durbin, 135 S.W.3d at 322; Henry, 52 S.W.3d at 441. A reckless assault, by definition, is not an intentional tort. See Karnes City v. Kendall, 172 S.W.3d 624, 629 (Tex.App.-San Antonio 2005, pet. denied); Monk v. Phillips, 983 S.W.2d 323, 325 (Tex.App.-Fort Worth 1998, pet. denied); see also Standard Fruit & Vegetable Co. v. Johnson, 985 S.W.2d 62, 65-68 (Tex.1998); Restatement (Second) of TortsS § 8A, cmt. b.
+
+Thus, even assuming the Williamses allege the commission of an intentional tort, because they also allege the commission of a reckless assault, their lawsuit should be permitted to proceed. See Delaney, 835 S.W.2d at 60; Henry, 52 S.W.3d at 441.
+
+Today, a majority of the Court reverses the trial court's denial of the City of Waco's plea to the jurisdiction and in effect renders judgment that the City is immune from suit. For the reasons stated, I respectfully dissent.
+
+OPINION1
+
+Robert Earl Williams, Jr., and Maggie Williams Walton (“the Williamses”) brought wrongful death and survival actions against the City of Waco and other defendants for the death of the Williamses' father, Robert Earl Williams, Sr. The suit was to determine whether Mr. Williams's death was the result of the use of Taser weapons by Waco police officers. The City filed a plea to the jurisdiction, premised upon sovereign immunity. The trial court overruled the plea. The City appeals. We reverse and render.
+
+The Pleadings
+
+The Williamses plead their cause of action against the City as follows, in relevant part:
+
+22. The City of Waco may be held to answer in a court of law for the occurrence herein described because the Plaintiffs' claims arise from the use of tangible personal property by Defendant, so that sovereign immunity is waived under the Texas Tort Claims Act.․
+
+․
+
+24. Robert Earl Williams, Sr. died as a direct and proximate result of the negligence of the City of Waco and its agents, servants, and officers, including in the following particulars: furnishing and use of tangible personal property (Tasers) that were defective, inadequate, and lacking integral safety component(s); negligent implementation of a policy concerning the use of tangible personal property (Tasers); the improper, negligent, careless and reckless use of inappropriate tangible personal property; and undertaking to train and instruct the officers involved in the use of Tasers, but then acting negligently in implementing its policies by failing to adequately train and supervise those officers on the appropriate use of Tasers.
+
+(C.R. 30-31.)
+
+The Issues
+
+The City raises five issues. In the City's first issue, it argues generally that the Williamses do not plead a cause of action for which sovereign immunity is waived. In the City's second, third, and fourth issues, it argues specifically that the Williamses' claims concerning the use of weapons fall within exceptions to the waiver of sovereign immunity. In the City's fifth issue, it argues specifically that some of the Williamses' claims do not come within the waiver of sovereign immunity.
+
+Sovereign Immunity
+
+“Sovereign immunity to suit is waived and abolished to the extent of liability created by” the Texas Tort Claims Act. Tex. Civ. Prac. & Rem.Code Ann. § 101.025(a) (Vernon 2005); see id. §§ 101.001-101.109 (Vernon 2005 & Supp.2006); Univ. of Tex. Sw. Med. Ctr. v. Loutzenhiser, 140 S.W.3d 351, 353 (Tex.2004). Under the Act, “A governmental unit in the state is liable for ․ personal injury or death ․ caused by a condition or use of tangible personal ․ property if the governmental unit would, if it were a private person, be liable to the claimant according to Texas law.” Tex. Civ. Prac. & Rem.Code Ann. § 101.021 (Vernon 2005).
+
+In a suit against a governmental unit, the plaintiff must affirmatively demonstrate the court's jurisdiction by alleging a valid waiver of immunity. To determine if the plaintiff has met that burden, “we consider the facts alleged by the plaintiff and, to the extent it is relevant to the jurisdictional issue, the evidence submitted by the parties.”
+
+Dallas Area Rapid Transit v. Whitley, 104 S.W.3d 540, 542 (Tex.2003) (quoting Tex. Natural Res. Conservation Comm'n v. White, 46 S.W.3d 864, 868 (Tex.2001)) (internal citations omitted). “[I]f a plea to the jurisdiction is directed only to the plaintiff's pleadings, we construe them in the plaintiff's favor․” Tex. Dep't of Parks & Wildlife v. Miranda, 133 S.W.3d 217, 244 (Tex.2004).
+
+“If a plaintiff has been provided a reasonable opportunity to amend after a governmental entity files its plea to the jurisdiction, and the plaintiff's amended pleading still does not allege facts that would constitute a waiver of immunity, then the trial court should dismiss the plaintiff's action. Such a dismissal is with prejudice․” Harris County v. Sykes, 136 S.W.3d 635, 639 (Tex.2004). After the City filed its plea, the Williamses filed an amended petition.
+
+In the Williamses' amended petition, they pleaded factually as to the City:
+
+2. ․ Decedent, Robert Earl Williams, Sr., was killed by multiple electric shocks from Tasers wielded by Waco police officers.․
+
+․
+
+7. ․ Waco police responded to a call made by Mr. Williams' sister, complaining that Decedent would not leave her property. ․ As Mr. Williams attempted to walk back towards his sister's house, the officers tackled him, pushing and dragging him to the ground.․
+
+8. Suddenly and without provocation, four officers at the scene stood over Mr. Williams as he lay helpless on the ground and negligently began repeatedly shooting him with Tasers, shocking him over and over with 50,000 volts of electricity. Each of the shooting officers negligently held the Taser triggers for various durations, all the while causing a continuous current to surge through Mr. Williams' body. While an initial Taser blast is designed to last five seconds, subsequent blasts can last as long as officers hold down the triggers.
+
+․
+
+10. ․ [T]he officers eventually stopped shooting [Williams] with their Tasers. As [Williams] lay on the ground ․, his breathing grew more labored, and he passed out. Mr. Williams had stopped breathing by the time the ambulance arrived and medical personnel's efforts to revive him proved fruitless.․
+
+․
+
+12. The official autopsy report stated that Decedent's death was a homicide, caused by “multiple electrical shocks during attempted restraint by police.” ․
+
+(C.R. 24-27 (bracketed alterations added).)
+
+Intentional-Tort Exception3
+
+In the City's second issue, the City argues that the Williamses' claim falls within the intentional-tort exception to the waiver of sovereign immunity. Among the exceptions to the waiver of sovereign immunity is that the Tort Claims Act “does not apply to a claim ․ arising out of assault, battery, ․ or any other intentional tort․” Tex. Civ. Prac. & Rem.Code Ann. § 101.057 (Vernon 2005); see Delaney v. Univ. of Houston, 835 S.W.2d 56, 59 (Tex.1992); Watson v. Dallas Indep. Sch. Dist., 135 S.W.3d 208, 219 (Tex.App.-Waco 2004, no pet.).
+
+“[T]he intentional tort exception c[an]not be circumvented merely by alleging that the government was negligent․” Delaney, 835 S.W.2d at 60; accord Harris County v. Cabazos, 177 S.W.3d 105, 111 (Tex.App.-Houston [1st Dist.] 2005, no pet.); Tarrant County Hosp. Dist. v. Henry, 52 S.W.3d 434, 441 (Tex.App.-Fort Worth 2001, no pet.). “If a plaintiff pleads facts which amount to an intentional tort, no matter if the claim is framed as negligence, the claim generally is for an intentional tort and is barred by the” Tort Claims Act. Cabazos at 111.
+
+“[T]he elements for a civil assault are the same as for a criminal assault.” Hailey v. State, 50 S.W.3d 636, 640 (Tex.App.-Waco 2001), rev'd on other grounds, 87 S.W.3d 118 (Tex.Crim.App.2002) (Hailey, 50 S.W.3d 636 citing Wal-Mart Stores, Inc. v. Odem, 929 S.W.2d 513, 522 (Tex.App.-San Antonio 1996, writ denied)); accord Morgan v. City of Alvin, 175 S.W.3d 408, 418 (Tex.App.-Houston [1st Dist.] 2004, no pet.). Under the Texas Penal Code, “[a] person commits an assault if he ‘intentionally or knowingly causes physical contact with another when the person knows or should reasonably believe that the other will regard the contact as offensive or provocative.’ ” Green v. Indus. Specialty Contractors, Inc., 1 S.W.3d 126, 134 (Tex.App.-Houston [1st Dist.] 1999, no pet.) (quoting Tex. Penal Code Ann. § 22.01(a)(3) (Vernon [Supp.2006] )).
+
+In the City's second issue, the City does not contend that the Williamses failed to plead a use of tangible personal property. The City argues, rather, that the officers' use of the weapons, as alleged by the Williamses, constituted assault. The Williamses alleged that the officers “negligently began repeatedly shooting [Robert Williams, Sr.] with Tasers, shocking him over and over with 50,000 volts of electricity,” and that “[e]ach of the shooting officers negligently held the Taser triggers for various durations, all the while causing a continuous current to surge through Mr. Williams' body.” Under the facts pleaded, though the facts being couched in terms of negligence, the officers intended physical contact with Williams which the officers would have reasonably believed that Williams would regard as offensive, and thus the officers committed assault on him.
+
+The Williamses argue that they did not allege that “the officers intended to kill, or even seriously injure,” Robert Williams, Sr. (Br. at 12.) The officers did, however, assault Williams.
+
+Since the officers assaulted Robert Williams, Sr., their conduct falls within the assault exception to the waiver of sovereign immunity. We sustain the City's second issue. Having sustained the City's second issue, we need not consider the City's third or fourth issues, concerning other exceptions to the waiver of sovereign immunity.
+
+Supervision and Training or Product Liability
+
+In the City's fifth issue, the City argues that the Williamses bring claims for negligent supervision and training and for product liability, and that the Tort Claims Act does not waive sovereign immunity for such claims. The Act does not waive sovereign immunity for negligent supervision and training. “[A]llegations of negligent supervision do not satisfy the limited waiver of immunity contained within the” Act. Univ. of Tex. Health Sci. Ctr. v. Schroeder, 190 S.W.3d 102, 106 (Tex.App.-Houston [1st Dist.] 2005, no pet.); accord City of San Antonio v. Parra, 185 S.W.3d 61, 64 (Tex.App.-San Antonio 2005, no pet.); City of Garland v. Rivera, 146 S.W.3d 334, 338 (Tex.App.-Dallas 2004, no pet.); Gainesville Mem'l Hosp. v. Tomlinson, 48 S.W.3d 511, 514 (Tex.App.-Fort Worth 2001, pet. denied); see Tex. A & M Univ. v. Bishop, 156 S.W.3d 580, 583 (Tex.2005); Tex. Dep't of Pub. Safety v. Petta, 44 S.W.3d 575, 580 (Tex.2001). A negligent-training claim alleges the use of “information,” which “is not tangible personal property, since it is an abstract concept that lacks corporeal, physical, or palpable qualities.” Petta at 580; see Tex. Civ. Prac. & Rem.Code Ann. § 101.021(2).
+
+The Williamses purport to distinguish Petta and Rivera on the grounds that the Williamses allege the negligent use of Tasers rather than of information. Cf. Petta, 44 S.W.3d 575; Rivera, 146 S.W.3d 334. For the reasons stated above, however, the Williamses' claims for the use of the weapons fall within the assault exception to the waiver of sovereign immunity, and thus are barred by the Tort Claims Act. See Rivera at 338-39.
+
+The Williamses concede that they “have not alleged and are not making a strict products liability claim against the City.” (Br. at 22.) In any case, the Tort Claims Act does not waive immunity for product-liability claims. Nat'l Sports & Spirit, Inc. v. Univ. of N. Tex., 117 S.W.3d 76, 84 (Tex.App.-Fort Worth 2003, no pet.), disapproved of on other grounds, Loutzenhiser, 140 S.W.3d at 364-65; Loyd v. ECO Res., Inc., 956 S.W.2d 110, 125 (Tex.App.-Houston [14th Dist.] 1997, no pet.).
+
+The Tort Claims Act does not waive sovereign immunity for negligent-supervision and product-liability claims. We sustain the City's fifth issue.
+
+CONCLUSION
+
+Having sustained the City's specific second and fifth issues, we sustain the City's general first issue.
+
+We reverse and render judgment that the Williamses' suit against the City is dismissed with prejudice.
+
+FOOTNOTES
+
+. “A ‘taser’ is an electronic device used to subdue violent or aggressive individuals. By pressing a lever, a high voltage electrical current is transmitted through a wire to the target.” Nicholson v. Kent County Sheriff's Dept., 839 F.Supp. 508, 515, n. 4 (W.D.Mich.1993). Taser darts are “designed to stun a combative suspect.” Koon v. United States, 518 U.S. 81, 86, 116 S.Ct. 2035, 2041, 135 L.Ed.2d 392 (1996). Another court described a taser gun as follows:[A] taser gun is a Conducted Energy Weapon that uses propelled wire to conduct energy to a remote target, thereby controlling and overriding the body's central nervous system. The taser gun fires two probes up to a distance of twenty-one feet from a replaceable cartridge. These probes are connected to the taser gun by high-voltage insulated wire. When the probes make contact with the target, the taser gun transmits electrical pulses along the wires and into the body of the target, through up to two inches of clothing.Draper v. Reynolds, 369 F.3d 1270, 1273 n. 3 (11th Cir.), cert. denied, 543 U.S. 988, 125 S.Ct. 507, 160 L.Ed.2d 373 (2004).
+
+. We express no opinion about the merits of the claim.
+
+. The Williamses have also sued Taser International, Inc. for products liability and Jerry R. Staton for negligent training of Waco police officers in the use of Tasers.
+
+. Federal courts in Texas have applied the same analysis in finding no waiver of immunity. See, e.g., Gonzales v. City of Corpus Christi, 2005 WL 3058168, at *11-12 (S.D.Tex. Nov.9, 2005) (despite claim of alleged misuse of handcuffs and leg irons, “all of plaintiff's damages arise out of the claimed instance of excessive force”); Holland v. City of Houston, 41 F.Supp.2d 678, 713 (S.D.Tex.1999) (“Where the essence of a claim under the TTCA arises from an intentional tort, allegations of negligence are insufficient to avoid the § 101.057 exception to liability.”); Huong v. City of Port Arthur, 961 F.Supp. 1003, 1008-09 (E.D.Tex.1997) (“Plaintiffs cannot circumvent the intentional tort exception to waiver of municipal liability by simply pleading negligence when the shooting event upon which they base their claims is actually an intentional tort.”).
+
+. The supreme court has since held that a court deciding a plea to the jurisdiction is not required to look solely to the pleadings, but may consider evidence and must do so when necessary to resolve the jurisdictional issue raised. Texas Dep't Parks & Wildlife v. Miranda, 133 S.W.3d 217, 223-24 (Tex.2004); Bland ISD v. Blue, 34 S.W.3d 547, 554-55 (Tex.2000).
+
+. In Reed Tool Co. v. Copelin, 689 S.W.2d 404 (Tex.1985), the plaintiff sued her husband's employer for loss of consortium for injuries he had sustained on the job. Reed Tool contended the suit was barred by the Workers' Compensation Act; the plaintiff alleged her suit was not barred under the Act's intentional-injury exception because Reed Tool had intentionally caused her husband's injury by requiring him to operate a machine that Reed Tool knew was unsafe. Noting the fundamental difference between a negligent injury and intentional injury is the specific intent to inflict injury, the court held that the intentional failure to furnish a safe place to work does not rise to the level of intentional injury except when the employer believes its conduct is substantially certain to cause the injury. Id. at 406-07.
+
+. The elements of assault are the same in both civil and criminal cases. Morgan v. City of Alvin, 175 S.W.3d 408, 418 (Tex.App.-Houston [1st Dist.] 2004, no pet.) (citing Forbes v. Lanzl, 9 S.W.3d 895, 899 (Tex.App.-Austin 2000, pet. denied)). A person commits an assault by (1) intentionally, knowingly, or recklessly causing bodily injury to another; (2) intentionally or knowingly threatening another with imminent bodily injury; or (3) intentionally or knowingly causing physical contact with another when the person knows or should reasonably believe that the other will regard the contact as offensive or provocative. Id. (citing Tex. Pen.Code Ann. § 22.01 (Vernon 2004); Forbes, 9 S.W.3d at 900; Wal-Mart Stores, Inc. v. Odem, 929 S.W.2d 513, 522 (Tex.App.-San Antonio 1996, pet. denied)). “Bodily injury” means “physical pain, illness, or any impairment of physical condition”; it is a broad term encompassing even relatively minor physical contacts so long as they constitute more than mere offensive touching. Forbes, 9 S.W.3d at 900 (quoting Tex. Pen.Code Ann. § 1.07(a)(8)).
+
+. We believe the Petta analysis is the better approach.
+
+. The Williamses candidly concede an assault in their brief, acknowledging that the officers “certainly intended to cause contact between the Taser prongs and Mr. Williams' body,” yet denying that they allege the officers “intended to kill, or even seriously injury, Mr. Williams.” (Brief of Appellees, at 12). They also describe Tasers as “providing no greater effect than a skin-level shock which briefly incapacitates muscles.” (Id. at 11). The Williamses also factually pled assault, alleging that the officers tackled Mr. Williams and then “negligently began shooting him with Tasers, shocking him over and over with 50,000 volts of electricity.” The Williamses pled that Mr. Williams “was killed by multiple electric shocks from Tasers wielded by Waco police officers,” and they quoted from the autopsy report, which termed his death a homicide caused by “multiple electrical shocks during attempted restraint by police.”
+
+. Although neither the current nor former versions of the Workers' Compensation Act “expressly exclud[e] coverage for an injury resulting from an employer's intentional tort,” the Supreme Court has long held “that an employee's claim for workers' compensation and his or her claim against the employer at common law for intentional tort are mutually exclusive.” Medina v. Herrera, 927 S.W.2d 597, 600 (Tex.1996). Thus, an election to pursue one of these remedies will bar any subsequent effort to pursue the other. Id. at 605.
+
+. The Williamses allege, among other things, that the officers engaged in the “negligent, careless, and reckless use” of the Tasers.
+
+. A judgment was entered in this case on October 18, 2006. I agreed with the judgment but I did not join Justice Vance's plurality opinion containing, as it does, much dicta and extraneous matter. Historically, when the justices on this Court have split in three different directions, we have designated one opinion as “lead opinion,” designated the other opinion that agreed with the judgment as a “concurring opinion,” and designated the other opinion that did not agree with the judgment as a “dissenting opinion.” Justice Vance refused to denominate his opinion as anything other than an “opinion” and contends that it is the opinion of the Court. It is not. In such a situation as this, where no opinion receives a majority of the votes of the justices on the Court, it is only a plurality opinion. The parties were notified on October 19, 2006, that, contrary to the opinion dated October 18, 2006, I would issue an opinion in this appeal. This opinion is intended to be “no longer than necessary to advise the parties of the court's decision and the basic reasons for it.” See Tex.R.App. P. 47.4.
+
+. The Williamses allege the use of “Tasers” manufactured by co-defendant Taser International, Inc. According to the TASER International web site, “TASER devices are generically known as electronic control devices,” and are “conductive energy device[s].” TASER Int'l, TASER Technology Summary with Q & As, http://​www.​taser.​com/​facts/​qa.​htm (last visited Oct. 27, 2006).TASER devices utilize compressed nitrogen to project two small probes ․ at a speed of over 160 feet per second. These probes are connected to the TASER device by insulated wire. An electrical signal is transmitted through the wires to where the probes make contact with the body or clothing, resulting in an immediate loss of the person's neuromuscular control and the ability to perform coordinated action for the duration of the impulse.Id.
+
+. We will leave for another day what may be a subtle distinction in our review between (1) pleading a claim under the provisions for waiver of sovereign immunity which is not excepted by another provision of the Tort Claims Act and (2) pleading a waiver and simultaneously negating the application of an exception to that waiver. In this appeal, no party has argued that the failure to negate the application of an exception is reviewed as anything other than a failure to plead a claim within the scope of the waiver.
+
+. As a practical method of how to conduct such a review, it is often helpful to simply ignore the use of the term “negligence” in the pleading. The remaining allegations can then be reviewed and classified as either an allegation of failing to act as a reasonable person or an allegation of conduct that would fall within an exception.
+
+. The Williamses also argue that they: “are not claiming that [the City]'s policy was negligently formulated. Instead, the negligence arises from the implementation of that policy.” (Br. at 20 (emphasis in orig.)) (citing City of San Augustine v. Parrish, 10 S.W.3d 734, 740 (Tex.App.-Tyler 1999, pet. dism'd w.o.j.)). Parrish is distinguishable. Parrish concerns the “police-protection” and “discretionary” exceptions to the waiver of sovereign immunity. Parrish, 10 S.W.3d at 740; see Tex. Civ. Prac. & Rem.Code Ann. §§ 101.055(3), 101.056 (Vernon 2005). The City's fifth issue does not concern those exceptions to the waiver, but whether the Williamses' claims come within the waiver at all.
+
+BILL VANCE, Justice.
+
+Chief Justice GRAY concurs in the judgment only, without a separate opinion. Justice REYNA dissenting.

@@ -1,0 +1,3 @@
+Welcome to the Boulder County Sheriff’s Office on-line incident reporting service.
+
+This service should only be used to report non-emergencies and non-violent crimes with no suspect information or leads, which occurred within the unincorporated County of Boulder or within the limits of the Town of Superior, Town of Nederland, or Town of Lyons. Unincorporated Boulder County would be anything within the county lines, but outside the boundaries of a municipality (Longmont, Boulder, Louisville, etc).

@@ -1,0 +1,40 @@
+text,label,fe_id
+Mo.,GPE,30134
+St. Peters,GPE,30134
+Lincoln County,GPE,30134
+Thursday,DATE,30134
+night,TIME,30134
+St. Peters,ORG,30134
+one,CARDINAL,30134
+3000,CARDINAL,30134
+A Blue Alert,PRODUCT,30134
+St. Peters,GPE,30134
+a Blue Chevy,ORG,30134
+Trailblazer,PRODUCT,30134
+Missouri,GPE,30134
+5SAY50,CARDINAL,30134
+A Blue Alert,PRODUCT,30134
+The Lincoln County Sheriff's Department,ORG,30134
+Lincoln County,GPE,30134
+Friday,DATE,30134
+Joe Robideau,PERSON,30134
+21,DATE,30134
+Troy,GPE,30134
+Robideau,PERSON,30134
+2600,CARDINAL,30134
+Meyers Road,FAC,30134
+Robideau,PERSON,30134
+first,ORDINAL,30134
+one,CARDINAL,30134
+two,CARDINAL,30134
+Robideau,PERSON,30134
+Robideau,PERSON,30134
+two,CARDINAL,30134
+the Missouri State Highway Patrol,ORG,30134
+Peters,PERSON,30134
+41-year-old,DATE,30134
+St. Peters Police Department,ORG,30134
+less than a year,DATE,30134
+Eastern Missouri Police Academy,ORG,30134
+this evening,TIME,30134
+around 8:30 p.m.,TIME,30134

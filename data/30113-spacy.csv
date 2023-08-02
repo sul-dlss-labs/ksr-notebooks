@@ -1,0 +1,31 @@
+text,label,fe_id
+Homewood,GPE,30113
+Tuesday,DATE,30113
+42-year-old,DATE,30113
+Homewood,ORG,30113
+two,CARDINAL,30113
+UAB Hospital,ORG,30113
+shortly after 6:30 p.m.,TIME,30113
+Vestavia Hills,GPE,30113
+I-65,PRODUCT,30113
+Alford Avenue,FAC,30113
+I-65,PRODUCT,30113
+Vestavia,GPE,30113
+I-65,PRODUCT,30113
+Lakeshore Parkway,FAC,30113
+VHPD,ORG,30113
+first,ORDINAL,30113
+Homewood,GPE,30113
+John Carr,PERSON,30113
+Homewood,GPE,30113
+Vestavia,GPE,30113
+Jeep,ORG,30113
+two,CARDINAL,30113
+Lakeshore,GPE,30113
+Carr,PERSON,30113
+Homewood,GPE,30113
+The Vestavia Hills Police Department,ORG,30113
+Homewood,GPE,30113
+Howard Koplowitz,PERSON,30113
+Vestavia Hills,GPE,30113
+Homewood,GPE,30113

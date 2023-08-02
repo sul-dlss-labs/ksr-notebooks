@@ -1,0 +1,52 @@
+text,label,fe_id
+Thursday,DATE,25713
+night,TIME,25713
+fewer than two hours,TIME,25713
+600,CARDINAL,25713
+North Olden Avenue,LOC,25713
+General’s Office,ORG,25713
+42-year-old,DATE,25713
+Jason Williams,PERSON,25713
+Trenton,GPE,25713
+Four,CARDINAL,25713
+Trenton,GPE,25713
+600,CARDINAL,25713
+North Olden Avenue,LOC,25713
+two 911,CARDINAL,25713
+AG,ORG,25713
+Friday,DATE,25713
+Williams,PERSON,25713
+around 10:46 p.m.,TIME,25713
+AG,ORG,25713
+Two,CARDINAL,25713
+Williams,PERSON,25713
+Capital Health Regional Medical Center,ORG,25713
+BB,GPE,25713
+about 90 minutes,TIME,25713
+Trenton,GPE,25713
+600,CARDINAL,25713
+Trenton,GPE,25713
+Yusuf Addar,PERSON,25713
+48-year-old,DATE,25713
+Carolyn Sweeney,PERSON,25713
+around 9 p.m.,TIME,25713
+Trenton,GPE,25713
+42-year-old,DATE,25713
+Sweeney,ORG,25713
+Sweeney,ORG,25713
+42-year-old,DATE,25713
+Williams,PERSON,25713
+AG,ORG,25713
+later in the night,TIME,25713
+Sweeney,ORG,25713
+Williams,PERSON,25713
+Williams,PERSON,25713
+One,CARDINAL,25713
+Williams,PERSON,25713
+Two,CARDINAL,25713
+third,ORDINAL,25713
+Williams,PERSON,25713
+Trentonian,NORP,25713
+Williams,PERSON,25713
+All I Know,WORK_OF_ART,25713
+Williams,PERSON,25713

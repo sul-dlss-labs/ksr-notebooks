@@ -1,0 +1,15 @@
+text,label,fe_id
+Oak Park,GPE,23498
+Monday,DATE,23498
+evening,TIME,23498
+about 6:25 p.m.,TIME,23498
+23000,CARDINAL,23498
+Avon,PERSON,23498
+Steve Cooper,PERSON,23498
+Public Safety Department,ORG,23498
+Cooper,PERSON,23498
+48,DATE,23498
+Cooper,PERSON,23498
+One,CARDINAL,23498
+Cooper,PERSON,23498
+The Oakland County Sheriff’s Office,ORG,23498

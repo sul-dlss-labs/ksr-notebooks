@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,2176
+Alabama,GPE,2176
+Alaska,GPE,2176
+Arizona,GPE,2176
+Arkansas,GPE,2176
+California,GPE,2176
+Colorado,GPE,2176
+Connecticut,GPE,2176
+Delaware,GPE,2176
+Florida,GPE,2176
+Georgia,GPE,2176
+Hawaii,GPE,2176
+Idaho,GPE,2176
+Indiana,GPE,2176
+Iowa,GPE,2176
+Kansas,GPE,2176
+Kentucky,GPE,2176
+Louisiana,GPE,2176
+Maine,GPE,2176
+Maryland,GPE,2176
+Massachusetts,GPE,2176
+Michigan,GPE,2176
+Minnesota,GPE,2176
+Mississippi,GPE,2176
+Missouri,GPE,2176
+Montana,GPE,2176
+Nebraska,GPE,2176
+Nevada,GPE,2176
+New Hampshire,GPE,2176
+New Jersey,GPE,2176
+Ohio,GPE,2176
+Oklahoma,GPE,2176
+Oregon,GPE,2176
+Pennsylvania,GPE,2176
+Rhode Island,GPE,2176
+Tennessee,GPE,2176
+Texas,GPE,2176
+Utah,GPE,2176
+Vermont,GPE,2176
+Virginia,GPE,2176
+Washington,GPE,2176
+Washington,GPE,2176
+D.C.,GPE,2176
+Wisconsin,GPE,2176
+Wyoming,GPE,2176
+US,GPE,2176
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,2176
+Marshall Islands American Samoa Federated States,ORG,2176
+Micronesia Guam,FAC,2176
+Alberta,GPE,2176
+Canada,GPE,2176
+British Columbia,GPE,2176
+Canada Manitoba,GPE,2176
+Canada,GPE,2176
+New Brunswick,GPE,2176
+Canada Newfoundland,PERSON,2176
+Canada,GPE,2176
+Canada,GPE,2176
+Canada Ontario,GPE,2176
+Canada,GPE,2176
+Edward Island,GPE,2176
+Canada Quebec,GPE,2176
+Canada,GPE,2176
+Saskatchewan,GPE,2176
+Canada Yukon Territory,ORG,2176
+Canada,GPE,2176
+Zip Code,PERSON,2176

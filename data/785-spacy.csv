@@ -1,0 +1,5 @@
+text,label,fe_id
+Carver Library,FAC,785
+Tuesday,DATE,785
+evening,TIME,785
+10,CARDINAL,785

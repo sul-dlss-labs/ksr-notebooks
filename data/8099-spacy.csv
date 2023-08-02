@@ -1,0 +1,46 @@
+text,label,fe_id
+Three,CARDINAL,8099
+fourth,ORDINAL,8099
+Saturday,DATE,8099
+night,TIME,8099
+Berkeley,GPE,8099
+Oakland,GPE,8099
+Berkeley,GPE,8099
+Cadillac,ORG,8099
+around 6:40 p.m.,TIME,8099
+Oakland,GPE,8099
+Jeff Thomason,PERSON,8099
+today,DATE,8099
+Cadillac,ORG,8099
+Oakland,GPE,8099
+Aileen Street,LOC,8099
+Cadillac,ORG,8099
+Martin Luther King Jr. Way,PERSON,8099
+Thomason,PERSON,8099
+Cadillac,ORG,8099
+Mazda,ORG,8099
+Martin Luther King Jr. Way,PERSON,8099
+Mazda,ORG,8099
+5600,CARDINAL,8099
+Martin Luther King Jr. Way,PERSON,8099
+Thomason,PERSON,8099
+Mazda,ORG,8099
+Martin Luther King Jr. Way,PERSON,8099
+Mazda,ORG,8099
+26-year-old,DATE,8099
+Sunnyvale,GPE,8099
+Thomason,PERSON,8099
+41-year-old,DATE,8099
+Berkeley,ORG,8099
+Mazda,ORG,8099
+Cadillac,ORG,8099
+Lexus,ORG,8099
+Martin Luther King Jr. Way,PERSON,8099
+Thomason,PERSON,8099
+Lexus,ORG,8099
+Cadillac,ORG,8099
+22-year-old,DATE,8099
+San Leandro,GPE,8099
+Berkeley,GPE,8099
+Thomason,PERSON,8099
+three,CARDINAL,8099

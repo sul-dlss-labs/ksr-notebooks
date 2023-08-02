@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9321
+Alabama,GPE,9321
+Alaska,GPE,9321
+Arizona,GPE,9321
+Arkansas,GPE,9321
+California,GPE,9321
+Colorado,GPE,9321
+Connecticut,GPE,9321
+Delaware,GPE,9321
+Florida,GPE,9321
+Georgia,GPE,9321
+Hawaii,GPE,9321
+Idaho,GPE,9321
+Indiana,GPE,9321
+Iowa,GPE,9321
+Kansas,GPE,9321
+Kentucky,GPE,9321
+Louisiana,GPE,9321
+Maine,GPE,9321
+Maryland,GPE,9321
+Massachusetts,GPE,9321
+Michigan,GPE,9321
+Minnesota,GPE,9321
+Mississippi,GPE,9321
+Missouri,GPE,9321
+Montana,GPE,9321
+Nebraska,GPE,9321
+Nevada,GPE,9321
+New Hampshire,GPE,9321
+New Jersey,GPE,9321
+Ohio,GPE,9321
+Oklahoma,GPE,9321
+Oregon,GPE,9321
+Pennsylvania,GPE,9321
+Rhode Island,GPE,9321
+Tennessee,GPE,9321
+Texas,GPE,9321
+Utah,GPE,9321
+Vermont,GPE,9321
+Virginia,GPE,9321
+Washington,GPE,9321
+Washington,GPE,9321
+D.C.,GPE,9321
+Wisconsin,GPE,9321
+Wyoming,GPE,9321
+US,GPE,9321
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9321
+Marshall Islands American Samoa Federated States,ORG,9321
+Micronesia Guam,FAC,9321
+Alberta,GPE,9321
+Canada,GPE,9321
+British Columbia,GPE,9321
+Canada Manitoba,GPE,9321
+Canada,GPE,9321
+New Brunswick,GPE,9321
+Canada Newfoundland,PERSON,9321
+Canada,GPE,9321
+Canada,GPE,9321
+Canada Ontario,GPE,9321
+Canada,GPE,9321
+Edward Island,GPE,9321
+Canada Quebec,GPE,9321
+Canada,GPE,9321
+Saskatchewan,GPE,9321
+Canada Yukon Territory,ORG,9321
+Canada,GPE,9321
+Zip Code,PERSON,9321

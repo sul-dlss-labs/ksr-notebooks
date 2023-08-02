@@ -1,0 +1,33 @@
+text,label,fe_id
+Harlem,LOC,8505
+NYPD,ORG,8505
+last night,TIME,8505
+two,CARDINAL,8505
+6:45 last night,TIME,8505
+one,CARDINAL,8505
+two-year-old,DATE,8505
+Carlton Lewis,PERSON,8505
+21,DATE,8505
+Charles Davis,PERSON,8505
+50,DATE,8505
+Davis,PERSON,8505
+Lewis,PERSON,8505
+six-inch,QUANTITY,8505
+one,CARDINAL,8505
+Davis,PERSON,8505
+Lewis,PERSON,8505
+Post,ORG,8505
+NYPD,ORG,8505
+Paul Browne,PERSON,8505
+the Daily News,ORG,8505
+three,CARDINAL,8505
+Drop,PERSON,8505
+At least five,CARDINAL,8505
+Lewis,PERSON,8505
+three,CARDINAL,8505
+Lewis,PERSON,8505
+Marco Betancourt,PERSON,8505
+Esperanza Ramirez,PERSON,8505
+Betancourt,PERSON,8505
+Lewis,PERSON,8505
+Ramirez,PERSON,8505

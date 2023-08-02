@@ -1,0 +1,34 @@
+text,label,fe_id
+Chamblee Police Department,ORG,31001
+Wednesday,DATE,31001
+morning,TIME,31001
+The Georgia Bureau of Investigation,ORG,31001
+at least one,CARDINAL,31001
+Chamblee,PERSON,31001
+40-year-old,DATE,31001
+Chamblee,PERSON,31001
+Irlin Paz,PERSON,31001
+GBI,ORG,31001
+Paz,PERSON,31001
+Chamblee Heights Apartment Homes,ORG,31001
+136 Wiggins Way,TIME,31001
+The Chamblee Police Department,ORG,31001
+Wednesday,DATE,31001
+morning,TIME,31001
+FOX,ORG,31001
+Atlanta,GPE,31001
+Paz,PERSON,31001
+Grady Memorial Hospital,ORG,31001
+GBI,ORG,31001
+DeKalb County,GPE,31001
+Office,ORG,31001
+72nd,ORDINAL,31001
+GBI,ORG,31001
+this year,DATE,31001
+FOX,ORG,31001
+5,CARDINAL,31001
+Atlanta,GPE,31001
+FOX,ORG,31001
+5,CARDINAL,31001
+Download the FOX 5,WORK_OF_ART,31001
+Atlanta,GPE,31001

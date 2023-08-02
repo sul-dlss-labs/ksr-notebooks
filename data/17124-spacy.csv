@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,17124
+Alabama,GPE,17124
+Alaska,GPE,17124
+Arizona,GPE,17124
+Arkansas,GPE,17124
+California,GPE,17124
+Colorado,GPE,17124
+Connecticut,GPE,17124
+Delaware,GPE,17124
+Florida,GPE,17124
+Georgia,GPE,17124
+Hawaii,GPE,17124
+Idaho,GPE,17124
+Indiana,GPE,17124
+Iowa,GPE,17124
+Kansas,GPE,17124
+Kentucky,GPE,17124
+Louisiana,GPE,17124
+Maine,GPE,17124
+Maryland,GPE,17124
+Massachusetts,GPE,17124
+Michigan,GPE,17124
+Minnesota,GPE,17124
+Mississippi,GPE,17124
+Missouri,GPE,17124
+Montana,GPE,17124
+Nebraska,GPE,17124
+Nevada,GPE,17124
+New Hampshire,GPE,17124
+New Jersey,GPE,17124
+Ohio,GPE,17124
+Oklahoma,GPE,17124
+Oregon,GPE,17124
+Pennsylvania,GPE,17124
+Rhode Island,GPE,17124
+Tennessee,GPE,17124
+Texas,GPE,17124
+Utah,GPE,17124
+Vermont,GPE,17124
+Virginia,GPE,17124
+Washington,GPE,17124
+Washington,GPE,17124
+D.C.,GPE,17124
+Wisconsin,GPE,17124
+Wyoming,GPE,17124
+US,GPE,17124
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,17124
+Marshall Islands American Samoa Federated States,ORG,17124
+Micronesia Guam,FAC,17124
+Alberta,GPE,17124
+Canada,GPE,17124
+British Columbia,GPE,17124
+Canada Manitoba,GPE,17124
+Canada,GPE,17124
+New Brunswick,GPE,17124
+Canada Newfoundland,PERSON,17124
+Canada,GPE,17124
+Canada,GPE,17124
+Canada Ontario,GPE,17124
+Canada,GPE,17124
+Edward Island,GPE,17124
+Canada Quebec,GPE,17124
+Canada,GPE,17124
+Saskatchewan,GPE,17124
+Canada Yukon Territory,ORG,17124
+Canada,GPE,17124
+Zip Code,PERSON,17124

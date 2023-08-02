@@ -1,0 +1,19 @@
+text,label,fe_id
+the middle of the night,DATE,20847
+Ford,ORG,20847
+Rouge,ORG,20847
+over more than 100,CARDINAL,20847
+South Fort Street,LOC,20847
+two,CARDINAL,20847
+Mustangs,GPE,20847
+four,CARDINAL,20847
+two,CARDINAL,20847
+one,CARDINAL,20847
+more than 100 miles,QUANTITY,20847
+Rebecca Tenorio,PERSON,20847
+Wayne County,GPE,20847
+One,CARDINAL,20847
+Denise Jones,PERSON,20847
+35-year-old,DATE,20847
+two,CARDINAL,20847
+less than an hour later,TIME,20847

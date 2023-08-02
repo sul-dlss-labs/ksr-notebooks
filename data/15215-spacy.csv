@@ -1,0 +1,507 @@
+text,label,fe_id
+1,CARDINAL,15215
+the night,TIME,15215
+Jack Jacquez,PERSON,15215
+around 2 a.m.,TIME,15215
+"October 12, 2014",DATE,15215
+two,CARDINAL,15215
+Rocky Ford,PERSON,15215
+Eastern Plains,LOC,15215
+thousands of acres,QUANTITY,15215
+Sweet Melon Capital of the World,WORK_OF_ART,15215
+Jack,PERSON,15215
+Main Street,FAC,15215
+Rocky Ford’s,ORG,15215
+"3,900",CARDINAL,15215
+Jack,PERSON,15215
+27,DATE,15215
+the 1960s,DATE,15215
+one,CARDINAL,15215
+Swink Avenue,FAC,15215
+Third Street,FAC,15215
+one,CARDINAL,15215
+Jack,PERSON,15215
+three,CARDINAL,15215
+Jacquez,LOC,15215
+Jack,PERSON,15215
+one,CARDINAL,15215
+Jack,PERSON,15215
+marijuana,PERSON,15215
+America,GPE,15215
+Jack,PERSON,15215
+the Tank N Tummy,ORG,15215
+Swink,GPE,15215
+Elm,ORG,15215
+Rocky Ford,PERSON,15215
+Highway 50,FAC,15215
+the Arkansas River,LOC,15215
+Kansas,GPE,15215
+Jack,PERSON,15215
+Rocky Ford Officer,PERSON,15215
+James Ashby,PERSON,15215
+Kyle Moore,PERSON,15215
+Rocky Ford,PERSON,15215
+Jack,PERSON,15215
+one,CARDINAL,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+Third,ORDINAL,15215
+Swink,GPE,15215
+Colorado Bureau of Investigation,ORG,15215
+Otero County,GPE,15215
+Rocky Ford,ORG,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Jacquez,PERSON,15215
+Jack,PERSON,15215
+Jack,PERSON,15215
+Coca-Cola,ORG,15215
+china,GPE,15215
+Viola,ORG,15215
+Viola,ORG,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+a few seconds,TIME,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Jack Jacquez,PERSON,15215
+hundreds,CARDINAL,15215
+American,NORP,15215
+2014,DATE,15215
+2015,DATE,15215
+Jack,PERSON,15215
+two months,DATE,15215
+Michael Brown’s,PERSON,15215
+Ferguson,GPE,15215
+Missouri,GPE,15215
+one month,DATE,15215
+12-year-old,DATE,15215
+Tamir Rice’s,PERSON,15215
+Cleveland,GPE,15215
+Brown,PERSON,15215
+the Black Lives Matter,LOC,15215
+Rice,PERSON,15215
+Jack,PERSON,15215
+Colorado,GPE,15215
+Rocky Ford,PERSON,15215
+nightly,DATE,15215
+Ferguson,PERSON,15215
+Rice,PERSON,15215
+Jack,PERSON,15215
+one,CARDINAL,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+21-year-old,DATE,15215
+Mariah Talmich,PERSON,15215
+Otero County,GPE,15215
+16th,ORDINAL,15215
+Judicial District Critical Response Team,ORG,15215
+the Colorado Bureau of Investigation,ORG,15215
+One,CARDINAL,15215
+Viola,ORG,15215
+Viola,ORG,15215
+first,ORDINAL,15215
+Jacquez,PERSON,15215
+Frank Gallegos,PERSON,15215
+Rocky Ford’s,PERSON,15215
+this past summer,DATE,15215
+Friday,DATE,15215
+night,TIME,15215
+Sunday morning,TIME,15215
+Gallegos,GPE,15215
+Viola,ORG,15215
+Jack,PERSON,15215
+Viola,ORG,15215
+six days,DATE,15215
+Around two hundred,CARDINAL,15215
+Rocky Ford,PERSON,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Jack,PERSON,15215
+that night,TIME,15215
+Jack,PERSON,15215
+One month,DATE,15215
+November 2014,DATE,15215
+James Bullock,PERSON,15215
+Ashby,ORG,15215
+second,ORDINAL,15215
+Bullock,ORG,15215
+Rocky Ford,ORG,15215
+Ashby,ORG,15215
+Earlier in the year,TIME,15215
+the Walsenburg Police Department,ORG,15215
+Rocky Ford,ORG,15215
+Ashby,ORG,15215
+Ashby,ORG,15215
+Walsenburg,ORG,15215
+early 2014,DATE,15215
+Ashby,ORG,15215
+Denver Post,ORG,15215
+Ashby,ORG,15215
+Just four months,DATE,15215
+Rocky Ford,PERSON,15215
+Ashby,ORG,15215
+Jacquez,PERSON,15215
+summer,DATE,15215
+more than half,CARDINAL,15215
+Latino,PERSON,15215
+Jack,PERSON,15215
+Ashby,ORG,15215
+Bullock,ORG,15215
+Ashby,ORG,15215
+Viola,ORG,15215
+Jack Jacquez,PERSON,15215
+Officer Ashby,ORG,15215
+Bullock,ORG,15215
+Ashby,ORG,15215
+"June 23, 2016",DATE,15215
+one day,DATE,15215
+Ashby,ORG,15215
+second,ORDINAL,15215
+16 years,DATE,15215
+thousands,CARDINAL,15215
+between 2005 and 2016,DATE,15215
+78,CARDINAL,15215
+27,CARDINAL,15215
+December 2016—14,DATE,15215
+13,CARDINAL,15215
+27,CARDINAL,15215
+Ashby,ORG,15215
+the Rocky Ford Police Department,ORG,15215
+Michael Bethel,PERSON,15215
+Nearly three years,DATE,15215
+$1.3 million,MONEY,15215
+Jack,PERSON,15215
+Rocky Ford,LOC,15215
+early this past summer,DATE,15215
+early July,DATE,15215
+the years,DATE,15215
+Jack,PERSON,15215
+141st,GPE,15215
+annual,DATE,15215
+Arkansas Valley Fair,ORG,15215
+James Ashby,PERSON,15215
+second,ORDINAL,15215
+that night,TIME,15215
+Viola Jacquez’s,ORG,15215
+Every morning,TIME,15215
+the past four years,DATE,15215
+Jack,PERSON,15215
+Rocket,PERSON,15215
+Viola,ORG,15215
+Jack,PERSON,15215
+Today,DATE,15215
+Viola,ORG,15215
+63 years old,DATE,15215
+only 16 years,DATE,15215
+Jack,PERSON,15215
+Rocky Ford,PERSON,15215
+six-foot,QUANTITY,15215
+Viola,ORG,15215
+this year,DATE,15215
+Viola,ORG,15215
+the past four years,DATE,15215
+Jack,PERSON,15215
+marijuana,PERSON,15215
+Jack,PERSON,15215
+marijuana,PERSON,15215
+Colorado,GPE,15215
+Rocky Ford,PERSON,15215
+America,GPE,15215
+Antonio Ulloa,PERSON,15215
+one,CARDINAL,15215
+Jack,PERSON,15215
+Jack,PERSON,15215
+26,DATE,15215
+Jack,PERSON,15215
+three,CARDINAL,15215
+three,CARDINAL,15215
+La Junta,FAC,15215
+Viola,ORG,15215
+Christmas,DATE,15215
+summer,DATE,15215
+Jack,PERSON,15215
+Viola,ORG,15215
+10 feet,QUANTITY,15215
+Ashby,ORG,15215
+first,ORDINAL,15215
+Viola,ORG,15215
+Rocky Ford,PERSON,15215
+one,CARDINAL,15215
+Rocky Ford,PERSON,15215
+two,CARDINAL,15215
+American,NORP,15215
+Main Street,FAC,15215
+Save Rocky Ford,WORK_OF_ART,15215
+Today,DATE,15215
+Rocky Ford’s,PERSON,15215
+Michael Bethel,PERSON,15215
+11 years,DATE,15215
+the Pueblo Police Department,ORG,15215
+Pueblo,FAC,15215
+2006,DATE,15215
+Bethel,PERSON,15215
+Tammy,PERSON,15215
+Pueblo County,GPE,15215
+Bethel,PERSON,15215
+Tammy,PERSON,15215
+Bethel,PERSON,15215
+Bethel,ORG,15215
+Bethel,PERSON,15215
+Bethel,PERSON,15215
+Pueblo Chieftain,ORG,15215
+The City of Pueblo,GPE,15215
+Bethel,ORG,15215
+"20,000",MONEY,15215
+Bethel,PERSON,15215
+Rocky Ford,PERSON,15215
+Bethel,PERSON,15215
+Tammy Bethel,PERSON,15215
+Justin Bethel,PERSON,15215
+the Rocky Ford PD,ORG,15215
+Justin,ORG,15215
+This past April,DATE,15215
+Justin,ORG,15215
+AR-15,PRODUCT,15215
+Justin,ORG,15215
+Justin,ORG,15215
+Justin,ORG,15215
+Bethel,PERSON,15215
+Mickey,PERSON,15215
+Gallegos,PERSON,15215
+Rocky Ford,PERSON,15215
+Bethel,ORG,15215
+Mickey,PERSON,15215
+Rocky Ford,PERSON,15215
+Bethel,ORG,15215
+the Otero County Sheriff’s Office,ORG,15215
+Rocky Ford,PERSON,15215
+Rocky Ford,PERSON,15215
+Mickey,PERSON,15215
+one,CARDINAL,15215
+Said,PERSON,15215
+Rocky Ford’s,PERSON,15215
+Bethel,PERSON,15215
+Jack Jacquez’s,PERSON,15215
+Bethel,PERSON,15215
+11,CARDINAL,15215
+Bethel,PERSON,15215
+City Council,ORG,15215
+this past summer,DATE,15215
+Bethel,PERSON,15215
+Bethel,PERSON,15215
+Bethel’s,ORG,15215
+the past year,DATE,15215
+June,DATE,15215
+two,CARDINAL,15215
+Rocky Ford,ORG,15215
+U.S.,GPE,15215
+District Court,ORG,15215
+Bethel,LOC,15215
+2016,DATE,15215
+August,DATE,15215
+Katherine Benz,PERSON,15215
+Rocky Ford’s,PERSON,15215
+Julie Worley,PERSON,15215
+Rocky Ford’s,ORG,15215
+two,CARDINAL,15215
+Bethel,ORG,15215
+one,CARDINAL,15215
+Bethel,PERSON,15215
+Bent County Sheriff Dave Encinias,PERSON,15215
+Rocky Ford,PERSON,15215
+Bent County,GPE,15215
+Encinias,ORG,15215
+Encinias,ORG,15215
+More than a month,DATE,15215
+late July,DATE,15215
+the Denver Post,ORG,15215
+Bethel,ORG,15215
+Troy Morgan,ORG,15215
+2015,DATE,15215
+the Fowler Police Department,ORG,15215
+2017,DATE,15215
+James Ashby’s,PERSON,15215
+Walsenburg,GPE,15215
+the Colorado General Assembly,ORG,15215
+2016,DATE,15215
+Morgan,ORG,15215
+just eight months,DATE,15215
+Fowler,LOC,15215
+Bethel,ORG,15215
+Rocky Ford,PERSON,15215
+2018,DATE,15215
+Bethel,PERSON,15215
+Morgan,PERSON,15215
+Rocky Ford,ORG,15215
+Post,ORG,15215
+Mickey,PERSON,15215
+Jimmy Sandoval,PERSON,15215
+Rocky Ford’s,PERSON,15215
+the late 1990s,DATE,15215
+Mickey,PERSON,15215
+Mickey,PERSON,15215
+Bethel,PERSON,15215
+one,CARDINAL,15215
+at least eight,CARDINAL,15215
+Bethels,PERSON,15215
+Rocky Ford,PERSON,15215
+Otero County,GPE,15215
+Swink,GPE,15215
+La Junta,GPE,15215
+Bethels,PERSON,15215
+Rocky Ford,PERSON,15215
+December 2016,DATE,15215
+four,CARDINAL,15215
+Nearly two years later,DATE,15215
+ashen shell,PERSON,15215
+this past summer,DATE,15215
+Ray Gonzales,PERSON,15215
+Colorado,GPE,15215
+nearly two years,DATE,15215
+Gonzales,PERSON,15215
+Steve Rabe,PERSON,15215
+the United States,GPE,15215
+Rocky Ford,PERSON,15215
+Ashby,ORG,15215
+Colorado,GPE,15215
+Rocky Ford,PERSON,15215
+Jack Jacquez’s,PERSON,15215
+the Rocky Ford Daily Gazette,ORG,15215
+Rocky Ford’s,ORG,15215
+first,ORDINAL,15215
+J.R. Thompson,PERSON,15215
+City Council,ORG,15215
+Bethel,ORG,15215
+2014,DATE,15215
+James Ashby’s,PERSON,15215
+Walsenburg,GPE,15215
+Colorado,GPE,15215
+KOAA,GPE,15215
+Jack,PERSON,15215
+Gazette,PERSON,15215
+Ashby,ORG,15215
+the Lifesaving Award,WORK_OF_ART,15215
+the Walsenburg City Council,ORG,15215
+"July 4, 2009",DATE,15215
+Susan Pieper,PERSON,15215
+Ashby,ORG,15215
+Pieper,ORG,15215
+Pieper,FAC,15215
+earlier this year,DATE,15215
+City Hall,FAC,15215
+Gazette,PERSON,15215
+Thompson,PERSON,15215
+City Council,ORG,15215
+this summer,DATE,15215
+Rabe,PERSON,15215
+Rocky Ford’s,PERSON,15215
+the City of Rocky Ford,GPE,15215
+a few hours,TIME,15215
+almost 2 hours,TIME,15215
+Bethel,PERSON,15215
+first,ORDINAL,15215
+Rocky Ford,LOC,15215
+an hour later,TIME,15215
+Three days later,DATE,15215
+two,CARDINAL,15215
+the next day,DATE,15215
+A couple of hours later,TIME,15215
+Bethel,PERSON,15215
+Bethel,PERSON,15215
+Mariah Talmich,PERSON,15215
+three,CARDINAL,15215
+Jack Jacquez,PERSON,15215
+Jack,PERSON,15215
+five months,DATE,15215
+Jayliana,PERSON,15215
+Jay,PERSON,15215
+three years old,DATE,15215
+One day,DATE,15215
+May,DATE,15215
+Jay,PERSON,15215
+that morning,TIME,15215
+Jay,PERSON,15215
+jean,NORP,15215
+Jay,PERSON,15215
+Love,WORK_OF_ART,15215
+Love,WORK_OF_ART,15215
+Jay,PERSON,15215
+Third Street,FAC,15215
+four years ago,DATE,15215
+Viola Jacquez,ORG,15215
+Rocky Ford,ORG,15215
+Jack,PERSON,15215
+21,DATE,15215
+Two,CARDINAL,15215
+Jack,PERSON,15215
+Jack,PERSON,15215
+Jackie,PERSON,15215
+two,CARDINAL,15215
+these last years,DATE,15215
+Early this past summer,DATE,15215
+Jackie,PERSON,15215
+Greenwood Village,GPE,15215
+Rocky Ford,PERSON,15215
+Olney Springs,GPE,15215
+about 20 miles,QUANTITY,15215
+the Department of Homeland Security,ORG,15215
+14-year-old,DATE,15215
+two,CARDINAL,15215
+Jackie,PERSON,15215
+Jackie,PERSON,15215
+A few days,DATE,15215
+Jack,PERSON,15215
+Jack,PERSON,15215
+Jack,PERSON,15215
+Jack,PERSON,15215
+Jackie,PERSON,15215
+Viola,ORG,15215
+Jack,PERSON,15215
+an hour,TIME,15215
+Viola,ORG,15215
+Jackie’s Jeep,FAC,15215
+Elm Avenue,FAC,15215
+the Tank N Tummy,ORG,15215
+Jack,PERSON,15215
+Swink Avenue,FAC,15215
+October,DATE,15215
+nearly four years earlier,DATE,15215
+Viola,ORG,15215
+Jack,PERSON,15215
+County Road 20,FAC,15215
+Rocky Ford Cemetery,PERSON,15215
+Jackie,PERSON,15215
+a few dozen feet,QUANTITY,15215
+the Virgin Mary,FAC,15215
+one,CARDINAL,15215
+Jack—cap,PERSON,15215
+Jack,WORK_OF_ART,15215
+Viola,ORG,15215
+Viola,ORG,15215
+Today,DATE,15215
+Jackie,PERSON,15215
+Viola,ORG,15215
+Jack,PERSON,15215
+Viola,ORG,15215
+a few minutes,TIME,15215
+Viola,ORG,15215
+Jackie,PERSON,15215
+Viola,ORG,15215
+Jack,PERSON,15215
+Jack,PERSON,15215
+Viola,ORG,15215

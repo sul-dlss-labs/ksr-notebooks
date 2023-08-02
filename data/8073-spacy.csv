@@ -1,0 +1,41 @@
+text,label,fe_id
+LONG BEACH,GPE,8073
+early Sunday,DATE,8073
+Central Long Beach,LOC,8073
+Long Beach,GPE,8073
+James Tuggle,PERSON,8073
+29-year-old,DATE,8073
+the City of Long Beach,GPE,8073
+two,CARDINAL,8073
+two,CARDINAL,8073
+about 5 a.m.,TIME,8073
+Cedar Avenue,FAC,8073
+Anaheim Street,FAC,8073
+Long Beach,FAC,8073
+Laura Farinella,PERSON,8073
+2:30 a.m.,TIME,8073
+1100,DATE,8073
+Chestnut Avenue,FAC,8073
+Farinella,PERSON,8073
+3:43 a.m.,TIME,8073
+second,ORDINAL,8073
+about an hour,TIME,8073
+two,CARDINAL,8073
+Farinella,PERSON,8073
+12th Street,FAC,8073
+Chestnut Avenue,FAC,8073
+second,ORDINAL,8073
+12th,DATE,8073
+first,ORDINAL,8073
+1200,CARDINAL,8073
+Chestnut Avenue,FAC,8073
+Farinella,PERSON,8073
+two,CARDINAL,8073
+about nine hours later,TIME,8073
+Tuggle,PERSON,8073
+Tuggle,PERSON,8073
+about 10 years,DATE,8073
+Royzell White,PERSON,8073
+Tuggle,PERSON,8073
+562,CARDINAL,8073
+499-1305,DATE,8073

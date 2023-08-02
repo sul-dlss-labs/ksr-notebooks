@@ -1,0 +1,22 @@
+text,label,fe_id
+Jose Torres,PERSON,10389
+33-year-old,DATE,10389
+Latino,PERSON,10389
+"Monday, July 18",DATE,10389
+10400,CARDINAL,10389
+Ilex Avenue,FAC,10389
+Pacoima,GPE,10389
+Los Angeles County,GPE,10389
+about 5 p.m.,TIME,10389
+LAPD,ORG,10389
+Torres,PRODUCT,10389
+Torres,PRODUCT,10389
+Torres,PRODUCT,10389
+Coroner,ORG,10389
+Foothill,ORG,10389
+the LAPD Force Investigation Division,ORG,10389
+818,CARDINAL,10389
+834-3115,CARDINAL,10389
+Crime Stoppers,PERSON,10389
+222,CARDINAL,10389
+Los Angeles,GPE,10389

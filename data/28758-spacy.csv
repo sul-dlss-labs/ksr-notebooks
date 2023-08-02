@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,28758
+United States,GPE,28758
+Canada Mexico,GPE,28758
+United Mexican,GPE,28758
+Bahamas,GPE,28758
+Commonwealth,GPE,28758
+Cuba,GPE,28758
+"Republic of Dominican Republic Haiti,",GPE,28758
+Republic of Jamaica,GPE,28758
+Afghanistan,GPE,28758
+Albania,GPE,28758
+People's Socialist Republic,ORG,28758
+Algeria,GPE,28758
+People's Democratic Republic of American,GPE,28758
+Angola,GPE,28758
+Republic of Anguilla Antarctica,ORG,28758
+South,LOC,28758
+Barbuda Argentina,PERSON,28758
+Argentine Republic,GPE,28758
+Armenia Aruba,PERSON,28758
+Australia,GPE,28758
+Commonwealth,GPE,28758
+Austria,GPE,28758
+Republic of Bahrain,ORG,28758
+Belgium,GPE,28758
+Kingdom of Belize Benin,ORG,28758
+People's Republic of Bermuda Bhutan,GPE,28758
+Kingdom of Bolivia,GPE,28758
+Republic of Bosnia,GPE,28758
+Botswana,GPE,28758
+Republic of Bouvet Island,ORG,28758
+Bouvetoya,GPE,28758
+Brazil,GPE,28758
+Federative Republic,GPE,28758
+British Virgin,GPE,28758
+Bulgaria,GPE,28758
+People's Republic of Burkina Faso Burundi,GPE,28758
+Republic of Cambodia,GPE,28758
+Kingdom of Cameroon,GPE,28758
+United Republic of Cape Verde,GPE,28758
+"Republic of Cayman Islands Central African Republic Chad,",ORG,28758
+Republic of Chile,ORG,28758
+Republic of China,ORG,28758
+People's Republic of Christmas Island,GPE,28758
+Colombia,GPE,28758
+Union of the Congo,ORG,28758
+Democratic Republic of Congo,GPE,28758
+People's Republic of Cook,GPE,28758
+Costa Rica,GPE,28758
+Ivory Coast,GPE,28758
+Republic Denmark,GPE,28758
+Kingdom of Djibouti,GPE,28758
+Republic of Dominica,GPE,28758
+Commonwealth,GPE,28758
+Ecuador,GPE,28758
+Republic of Egypt,GPE,28758
+Arab Republic,GPE,28758
+El Salvador,GPE,28758
+Republic of Equatorial Guinea,GPE,28758
+Republic of Eritrea,GPE,28758
+Estonia,GPE,28758
+Ethiopia,GPE,28758
+Malvinas,GPE,28758
+Fiji,GPE,28758
+Republic of the Fiji Islands Finland,ORG,28758
+Republic of France,GPE,28758
+French,NORP,28758
+French,NORP,28758
+Guiana,PERSON,28758
+French,NORP,28758
+Polynesia,GPE,28758
+Southern Territories Gabon,PRODUCT,28758
+Gabonese Republic Gambia,GPE,28758
+Georgia,GPE,28758
+Germany,GPE,28758
+Ghana,GPE,28758
+Republic of Gibraltar Greece,ORG,28758
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,28758
+Republic of Guinea,GPE,28758
+Revolutionary People's Rep'c,ORG,28758
+Guinea-Bissau,ORG,28758
+Republic of Heard,ORG,28758
+McDonald Islands Holy See,ORG,28758
+Vatican City State,GPE,28758
+Honduras,GPE,28758
+Republic of Hong Kong,GPE,28758
+Special Administrative Region of China,ORG,28758
+Hrvatska,PERSON,28758
+Croatia,GPE,28758
+Hungary,GPE,28758
+Hungarian People's Republic Iceland,PERSON,28758
+Republic of India,GPE,28758
+Republic of Indonesia,GPE,28758
+Republic of Iran,GPE,28758
+Islamic Republic of Iraq,GPE,28758
+Republic of Ireland,GPE,28758
+Israel,GPE,28758
+State of Italy,GPE,28758
+Italian,NORP,28758
+Japan,GPE,28758
+Jordan,GPE,28758
+Hashemite Kingdom of Kazakhstan,GPE,28758
+Republic of Kiribati,GPE,28758
+Republic of Korea,GPE,28758
+Democratic,NORP,28758
+Republic of Kuwait,ORG,28758
+Lao People's,PERSON,28758
+Latvia,GPE,28758
+Lebanon,GPE,28758
+Lebanese Republic Lesotho,GPE,28758
+Kingdom of Liberia,GPE,28758
+Lithuania Luxembourg,GPE,28758
+Special Administrative Region of China Macedonia,ORG,28758
+Yugoslav Republic of Madagascar,GPE,28758
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,28758
+Islamic Republic,GPE,28758
+Mayotte Micronesia,PERSON,28758
+Federated States,GPE,28758
+Moldova,GPE,28758
+Republic of Monaco,ORG,28758
+Principality,NORP,28758
+Morocco,GPE,28758
+Kingdom of Mozambique,ORG,28758
+Republic of Nepal,GPE,28758
+Netherlands,GPE,28758
+Kingdom,GPE,28758
+the New Caledonia New Zealand,ORG,28758
+Nicaragua,GPE,28758
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,28758
+Norway,GPE,28758
+Kingdom of Oman,GPE,28758
+Pakistan,GPE,28758
+Islamic Republic of,GPE,28758
+Occupied Panama,GPE,28758
+Republic of Peru,GPE,28758
+Republic of Philippines,GPE,28758
+Republic of the Pitcairn Island Poland,ORG,28758
+Polish,NORP,28758
+Republic Portugal,GPE,28758
+Portuguese Republic,GPE,28758
+Puerto Rico Qatar,GPE,28758
+State of Reunion Romania,ORG,28758
+Socialist Republic,GPE,28758
+Rwanda,GPE,28758
+Rwandese Republic Samoa,GPE,28758
+Independent State of San Marino,ORG,28758
+Republic of Sao Tome,ORG,28758
+Principe,GPE,28758
+Democratic Republic of Saudi Arabia,GPE,28758
+"Kingdom of Senegal, Republic of Serbia",GPE,28758
+Montenegro Seychelles,PERSON,28758
+Republic of Sierra Leone,ORG,28758
+Republic of Singapore,ORG,28758
+Republic of Slovakia,ORG,28758
+Slovak Republic,GPE,28758
+Slovenia Solomon Islands,GPE,28758
+Somalia,GPE,28758
+Somali Republic South Africa,GPE,28758
+Republic of South Georgia,GPE,28758
+Spain,GPE,28758
+Spanish,NORP,28758
+Sri Lanka,GPE,28758
+Democratic,NORP,28758
+Miquelon St. Vincent,PERSON,28758
+Democratic Republic,GPE,28758
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,28758
+Kingdom of Sweden,GPE,28758
+Kingdom of Switzerland,GPE,28758
+Swiss Confederation Syrian Arab Republic,ORG,28758
+Taiwan,GPE,28758
+China,GPE,28758
+Tanzania,GPE,28758
+United Republic of Thailand,GPE,28758
+Kingdom of Timor-Leste,GPE,28758
+Democratic Republic of Togo,GPE,28758
+Togolese Republic Tokelau,ORG,28758
+Tokelau,GPE,28758
+Tonga,GPE,28758
+Kingdom of Trinidad,ORG,28758
+Tobago,GPE,28758
+Republic of Tunisia,ORG,28758
+Republic of Turkey,GPE,28758
+Republic of Turkmenistan Turks,ORG,28758
+Uganda,GPE,28758
+Republic of Ukraine United Arab Emirates,GPE,28758
+United Kingdom of Great,GPE,28758
+Eastern Republic,GPE,28758
+Venezuela,GPE,28758
+Bolivarian Republic,GPE,28758
+Viet Nam,GPE,28758
+Socialist Republic,GPE,28758
+Yemen,GPE,28758
+Zambia,GPE,28758
+Republic of Zimbabwe,GPE,28758

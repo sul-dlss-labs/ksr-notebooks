@@ -1,0 +1,25 @@
+text,label,fe_id
+Tucson Police Department,ORG,28681
+17-year-old,DATE,28681
+"Wednesday, Aug. 26",DATE,28681
+Sgt,PERSON,28681
+Pete Dugan,PERSON,28681
+second,ORDINAL,28681
+four days,DATE,28681
+Tucson,GPE,28681
+Tucson,GPE,28681
+Dugan,ORG,28681
+1200,CARDINAL,28681
+West Calle Rancho Rio,LOC,28681
+around 11 a.m.,TIME,28681
+Dugan,ORG,28681
+West Ajo Way,LOC,28681
+Aug. 22,DATE,28681
+Tucson,GPE,28681
+3100,DATE,28681
+East Behan Street,LOC,28681
+Pima County,GPE,28681
+Tucson,GPE,28681
+Fernando Valenzuela,PERSON,28681
+34,DATE,28681
+five,CARDINAL,28681

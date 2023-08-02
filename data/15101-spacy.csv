@@ -1,0 +1,33 @@
+text,label,fe_id
+Des Moines,GPE,15101
+last week,DATE,15101
+late Sunday,DATE,15101
+Brian Lee Beeler,PERSON,15101
+41,DATE,15101
+early Sunday morning,TIME,15101
+Des Moines,GPE,15101
+Peter Wilson,PERSON,15101
+Cody Willis,PERSON,15101
+Beeler,ORG,15101
+6700,CARDINAL,15101
+Southeast Fifth Street,LOC,15101
+about 10:30 p.m.,TIME,15101
+Wednesday,DATE,15101
+Beeler,ORG,15101
+Beeler,ORG,15101
+two,CARDINAL,15101
+Beeler,ORG,15101
+Beeler,ORG,15101
+One,CARDINAL,15101
+Beeler,ORG,15101
+Wilson,ORG,15101
+Willis,NORP,15101
+Beeler,ORG,15101
+Wilson,ORG,15101
+Willis,GPE,15101
+Beeler,ORG,15101
+17,CARDINAL,15101
+July 2008,DATE,15101
+third,ORDINAL,15101
+Des Moines,GPE,15101
+this year,DATE,15101

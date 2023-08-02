@@ -1,0 +1,13 @@
+text,label,fe_id
+Tuesday,DATE,20273
+morning,TIME,20273
+Tempe,GPE,20273
+Rural Road and Southern Avenue,FAC,20273
+just before 7 a.m.,TIME,20273
+first,ORDINAL,20273
+two,CARDINAL,20273
+the Tempe Police Department,ORG,20273
+second,ORDINAL,20273
+first,ORDINAL,20273
+19 years,DATE,20273
+18 years,DATE,20273

@@ -1,0 +1,65 @@
+text,label,fe_id
+one,CARDINAL,10063
+the U.S. Department of Justice,ORG,10063
+Civil Rights Division,ORG,10063
+the Federal Bureau of Investigation,ORG,10063
+California,GPE,10063
+General’s Office,ORG,10063
+second,ORDINAL,10063
+San Diego County,GPE,10063
+San Diego County,GPE,10063
+DAI,ORG,10063
+DAI,ORG,10063
+DAI,ORG,10063
+DAI,ORG,10063
+several months,DATE,10063
+The Medical Examiner’s,ORG,10063
+months,DATE,10063
+San Diego County,GPE,10063
+90 days,DATE,10063
+90 days,DATE,10063
+The Special Operations Division,ORG,10063
+45 days,DATE,10063
+The Department of Justice,ORG,10063
+FBI,ORG,10063
+The City of San Diego,GPE,10063
+Citizens Review Board on Police Practices,ORG,10063
+the County’s,GPE,10063
+Citizens’ Law Enforcement Review Board,ORG,10063
+the DA’s Office,ORG,10063
+Officer Involved Shootings,WORK_OF_ART,10063
+May 2019,DATE,10063
+English,LANGUAGE,10063
+Spanish,LANGUAGE,10063
+911,CARDINAL,10063
+The Office of the District Attorney,ORG,10063
+OIS,ORG,10063
+San Diego County,GPE,10063
+mid-1970,DATE,10063
+2006,DATE,10063
+Protocol for Investigation and Review of Officer Involved Shootings,ORG,10063
+Donovan State Prison,FAC,10063
+the Chiefs,ORG,10063
+San Diego County,GPE,10063
+the Border Division of the CHP,ORG,10063
+San Diego County,GPE,10063
+25-year,DATE,10063
+1993-2017,DATE,10063
+the Officer-Involved Shooting Review Report,ORG,10063
+the Officer-Involved Shooting Review Report,ORG,10063
+Steve Walker,PERSON,10063
+2020 - 2022,DATE,10063
+2017 - 2019,DATE,10063
+"Officer Involved Shooting Incidents
+
+",EVENT,10063
+2014 - 2016,DATE,10063
+"Officer Involved Shooting Incidents
+
+Click to View 2011 - 2013",EVENT,10063
+2008 - 2010,DATE,10063
+"Officer Involved Shooting Incidents
+
+Click to",EVENT,10063
+2005 - 2007,DATE,10063
+Officer Involved Shooting Incidents,EVENT,10063

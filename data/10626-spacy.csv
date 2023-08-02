@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,10626
+Alabama,GPE,10626
+Alaska,GPE,10626
+Arizona,GPE,10626
+Arkansas,GPE,10626
+California,GPE,10626
+Colorado,GPE,10626
+Connecticut,GPE,10626
+Delaware,GPE,10626
+Florida,GPE,10626
+Georgia,GPE,10626
+Hawaii,GPE,10626
+Idaho,GPE,10626
+Indiana,GPE,10626
+Iowa,GPE,10626
+Kansas,GPE,10626
+Kentucky,GPE,10626
+Louisiana,GPE,10626
+Maine,GPE,10626
+Maryland,GPE,10626
+Massachusetts,GPE,10626
+Michigan,GPE,10626
+Minnesota,GPE,10626
+Mississippi,GPE,10626
+Missouri,GPE,10626
+Montana,GPE,10626
+Nebraska,GPE,10626
+Nevada,GPE,10626
+New Hampshire,GPE,10626
+New Jersey,GPE,10626
+Ohio,GPE,10626
+Oklahoma,GPE,10626
+Oregon,GPE,10626
+Pennsylvania,GPE,10626
+Rhode Island,GPE,10626
+Tennessee,GPE,10626
+Texas,GPE,10626
+Utah,GPE,10626
+Vermont,GPE,10626
+Virginia,GPE,10626
+Washington,GPE,10626
+Washington,GPE,10626
+D.C.,GPE,10626
+Wisconsin,GPE,10626
+Wyoming,GPE,10626
+US,GPE,10626
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,10626
+Marshall Islands American Samoa Federated States,ORG,10626
+Micronesia Guam,FAC,10626
+Alberta,GPE,10626
+Canada,GPE,10626
+British Columbia,GPE,10626
+Canada Manitoba,GPE,10626
+Canada,GPE,10626
+New Brunswick,GPE,10626
+Canada Newfoundland,PERSON,10626
+Canada,GPE,10626
+Canada,GPE,10626
+Canada Ontario,GPE,10626
+Canada,GPE,10626
+Edward Island,GPE,10626
+Canada Quebec,GPE,10626
+Canada,GPE,10626
+Saskatchewan,GPE,10626
+Canada Yukon Territory,ORG,10626
+Canada,GPE,10626
+Zip Code,PERSON,10626

@@ -1,0 +1,38 @@
+text,label,fe_id
+Tucson,GPE,26201
+Sunday morning,TIME,26201
+Joshua Camacho,PERSON,26201
+Carlos Vale,PERSON,26201
+31,DATE,26201
+Vale,ORG,26201
+Camacho,ORG,26201
+second,ORDINAL,26201
+Vale,PERSON,26201
+about 12:45 a.m.,TIME,26201
+100,CARDINAL,26201
+Calle Vida Nueva,WORK_OF_ART,26201
+West Drexel Road and South 12th,LOC,26201
+Sgt,PERSON,26201
+Pete Dugan,PERSON,26201
+Tucson Police Department,ORG,26201
+West Drexel Road,FAC,26201
+at least three,CARDINAL,26201
+5601 S. 12th,DATE,26201
+Dugan,ORG,26201
+two,CARDINAL,26201
+second,ORDINAL,26201
+Camacho,PERSON,26201
+two,CARDINAL,26201
+Camacho,ORG,26201
+3 1/2-year,DATE,26201
+Vale,PERSON,26201
+Vale,PERSON,26201
+Sunday,DATE,26201
+Dugan,PERSON,26201
+Vale,ORG,26201
+the U.S. Marshals Service,ORG,26201
+Dugan,ORG,26201
+Dugan,ORG,26201
+Sunday,DATE,26201
+night,TIME,26201
+88,CARDINAL,26201

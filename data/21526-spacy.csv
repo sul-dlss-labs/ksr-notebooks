@@ -1,0 +1,14 @@
+text,label,fe_id
+Walgreens,PERSON,21526
+Sapulpa,ORG,21526
+Saturday,DATE,21526
+morning,TIME,21526
+later in the day,TIME,21526
+about 9:30 a.m.,TIME,21526
+11,CARDINAL,21526
+W. Taft Ave,PERSON,21526
+Sapulpa Police Maj,ORG,21526
+Mike Reed,PERSON,21526
+6 p.m.,TIME,21526
+6 W. Bryan Ave,PERCENT,21526
+Reed,PERSON,21526

@@ -1,0 +1,4 @@
+text,label,fe_id
+Yahoo,ORG,1003
+next week,DATE,1003
+first,ORDINAL,1003

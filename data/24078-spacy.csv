@@ -1,0 +1,42 @@
+text,label,fe_id
+the Phoenix Police Department,ORG,24078
+Central and Southern,LOC,24078
+Saturday,DATE,24078
+afternoon,TIME,24078
+second,ORDINAL,24078
+the day,DATE,24078
+26th,ORDINAL,24078
+Maricopa County,GPE,24078
+2018,DATE,24078
+Arizona Republic,GPE,24078
+Eighteen,CARDINAL,24078
+first,ORDINAL,24078
+the day,DATE,24078
+Saturday,DATE,24078
+morning,TIME,24078
+Sgt,PERSON,24078
+Mark Tovar,PERSON,24078
+Phoenix,GPE,24078
+about 2 p.m.,TIME,24078
+Third Street,LOC,24078
+St. Charles Avenue,FAC,24078
+Sunday,DATE,24078
+second,ORDINAL,24078
+Sunday,DATE,24078
+Phoenix,GPE,24078
+multi-hour,TIME,24078
+Valley,LOC,24078
+Early Saturday,DATE,24078
+Phoenix,GPE,24078
+multi-hour,TIME,24078
+Valley,LOC,24078
+two,CARDINAL,24078
+28th Avenue,FAC,24078
+Bethany Home Road,ORG,24078
+about 2 a.m.,TIME,24078
+13th Avenue,FAC,24078
+Thomas Road,PERSON,24078
+Tovar,PERSON,24078
+Scottsdale,GPE,24078
+Tolleson,ORG,24078
+Army,ORG,24078

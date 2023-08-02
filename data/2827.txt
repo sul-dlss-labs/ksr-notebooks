@@ -1,0 +1,89 @@
+Supreme Court of Delaware. Mary JONES, as Executrix of the Estate of Samuel Jones, deceased, and Mary Jones, individually, Plaintiff Below, v. Kurtis CRAWFORD, an individual, and the City of Wilmington, Defendants Below, Appellees. No. 481, 2009. Decided: July 30, 2010
+
+Before STEELE, Chief Justice, HOLLAND, BERGER, JACOBS, and RIDGELY, Justices constituting the Court en banc. Martin J. Siegel (argued) of the Law Office of Martin J. Siegel, New Castle, Delaware; and, Stephani J. Ballard (argued) of the Law Offices of Stephani J. Ballard, LLC, Wilmington, Delaware for appellant. Andrea J.F. Rhen, City of Wilmington Law Department, Wilmington, Delaware for appellees.
+
+Police pursued carjackers in a high-speed car chase that ended when the perpetrators struck and killed Samuel Jones. Mary Jones, Samuel's executrix, asserts that the trial judge erroneously granted summary judgment to defendants on the issue of Officer Kurtis Crawford's alleged negligence, by failing to view disputed facts in the light most favorable to her. Because a reasonable juror could conclude that Officer Crawford had grossly negligently initiated, terminated, or conducted the pursuit, and also proximately caused Samuel's death, we REVERSE and REMAND.
+
+FACTUAL AND PROCEDURAL BACKGROUND
+
+High-Speed Car Chase
+
+On September 26, 2003, Officers Crawford and Mitchell Rentz spotted a white Acura at the intersection of 8th and King Streets in Wilmington. Lamar Comer was driving the Acura, with Curtis Matthews in the front passenger seat. The Officers suspected that the men had stolen the Acura before evading Wilmington police earlier that day. During the earlier chase, the Acura had traveled at high speeds, disregarded traffic control devices, and nearly caused motor vehicle collisions.
+
+Crawford followed the Acura in a marked police car. After receiving confirmation that the suspects had stolen the Acura, Crawford activated the police car's emergency equipment to initiate a stop. Instead of stopping, the Acura turned left, struck a stopped car, and fled at a high speed.
+
+After ensuring that the Acura had not injured anyone in the struck vehicle, Crawford pursued the Acura. Crawford estimated that he had driven his car between 75 and 80 miles per hour, and that the Acura had reached speeds approaching 120 miles per hour. The pursuit covered either six blocks or seven tenths of a mile, during which the Acura disregarded three red traffic light signals. As both cars approached a residential area, Crawford became concerned for public safety and decided to terminate the pursuit. The Acura then ran a red light, and collided with Samuel Jones' car. Jones died shortly afterward.
+
+Wrongful Death Action
+
+Mary Jones, individually and as Executrix of Samuel's estate, filed an action for negligence and wrongful death against the City of Wilmington, Crawford, and the Wilmington Police Department. Mary asserted that Crawford's initiation and continuation of the police chase proximately caused Samuel's death. The trial judge granted the defendants' motion for summary judgment, finding that Crawford had not acted in an “extreme or outrageous” manner. This appeal followed.
+
+STANDARD OF REVIEW
+
+We review the trial judge's grant of summary judgment de novo to determine whether, considering the facts and inferences in the light most favorable to Mary, any genuine issue of material fact existed for the jury to resolve.
+
+ANALYSIS
+
+To prove negligence, Mary was required to establish, by a preponderance of the evidence, that the defendants failed to meet their respective legal standard of care, and that the defendants' misconduct proximately harmed her; that is; she must prove the elements of duty, breach, causation, and harm. As the General Assembly has clearly stated, and as we have consistently held, in the case of emergency responders Delaware law does not measure duty or proximate causation under an “extreme or outrageous” standard.
+
+The General Assembly allows governmental entities, such as the City of Wilmington or the Wilmington Police Department, to be held liable for “negligent ownership, maintenance, or use of any motor vehicle.” By statute, emergency vehicle drivers such as Crawford face liability for “gross negligence or willful or wanton negligence.” To prevail against the City or the Department, Mary must prove that Crawford acted with “conduct which falls below the standard established by law for the protection of others against unreasonable risk of harm.” To hold Crawford personally liable for gross negligence, Mary must demonstrate “a higher level of negligence representing an extreme departure from the ordinary standard of care.”
+
+After establishing that the defendants failed to meet their duty of care, Mary must prove that Crawford's conduct proximately caused Samuel's death. Delaware applies the traditional “but for” definition of proximate cause, and “has long recognized that there may be more than one proximate cause of an injury.” Our case law recognizes that an intervening cause involving abnormal, unforeseeable, or extraordinary negligence may supersede the original negligent cause and, thus, break the chain of proximate causation between the original tortfeasor and victim. Acts that temporally intervene between a defendant's alleged negligence that cause in part the plaintiff's damages may relieve the defendant of potential liability when a jury finds the intervening acts to be abnormal, unforeseeable or extraordinary. Courts often describe the intervening acts so characterized as “superseding or supervening” causes to express the policy judgment that relieves the defendant of liability.
+
+But before a trial judge can conclude that an intervening act can supersede a defendant's liability, there must be no genuine issue of material fact about whether the intervening act or acts were abnormal, unforeseeable or extraordinary. Here, material facts are genuinely disputed about the nature and relative effect of the defendants' actions and the car thieves' intervening acts. The existence of those factual disputes removes from the trial judge the power to make the policy decision relieving the defendant of liability as a matter of law. Where material facts remain in dispute, the trial judge may not conclude that the intervening cause should relieve the defendant of liability. Only after the fact finder first resolves the disputed facts can the legal consequences of those facts be determined. That requires the trial judge to carefully craft instructions and where necessary, special interrogatories to the jury, to assist the jury in understanding its role. First, the jury must resolve the disputed facts material to determining the abnormality, unforeseeability of or extraordinary nature of the intervening cause. Then, the jury (after proper instructions) must determine whether the intervening cause should supersede the defendant's liability. The jury decides the mixed question of law and fact at issue-whether, in the specific factual context, the intervening cause constitutes abnormal, unforeseeable or extraordinary negligence that would as a matter of law supersede a defendant's negligence thereby relieving that defendant of liability to the plaintiff.
+
+Trial judges generally will not grant summary judgment on negligence issues, but will submit those issues to the jury. Under Delaware's comparative negligence law, a plaintiff cannot recover if he acted more negligently than the defendant. A trial judge, therefore, may grant summary judgment to a defendant after determining that no reasonable juror could find that the plaintiff's negligence did not exceed the defendant's. Delaware law, however, does not recognize ‘comparative causation’ law analyses. Where the facts present an arguable question of extraordinary negligence that could constitute a superseding (or supervening) cause, the trial judge should approach with caution the question of whether a reasonable juror could find that the intervening cause was so “extraordinary, abnormal or unforeseeable” that it would supersede the negligence of the defendant. Here, the facts material to the issue of superseding (or supervening) cause were in dispute.
+
+Crawford's Actions
+
+The defendants assert that, as a matter of law, Crawford's conduct could not have proximately caused the accident and Samuel's death. Their focus on whether or not Crawford's conduct was “outrageous” is misplaced. The focus should initially be on whether the facts material to a determination that Crawford acted grossly negligently in the first instance are in dispute. The focus should turn to whether the car thieves' intervening negligence was so extraordinary, abnormal or unforeseeable under the circumstances, that their actions should supersede Crawford's gross negligence (and the other defendants' negligence), thereby relieving them of liability. The record here discloses inconsistent facts that could lead to a finding of ordinary or gross negligence. These facts include Crawford's decision to terminate his pursuit, the time when he turned off the emergency lights, and his proximity to the residential neighborhood and Samuel's vehicle when making these decisions. A jury might also consider the importance of catching suspected car thieves against the risks of pursuing those thieves at a high speed near and in a residential neighborhood.
+
+As the trial judge observed, Crawford and Rentz testified differently about their distance from the perpetrators' Acura when it struck Samuel's vehicle. The police report discloses that the police cruiser was “a block and a half to two blocks back” from the Acura. Crawford testified that the chase lasted “30, 45 seconds maybe,” as well as “one to two minutes.”
+
+Nor does the thief Matthews's testimony categorically support the trial judge's conclusion that both perpetrators considered the police to have terminated the chase. Crawford's inconsistent testimony creates a material factual issue of how long after “terminating pursuit” the fatal collision occurred. Crawford testified in his deposition that the Acura collided with Samuels's vehicle ‘almost instantaneously’ after he had terminated pursuit. In his affidavit, however Crawford stated that the police discontinued the pursuit “long before” the collision between the perpetrators' and Samuel's vehicles. The record also does not reflect whether Crawford had slowed down, disengaged his emergency lights, or simply decided to terminate pursuit.
+
+The trial judge's and the appellees' focus on the conclusion that Crawford did not act “outrageously,” obscures the required analysis. The first question is whether a reasonable juror, viewing the facts in the light most favorable to the plaintiffs, could conclude that Crawford's actions constituted gross negligence. The second question is, even if so, were the thieves later intervening actions so extraordinary, abnormal or unforeseeable that they should be found to supersede Crawford's gross negligence, thereby relieving him of liability?
+
+There may be more than one proximate cause of an injury. Because police must terminate some high speed chases to protect the public, a vehicular police chase initiated or conducted in a grossly negligent manner could, in some circumstances, proximately cause an injury. In this case, a jury could find that, “but for” the police officers' decision to initiate and pursue the perpetrators, the suspects would not have fled at a high rate of speed and collided with an innocent third party. A jury could also find that the suspects' intervening actions superseded Crawford's alleged gross negligence. Viewing the facts in the light most favorable to Mary, we cannot hold that as a matter of law that under no circumstances could a jury have found Crawford, the Department or the City liable.
+
+CONCLUSION
+
+For the foregoing reasons, we REVERSE and REMAND the order of the Superior Court granting summary judgment to the defendants.
+
+FOOTNOTES
+
+. Mary also sued the fleeing carjackers, Lamar Comer and Curtis Matthews, but this appeal does not involve those defendants.
+
+. Williams v. Geier, 671 A.2d 1368, 1375 (Del.1996).
+
+. See Lenkewicz v. Wilmington City Ry. Co., 74 A. 11, 12-13 (Del.Super.1908); Sims v. Stanley, 2008 WL 853538, at *2 (Del. Apr. 1, 2008).
+
+. The trial judge did not address the parties' respective duties of care, but rather turned immediately to proximate causation. He determined that Officer Crawford had not acted in an “extreme or outrageous” manner and, therefore, could not have proximately caused Samuel's death. Although we agree that the law imposes the same standard to determine whether each defendant proximately caused Samuel's death, the trial judge erred by analyzing proximate cause on Crawford's actions alone.
+
+. 10 Del. C. § 4102.
+
+. 21 Del. C. § 4106.
+
+. Riedel v. ICI Americas Inc., 968 A.2d 17, 22 (Del.2009) (quoting RESTATEMENT (SECOND) OF TORTS § 282).
+
+. Browne v. Robb, 583 A.2d 949, 953 (Del.1990).
+
+. General Motors Corp. Wolhar, 686 A.2d 170, 176 (Del.1996); Wyatt v. Clendaniel, 320 A.2d 738, 739 (Del.1974). The Authorized Emergency Vehicle Statute requires that the emergency vehicle driver's negligent or wrongful act or omission cause the victim's personal injury or death. 21 Del. C. § 4106.
+
+. Wilmington Country Club v. Cowee, 747 A.2d 1087, 1097 (Del.2000).
+
+. Culver v. Bennett, 588 A.2d 1094, 1097 (Del.1991) (citing McKeon v. Goldstein, 164 A.2d 260, 262 (Del.1960)).
+
+. Sims, 2008 WL 853538, at *2.
+
+. Ebersole v. Lowengrub, 180 A.2d 467, 469 (Del.1962).
+
+. Id.
+
+. 10 Del. C. § 8132.
+
+. At Comer's criminal trial, Matthews testified as follows:Q: Did the police keep up with you?A: I don't even think they proceeded. I didn't even hear the sirens no more. After everything else happened, everything else happened so fast.Q: So everything after that happened so fast, what do you mean, what happened?A: After they hit their lights, boom, the first-when he hit the first car, everything else just happened, the straightaway, everything. Like it was just like he blacked out or something, and just went on, I mean -Q: Take your time.A: No care about who was in the car or what. He just blacked out or something.․Q: When you approached the intersection, did you see what color the light was?A: No, sir. I wasn't paying it really no mind.
+
+. The trial judge's grant of summary judgment to all defendants appears to be based on a theory that unless Crawford acted “outrageously” he could not have proximately caused the accident. Implicitly, the ruling encompassed the Department and the City's negligence not being causally related to the collision. On remand, the Court and parties must readdress the parties' duty and proximate cause in the context described above and consistently with the statutory framework applied to emergency responders.
+
+STEELE, Chief Justice:

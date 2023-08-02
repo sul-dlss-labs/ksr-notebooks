@@ -1,0 +1,41 @@
+text,label,fe_id
+San Francisco,GPE,10256
+Tuesday,DATE,10256
+two,CARDINAL,10256
+Irvine,GPE,10256
+Joshua Camden Smith,PERSON,10256
+25,DATE,10256
+just before 5:30 p.m.,TIME,10256
+Buena Vista Avenue East,ORG,10256
+Height Street,FAC,10256
+BMW,ORG,10256
+San Francisco,GPE,10256
+Michael Andraychak,PERSON,10256
+Smith,PERSON,10256
+FBI,ORG,10256
+Laura Eimiller,PERSON,10256
+May 17,DATE,10256
+The Gen X,WORK_OF_ART,10256
+Chase Bank,ORG,10256
+Quail Hill,GPE,10256
+Irvine,GPE,10256
+about 11 a.m.,TIME,10256
+About 20 minutes later,TIME,10256
+second,ORDINAL,10256
+6540 Irvine Center Drive,ORG,10256
+Chris Gicking,PERSON,10256
+FBI,ORG,10256
+two,CARDINAL,10256
+FBI,ORG,10256
+BMW,ORG,10256
+FBI,ORG,10256
+San Francisco,GPE,10256
+BMW,ORG,10256
+Andraychak,ORG,10256
+Tuesday,DATE,10256
+afternoon,TIME,10256
+Smith,PERSON,10256
+Andraychak,ORG,10256
+Smith,ORG,10256
+at least one,CARDINAL,10256
+949-454-7361,CARDINAL,10256

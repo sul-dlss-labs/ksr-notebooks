@@ -1,0 +1,22 @@
+text,label,fe_id
+David R. Garvin’s,PERSON,5972
+first,ORDINAL,5972
+New York City,GPE,5972
+May 2005,DATE,5972
+The Wall Street Journal,ORG,5972
+months later,DATE,5972
+New York,GPE,5972
+one,CARDINAL,5972
+Twice,ORG,5972
+42,DATE,5972
+Bronx,GPE,5972
+Greenwich Village,GPE,5972
+the De Marco’s,ORG,5972
+Pizzeria,GPE,5972
+West Houston Street,LOC,5972
+Wednesday,DATE,5972
+night,TIME,5972
+two,CARDINAL,5972
+15,CARDINAL,5972
+Alfredo Romero,PERSON,5972
+Bleecker Street,FAC,5972

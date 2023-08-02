@@ -1,0 +1,43 @@
+text,label,fe_id
+Crime & Safety Eluding Denver Police,ORG,24508
+37,DATE,24508
+1,CARDINAL,24508
+2,CARDINAL,24508
+May,DATE,24508
+DENVER,GPE,24508
+CO,ORG,24508
+Denver,GPE,24508
+Denver,GPE,24508
+District Court,ORG,24508
+this week,DATE,24508
+Alberto Gonzales,GPE,24508
+37,DATE,24508
+the evening,TIME,24508
+May 27,DATE,24508
+Gonzales,PERSON,24508
+the Colorado Department of Corrections,ORG,24508
+Dodge Intrepid,ORG,24508
+Dodge,ORG,24508
+Gonzales,PERSON,24508
+West First Avenue,LOC,24508
+North Federal Boulevard,FAC,24508
+Intrepid,ORG,24508
+Gonzales,PERSON,24508
+West 1st,DATE,24508
+North Knox Court,ORG,24508
+60-year-old,DATE,24508
+age 61,DATE,24508
+age 62,DATE,24508
+three,CARDINAL,24508
+two,CARDINAL,24508
+Gonzales,PERSON,24508
+Denver,GPE,24508
+Gonzales,PERSON,24508
+Denver,GPE,24508
+District Court,ORG,24508
+Sept. 6,DATE,24508
+Denver County Jail,GPE,24508
+May,DATE,24508
+"100,000",MONEY,24508
+Denver,GPE,24508
+Office,ORG,24508

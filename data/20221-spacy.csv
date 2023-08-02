@@ -1,0 +1,1478 @@
+text,label,fe_id
+State,ORG,20221
+the City of Bridgeport,GPE,20221
+May 9,DATE,20221
+2017[1,CARDINAL,20221
+LEGAL AUTHORITY,ORG,20221
+II,CARDINAL,20221
+XI,ORG,20221
+FACTUAL ANALYSIS,PRODUCT,20221
+XII,ORG,20221
+"May 9, 2017",DATE,20221
+Jayson Negron,ORG,20221
+Bridgeport,GPE,20221
+James Boulay,PERSON,20221
+State,ORG,20221
+Waterbury,GPE,20221
+Connecticut General Statute Section 53a-22,ORG,20221
+Legal Authority,ORG,20221
+the Division of Criminal,ORG,20221
+section 53a-22,LAW,20221
+1,CARDINAL,20221
+section 51-281,LAW,20221
+2,CARDINAL,20221
+section 51-285,LAW,20221
+1,CARDINAL,20221
+2,CARDINAL,20221
+section 53a-22,LAW,20221
+3,CARDINAL,20221
+the Division of Criminal Justice,ORG,20221
+Emergency Services,ORG,20221
+Pursuant to Division of Criminal Justice,ORG,20221
+"May 9, 2017",DATE,20221
+Kevin T. Kane,PERSON,20221
+State,ORG,20221
+Waterbury,GPE,20221
+Jayson Negron,ORG,20221
+The Connecticut State Police,ORG,20221
+CSP,ORG,20221
+WDMCS,ORG,20221
+the Office of the Chief Medical Examiner,ORG,20221
+first,ORDINAL,20221
+II,CARDINAL,20221
+"May 9, 2017",DATE,20221
+15-year-old,DATE,20221
+Jayson Negron,ORG,20221
+2012,DATE,20221
+the Subaru,WORK_OF_ART,20221
+Fairfield Avenue,FAC,20221
+Bridgeport,GPE,20221
+Connecticut,GPE,20221
+Bridgeport,GPE,20221
+Bridgeport,GPE,20221
+James Boulay,PERSON,20221
+Bridgeport,GPE,20221
+Negron,PERSON,20221
+the Walgreens Pharmacy,ORG,20221
+1000 Park Avenue,FAC,20221
+Bridgeport,GPE,20221
+Connecticut,GPE,20221
+Park Avenue,FAC,20221
+Washington Avenue,FAC,20221
+Fairfield Avenue,FAC,20221
+West Avenue,FAC,20221
+2,CARDINAL,20221
+Park Avenue,FAC,20221
+Walgreens,PERSON,20221
+five,CARDINAL,20221
+two,CARDINAL,20221
+Washington Avenue,FAC,20221
+one,CARDINAL,20221
+Park Avenue,FAC,20221
+two,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+Park Avenue,FAC,20221
+Park Avenue,FAC,20221
+Washington Avenue,FAC,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+one,CARDINAL,20221
+Walgreens,PERSON,20221
+two,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+3,CARDINAL,20221
+Walgreens,PERSON,20221
+Google,ORG,20221
+Google,ORG,20221
+Washington Avenue,FAC,20221
+Jayson Negron,ORG,20221
+second,ORDINAL,20221
+4,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Park Avenue,FAC,20221
+5,CARDINAL,20221
+Subaru,ORG,20221
+6,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+approximately fifteen feet,QUANTITY,20221
+James Boulay,PERSON,20221
+Negron,PERSON,20221
+Fairfield Avenue,FAC,20221
+two,CARDINAL,20221
+one,CARDINAL,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+Fairfield Avenue,FAC,20221
+Park Avenue,FAC,20221
+approximately 150 feet,QUANTITY,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Bridgeport,GPE,20221
+"B. Initial Investigation
+
+Immediately",ORG,20221
+the Office of the Waterbury State’s,ORG,20221
+the Connecticut State Police Western District Major Crime Squad,ORG,20221
+Chris Bartolotta,PERSON,20221
+Sergeant Ken Ventresca,PERSON,20221
+Detective John Kimball,PERSON,20221
+WDMCS,ORG,20221
+approximately 1900 hours,TIME,20221
+Gary Pelosi,PERSON,20221
+the Waterbury State’s,ORG,20221
+Crime Van,PERSON,20221
+Sergeant Mark Davison,PERSON,20221
+1945 hours,TIME,20221
+two,CARDINAL,20221
+Subaru,ORG,20221
+2008,DATE,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Subaru,ORG,20221
+The Connecticut State Police,ORG,20221
+Public Information Office,ORG,20221
+CSP Facebook,ORG,20221
+Text-A-Tip,ORG,20221
+Jayson Negron,ORG,20221
+Magnolia Street,FAC,20221
+the Center for Family Justice,ORG,20221
+753,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Magnolia Street,FAC,20221
+Detective Grabowski,PERSON,20221
+Magnolia Street,FAC,20221
+Northeast Generator,ORG,20221
+Magnolia Street/Iranistan Avenue,FAC,20221
+Fairfield Avenue & Surrounding Area,ORG,20221
+Fairfield Avenue & Surrounding Area,ORG,20221
+Subaru,ORG,20221
+WDMCS,GPE,20221
+Overnight hours,TIME,20221
+Subaru,ORG,20221
+Shelton,PERSON,20221
+Shelton,PERSON,20221
+Shelton PD,PERSON,20221
+hours,TIME,20221
+Facebook Friend,WORK_OF_ART,20221
+Jayson Negron,ORG,20221
+Facebook Messenger,PERSON,20221
+Jayson Negron,ORG,20221
+Subaru,ORG,20221
+Negron,ORG,20221
+2330 hours,TIME,20221
+License Plate Reader,ORG,20221
+Magnolia Street,FAC,20221
+approximately 327 feet,QUANTITY,20221
+Negron,ORG,20221
+1349,DATE,20221
+hours,TIME,20221
+Negron,ORG,20221
+Jayson Negron,PERSON,20221
+1624 hours,TIME,20221
+Jayson Negron,PERSON,20221
+Magnolia Street,FAC,20221
+Negron Home Video Clip,ORG,20221
+5,MONEY,20221
+1653 hours,TIME,20221
+Jayson Negron,ORG,20221
+Subaru,ORG,20221
+Bridgeport,GPE,20221
+Jayson Negron’s,PERSON,20221
+LG Cellphone Download Report,ORG,20221
+1700 hours,TIME,20221
+Bridgeport Police Detective,ORG,20221
+James Borrico,PERSON,20221
+Bridgeport Police Department,ORG,20221
+Subaru Forrester,ORG,20221
+Maplewood Avenue,FAC,20221
+Borrico,GPE,20221
+"Detective Borrico Statement , Interview Report of Detective",ORG,20221
+17:00:30 hours,TIME,20221
+the Bridgeport Police Dispatch,ORG,20221
+James Boulay,PERSON,20221
+Mario Pecirep,PERSON,20221
+Detective Borrico,GPE,20221
+Bridgeport Police Dispatch Recordings,ORG,20221
+17:02:03 hours,TIME,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Washington Avenue,FAC,20221
+Officer Pecirep,GPE,20221
+Walgreens,PERSON,20221
+Primary Camera,PERSON,20221
+17:02:12 hours,TIME,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+Fairfield Avenue,FAC,20221
+one,CARDINAL,20221
+Walgreens,PERSON,20221
+17:02:14 hours,TIME,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Officer Boulay,ORG,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Primary Camera,PERSON,20221
+17:02:17 hours,TIME,20221
+Fairfield Avenue,FAC,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Jayson Negron,ORG,20221
+Pecirep,PERSON,20221
+Walgreens,PERSON,20221
+17:02:18 hours,TIME,20221
+Walgreens,PERSON,20221
+Officer Boulay,ORG,20221
+Interview Report of Officer Boulay,ORG,20221
+17:02:20 hours,TIME,20221
+Subaru,ORG,20221
+Officer Boulay’s,ORG,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+17:02:22 hours,TIME,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+the Civilian Witness #1,ORG,20221
+Walgreens,PERSON,20221
+17:02:23 hours,TIME,20221
+Pecirep,PERSON,20221
+Fairfield Avenue,FAC,20221
+Borrico,GPE,20221
+Pecirep,PERSON,20221
+Walgreens,PERSON,20221
+17:02:28 hours,TIME,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Officer Boulay,ORG,20221
+Honda,ORG,20221
+one,CARDINAL,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Jayson Negron,PERSON,20221
+Officer Boulay,PERSON,20221
+Jayson Negron,PERSON,20221
+Subaru,ORG,20221
+Officer Boulay’s,ORG,20221
+four,CARDINAL,20221
+Negron,ORG,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Honda,ORG,20221
+Bridgeport,GPE,20221
+17:02:28 hours,TIME,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+Bridgeport,GPE,20221
+Bridgeport,GPE,20221
+Subaru,ORG,20221
+Officer Pecirep,GPE,20221
+Honda,ORG,20221
+Crime Van,PERSON,20221
+Walgreens,PERSON,20221
+Primary Camera,PERSON,20221
+17:02:32 hours,TIME,20221
+Officer Boulay,ORG,20221
+Jayson Negron,ORG,20221
+Subaru,ORG,20221
+Officer Pecirep,GPE,20221
+Bridgeport,GPE,20221
+Julio Diez,PERSON,20221
+Subaru,ORG,20221
+17:03:00 hours,TIME,20221
+the Bridgeport Dispatch Recordings,ORG,20221
+Walgreens,PERSON,20221
+first,ORDINAL,20221
+Bridgeport,GPE,20221
+the next seven minutes,TIME,20221
+five,CARDINAL,20221
+17:05:19 hours,TIME,20221
+Bridgeport,GPE,20221
+Officer Boulay,ORG,20221
+17:08:58 hours,TIME,20221
+Bridgeport,GPE,20221
+Walgreens,PERSON,20221
+Walgreens,PERSON,20221
+17:10 hours,TIME,20221
+Bridgeport,GPE,20221
+First,ORDINAL,20221
+Bridgeport Police Dispatch,ORG,20221
+1710,DATE,20221
+First,ORDINAL,20221
+1710,DATE,20221
+AMR,ORG,20221
+Robert Calzone,PERSON,20221
+Bridgeport Police Radio Recordings,ORG,20221
+17:10:33 hours,TIME,20221
+25,CARDINAL,20221
+Saint Vincent’s,FAC,20221
+Officer Pecirep,GPE,20221
+Bridgeport Police Radio Recordings,ORG,20221
+17:15:00 hours,TIME,20221
+AMR Paramedic,PERSON,20221
+Robert Calzone,PERSON,20221
+Jayson Negron,PERSON,20221
+Jayson Negron,PERSON,20221
+Bridgeport,GPE,20221
+the “Crime Scene,ORG,20221
+Negron,PERSON,20221
+Bridgeport Police Radio Recordings,ORG,20221
+17:20:00 hours,TIME,20221
+Bridgeport Hospital,FAC,20221
+Bridgeport Police Dispatch,ORG,20221
+1720,DATE,20221
+Bridgeport Hospital,FAC,20221
+Bridgeport Police Radio Recordings,ORG,20221
+19:00:00 hours,TIME,20221
+Bridgeport,GPE,20221
+WDMCS,GPE,20221
+19:45:00 hours,TIME,20221
+WDMCS Scene Report,ORG,20221
+WDMCS Scene Report,ORG,20221
+20:31:00 hours,TIME,20221
+Alfredo Camargo,PERSON,20221
+22:41:00 hours,TIME,20221
+Jayson Negron,ORG,20221
+05:12:00 hours,TIME,20221
+Crime Van,PERSON,20221
+WDMC Scene Report,ORG,20221
+IV,GPE,20221
+Bridgeport,GPE,20221
+State,GPE,20221
+Connecticut,GPE,20221
+A. Civilian Witnesses,PERSON,20221
+1,CARDINAL,20221
+the Front Seat Passenger,ORG,20221
+the evening,TIME,20221
+approximately 8:20 p.m.,TIME,20221
+John Kimball,PERSON,20221
+the Emergency Department of Bridgeport Hospital,ORG,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Detective Kimball,ORG,20221
+Detective Kimball,ORG,20221
+Negron,PERSON,20221
+Jayson Negron,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Jayson Negron,ORG,20221
+Jayson Negron,ORG,20221
+Negron,ORG,20221
+Subaru,ORG,20221
+Officer Boulay,PERSON,20221
+Negron,ORG,20221
+Subaru,ORG,20221
+"May 16, 2017",DATE,20221
+six million dollar,MONEY,20221
+the City of Bridgeport,GPE,20221
+Jayson Negron,ORG,20221
+Little Brother”,WORK_OF_ART,20221
+two,CARDINAL,20221
+Jayson Negron’s,ORG,20221
+Negron,PERSON,20221
+the night,TIME,20221
+2,CARDINAL,20221
+1,MONEY,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Bridgeport,GPE,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+#1,CARDINAL,20221
+two,CARDINAL,20221
+Bridgeport,GPE,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Fairfield Avenue,FAC,20221
+Fairfield Avenue,FAC,20221
+Honda,ORG,20221
+Honda,ORG,20221
+Bridgeport,GPE,20221
+the beginning of the,DATE,20221
+Walgreens,PERSON,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Civilian Witness,ORG,20221
+#1,CARDINAL,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Honda,ORG,20221
+Civilian Witness,PERSON,20221
+#1,CARDINAL,20221
+Civilian Witness,ORG,20221
+#1,CARDINAL,20221
+1,MONEY,20221
+Walgreens,PERSON,20221
+Civilian Witness,ORG,20221
+#1,CARDINAL,20221
+Honda,ORG,20221
+1,MONEY,20221
+1,MONEY,20221
+3,CARDINAL,20221
+2,MONEY,20221
+Pontiac,ORG,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Bridgeport,GPE,20221
+Civilian Witness,ORG,20221
+2,MONEY,20221
+Bridgeport,GPE,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Civilian Witness,ORG,20221
+2,MONEY,20221
+Civilian Witness #2,ORG,20221
+Civilian Witness,ORG,20221
+2,MONEY,20221
+3,CARDINAL,20221
+4,CARDINAL,20221
+Civilian Witness #2,ORG,20221
+Civilian Witness,ORG,20221
+2,MONEY,20221
+2,MONEY,20221
+2,MONEY,20221
+4,CARDINAL,20221
+#3,CARDINAL,20221
+Hyundai,ORG,20221
+Sonata,PRODUCT,20221
+Fairfield Avenue,FAC,20221
+Honda,ORG,20221
+Civilian Witness,ORG,20221
+#1,CARDINAL,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+approximately sixty feet,QUANTITY,20221
+#3,CARDINAL,20221
+Bridgeport,GPE,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Civilian Witness,ORG,20221
+#3,CARDINAL,20221
+Subaru,ORG,20221
+a few inches,QUANTITY,20221
+a matter of seconds,TIME,20221
+Fairfield Avenue,FAC,20221
+Subaru,ORG,20221
+#3,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+between two,CARDINAL,20221
+Civilian Witness,ORG,20221
+#3,CARDINAL,20221
+one,CARDINAL,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+#3,CARDINAL,20221
+#3,CARDINAL,20221
+Subaru,ORG,20221
+Civilian Witness,ORG,20221
+#3,CARDINAL,20221
+Hyundai,ORG,20221
+Civilian Witness,ORG,20221
+6,MONEY,20221
+first,ORDINAL,20221
+Subaru,ORG,20221
+Civilian Witness,ORG,20221
+#3,CARDINAL,20221
+Subaru,ORG,20221
+Civilian Witness,ORG,20221
+#3,CARDINAL,20221
+Subaru,ORG,20221
+#3,CARDINAL,20221
+Civilian Witness #3,ORG,20221
+Bridgeport,GPE,20221
+3,MONEY,20221
+3,MONEY,20221
+5,CARDINAL,20221
+Civilian Witness,ORG,20221
+4,MONEY,20221
+5,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+Park Avenue,FAC,20221
+approximately 200 feet,QUANTITY,20221
+Civilian Witness,ORG,20221
+4,MONEY,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Bridgeport,GPE,20221
+Walgreens,PERSON,20221
+Civilian Witness,ORG,20221
+Approximately fifteen minutes later,TIME,20221
+4,MONEY,20221
+4,MONEY,20221
+6,CARDINAL,20221
+5,MONEY,20221
+Fairfield Avenue,FAC,20221
+Park Avenue,FAC,20221
+Civilian Witness,ORG,20221
+5,MONEY,20221
+one,CARDINAL,20221
+Bridgeport,GPE,20221
+Connecticut State Police,ORG,20221
+5,MONEY,20221
+5,MONEY,20221
+7,CARDINAL,20221
+6,CARDINAL,20221
+Jeep,ORG,20221
+Subaru,ORG,20221
+CSP,ORG,20221
+Troop,ORG,20221
+Civilian Witness #6,ORG,20221
+seventeen,CARDINAL,20221
+Troop,ORG,20221
+second,ORDINAL,20221
+two,CARDINAL,20221
+Civilian Witness #6,ORG,20221
+Fairfield Avenue,FAC,20221
+30-40 feet,TIME,20221
+Walgreens,PERSON,20221
+Walgreens,PERSON,20221
+Civilian Witness #6,ORG,20221
+Jeep,ORG,20221
+6,MONEY,20221
+Civilian Witness,ORG,20221
+6,MONEY,20221
+Civilian Witness #,ORG,20221
+6,MONEY,20221
+Civilian Witness #,ORG,20221
+6,MONEY,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+Civilian Witness #6,ORG,20221
+third,ORDINAL,20221
+Subaru,ORG,20221
+third,ORDINAL,20221
+Negron,PERSON,20221
+6,MONEY,20221
+only two,CARDINAL,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+6,MONEY,20221
+Written Statement,ORG,20221
+6,MONEY,20221
+Bridgeport,GPE,20221
+eleven,CARDINAL,20221
+1,CARDINAL,20221
+Bridgeport,PERSON,20221
+James Boulay,PERSON,20221
+Officer Boulay,ORG,20221
+Bridgeport,GPE,20221
+four months and three days,DATE,20221
+"January 6, 2017",DATE,20221
+Internal Affairs,ORG,20221
+"June 14, 2017",DATE,20221
+approximately 1605 hours,TIME,20221
+James Boulay,PERSON,20221
+Eric Daigle,PERSON,20221
+James Boulay,PERSON,20221
+"May 9, 2017",DATE,20221
+1600 hours,TIME,20221
+2400 hours,TIME,20221
+Bridgeport,GPE,20221
+Amber 23,PRODUCT,20221
+Mario Pecirep,PERSON,20221
+Officer Pecirep,PERSON,20221
+Officer Boulay,ORG,20221
+Bridgeport Police Department Channel One,ORG,20221
+Gang Task Force Detective,ORG,20221
+James Borrico,PERSON,20221
+Subaru Forrester,ORG,20221
+Maplewood Avenue,FAC,20221
+Laurel Avenue,FAC,20221
+Bridgeport Police Department,ORG,20221
+Subaru,ORG,20221
+Washington Avenue,FAC,20221
+Detective Borrico,GPE,20221
+Bridgeport Police Department Dispatch,ORG,20221
+Subaru,ORG,20221
+Washington Avenue,FAC,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Detective Borrico,GPE,20221
+Pecirep,ORG,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+Fairfield Avenue,FAC,20221
+about 150 feet,QUANTITY,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+one,CARDINAL,20221
+Fairfield Avenue,FAC,20221
+Officer Pecirep,GPE,20221
+Fairfield Avenue,FAC,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Subaru,ORG,20221
+8,CARDINAL,20221
+Officer Boulay,ORG,20221
+at least one,CARDINAL,20221
+Subaru,ORG,20221
+Officer Boulay,PERSON,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Negron,ORG,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+Officer Boulay,PERSON,20221
+Jayson Negron,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Officer Boulay,ORG,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Jayson Negron,ORG,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+approximately 134 degrees,QUANTITY,20221
+quarter,DATE,20221
+Subaru,ORG,20221
+Detective Borrico,GPE,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Officer Boulay,PERSON,20221
+Saint Vincent’s,FAC,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+quarter,CARDINAL,20221
+Officer Boulay,ORG,20221
+Officer Boulay,ORG,20221
+the subsequent days,DATE,20221
+CSP,ORG,20221
+James Boulay,PERSON,20221
+2,CARDINAL,20221
+Bridgeport,PERSON,20221
+Mario Pecirep,PERSON,20221
+"June 14, 2017",DATE,20221
+approximately 1644 hours,TIME,20221
+Mario Pecirep,PERSON,20221
+Eric Daigle,PERSON,20221
+James Boulay,PERSON,20221
+two,CARDINAL,20221
+evening,TIME,20221
+the Bridgeport Police Department,ORG,20221
+Detective James Borrico,PERSON,20221
+Subaru Forrester,ORG,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Washington Avenue,FAC,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+Officer Pecirep,PERSON,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+one,CARDINAL,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Subaru,ORG,20221
+Pecirep,PERSON,20221
+10-32,DATE,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+Pecirep,PERSON,20221
+Pecirep,PERSON,20221
+Bridgeport Police Department Officer Diez,ORG,20221
+two,CARDINAL,20221
+Bridgeport,GPE,20221
+Bobby Jones,PERSON,20221
+Saint Vincent’s,FAC,20221
+Pecirep,PERSON,20221
+Subaru,ORG,20221
+Mario Pecirep,PERSON,20221
+Mario Pecirep,PERSON,20221
+3,CARDINAL,20221
+Bridgeport Detective,ORG,20221
+James Borrico,PERSON,20221
+Bridgeport,PERSON,20221
+James Borrico,PERSON,20221
+Bridgeport,GPE,20221
+Bridgeport,GPE,20221
+Officers Boulay,WORK_OF_ART,20221
+Pecirep,GPE,20221
+Negron,PERSON,20221
+the Subaru Forrester,ORG,20221
+Maplewood Avenue,FAC,20221
+the Bridgeport Police Department Dispatch,ORG,20221
+Detective Borrico,GPE,20221
+Officers Boulay,WORK_OF_ART,20221
+Pecirep,GPE,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Washington Avenue,FAC,20221
+Bridgeport,GPE,20221
+Amber 23,LAW,20221
+Officer Pecirep,GPE,20221
+Subaru,ORG,20221
+Detective Borrico,GPE,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+Borrico,GPE,20221
+Subaru,ORG,20221
+Bridgeport,GPE,20221
+Officers Boulay,WORK_OF_ART,20221
+Pecirep,GPE,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+second,ORDINAL,20221
+Subaru,ORG,20221
+Borrico,GPE,20221
+one,CARDINAL,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Borrico,GPE,20221
+Officer Boulay,PERSON,20221
+Subaru,ORG,20221
+Officer Boulay,PERSON,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Officer Boulay,PERSON,20221
+Negron,ORG,20221
+James Borrico,PERSON,20221
+Det,PERSON,20221
+James Borrico,PERSON,20221
+4,CARDINAL,20221
+Bridgeport,PERSON,20221
+Mark Blackwell,PERSON,20221
+Bridgeport,GPE,20221
+Mark Blackwell,PERSON,20221
+Detective Borrico,GPE,20221
+Shots Fired,WORK_OF_ART,20221
+Officer Boulay,ORG,20221
+Blackwell,PERSON,20221
+Walgreens,PERSON,20221
+Detective Borrico,GPE,20221
+Jayson Negron,PERSON,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Officer Blackwell,PERSON,20221
+Negron,PERSON,20221
+Blackwell,PERSON,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Officer Blackwell,PERSON,20221
+Bridgeport Police Department Dispatch,ORG,20221
+Blackwell,PERSON,20221
+Negron,PERSON,20221
+Bridgeport Police Dispatch,ORG,20221
+Blackwell,PERSON,20221
+Negron,PERSON,20221
+Blackwell,PERSON,20221
+Negron,PERSON,20221
+Mark Blackwell,PERSON,20221
+Mark Blackwell,PERSON,20221
+5,CARDINAL,20221
+Bridgeport,GPE,20221
+Carlos Carmo,PERSON,20221
+Carlos Carmo,PERSON,20221
+Shots Fired”,PRODUCT,20221
+Carmo,PERSON,20221
+Officers Pecirep,LOC,20221
+Diez,ORG,20221
+Subaru,ORG,20221
+Officer Carmo,PERSON,20221
+AMR,ORG,20221
+American Medical Response,ORG,20221
+AMR,ORG,20221
+Carlos Carmo,PERSON,20221
+Written Statement,ORG,20221
+Carlos Carmo,PERSON,20221
+6,CARDINAL,20221
+Bridgeport Sergeant Sean Lynch,ORG,20221
+"May 9, 2017",DATE,20221
+Sergeant Sean Lynch,ORG,20221
+the Green Sector,ORG,20221
+Sergeant Lynch,PERSON,20221
+Fairfield Avenue,FAC,20221
+Park Avenue,FAC,20221
+Shots Fired,WORK_OF_ART,20221
+Sergeant Lynch,PERSON,20221
+Jayson Negron,ORG,20221
+the Subaru on Fairfield Avenue,ORG,20221
+Negron,PERSON,20221
+Lynch,PERSON,20221
+Walgreens,PERSON,20221
+Sergeant Lynch,PERSON,20221
+Fairfield Avenue,FAC,20221
+Sean Lynch,PERSON,20221
+Written Statement of Sgt,ORG,20221
+Sean Lynch,PERSON,20221
+7,CARDINAL,20221
+1,CARDINAL,20221
+AMR,ORG,20221
+Robert Calzone,PERSON,20221
+American Medical Response Paramedic,ORG,20221
+AMR,ORG,20221
+Supervisor Robert Calzone,PERSON,20221
+thirty years,DATE,20221
+the Emergency Medical Services,ORG,20221
+Paramedic Calzone,ORG,20221
+the evening,TIME,20221
+"May 9, 2017",DATE,20221
+the Bridgeport Police Department,ORG,20221
+Paramedic Calzone,ORG,20221
+first,ORDINAL,20221
+AMR,ORG,20221
+1709 hours,TIME,20221
+Paramedic Calzone,ORG,20221
+first,ORDINAL,20221
+Jayson Negron,ORG,20221
+Bridgeport,GPE,20221
+Mark Blackwell,PERSON,20221
+Paramedic Calzone,ORG,20221
+second,ORDINAL,20221
+Subaru,ORG,20221
+Paramedic Calzone,ORG,20221
+Mass Casualty Incident,ORG,20221
+first,ORDINAL,20221
+Calzone,ORG,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Paramedic Calzone,ORG,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Paramedic Calzone,ORG,20221
+Negron,PERSON,20221
+Paramedic Calzone,ORG,20221
+Negron,PERSON,20221
+AMR,ORG,20221
+1715 hours,TIME,20221
+Subaru,ORG,20221
+Paramedic Calzone,PERSON,20221
+first,ORDINAL,20221
+Andrew Levino,PERSON,20221
+Kevin Handel,PERSON,20221
+Paramedic Calzone,PERSON,20221
+approximately five minutes,TIME,20221
+approximately 1722 hours,TIME,20221
+Robert Calzone,PERSON,20221
+Written Statement,ORG,20221
+Robert Calzone,PERSON,20221
+2,CARDINAL,20221
+AMR,ORG,20221
+Andrew Levino,PERSON,20221
+AMR,ORG,20221
+Andrew Levino,PERSON,20221
+Emergency Medical,ORG,20221
+Kevin Handel,PERSON,20221
+"May 9, 2017",DATE,20221
+Paramedic Levino,PERSON,20221
+1705 hours,TIME,20221
+approximately 1711 hours,TIME,20221
+Paramedic Levino,PERSON,20221
+Levino,PERSON,20221
+Bridgeport,GPE,20221
+the Bridgeport Hospital Emergency Department,ORG,20221
+a Trauma Alert,PERSON,20221
+Levino,PERSON,20221
+Andrew Levino,PERSON,20221
+Andrew Levino,PERSON,20221
+3,CARDINAL,20221
+AMR Emergency Medical Technician (EMT,ORG,20221
+Kevin Handel,PERSON,20221
+AMR,ORG,20221
+Kevin Handel,PERSON,20221
+"May 9, 2017",DATE,20221
+Paramedic Andrew Levino,PERSON,20221
+approximately 1705 hours,TIME,20221
+Supervisory Paramedic Calzone,ORG,20221
+Paramedic Levino,PERSON,20221
+Bridgeport Hospital,FAC,20221
+Kevin Handel,PERSON,20221
+Kevin Handel,PERSON,20221
+Detectives,ORG,20221
+the Patient Care Documentations,ORG,20221
+Run Sheets,WORK_OF_ART,20221
+Jayson Negron,ORG,20221
+first,ORDINAL,20221
+AMR,ORG,20221
+1,CARDINAL,20221
+Medical Records,ORG,20221
+James Boulay,PERSON,20221
+the same day,DATE,20221
+James Boulay,PERSON,20221
+WDMCS,GPE,20221
+the Saint Vincent’s Medical Center,FAC,20221
+James Boulay,PERSON,20221
+Saint Vincent’s,FAC,20221
+Jose Mejia,PERSON,20221
+5,CARDINAL,20221
+Medical Records of Officer Boulay,ORG,20221
+2,CARDINAL,20221
+Medical Records,ORG,20221
+Mario Pecirep,PERSON,20221
+Mario Pecirep,PERSON,20221
+a Saint Vincent’s,FAC,20221
+Left,LOC,20221
+Medical Records of Officer Pecirep,ORG,20221
+5,CARDINAL,20221
+Autopsy Results,PERSON,20221
+"May 10, 2017",DATE,20221
+Jayson Negron,ORG,20221
+M.D.,GPE,20221
+the Office of the Chief Medical Examiner,ORG,20221
+Farmington,GPE,20221
+Autopsy,ORG,20221
+the Cause of Death,ORG,20221
+Gunshot,PERSON,20221
+The Manner of Death,ORG,20221
+1,MONEY,20221
+Jayson Negron’s,ORG,20221
+Jayson Negron’s,ORG,20221
+Vincent,PERSON,20221
+Gunshot Wound,PERSON,20221
+2,MONEY,20221
+second,ORDINAL,20221
+Jayson Negron,ORG,20221
+Gunshot Wound,ORG,20221
+third,ORDINAL,20221
+Jayson Negron’s,ORG,20221
+Gunshot Wound,ORG,20221
+fourth,ORDINAL,20221
+Jayson Negron’s,ORG,20221
+Blunt Injuries of Head: The post mortem,WORK_OF_ART,20221
+three,CARDINAL,20221
+Jayson Negron’s,ORG,20221
+Blunt Injuries,ORG,20221
+the Left Upper Extremity,ORG,20221
+Jayson Negron’s,ORG,20221
+Two,CARDINAL,20221
+Jayson Negron,ORG,20221
+Jayson Negron,ORG,20221
+Tetrahydrocannabinol (THC),ORG,20221
+Carboxy THC,ORG,20221
+ng/mL,ORG,20221
+Ethanol,ORG,20221
+Detective John Kimball,PERSON,20221
+two,CARDINAL,20221
+Gregory Vincent,PERSON,20221
+M.D.,GPE,20221
+Jayson Negron,ORG,20221
+Vincent,PERSON,20221
+Jayson Negron’s,ORG,20221
+Jayson Negron,ORG,20221
+Negron,PERSON,20221
+minutes,TIME,20221
+Negron,PERSON,20221
+Jayson Negron,PERSON,20221
+Bridgeport,GPE,20221
+more than two miles,QUANTITY,20221
+Vincent,PERSON,20221
+Negron,PERSON,20221
+approximately 1702 hours,TIME,20221
+1710 hours,TIME,20221
+Jayson Negron’s,ORG,20221
+Vincent,PERSON,20221
+first,ORDINAL,20221
+Jayson Negron,ORG,20221
+Vincent,PERSON,20221
+first,ORDINAL,20221
+Jayson Negron’s,ORG,20221
+Jayson Negron,ORG,20221
+first,ORDINAL,20221
+6,CARDINAL,20221
+two,CARDINAL,20221
+first,ORDINAL,20221
+second,ORDINAL,20221
+7,CARDINAL,20221
+The Path of the Bullets,PERSON,20221
+Vincent,PERSON,20221
+four,CARDINAL,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+two,CARDINAL,20221
+Jayson Negron,ORG,20221
+two,CARDINAL,20221
+Bridgeport Hospital,FAC,20221
+Crime Van,PERSON,20221
+GSR,ORG,20221
+Jayson Negron,ORG,20221
+Smith & Wesson,ORG,20221
+Pecirep,PERSON,20221
+Pecirep,PERSON,20221
+Smith & Wesson,ORG,20221
+Sauer,PERSON,20221
+P238 .380,PRODUCT,20221
+Officer Boulay,ORG,20221
+Blauer,ORG,20221
+Apple iPhone 6 Plus,ORG,20221
+2012,DATE,20221
+2008,DATE,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+Subaru D/S,ORG,20221
+Jayson Negron,ORG,20221
+Subaru,ORG,20221
+.380,CARDINAL,20221
+"Subaru
+
+Latent",ORG,20221
+"Subaru
+
+Fingerprints & DNA Samples",ORG,20221
+Officer Boulay,ORG,20221
+Pecirep,PERSON,20221
+Officer Boulay,ORG,20221
+five,CARDINAL,20221
+Officer Boulay,ORG,20221
+second,ORDINAL,20221
+Sauer,PERSON,20221
+P238 .380,PRODUCT,20221
+Officer Boulay,ORG,20221
+The Sig Sauer,ORG,20221
+P238 .380,PRODUCT,20221
+five,CARDINAL,20221
+Officer Boulay,ORG,20221
+WDMCS,GPE,20221
+Jayson Negron,ORG,20221
+Exhibit #0058,ORG,20221
+Jayson Negron,ORG,20221
+WDMCS,GPE,20221
+Subaru,ORG,20221
+Exhibit #0099,ORG,20221
+Bridgeport Hospital,ORG,20221
+"May 10, 2017",DATE,20221
+Civilian Witness #7,ORG,20221
+#7,CARDINAL,20221
+Negron,PERSON,20221
+.380,NORP,20221
+twelve hours,TIME,20221
+the Forensic Lab,FAC,20221
+Officer Boulay,ORG,20221
+the Sig Sauer P238,ORG,20221
+Photographs of Exhibit #0086,ORG,20221
+Forensic Lab Report,WORK_OF_ART,20221
+Civilian Witness #8,ORG,20221
+fifth,ORDINAL,20221
+Civilian Witness,ORG,20221
+8,MONEY,20221
+James Boulay,PERSON,20221
+CSP,ORG,20221
+West Avenue,GPE,20221
+Fairfield Avenue,FAC,20221
+Fairfield Avenue,FAC,20221
+Park Avenue,FAC,20221
+1720 hours,TIME,20221
+Civilian Witness,ORG,20221
+8,MONEY,20221
+CSP,ORG,20221
+two,CARDINAL,20221
+one,CARDINAL,20221
+one minute and eight seconds,TIME,20221
+second,ORDINAL,20221
+one minute and 31 seconds,TIME,20221
+8,MONEY,20221
+8,MONEY,20221
+Civilian Witness,ORG,20221
+#1,CARDINAL,20221
+Civilian Witness,ORG,20221
+#2,CARDINAL,20221
+Civilian Witness,ORG,20221
+8,MONEY,20221
+Detective Grabowski,PERSON,20221
+"C. Social Media
+
+This event",ORG,20221
+Officer Boulay,ORG,20221
+Walgreens,PERSON,20221
+today,DATE,20221
+WDMCS,GPE,20221
+Twitter,PERSON,20221
+Instagram,ORG,20221
+CSP,ORG,20221
+The Connecticut State,ORG,20221
+Subaru,ORG,20221
+at least four,CARDINAL,20221
+some more than one,CARDINAL,20221
+At least one,CARDINAL,20221
+Subaru,ORG,20221
+Civilian Witness #6,ORG,20221
+Honda,ORG,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Walgreens,PERSON,20221
+Fairfield Avenue,FAC,20221
+first,ORDINAL,20221
+second,ORDINAL,20221
+Subaru,ORG,20221
+Bridgeport,GPE,20221
+2012,DATE,20221
+Jayson Negron,PERSON,20221
+2012,DATE,20221
+Subaru,ORG,20221
+Bridgeport,GPE,20221
+Subaru,ORG,20221
+Bridgeport,GPE,20221
+Subaru,ORG,20221
+approximately 134 degrees,QUANTITY,20221
+quarter,CARDINAL,20221
+quarter,DATE,20221
+quarter,DATE,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+Subaru,ORG,20221
+2005,DATE,20221
+Pontiac,ORG,20221
+Montana,GPE,20221
+quarter,CARDINAL,20221
+Subaru,ORG,20221
+Pontiac,ORG,20221
+Subaru,ORG,20221
+Pontiac,ORG,20221
+2008,DATE,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+1,MONEY,20221
+2008,DATE,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+quarter,CARDINAL,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+Honda,ORG,20221
+Subaru,ORG,20221
+Fairfield Avenue,FAC,20221
+Honda,ORG,20221
+2005,DATE,20221
+Pontiac,ORG,20221
+Montana,GPE,20221
+Civilian Witness #2,ORG,20221
+2005,DATE,20221
+Pontiac,ORG,20221
+Montana,GPE,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Subaru,ORG,20221
+Walgreens,PERSON,20221
+Civilian Witness,ORG,20221
+2,MONEY,20221
+Pontiac,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Pontiac,ORG,20221
+Scene Photos,PERSON,20221
+D.,NORP,20221
+2002,DATE,20221
+Jeep,ORG,20221
+Cherokee,PRODUCT,20221
+6,MONEY,20221
+Jeep,ORG,20221
+Cherokee,PRODUCT,20221
+Fairfield Avenue,FAC,20221
+Subaru,ORG,20221
+Jeep,ORG,20221
+Pontiac,ORG,20221
+Jeep,ORG,20221
+Jeep,ORG,20221
+quarter,CARDINAL,20221
+Civilian Witness,ORG,20221
+Jeep,ORG,20221
+Jeep Photos,PERSON,20221
+Bridgeport,GPE,20221
+Pecirep,PERSON,20221
+2013,DATE,20221
+Dodge,GPE,20221
+Connecticut,GPE,20221
+quarter,CARDINAL,20221
+Subaru,ORG,20221
+Jayson Negron,ORG,20221
+Bridgeport,GPE,20221
+Subaru,ORG,20221
+Walgreen,GPE,20221
+WDMCS,GPE,20221
+Subaru,ORG,20221
+the early morning hours,TIME,20221
+"April 12, 2017",DATE,20221
+the Subaru Forrester,ORG,20221
+Negron,PERSON,20221
+Shelton,GPE,20221
+Connecticut,GPE,20221
+2010,DATE,20221
+Nissan Rogue,ORG,20221
+"April 11, 2017",DATE,20221
+approximately 0500 hours,TIME,20221
+the Shelton Police Department,ORG,20221
+Shelton Police Department,ORG,20221
+0511 hours,TIME,20221
+"April 12, 2017",DATE,20221
+Shelton Police Department,ORG,20221
+NCIC,ORG,20221
+Nissan,ORG,20221
+"April 19, 2017",DATE,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+"April 12, 2017",DATE,20221
+"May 9, 2017",DATE,20221
+Search,ORG,20221
+Negron,PERSON,20221
+twenty-four hours,TIME,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Facebook Friends,WORK_OF_ART,20221
+"between April 18, 2017",DATE,20221
+"April 25, 2017",DATE,20221
+Negron,PERSON,20221
+Nissan,ORG,20221
+Subaru,ORG,20221
+"May 3, 2017",DATE,20221
+Negron,PERSON,20221
+Facebook Friend,ORG,20221
+Subaru,ORG,20221
+"May 4, 2017",DATE,20221
+Negron,PERSON,20221
+Facebook Messenger,PERSON,20221
+Maserati,PRODUCT,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+one,CARDINAL,20221
+Search and Seizure,ORG,20221
+Negron,PERSON,20221
+"May 5, 2017",DATE,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+"May 8, 2017",DATE,20221
+approximately 2330 hours,TIME,20221
+LPR,ORG,20221
+Subaru,ORG,20221
+approximately 327 feet,QUANTITY,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+Jayson Negron,ORG,20221
+"May 9, 2017",DATE,20221
+Shelton,PERSON,20221
+"April 12, 2017",DATE,20221
+Negron,PERSON,20221
+NCIC,ORG,20221
+"April 12, 2017",DATE,20221
+"May 9, 2017",DATE,20221
+Detective Borrico,PERSON,20221
+Shelton PD,PERSON,20221
+Stratford PD Stolen,PERSON,20221
+the Waterbury State’s,ORG,20221
+"May 9, 2017",DATE,20221
+the Office of the Waterbury State’s,ORG,20221
+"December 4, 2017",DATE,20221
+John Kimball,PERSON,20221
+CSP,ORG,20221
+WDMCS,GPE,20221
+only four,CARDINAL,20221
+Detective Kimball,ORG,20221
+the Office of the Waterbury State’s,ORG,20221
+"December 4, 2017",DATE,20221
+WDMCS,GPE,20221
+Detective Kimball,PERSON,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+State,ORG,20221
+a later date,DATE,20221
+hours,TIME,20221
+Sean Lynch,PERSON,20221
+the Bridgeport Police Department,ORG,20221
+Fairfield Avenue,FAC,20221
+Walgreens,PERSON,20221
+Negron,PERSON,20221
+the Bridgeport Police Department,ORG,20221
+CSP,ORG,20221
+Negron,PERSON,20221
+Officer Boulay,ORG,20221
+Bridgeport,GPE,20221
+Bridgeport,GPE,20221
+Mark Blackwell,PERSON,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Officer Blackwell,PERSON,20221
+Negron,PERSON,20221
+A few seconds later,TIME,20221
+Negron,PERSON,20221
+Officer Blackwell,PERSON,20221
+Blackwell,PERSON,20221
+Jayson Negron,ORG,20221
+Negron,PERSON,20221
+first,ORDINAL,20221
+between approximately 1702 hours,TIME,20221
+Negron,PERSON,20221
+1710 hours,TIME,20221
+Paramedic Supervisor Calzone,ORG,20221
+9,CARDINAL,20221
+Robert Calzone,PERSON,20221
+Written Statement,ORG,20221
+Mark Blackwell,PERSON,20221
+twelve seconds,TIME,20221
+first,ORDINAL,20221
+approximately eight minutes later,TIME,20221
+no fewer than five,CARDINAL,20221
+Bridgeport,GPE,20221
+Statements of Bridgeport,WORK_OF_ART,20221
+Subsection,EVENT,20221
+1,CARDINAL,20221
+third,ORDINAL,20221
+2,CARDINAL,20221
+Connecticut,GPE,20221
+1,CARDINAL,20221
+2,CARDINAL,20221
+third,ORDINAL,20221
+First,ORDINAL,20221
+Second,ORDINAL,20221
+State,ORG,20221
+Prioleau,ORG,20221
+235,CARDINAL,20221
+Conn.,GPE,20221
+274,CARDINAL,20221
+1995,DATE,20221
+State,ORG,20221
+Silveira,PERSON,20221
+198,CARDINAL,20221
+1986,DATE,20221
+State,ORG,20221
+643,CARDINAL,20221
+1999,DATE,20221
+The United States Supreme Court,ORG,20221
+20/20,CARDINAL,20221
+second,ORDINAL,20221
+Graham v. Connor,PERSON,20221
+490,CARDINAL,20221
+U.S.,GPE,20221
+109,CARDINAL,20221
+1865,DATE,20221
+104,CARDINAL,20221
+L. Ed,PERSON,20221
+2d 443,CARDINAL,20221
+1989,DATE,20221
+XI,ORG,20221
+Negron,PERSON,20221
+James Boulay,PERSON,20221
+Subaru,ORG,20221
+Jayson Negron,ORG,20221
+Officer Boulay’s,ORG,20221
+Detective Borrico,GPE,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+6,MONEY,20221
+Subaru,ORG,20221
+Officer Boulay’s,ORG,20221
+Subaru,ORG,20221
+134-degree,QUANTITY,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+Accord,PRODUCT,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+Officer Boulay,ORG,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Detective Borrico,GPE,20221
+Boulay,ORG,20221
+"May 9, 2017",DATE,20221
+Jayson Negron,ORG,20221
+Bridgeport,GPE,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+one,CARDINAL,20221
+Negron,PERSON,20221
+James Boulay,PERSON,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Officer Boulay,WORK_OF_ART,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Officer Boulay,ORG,20221
+Subaru,ORG,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+Officer Boulay,PERSON,20221
+Negron,PERSON,20221
+Officer Boulay,PERSON,20221
+Subaru,ORG,20221
+Honda,ORG,20221
+Civilian Witness,ORG,20221
+1,MONEY,20221
+Bridgeport,GPE,20221
+Officer Boulay,PERSON,20221
+Subaru,ORG,20221
+Negron,PERSON,20221
+Subaru,ORG,20221
+Connecticut General Statute Section 53a-22,ORG,20221
+Negron,PERSON,20221
+one,CARDINAL,20221
+Officer Boulay,PERSON,20221
+Negron,PERSON,20221
+Negron,PERSON,20221
+Connecticut,GPE,20221
+XII,ORG,20221
+Jayson Negron,PERSON,20221
+"May 9, 2017",DATE,20221
+James Boulay,PERSON,20221
+James Boulay,PERSON,20221
+Subaru,ORG,20221
+Jayson Negron,ORG,20221
+Officer Boulay,PERSON,20221
+Connecticut General Statute 53a-22,ORG,20221
+The Division of Criminal Justice,ORG,20221
+Maureen T. Platt,PERSON,20221

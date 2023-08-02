@@ -1,0 +1,481 @@
+[7Wx-Headline] [ANCHOR=Kim] [NEWSCAST=Cut-ins]
+
+[WRITER=kor]
+
+[TAPE#=none]
+
+[GRAPHIC=Mornin' Report]
+
+
+
+
+
+Good morning, I'm Kimberly McBroom...... This morning is a bit cooler than it was yesterday morning - so grab a jacket as you head out the door. Meterologist Leo Hirsbrunner has the complete forecast coming up right after the news.
+
+
+
+
+
+
+
+
+
+[7-11Bedford-Shooting]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=AM Cutin]
+
+[WRITER=rle]
+
+[TAPE#=02-17 TC21:34]
+
+[GRAPHIC=None]
+
+Bedford County officials are still debating exactly what caused a man to commit a double murder.
+
+(------------)
+
+[VO-NAT - :19]
+
+[SUPER=03-Bedford Co./Tuesday Night;]
+
+At around 8 o-clock Tuesday night, a man called the Sheriff department saying his wife, 50 year old Malinda Smith, and his mother, 72 year old (VIR-gee) Virgie Smith had been shot by an intruder. Deputies say the shooter was 72 year old Isaac George Abbott, and was no stranger to the Smith residence.
+
+(///// SOT /////)
+
+[SOT - 06:02]
+
+[IN Q=No relation other...]
+
+((MIKE BROWN/BEDFORD CO. SHERIFF; NO RELATION OTHER THAN THE ACQUAINTANCE, HE HAD BEEN TO THE HOUSE ON A NUMBER OF OCCASIONS.))
+
+[SUPER=01-Mike Brown/Bedford Co. Sheriff;]
+
+[RUNS=11]
+
+[OUT Q=a number of occasions.]
+
+(------------)
+
+[VO-NAT - :11]
+
+[SUPER=03-Roanoke/Yesterday Morning;]
+
+Several hours later, authorities say Abbott was seen in Malinda Smith's car on Interstate 81. After a short high speed chase, Roanoke City police say Abbott committed suicide on Route 2-20 near Colonial Avenue.
+
+(------------)
+
+[ANCHOR=Kim]
+
+[GRAPHIC=None]
+
+Pulaski County officials were also investigating Abbott. The Sheriff's Department says Tuesday night Abbott tried to abduct a man, and fired two gunshots at the victim but missed. Abbott was also wanted in Pulaski County on cocaine distribution charges.
+
+[7-11Warner-VDOT]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=AM Cutin]
+
+[WRITER=mmu]
+
+[TAPE#=01-62 TC2:02:17]
+
+[GRAPHIC=Warner]
+
+
+
+Governor Warner is getting help from a Virginia Tech graduate to help mend the state's transportation problems.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Richmond]
+
+
+
+Philip (Shoo-KET) Shucet will be the new commissioner of Virginia's Department of Transportation.
+
+Shucet inherits an agency struggling with cost overruns and project delays.
+
+The former Hokie feels he's the right person for the job.
+
+(///// SOT /////)
+
+[SOT]
+
+[IN Q=I BELIEVE THE]
+
+((PHILIP SHUCET/NEW VDOT COMMISSIONER: I BELIEVE THE NEEDS OF VDOT MATCH UP WITH THE SKILLS THAT I BRING FROM MY PAST PUBLIC AND PRIVATE SECTOR CAREER AND IT'S A MARVELOUS CHALLENGE. TRANSPORTATION IS NEAR AND DEAR TO MY HEART AS IS THE COMMONWEALTH.))
+
+[SUPER=01-Philip Shucet/New VDOT Commissioner]
+
+[RUNS=:16]
+
+[OUT Q=IS THE COMMONWEALTH.]
+
+(------------)
+
+[VO-NAT]
+
+
+
+As VDOT Commissioner, (Shooe-KET) Shucet will oversee more than 10-thousad employees, a 3-point-2 billion dollar budget and the country's third largest highway system.
+
+(------------)
+
+
+
+[7-Blacksburg-Accident]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=Am Cutin]
+
+[WRITER=dse]
+
+[TAPE#=02-08 TC1:08:10]
+
+[GRAPHIC=Accident]
+
+An accident in Blacksburg yesterday left a motorcyclist trapped under a car.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Blacksburg]
+
+
+
+Police say Gabriel Herrera Henderson of Blacksburg lost control of his motorcycle and slid under another vehicle just before four o-clock yesterday afternoon.
+
+Henderson was flown to Roanoke Memorial hospital. He is listed in stable condition this morning.
+
+(------------)
+
+
+
+[7-Relief-Center]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=AM Cutin]
+
+[WRITER=kor]
+
+[TAPE#=none]
+
+[GRAPHIC=none]
+
+
+
+The state is lending a hand to those in economic trouble in Southside.
+
+Officials have opened a relief center in South Boston.
+
+The Coordinated Economic Relief Center will provide direct access to assistance from the Governor's Economic Crisis Strike Force.
+
+Governor Warner says the relief center was established in South Boston because of its proximity to the Burlington Industries plant in Halifax County, which is closing in August. The governor created the Economic Crisis Strike Force minutes after his inauguration in January.
+
+[45-11Bedford-Shooting]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=morn]
+
+[WRITER=rle]
+
+[TAPE#=02-17 TC21:34]
+
+[GRAPHIC=None]
+
+Bedford County authorities are trying to piece together a motive for a double murder suicide.
+
+(------------)
+
+[VO-NAT - :19]
+
+[SUPER=03-Bedford Co./Tuesday Night;]
+
+At around 8 o-clock Tuesday night, a man called the Sheriff department saying his wife, 50 year old Malinda Smith, and his mother, 72 year old (VIR-gee) Virgie Smith had been shot by an intruder. Deputies say the shooter was 72 year old Isaac George Abbott, and was no stranger to the Smith residence.
+
+(///// SOT /////)
+
+[SOT - 06:02]
+
+[IN Q=No relation other...]
+
+((MIKE BROWN/BEDFORD CO. SHERIFF; NO RELATION OTHER THAN THE ACQUAINTANCE, HE HAD BEEN TO THE HOUSE ON A NUMBER OF OCCASIONS.))
+
+[SUPER=01-Mike Brown/Bedford Co. Sheriff;]
+
+[RUNS=11]
+
+[OUT Q=a number of occasions.]
+
+(------------)
+
+[VO-NAT - :11]
+
+[SUPER=03-Roanoke/Yesterday Morning;]
+
+Several hours later, authorities say Abbott was seen in Malinda Smith's car on Interstate 81. After a short high speed chase, Roanoke City police say Abbott committed suicide on Route 2-20 near Colonial Avenue.
+
+(------------)
+
+[ANCHOR=Kim]
+
+[GRAPHIC=None]
+
+Pulaski County officials were also investigating Abbott. The Sheriff's Department says Tuesday night Abbott tried to abduct a man, and fired two gunshots at the victim but missed. Abbott was also wanted in Pulaski County on cocaine distribution charges.
+
+[45-Falwell]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=AM Cutin]
+
+[WRITER=mjo]
+
+[TAPE#=02-09 TC1:00:51]
+
+[GRAPHIC=Jerry Falwell]
+
+The Reverend Jerry Falwell is moving forward with his plan to change a centuries- old state law that prohibits how much land a church can own.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Lynchburg/2001;]
+
+
+
+Falwell is building a new sanctuary for Thomas Road Baptist Church on 60 acres of land in Lynchburg... even though state law limits churches to just 15 acres.
+
+The law goes back 200 years ... and Falwell's lawyers say it's outdated and unconstitutional.
+
+In November, Falwell filed a similar lawsuit.
+
+But at that time, the state did not enforce the land restrictions, so the judge dismissed the case.
+
+Since then, the General Assembly has decided to enforce the law, so Falwell is renewing his fight.
+
+(------------)
+
+[ANCHOR=Kim]
+
+[GRAPHIC=None]
+
+
+
+Another suit, challenging the state law forbidding churches from incorporating, is going forward.
+
+[45-11Blacksburg-Accident]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=morn]
+
+[WRITER=dse]
+
+[TAPE#=02-08 TC1:08:10]
+
+[GRAPHIC=Accident]
+
+An accident in Blacksburg involving a motorcycle left a man pinned under a car.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Blacksburg]
+
+
+
+Police say Gabriel Herrera Henderson of Blacksburg lost control of his motorcycle and slid under another vehicle just before four o-clock yesterday afternoon.
+
+Henderson was flown to Roanoke Memorial hospital.
+
+He is listed in stable condition this morning.
+
+(------------)
+
+
+
+[45-11Carilion]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=AM Cutin]
+
+[WRITER=jmi]
+
+[TAPE#=02-07 TC1:02:18]
+
+[GRAPHIC=Carilion]
+
+
+
+Partnership is on the minds of Carilion Health System officials.
+
+They're looking to join forces with three or four health insurance companies within the next month or so.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Roanoke]
+
+
+
+Carilion says both Trigon and Southern Health have received draft letters of intent laying out terms for a possible partnership.
+
+MAMSI (Mam-zee) has not.
+
+There is the possibility that insurance companies who have no presence in Southwest Virginia could be chosen as partners, thereby opening up the market to competition.
+
+But some think it's possible your insurance rates could end up relatively higher, if your insurance company is NOT chosen as a partner.
+
+(------------)
+
+
+
+[8-11Rice]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=AM Cutin]
+
+[WRITER=khu]
+
+[TAPE#=02-05 TC1:25:50]
+
+[GRAPHIC=Darrell Rice]
+
+Virginia state officials are using the murders of two women in Virginia's Shenandoah National Park to set an example of non-tolerance to hate crimes, and to initiate support for new federal hate crimes legislation. The murder happened almost six years ago, but it wasn't until Tuesday...
+
+(------------)
+
+[VO-NAT]
+
+that a federal Grand Jury in Charlottesville returned the indictment against Darrell David Rice. He's charged with capital murder in the deaths of Julianne Williams and Lollie (Why-nans) Winans.
+
+[SUPER=03-Washington, DC]
+
+Though it's a Virginia case, the Attorney General himself wanted to take a stand against those who target victims for their sexual orientation.
+
+(///// SOT /////)
+
+[SOT 10:46:48]
+
+[IN Q=These families have]
+
+((JOHN ASHCROFT/US ATTORNEY GENERAL; THESE FAMILIES HAVE SUFFERED WHAT AMERICANS NOW KNOW ALL TOO WELL: THAT'S THE PAIN AND DESTRUCTION WROUGHT BY HATE.)) ((TOM WILLIAMS/VICTIM'S FATHER; MR. ASHCROFT STATED HATED CRIMES ARE A FORM OF TERRORISM IS AN APT ANALOGY.))
+
+[SUPER=01-John Ashcroft/U. S. Attorney General;]
+
+[SUPER=01-Tom Williams/Victim's Father; :07]
+
+[RUNS=18]
+
+[OUT Q=an apt analogy.]
+
+(-------------)
+
+[ANCHOR=Kim]
+
+[SS=Rice]
+
+A year after Winans and Williams were killed, Rice tried to abduct a woman in the Shenandoah National Park. Rice pled guilty to attempted abduction and is serving an 11 year sentence.
+
+[8-11Breaking-Silence]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=AM Cutin]
+
+[WRITER=mjo]
+
+[TAPE#=02-13 TC16:10]
+
+[GRAPHIC=Hate Crimes-Homosexual]
+
+
+
+Members of a Roanoke group that promotes tolerance are pleased to see the federal hate crimes law being used... but they'd be even happier to see Virginia follow suit.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Salem;]
+
+
+
+The Roanoke 7 joined students at Roanoke College last night in "Breaking the Silence" -- a ceremony urging gay and lesbian students to speak out.
+
+Dozens of participants at Roanoke College and Hollins University did NOT talk all day.
+
+Roanoke 7 -- named after the seven victims shot at the Backstreet Cafe almost two years ago -- aims to educate people about hate crimes.
+
+Misty Overstreet's uncle, Danny, was killed in the attack.
+
+(///// SOT /////)
+
+[SOT 1:13:22 - :33]
+
+[IN Q=If one group]
+
+((MISTY OVERSTREET/ROANOKE 7: IF ONE GROUP IS UNPROTECTED AND ONE GROUP OF PEOPLE ARE SINGLED OUT, THEN PEOPLE IN GENERAL ARE NOT PROTECTED. IF WE HAVE A DISTINCTION IN PEOPLE, THEN NO ONE IS SAFE AND THERE IS NO HARMONY.))
+
+[SUPER=01-Misty Overstreet/Roanoke 7;]
+
+[RUNS=:11]
+
+[OUT Q=no harmony.]
+
+(------------)
+
+[ANCHOR=Kim]
+
+[GRAPHIC=HOLD]
+
+
+
+Virginia DOES define racially-motivated crimes as hate crimes that can carry a stiffer penalty ...
+
+But the state is one of 28 in the country that does NOT recognize crimes motivated by sexual orientation as hate crimes.
+
+[8-11Blacksburg-Accident]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=morn]
+
+[WRITER=dse]
+
+[TAPE#=02-08 TC1:08:10]
+
+[GRAPHIC=Accident]
+
+
+
+A man is hospitalized after a motorcycle accident in Blacksburg that trapped him under a car.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Blacksburg]
+
+
+
+Police say Gabriel Herrera Henderson of Blacksburg lost control of his motorcycle and slid under another vehicle just before four o-clock yesterday afternoon.
+
+Henderson was flown to Roanoke Memorial hospital.
+
+This morning he is listed in stable condition. (------------)

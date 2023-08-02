@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,10470
+Alabama,GPE,10470
+Alaska,GPE,10470
+Arizona,GPE,10470
+Arkansas,GPE,10470
+California,GPE,10470
+Colorado,GPE,10470
+Connecticut,GPE,10470
+Delaware,GPE,10470
+Florida,GPE,10470
+Georgia,GPE,10470
+Hawaii,GPE,10470
+Idaho,GPE,10470
+Indiana,GPE,10470
+Iowa,GPE,10470
+Kansas,GPE,10470
+Kentucky,GPE,10470
+Louisiana,GPE,10470
+Maine,GPE,10470
+Maryland,GPE,10470
+Massachusetts,GPE,10470
+Michigan,GPE,10470
+Minnesota,GPE,10470
+Mississippi,GPE,10470
+Missouri,GPE,10470
+Montana,GPE,10470
+Nebraska,GPE,10470
+Nevada,GPE,10470
+New Hampshire,GPE,10470
+New Jersey,GPE,10470
+Ohio,GPE,10470
+Oklahoma,GPE,10470
+Oregon,GPE,10470
+Pennsylvania,GPE,10470
+Rhode Island,GPE,10470
+Tennessee,GPE,10470
+Texas,GPE,10470
+Utah,GPE,10470
+Vermont,GPE,10470
+Virginia,GPE,10470
+Washington,GPE,10470
+Washington,GPE,10470
+D.C.,GPE,10470
+Wisconsin,GPE,10470
+Wyoming,GPE,10470
+US,GPE,10470
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,10470
+Marshall Islands American Samoa Federated States,ORG,10470
+Micronesia Guam,FAC,10470
+Alberta,GPE,10470
+Canada,GPE,10470
+British Columbia,GPE,10470
+Canada Manitoba,GPE,10470
+Canada,GPE,10470
+New Brunswick,GPE,10470
+Canada Newfoundland,PERSON,10470
+Canada,GPE,10470
+Canada,GPE,10470
+Canada Ontario,GPE,10470
+Canada,GPE,10470
+Edward Island,GPE,10470
+Canada Quebec,GPE,10470
+Canada,GPE,10470
+Saskatchewan,GPE,10470
+Canada Yukon Territory,ORG,10470
+Canada,GPE,10470
+Zip Code,PERSON,10470

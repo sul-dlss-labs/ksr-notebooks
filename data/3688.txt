@@ -1,0 +1,60 @@
+Chavis v City of New York 2012 NY Slip Op 02561 Decided on April 5, 2012 Appellate Division, First Department Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431. This opinion is uncorrected and subject to revision before publication in the Official Reports.Decided on April 5, 2012Gonzalez, P.J., Friedman, Moskowitz, Acosta, Richter, JJ.6290 21167/06[*1]Danette Chavis, etc., Plaintiff-Respondent,The City of New York, et al., Defendants-Appellants, P.O. "John Doe," etc., Defendant.Michael A. Cardozo, Corporation Counsel, New York (AndrewLucas of counsel), for appellants.Burns & Harris, New York (Christopher J. Donadio ofcounsel), for respondent.
+
+Order, Supreme Court, Bronx County (Patricia Anne Williams, J.), entered February 22, 2011, which, to the extent appealed from, denied defendants-appellants' motion pursuant to CPLR 3211(a)(7) and CPLR 3212 to dismiss plaintiff's 42 USC § 1983 cause of action, unanimously reversed, on the law, without costs, and the motion granted. The Clerk is directed to enter judgment in favor of defendants City of New York and Detective Fisher dismissing the complaint.
+
+In this action, plaintiff Danette Chavis, the administrator of the estate of decedent Gregory Chavis (Chavis), alleges that defendants City of New York and Detective William Fisher (defendants) violated Chavis's civil rights by failing to ensure that he was provided with proper medical treatment after he was shot by an unidentified assailant [FN1]. The evidence before the motion court established that on the evening of October 9, 2004, Gregory Chavis and a group of friends were at a movie theater in the Bronx. After leaving the theater, they got into a verbal altercation with a group of people on the street. Two members of that group pulled out guns, and chased Chavis and his friends down the street, firing at them; Chavis was hit by one of the bullets.
+
+Officer Angel Irizzary submitted an affidavit stating that he was in his patrol car when he heard a call over the radio that shots had been fired. He arrived at College Avenue and East 148th Street, which is approximately one block away from Lincoln Hospital, where he saw Chavis and his friends. Irizarry got out of his car, realized Chavis had been shot, and immediately called for an ambulance. After walking about twenty feet, Chavis collapsed on the sidewalk; Irizarry then called for the ambulance to be rushed. According to Irizarry, from the time he heard the radio call of shots fired until the time EMS arrived, no more than five minutes had passed.
+
+Defendant Detective William Fisher testified at his deposition that on the date in [*2]question, he was at his desk when he heard a radio report that a man had been shot. Fisher left the station house and arrived on the scene in less than a minute. EMS was present when Fisher arrived, and he learned that they had already pronounced Chavis dead. Fisher testified that, from the time of the first 911 call until the time Chavis died, not more than five minutes had elapsed.
+
+The documentary evidence shows that starting at 9:26 p.m., several 911 calls were made reporting gunshots. The radio operator transmitted the job to patrol at 9:28 p.m. At 9:29 p.m., a request was made for an ambulance to be rushed to the scene. EMS arrived at 9:30 p.m, and pronounced Chavis dead at 9:32 p.m. The NYC Notice of Death similarly indicates that Chavis was pronounced dead at 9:32 p.m.
+
+Rashaad Conyers, a friend of Chavis, submitted an affidavit in opposition to the dismissal motion describing the events that evening. According to Conyers, upon realizing that Chavis had been shot, he and his brother helped Chavis walk toward Lincoln Hospital. As they were walking, police officers approached them and ordered them to put Chavis down. Conyers avers that an ambulance failed to arrive, and that Chavis died after remaining on the ground alive for over 30 minutes. Plaintiff testified at her deposition about a similar extended period during which an ambulance did not come.
+
+Plaintiff brought this action alleging that defendants, in violation of 42 USC § 1983, deprived Chavis of his Fourteenth Amendment right to substantive due process by denying him
+
+adequate and timely medical care [FN2]. Defendants moved to dismiss, asserting, inter alia, that Chavis had no constitutional right to medical treatment, and even if he did, that no constitutional right was violated. The court denied defendants' motion, and this appeal ensued. We now reverse and conclude that no constitutional violation occurred in the particular circumstances here.
+
+A plaintiff asserting a claim under 42 USC § 1983 must show that a person acting under the color of state law deprived plaintiff of a right, privilege or immunity secured by the Constitution or laws of the United States (see Matter of Giaquinto v Commissioner of N.Y. State Dept. of Health, 11 NY3d 179, 186 [2008]). The due process clause of the Fourteenth Amendment to the United States Constitution provides that "[n]o State shall . . . deprive any person of life, liberty or property, without due process of law." In DeShaney v Winnebago County Dept. of Social Servs. (489 US 189 [1989]), the Supreme Court observed that "nothing in the language of the Due Process Clause itself requires the State to protect . . . its citizens against invasion by private actors" (id. at 195). Thus, the Clause "generally confer[s] no affirmative right to governmental aid, even where such aid may be necessary to secure life, liberty, or property interests of which the government itself may not deprive the individual" (id. at 196).
+
+Defendants acknowledge that the Second Circuit has recognized two exceptions to this general principle. The state may owe a constitutional obligation to the victim of private violence "if the state had a special relationship with the victim" or "if its agents in some way had assisted in creating or increasing the danger to the victim" (Matican v City of New York, 524 F 3d 151, 155 [2d Cir 2008], cert denied 555 US 1047 [2008] [internal quotation marks and citations omitted]). Defendants argue that no special relationship existed, and that the assailant, not the [*3]state, created the danger that resulted in Chavis's death. Plaintiff counters that the police officers' actions both gave rise to a special relationship and increased the danger to Chavis.
+
+We need not determine whether either of the exceptions applies because even assuming a special relationship or state-exacerbated danger, plaintiff cannot show, as she must, that the police actions here shocked the conscience. In County of Sacramento v Lewis (523 US 833 [1998]), the Supreme Court held that for executive action to violate substantive due process, it must be "so egregious, so outrageous, that it may fairly be said to shock the contemporary conscience" (id. at 847 n 8). "[N]egligently inflicted harm is categorically beneath the threshold of constitutional due process, whereas the intentional infliction of injury is the conduct most likely to rise to the conscience-shocking level" (Matican, 524 F 3d at 158 [internal quotation marks omitted]). Culpability that falls "within the middle range . . . something more than negligence but less than intentional conduct, such as recklessness or gross negligence, is a matter for closer calls" (Lewis, 523 US at 849 [internal quotation marks omitted]). Although a state actor's deliberate indifference may, under some circumstances, rise to a conscience-shocking level, this ordinarily is not the case "in the context of a time-sensitive emergency" (Matican, 524 F 3d at 158), or where the defendants are "subject to the pull of competing obligations" (Lombardi v Whitman, 485 F 3d 73, 83 [2d Cir 2007]).
+
+The police officers' conduct here, even when viewing the facts in the light most favorable to plaintiff, does not shock the conscience, particularly in light of the emergency presented. Importantly, there is no claim that the police officers intentionally caused any physical harm to Chavis. To the contrary, the undisputed evidence before the motion court shows that when the responding officer encountered Chavis, he called for an ambulance. Upon recognizing the gravity of Chavis's injuries, he requested that the ambulance be rushed. In so doing, the officer acted reasonably in accord with the NYPD patrol guide, which directs that upon encountering an injured person requiring medical assistance, an officer should "[r]equest an ambulance . . . if necessary" and "[w]ait in view to direct the ambulance" (Patrol Guide Procedure No. 216-01).
+
+Plaintiff argues that the police officers' alleged conduct in stopping Chavis's friends and directing them to lay Chavis down is sufficient to establish a constitutional violation. We disagree. The police, in responding to a call of shots fired, came upon several individuals walking with an injured person. At that point, the police could not have known if Chavis's friends were good samaritans or the perpetrators of a crime. Nor would the officers have had any information to assess the truthfulness of the friends' claim that they were taking Chavis to the hospital. The officers also would not have been able to assess the potential medical risks of allowing Chavis and his friends to keep going, as opposed to laying the injured Chavis on the ground. Thus, it would have been entirely reasonable for the police to secure the scene, and wait for an ambulance to arrive. The circumstances presented show that the officers were faced with a number of "competing obligations" (Lombardi, 485 F 3d at 83), namely, obtaining medical assistance for Chavis, maintaining their own safety, determining the identity of the shooters, and preserving the crime scene. Put simply, it cannot be said that, "in the context of [this] time-sensitive emergency" (Matican, 524 F 3d at 158), the officers' alleged actions were shocking to the conscience.
+
+Nor is there anything, under the applicable § 1983 standards, conscience-shocking about the officers' decision to wait for the ambulance to arrive instead of going to the hospital themselves to summon emergency personnel to the scene. The only evidence supporting the view that they should have taken this alternative course of action is an affidavit submitted by a [*4]former police officer. This officer's opinion contradicts the clear directives of the patrol guide which require an officer to call for an ambulance and wait until it arrives. More importantly, that another method of obtaining medical care might have yielded faster results, or perhaps resulted in a different outcome, does not transform the officers' actions here into a constitutional violation. That the ambulance may not have arrived as fast as one would have hoped is tragic, but does not provide grounds for relief here.
+
+The § 1983 claim asserted against defendant Fisher should have been dismissed for the additional reason that the undisputed
+
+evidence shows that he did not arrive on the scene until after Chavis had died.[FN3]
+
+THIS CONSTITUTES THE DECISION AND ORDER
+
+OF THE SUPREME COURT, APPELLATE DIVISION, FIRST DEPARTMENT.
+
+ENTERED: APRIL 5, 2012
+
+CLERK Footnotes
+
+
+
+Footnote 1: Defendant P.O. "John Doe," who was also named in the complaint, is not a party to this appeal.
+
+
+
+Footnote 2: The complaint also asserted state tort claims, which were dismissed by the motion court due to plaintiff's failure to serve a notice of claim. The court's dismissal of those claims is not a subject of this appeal.
+
+
+
+Footnote 3: In the absence of a constitutional violation, we need not address the City's alternative argument that the officers were not acting pursuant to a municipal policy or custom (see Matican, 524 F 3d at 154). Nor, in light of our conclusion that defendants should have been granted summary judgment, do we decide whether the complaint should have been dismissed pursuant to CPLR 3211(a)(7).
+
+
+
+
+
+
+

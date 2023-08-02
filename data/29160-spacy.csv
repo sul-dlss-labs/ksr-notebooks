@@ -1,0 +1,32 @@
+text,label,fe_id
+20-year-old,DATE,29160
+Saugus,GPE,29160
+Wednesday,DATE,29160
+evening,TIME,29160
+The Los Angeles County Coroner-Medical Examiner’s Office,ORG,29160
+Brayden Madden,PERSON,29160
+Santa Clarita,GPE,29160
+6 p.m.,TIME,29160
+Bristol Way,ORG,29160
+Haskell Canyon Road,ORG,29160
+David Smith,PERSON,29160
+California Highway Patrol,FAC,29160
+Madden,GPE,29160
+Thursday,DATE,29160
+morning,TIME,29160
+Smith,GPE,29160
+Haskell Canyon Road,ORG,29160
+Bristol Way,FAC,29160
+Santa Clarita,GPE,29160
+"Wednesday, November 11, 2020",DATE,29160
+Dan Watson/,PERSON,29160
+Plum,ORG,29160
+Bouquet,ORG,29160
+California Highway Patrol,ORG,29160
+Elizabeth Kravig,PERSON,29160
+one,CARDINAL,29160
+SigAlert,ORG,29160
+7 p.m. through midnight,TIME,29160
+Thursday,DATE,29160
+Bristol Way,ORG,29160
+Haskell Canyon Road,LOC,29160

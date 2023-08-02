@@ -1,0 +1,23 @@
+text,label,fe_id
+32-year-old,DATE,3154
+yesterday,DATE,3154
+Renton,GPE,3154
+12-hour,TIME,3154
+Renton,PERSON,3154
+5:30 a.m.,TIME,3154
+1900,CARDINAL,3154
+Queen Avenue Northeast,FAC,3154
+24-year-old,DATE,3154
+Renton,PERSON,3154
+Penny Bartley,PERSON,3154
+morning,TIME,3154
+the afternoon,TIME,3154
+3:30 p.m.,TIME,3154
+Port of Seattle,FAC,3154
+5 p.m.,TIME,3154
+six,CARDINAL,3154
+King County,GPE,3154
+Tukwila,GPE,3154
+Harborview Medical Center,ORG,3154
+Nguyen Huy,PERSON,3154
+206-464-3292,CARDINAL,3154

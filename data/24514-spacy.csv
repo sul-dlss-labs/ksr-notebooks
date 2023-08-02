@@ -1,0 +1,45 @@
+text,label,fe_id
+Coroner,ORG,24514
+51-year-old,DATE,24514
+Kimberly Ambrose,PERSON,24514
+18,CARDINAL,24514
+Westminster,GPE,24514
+Denver,GPE,24514
+the weekend,DATE,24514
+the Westminster Police Department,ORG,24514
+Saturday,DATE,24514
+104th Avenue,FAC,24514
+Federal Boulevard,ORG,24514
+28-year-old,DATE,24514
+Jimmy Lee Cordova,PERSON,24514
+Westminster PD,PERSON,24514
+East 84th,LOC,24514
+Avenue,GPE,24514
+A few minutes later,TIME,24514
+911,CARDINAL,24514
+Cordova,ORG,24514
+Highway 36,FAC,24514
+Federal,ORG,24514
+the Adams and Broomfield Office,ORG,24514
+Coroner,NORP,24514
+Kimberly Ambrose,PERSON,24514
+51,DATE,24514
+Arvada,ORG,24514
+Westminster PD,PERSON,24514
+Cordova,ORG,24514
+91st Avenue,FAC,24514
+Sheridan Boulevard,PERSON,24514
+second,ORDINAL,24514
+Cordova,ORG,24514
+Cordova,ORG,24514
+first,ORDINAL,24514
+second,ORDINAL,24514
+third,ORDINAL,24514
+five,CARDINAL,24514
+six,CARDINAL,24514
+Denver,GPE,24514
+first,ORDINAL,24514
+Cordova,ORG,24514
+Cordova,ORG,24514
+the Colorado Bureau of Investigation,ORG,24514
+2008,DATE,24514

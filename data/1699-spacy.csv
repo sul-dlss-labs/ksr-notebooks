@@ -1,0 +1,24 @@
+text,label,fe_id
+CHICAGO,GPE,1699
+20-year-old,DATE,1699
+14-year-old,DATE,1699
+Jermaine Meeks,PERSON,1699
+1600,CARDINAL,1699
+South Komensky Avenue,LOC,1699
+Mt. Sinai Hospital,ORG,1699
+Sunday,DATE,1699
+Marquette District,LOC,1699
+Saturday,DATE,1699
+afternoon,TIME,1699
+16th Street,FAC,1699
+Komensky Avenue,FAC,1699
+Matthew Jackson,PERSON,1699
+second,ORDINAL,1699
+two,CARDINAL,1699
+Meeks,PERSON,1699
+14-year-old,DATE,1699
+first,ORDINAL,1699
+Jackson,PERSON,1699
+Meeks,PERSON,1699
+Meeks,PERSON,1699
+Jackson,PERSON,1699

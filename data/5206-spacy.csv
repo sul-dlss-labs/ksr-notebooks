@@ -1,0 +1,30 @@
+text,label,fe_id
+Chicago,GPE,5206
+Gage Park,GPE,5206
+Thursday,DATE,5206
+Juan Hernandez,PERSON,5206
+45,DATE,5206
+two,CARDINAL,5206
+5500,CARDINAL,5206
+South Washtenaw Avenue,LOC,5206
+about 10:15 p.m.,TIME,5206
+Wednesday,DATE,5206
+four,CARDINAL,5206
+Monique Bond,PERSON,5206
+Hernandez,ORG,5206
+Bond,ORG,5206
+Thursday,DATE,5206
+Hernandez,PERSON,5206
+9:15 p.m.,TIME,5206
+second,ORDINAL,5206
+Bond,ORG,5206
+Hernandez,ORG,5206
+English,LANGUAGE,5206
+Spanish,LANGUAGE,5206
+Bond,ORG,5206
+three,CARDINAL,5206
+Pat Camden,PERSON,5206
+19,CARDINAL,5206
+2006,DATE,5206
+nine,CARDINAL,5206
+Bond,ORG,5206

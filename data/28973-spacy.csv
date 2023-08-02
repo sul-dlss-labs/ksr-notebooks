@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,28973
+Alabama,GPE,28973
+Alaska,GPE,28973
+Arizona,GPE,28973
+Arkansas,GPE,28973
+California,GPE,28973
+Colorado,GPE,28973
+Connecticut,GPE,28973
+Delaware,GPE,28973
+Florida,GPE,28973
+Georgia,GPE,28973
+Hawaii,GPE,28973
+Idaho,GPE,28973
+Indiana,GPE,28973
+Iowa,GPE,28973
+Kansas,GPE,28973
+Kentucky,GPE,28973
+Louisiana,GPE,28973
+Maine,GPE,28973
+Maryland,GPE,28973
+Massachusetts,GPE,28973
+Michigan,GPE,28973
+Minnesota,GPE,28973
+Mississippi,GPE,28973
+Missouri,GPE,28973
+Montana,GPE,28973
+Nebraska,GPE,28973
+Nevada,GPE,28973
+New Hampshire,GPE,28973
+New Jersey,GPE,28973
+Ohio,GPE,28973
+Oklahoma,GPE,28973
+Oregon,GPE,28973
+Pennsylvania,GPE,28973
+Rhode Island,GPE,28973
+Tennessee,GPE,28973
+Texas,GPE,28973
+Utah,GPE,28973
+Vermont,GPE,28973
+Virginia,GPE,28973
+Washington,GPE,28973
+Washington,GPE,28973
+D.C.,GPE,28973
+Wisconsin,GPE,28973
+Wyoming,GPE,28973
+US,GPE,28973
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,28973
+Marshall Islands American Samoa Federated States,ORG,28973
+Micronesia Guam,FAC,28973
+Alberta,GPE,28973
+Canada,GPE,28973
+British Columbia,GPE,28973
+Canada Manitoba,GPE,28973
+Canada,GPE,28973
+New Brunswick,GPE,28973
+Canada Newfoundland,PERSON,28973
+Canada,GPE,28973
+Canada,GPE,28973
+Canada Ontario,GPE,28973
+Canada,GPE,28973
+Edward Island,GPE,28973
+Canada Quebec,GPE,28973
+Canada,GPE,28973
+Saskatchewan,GPE,28973
+Canada Yukon Territory,ORG,28973
+Canada,GPE,28973
+Zip Code,PERSON,28973

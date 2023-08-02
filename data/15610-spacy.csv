@@ -1,0 +1,30 @@
+text,label,fe_id
+South Gate,LOC,15610
+"Jan. 11, 2015",DATE,15610
+KTLA,ORG,15610
+South Gate,LOC,15610
+two,CARDINAL,15610
+early Sunday,DATE,15610
+one,CARDINAL,15610
+the Los Angeles County Sheriff’s Department,ORG,15610
+shortly before 4 a.m.,TIME,15610
+first,ORDINAL,15610
+Jack,PERSON,15610
+8900,CARDINAL,15610
+Atlantic Avenue,FAC,15610
+the Sheriff’s Department,ORG,15610
+second,ORDINAL,15610
+Annetta Avenue,FAC,15610
+second,ORDINAL,15610
+Annetta,ORG,15610
+Kauffman,GPE,15610
+8900,CARDINAL,15610
+Kauffman Avenue,FAC,15610
+the Sheriff’s Department,ORG,15610
+the Sheriff’s Department’s Homicide Bureau,ORG,15610
+323-890-5500,CARDINAL,15610
+Anonymous,PERSON,15610
+Crime Stoppers,PERSON,15610
+800,CARDINAL,15610
+KTLA,ORG,15610
+John A. Moreno,PERSON,15610

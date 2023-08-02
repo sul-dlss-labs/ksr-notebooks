@@ -1,0 +1,11 @@
+text,label,fe_id
+"July 3, 2010",DATE,9260
+CHICAGO,GPE,9260
+1 a.m.,TIME,9260
+47th,ORDINAL,9260
+King Drive,ORG,9260
+second,ORDINAL,9260
+Bianca White,ORG,9260
+only 23 years old,DATE,9260
+Jasmine White,PERSON,9260
+ITT,ORG,9260

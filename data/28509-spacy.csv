@@ -1,0 +1,26 @@
+text,label,fe_id
+Two,CARDINAL,28509
+a third,CARDINAL,28509
+Garden Grove,GPE,28509
+Thursday,DATE,28509
+shortly before 6 p.m.,TIME,28509
+Stanton,GPE,28509
+Katella Avenue,FAC,28509
+Beach Boulevard,FAC,28509
+Carrie Braun,PERSON,28509
+the Orange County Sheriff’s Department,ORG,28509
+About 2 miles,QUANTITY,28509
+Magnolia Street,FAC,28509
+Chapman Avenue,FAC,28509
+Braun,ORG,28509
+Garden Grove,GPE,28509
+Garden Grove,GPE,28509
+Sgt,PERSON,28509
+Lino Santana,PERSON,28509
+One,CARDINAL,28509
+third,ORDINAL,28509
+Santana,ORG,28509
+Orange County,GPE,28509
+Garden Grove,GPE,28509
+Thursday,DATE,28509
+night,TIME,28509

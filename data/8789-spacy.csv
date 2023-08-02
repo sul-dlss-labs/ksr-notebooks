@@ -1,0 +1,16 @@
+text,label,fe_id
+Glenview,GPE,8789
+Illinois,GPE,8789
+Sunday,DATE,8789
+evening,TIME,8789
+the Chicago Tribune,ORG,8789
+Arturas Kolgavas,PERSON,8789
+12,CARDINAL,8789
+Oaks,ORG,8789
+second,ORDINAL,8789
+around 4 p.m.,TIME,8789
+about an hour,TIME,8789
+Kogavas,PERSON,8789
+One,CARDINAL,8789
+Lutheran General Hospital,ORG,8789
+The Illinois State Police Public Integrity Unit,ORG,8789

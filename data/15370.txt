@@ -1,0 +1,43 @@
+ORDER
+
+CARLOS E. MENDOZA, District Judge.
+
+THIS CAUSE is before the Court on Plaintiff's Complaint (Doc. 1), which seeks judicial review of a final decision of the Commissioner of the Social Security Administration ("Commissioner") denying Plaintiff's applications for disability benefits. On March 7, 2018, United States Magistrate Judge Gregory J. Kelly issued a Report and Recommendation ("R&R," Doc. 18), in which he recommends that the Commissioner's final decision be affirmed. Plaintiff filed an Objection to the R&R ("Objection," Doc. 19). After an independent de novo review of the record, the Court will adopt and confirm the R&R. Plaintiff's Objection will be overruled, and the Commissioner's final decision will be affirmed.
+
+I. BACKGROUND
+
+On August 17, 2016, Plaintiff attended a hearing before an administrative law judge ("ALJ") to determine whether Plaintiff is entitled to disability benefits. (Documents Related to Administrative Process, Doc. 13-11, at 31-58). On December 22, 2016, the ALJ issued an unfavorable decision finding Plaintiff not disabled. (Id. at 5-23). Once the ALJ's decision became the final decision of the Commissioner, Plaintiff timely appealed the decision to this Court. 1 (See generally Doc. 1).
+
+On appeal, Plaintiff contends that the Commissioner's final decision should be reversed because substantial evidence does not support the ALJ's decision to give little weight to the opinions of Dr. Basil Keller and Dr. Fabio Roberti, her assessment of Plaintiff's credibility, or her findings regarding Plaintiff's residual functional capacity ("RFC"). (Joint Mem., Doc. 17, at 15-23, 27-29, 33-36). On referral, Judge Kelly rejected Plaintiff's arguments, concluding that substantial evidence supported each of the ALJ's findings. (Doc. 18 at 4-16). As such, Judge Kelly recommends that the Court affirm the Commissioner's final decision. (Id. at 16).
+
+II. LEGAL STANDARD
+
+Pursuant to 28 U.S.C. § 636(b)(1), when a party makes a timely objection, the Court shall review de novo any portions of a magistrate judge's report and recommendation concerning specific proposed findings or recommendations to which an objection is made. See also Fed. R. Civ. P. 72(b)(3). De novo review "require[s] independent consideration of factual issues based on the record." Jeffrey S. v. State Bd. of Educ. of Ga., 896 F.2d 507, 513 (11th Cir. 1990) (per curiam). The district court "may accept, reject, or modify, in whole or in part, the findings or recommendations made by the magistrate judge." 28 U.S.C. § 636(b)(1).
+
+III. ANALYSIS
+
+In her Objection to the R&R, Plaintiff essentially reiterates the arguments presented to Judge Kelly. Stated simply, Plaintiff objects to Judge Kelly's determination that substantial evidence supports the ALJ's decision to afford little weight to the opinions of Dr. Keller and Dr. Roberti, and Plaintiff objects to Judge Kelly's determination that substantial evidence supports the ALJ's assessment of her credibility. 2 (Doc. 19 at 2-6). However, after a de novo review of the record, the Court finds that Plaintiff's Objection is without merit. The Court agrees with Judge Kelly's well-reasoned analysis on both issues.
+
+A. The ALJ's Evaluation of Dr. Keller and Dr. Roberti's Medical Opinions
+
+Absent good cause, the opinion of a treating physician must be given substantial or considerable weight. Lamb v. Bowen, 847 F.2d 698, 703 (11th Cir. 1988). As such, an ALJ must "clearly articulate the reasons"—i.e., establish good cause—for giving a treating doctor's opinion less than substantial weight. Lewis v. Callahan, 125 F.3d 1436, 1440 (11th Cir. 1997). Good cause exists to give a treating physician's opinion less than substantial weight when the opinion is not bolstered by the evidence, the evidence supports a contrary finding, or the opinion is conclusory or inconsistent with the physician's medical records. Phillips v. Barnhart, 357 F.3d 1232, 1240-41 (11th Cir. 2004) (citing Callahan, 125 F.3d at 1440). An ALJ may not implicitly discount or ignore any medical opinion. See Winschel v. Comm'r of Soc. Sec., 631 F.3d 1176, 1178-79 (11th Cir. 2011). Instead, the ALJ clearly must articulate specific reasons for giving less weight to the opinion of a treating physician. Id. If those reasons are supported by substantial evidence, there is no reversible error. See Moore v. Barnhart, 405 F.3d 1208, 1211-12 (11th Cir. 2005).
+
+Despite Plaintiff's argument to the contrary, the ALJ did not "pick and choose" portions of the physicians' opinions that were favorable to her finding and ignore other portions of the opinions. The Court's review of the decision reveals that the ALJ provided a fair summary of the record evidence, including Plaintiff's allegations, the medical evidence, and the opinion evidence. Furthermore, the ALJ articulated multiple reasons for according little weight to the opinions of Dr. Keller and Dr. Roberti. (See Doc. 13-11 at 19-20). As explained in greater detail by Judge Kelly, each of those reasons were supported by substantial evidence. (See Doc. 18 at 4-13). Therefore, the ALJ did not err in assigning little weight to the medical opinion evidence.
+
+B. The ALJ's Assessment of Plaintiff's Credibility
+
+A claimant may establish "disability through h[er] own testimony of pain or other subjective symptoms." Dyer v. Barnhart, 395 F.3d 1206, 1210 (11th Cir. 2005). A claimant seeking to establish disability through his or her own testimony must show: "(1) evidence of an underlying medical condition; and (2) either (a) objective medical evidence confirming the severity of the alleged pain; or (b) that the objectively determined medical condition can reasonably be expected to give rise to the claimed pain." Wilson v. Barnhart, 284 F.3d 1219, 1225 (11th Cir. 2002) (per curiam). If the ALJ determines that the claimant has a medically determinable impairment that could reasonably produce the claimant's alleged pain or other symptoms, the ALJ must then evaluate the extent to which the intensity and persistence of those symptoms limit the claimant's ability to work. 20 C.F.R. § 416.929(c)(1). "If the ALJ decides not to credit a claimant's testimony . . ., [s]he must articulate explicit and adequate reasons for doing so." Foote v. Chater, 67 F.3d 1553, 1561-62 (11th Cir. 1995). A reviewing court will not disturb a clearly articulated credibility finding where there is substantial supporting evidence in the record. Id. at 1562.
+
+In the instant case, the ALJ did not find Plaintiff's allegations regarding the severity of her impairments credible and articulated several reasons for deciding not to fully credit Plaintiff's testimony. (See Doc. 13-11 at 14, 20-21). Plaintiff disagrees with the ALJ's credibility assessment but fails to point to any legitimate basis for usurping the ALJ's role as finder of fact and substituting a new credibility analysis for that of the ALJ. Instead, she points to evidence that ostensibly preponderates in favor of finding her testimony credible. But the issue is not whether there is evidence supporting Plaintiff's testimony concerning her impairments. Rather, the issue is whether there is substantial evidence, when viewing the record as a whole, to support the ALJ's reasons for discounting Plaintiff's credibility. See Edwards v. Sullivan, 937 F.2d 580, 584 n.3 (11th Cir. 1991) (explaining that an affirmance is warranted even if evidence preponderates against the Commissioner's decision so long as it is supported by substantial evidence). Here, the record—as a whole—includes substantial evidence to support the ALJ's credibility determination. Therefore, the Court finds no reversible error.
+
+IV. CONCLUSION
+
+Accordingly, it is ORDERED and ADJUDGED as follows:
+
+1. The Report and Recommendation (Doc. 18) is ADOPTED and CONFIRMED and made a part of this Order.
+
+2. The Objection (Doc. 19) is OVERRULED.
+
+3. The Commissioner's final decision is AFFIRMED.
+
+4. The Clerk is directed to enter judgment accordingly and close this case.

@@ -1,0 +1,20 @@
+text,label,fe_id
+One,CARDINAL,277
+at least six,CARDINAL,277
+Wednesday,DATE,277
+night,TIME,277
+four,CARDINAL,277
+Chicago State University,ORG,277
+95th Street,FAC,277
+King Drive,FAC,277
+Three,CARDINAL,277
+Christ Hospital and Medical Center,ORG,277
+Oak Lawn,GPE,277
+Cook County Hospital,FAC,277
+two,CARDINAL,277
+ages 52,DATE,277
+38,DATE,277
+Two,CARDINAL,277
+Little Company of Mary Hospital,ORG,277
+Health Care Center,ORG,277
+Evergreen Park,FAC,277

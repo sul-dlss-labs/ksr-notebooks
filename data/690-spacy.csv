@@ -1,0 +1,90 @@
+text,label,fe_id
+Friday,DATE,690
+Oxnard,ORG,690
+two,CARDINAL,690
+a day earlier,DATE,690
+second,ORDINAL,690
+a span of eight days,DATE,690
+Charles Joseph Valdez,PERSON,690
+22,DATE,690
+three,CARDINAL,690
+Oxnard,ORG,690
+about 12:15 p.m.,TIME,690
+Thursday,DATE,690
+Valdez,DATE,690
+Valdez,DATE,690
+about 1 p.m.,TIME,690
+Thursday,DATE,690
+St John’s Regional Medical Center in Oxnard,FAC,690
+Dist,PERSON,690
+Michael D. Bradbury,PERSON,690
+Roy Rogers,PERSON,690
+Bradbury,ORG,690
+Friday,DATE,690
+Craig Stevens,PERSON,690
+Valdez,GPE,690
+Stevens,PERSON,690
+Police Department,ORG,690
+Special Weapons and Tactics,ORG,690
+Jim Seitz,PERSON,690
+Friday,DATE,690
+the Oxnard Police Department,ORG,690
+second,ORDINAL,690
+as many weeks,DATE,690
+Oxnard SWAT,ORG,690
+Jan. 10,DATE,690
+SWAT,ORG,690
+Richard “Midget” Lopez,PERSON,690
+17-year-old,DATE,690
+the lunch hour,TIME,690
+Hueneme High School,ORG,690
+Valdez,DATE,690
+SWAT,ORG,690
+Thursday,DATE,690
+Lopez,NORP,690
+Valdez,PERSON,690
+Tacos La Placita,FAC,690
+Plaza Park,GPE,690
+Miguel Ernesto Tovar,PERSON,690
+Valdez,EVENT,690
+Valdez,DATE,690
+Valdez,EVENT,690
+One,CARDINAL,690
+Valdez,EVENT,690
+first,ORDINAL,690
+Oxnard,ORG,690
+Three,CARDINAL,690
+Times,ORG,690
+two,CARDINAL,690
+three,CARDINAL,690
+a few seconds later,TIME,690
+Valdez,PERSON,690
+Seitz,ORG,690
+Friday,DATE,690
+Valdez,EVENT,690
+Seitz,ORG,690
+first,ORDINAL,690
+Valdez,EVENT,690
+Nicole Carter,PERSON,690
+18,DATE,690
+the past four months,DATE,690
+seven months,DATE,690
+recent weeks,DATE,690
+Ojai to Oxnard,ORG,690
+Rio Mesa High School,ORG,690
+The day Valdez,DATE,690
+Carter,PERSON,690
+Ventura Motel,ORG,690
+6,CARDINAL,690
+Carter,PERSON,690
+Valdez,EVENT,690
+Carter,PERSON,690
+Valdez,DATE,690
+Carter,PERSON,690
+second,ORDINAL,690
+last fall,DATE,690
+Jess Gutierrez,PERSON,690
+last fall’s,DATE,690
+Police Department,ORG,690
+Gutierrez,PERSON,690
+the Hueneme High School,ORG,690

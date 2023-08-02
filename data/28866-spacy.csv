@@ -1,0 +1,44 @@
+text,label,fe_id
+The Wood River Police Department,ORG,28866
+14-year-old,DATE,28866
+Harry Linnen Jr.,PERSON,28866
+"St. Louis
+
+Example",GPE,28866
+5,CARDINAL,28866
+EDWARDSVILLE,GPE,28866
+Ill.,GPE,28866
+14-year-old,DATE,28866
+16-year-old,DATE,28866
+two,CARDINAL,28866
+Edwardsville,GPE,28866
+1 a.m.,TIME,28866
+Tuesday,DATE,28866
+two,CARDINAL,28866
+Wood River,LOC,28866
+Federico Chrysler,ORG,28866
+AutoCenters Nissan,PRODUCT,28866
+Chrysler,ORG,28866
+South Roxana,GPE,28866
+at least five,CARDINAL,28866
+Madison Avenue,FAC,28866
+Interstate 255,FAC,28866
+The Roxana Police Department,ORG,28866
+more than 120 mph,QUANTITY,28866
+About five miles,QUANTITY,28866
+Edwardsville,GPE,28866
+at least two,CARDINAL,28866
+One,CARDINAL,28866
+14-year-old,DATE,28866
+16-year-old,DATE,28866
+St. Louis,GPE,28866
+the Mitchell Fire Protection District,ORG,28866
+Hillsboro Fire Department,ORG,28866
+four hours,TIME,28866
+Edwardsville Fire,FAC,28866
+James Whiteford,PERSON,28866
+The Wood River Police Department,ORG,28866
+Tuesday,DATE,28866
+Harry Linnen Jr.,PERSON,28866
+St. Louis,GPE,28866
+The Illinois State Police,ORG,28866

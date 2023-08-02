@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,11241
+Alabama,GPE,11241
+Alaska,GPE,11241
+Arizona,GPE,11241
+Arkansas,GPE,11241
+California,GPE,11241
+Colorado,GPE,11241
+Connecticut,GPE,11241
+Delaware,GPE,11241
+Florida,GPE,11241
+Georgia,GPE,11241
+Hawaii,GPE,11241
+Idaho,GPE,11241
+Indiana,GPE,11241
+Iowa,GPE,11241
+Kansas,GPE,11241
+Kentucky,GPE,11241
+Louisiana,GPE,11241
+Maine,GPE,11241
+Maryland,GPE,11241
+Massachusetts,GPE,11241
+Michigan,GPE,11241
+Minnesota,GPE,11241
+Mississippi,GPE,11241
+Missouri,GPE,11241
+Montana,GPE,11241
+Nebraska,GPE,11241
+Nevada,GPE,11241
+New Hampshire,GPE,11241
+New Jersey,GPE,11241
+Ohio,GPE,11241
+Oklahoma,GPE,11241
+Oregon,GPE,11241
+Pennsylvania,GPE,11241
+Rhode Island,GPE,11241
+Tennessee,GPE,11241
+Texas,GPE,11241
+Utah,GPE,11241
+Vermont,GPE,11241
+Virginia,GPE,11241
+Washington,GPE,11241
+Washington,GPE,11241
+D.C.,GPE,11241
+Wisconsin,GPE,11241
+Wyoming,GPE,11241
+US,GPE,11241
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,11241
+Marshall Islands American Samoa Federated States,ORG,11241
+Micronesia Guam,FAC,11241
+Alberta,GPE,11241
+Canada,GPE,11241
+British Columbia,GPE,11241
+Canada Manitoba,GPE,11241
+Canada,GPE,11241
+New Brunswick,GPE,11241
+Canada Newfoundland,PERSON,11241
+Canada,GPE,11241
+Canada,GPE,11241
+Canada Ontario,GPE,11241
+Canada,GPE,11241
+Edward Island,GPE,11241
+Canada Quebec,GPE,11241
+Canada,GPE,11241
+Saskatchewan,GPE,11241
+Canada Yukon Territory,ORG,11241
+Canada,GPE,11241
+Zip Code,PERSON,11241

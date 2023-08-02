@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,28559
+Alabama,GPE,28559
+Alaska,GPE,28559
+Arizona,GPE,28559
+Arkansas,GPE,28559
+California,GPE,28559
+Colorado,GPE,28559
+Connecticut,GPE,28559
+Delaware,GPE,28559
+Florida,GPE,28559
+Georgia,GPE,28559
+Hawaii,GPE,28559
+Idaho,GPE,28559
+Indiana,GPE,28559
+Iowa,GPE,28559
+Kansas,GPE,28559
+Kentucky,GPE,28559
+Louisiana,GPE,28559
+Maine,GPE,28559
+Maryland,GPE,28559
+Massachusetts,GPE,28559
+Michigan,GPE,28559
+Minnesota,GPE,28559
+Mississippi,GPE,28559
+Missouri,GPE,28559
+Montana,GPE,28559
+Nebraska,GPE,28559
+Nevada,GPE,28559
+New Hampshire,GPE,28559
+New Jersey,GPE,28559
+Ohio,GPE,28559
+Oklahoma,GPE,28559
+Oregon,GPE,28559
+Pennsylvania,GPE,28559
+Rhode Island,GPE,28559
+Tennessee,GPE,28559
+Texas,GPE,28559
+Utah,GPE,28559
+Vermont,GPE,28559
+Virginia,GPE,28559
+Washington,GPE,28559
+Washington,GPE,28559
+D.C.,GPE,28559
+Wisconsin,GPE,28559
+Wyoming,GPE,28559
+US,GPE,28559
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,28559
+Marshall Islands American Samoa Federated States,ORG,28559
+Micronesia Guam,FAC,28559
+Alberta,GPE,28559
+Canada,GPE,28559
+British Columbia,GPE,28559
+Canada Manitoba,GPE,28559
+Canada,GPE,28559
+New Brunswick,GPE,28559
+Canada Newfoundland,PERSON,28559
+Canada,GPE,28559
+Canada,GPE,28559
+Canada Ontario,GPE,28559
+Canada,GPE,28559
+Edward Island,GPE,28559
+Canada Quebec,GPE,28559
+Canada,GPE,28559
+Saskatchewan,GPE,28559
+Canada Yukon Territory,ORG,28559
+Canada,GPE,28559
+Zip Code,PERSON,28559

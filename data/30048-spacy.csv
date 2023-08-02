@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,30048
+Alabama,GPE,30048
+Alaska,GPE,30048
+Arizona,GPE,30048
+Arkansas,GPE,30048
+California,GPE,30048
+Colorado,GPE,30048
+Connecticut,GPE,30048
+Delaware,GPE,30048
+Florida,GPE,30048
+Georgia,GPE,30048
+Hawaii,GPE,30048
+Idaho,GPE,30048
+Indiana,GPE,30048
+Iowa,GPE,30048
+Kansas,GPE,30048
+Kentucky,GPE,30048
+Louisiana,GPE,30048
+Maine,GPE,30048
+Maryland,GPE,30048
+Massachusetts,GPE,30048
+Michigan,GPE,30048
+Minnesota,GPE,30048
+Mississippi,GPE,30048
+Missouri,GPE,30048
+Montana,GPE,30048
+Nebraska,GPE,30048
+Nevada,GPE,30048
+New Hampshire,GPE,30048
+New Jersey,GPE,30048
+Ohio,GPE,30048
+Oklahoma,GPE,30048
+Oregon,GPE,30048
+Pennsylvania,GPE,30048
+Rhode Island,GPE,30048
+Tennessee,GPE,30048
+Texas,GPE,30048
+Utah,GPE,30048
+Vermont,GPE,30048
+Virginia,GPE,30048
+Washington,GPE,30048
+Washington,GPE,30048
+D.C.,GPE,30048
+Wisconsin,GPE,30048
+Wyoming,GPE,30048
+US,GPE,30048
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,30048
+Marshall Islands American Samoa Federated States,ORG,30048
+Micronesia Guam,FAC,30048
+Alberta,GPE,30048
+Canada,GPE,30048
+British Columbia,GPE,30048
+Canada Manitoba,GPE,30048
+Canada,GPE,30048
+New Brunswick,GPE,30048
+Canada Newfoundland,PERSON,30048
+Canada,GPE,30048
+Canada,GPE,30048
+Canada Ontario,GPE,30048
+Canada,GPE,30048
+Edward Island,GPE,30048
+Canada Quebec,GPE,30048
+Canada,GPE,30048
+Saskatchewan,GPE,30048
+Canada Yukon Territory,ORG,30048
+Canada,GPE,30048
+Zip Code,PERSON,30048

@@ -1,0 +1,39 @@
+text,label,fe_id
+26-year-old,DATE,30315
+late Thursday night,TIME,30315
+One,CARDINAL,30315
+four,CARDINAL,30315
+Thursday,DATE,30315
+night,TIME,30315
+two,CARDINAL,30315
+Holton,GPE,30315
+Jackson County Sheriff,ORG,30315
+Tim Morse,PERSON,30315
+Holton,GPE,30315
+2009,DATE,30315
+Holton,GPE,30315
+around 10:50 p.m.,TIME,30315
+Thursday,DATE,30315
+Avenger,PERSON,30315
+42-year-old,DATE,30315
+Topeka,GPE,30315
+286th Road,LOC,30315
+Highway 75,FAC,30315
+Jeep,ORG,30315
+Avenger,PERSON,30315
+19-year-old,DATE,30315
+Stormont Vail,PERSON,30315
+third,ORDINAL,30315
+Shai Boyd,PERSON,30315
+26,DATE,30315
+Topeka,GPE,30315
+Jeep,ORG,30315
+41-year-old,DATE,30315
+Topeka,GPE,30315
+52-year-old,DATE,30315
+Topeka,GPE,30315
+Jeep,ORG,30315
+Stormont Vail,ORG,30315
+The Kansas Highway Patrol,ORG,30315
+just after 3 a.m.,TIME,30315
+Holton,GPE,30315

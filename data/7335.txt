@@ -1,0 +1,13 @@
+Vehicle patrol operations handles the majority of landside calls for service along the waterfront, across five different cities, enforcing California state law in addition to local ordinance.
+
+BICYCLE PATROL
+
+A specially trained group of officers who patrol the Port's waterfront parks and adjacent piers and boardwalks around the bay, effectively curbing criminal activity.
+
+TRAFFIC COLLISION TEAM
+
+Highly trained officers responsible for the investigation of major vehicle collisions within the Port's jurisdiction, investigating collisions with serious inquiries or fatalities.
+
+HARBOR POLICE COMMAND VAN
+
+A mobile communications platform allowing for advanced interoperability with neighboring agencies, as well as remote camera surveillance, aiding in the protection of the critical incident command center and its personnel.

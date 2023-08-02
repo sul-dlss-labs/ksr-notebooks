@@ -1,0 +1,19 @@
+text,label,fe_id
+John Rico,PERSON,6433
+30,DATE,6433
+Latino,PERSON,6433
+Los Angeles,GPE,6433
+5243,DATE,6433
+Huntington Drive North,PERSON,6433
+El Sereno,GPE,6433
+9:31 p.m.,TIME,6433
+"Thursday, Aug. 9",DATE,6433
+Two,CARDINAL,6433
+Rico,LAW,6433
+Rico,PERSON,6433
+one,CARDINAL,6433
+Jeanette Flores,PERSON,6433
+32,DATE,6433
+Rico,LAW,6433
+County-USC,ORG,6433
+Good Samaritan Hospital,FAC,6433

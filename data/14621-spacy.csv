@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,14621
+Alabama,GPE,14621
+Alaska,GPE,14621
+Arizona,GPE,14621
+Arkansas,GPE,14621
+California,GPE,14621
+Colorado,GPE,14621
+Connecticut,GPE,14621
+Delaware,GPE,14621
+Florida,GPE,14621
+Georgia,GPE,14621
+Hawaii,GPE,14621
+Idaho,GPE,14621
+Indiana,GPE,14621
+Iowa,GPE,14621
+Kansas,GPE,14621
+Kentucky,GPE,14621
+Louisiana,GPE,14621
+Maine,GPE,14621
+Maryland,GPE,14621
+Massachusetts,GPE,14621
+Michigan,GPE,14621
+Minnesota,GPE,14621
+Mississippi,GPE,14621
+Missouri,GPE,14621
+Montana,GPE,14621
+Nebraska,GPE,14621
+Nevada,GPE,14621
+New Hampshire,GPE,14621
+New Jersey,GPE,14621
+Ohio,GPE,14621
+Oklahoma,GPE,14621
+Oregon,GPE,14621
+Pennsylvania,GPE,14621
+Rhode Island,GPE,14621
+Tennessee,GPE,14621
+Texas,GPE,14621
+Utah,GPE,14621
+Vermont,GPE,14621
+Virginia,GPE,14621
+Washington,GPE,14621
+Washington,GPE,14621
+D.C.,GPE,14621
+Wisconsin,GPE,14621
+Wyoming,GPE,14621
+US,GPE,14621
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,14621
+Marshall Islands American Samoa Federated States,ORG,14621
+Micronesia Guam,FAC,14621
+Alberta,GPE,14621
+Canada,GPE,14621
+British Columbia,GPE,14621
+Canada Manitoba,GPE,14621
+Canada,GPE,14621
+New Brunswick,GPE,14621
+Canada Newfoundland,PERSON,14621
+Canada,GPE,14621
+Canada,GPE,14621
+Canada Ontario,GPE,14621
+Canada,GPE,14621
+Edward Island,GPE,14621
+Canada Quebec,GPE,14621
+Canada,GPE,14621
+Saskatchewan,GPE,14621
+Canada Yukon Territory,ORG,14621
+Canada,GPE,14621
+Zip Code,PERSON,14621

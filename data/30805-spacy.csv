@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,30805
+Alabama,GPE,30805
+Alaska,GPE,30805
+Arizona,GPE,30805
+Arkansas,GPE,30805
+California,GPE,30805
+Colorado,GPE,30805
+Connecticut,GPE,30805
+Delaware,GPE,30805
+Florida,GPE,30805
+Georgia,GPE,30805
+Hawaii,GPE,30805
+Idaho,GPE,30805
+Indiana,GPE,30805
+Iowa,GPE,30805
+Kansas,GPE,30805
+Kentucky,GPE,30805
+Louisiana,GPE,30805
+Maine,GPE,30805
+Maryland,GPE,30805
+Massachusetts,GPE,30805
+Michigan,GPE,30805
+Minnesota,GPE,30805
+Mississippi,GPE,30805
+Missouri,GPE,30805
+Montana,GPE,30805
+Nebraska,GPE,30805
+Nevada,GPE,30805
+New Hampshire,GPE,30805
+New Jersey,GPE,30805
+Ohio,GPE,30805
+Oklahoma,GPE,30805
+Oregon,GPE,30805
+Pennsylvania,GPE,30805
+Rhode Island,GPE,30805
+Tennessee,GPE,30805
+Texas,GPE,30805
+Utah,GPE,30805
+Vermont,GPE,30805
+Virginia,GPE,30805
+Washington,GPE,30805
+Washington,GPE,30805
+D.C.,GPE,30805
+Wisconsin,GPE,30805
+Wyoming,GPE,30805
+US,GPE,30805
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,30805
+Marshall Islands American Samoa Federated States,ORG,30805
+Micronesia Guam,FAC,30805
+Alberta,GPE,30805
+Canada,GPE,30805
+British Columbia,GPE,30805
+Canada Manitoba,GPE,30805
+Canada,GPE,30805
+New Brunswick,GPE,30805
+Canada Newfoundland,PERSON,30805
+Canada,GPE,30805
+Canada,GPE,30805
+Canada Ontario,GPE,30805
+Canada,GPE,30805
+Edward Island,GPE,30805
+Canada Quebec,GPE,30805
+Canada,GPE,30805
+Saskatchewan,GPE,30805
+Canada Yukon Territory,ORG,30805
+Canada,GPE,30805
+Zip Code,PERSON,30805

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,8832
+Alabama,GPE,8832
+Alaska,GPE,8832
+Arizona,GPE,8832
+Arkansas,GPE,8832
+California,GPE,8832
+Colorado,GPE,8832
+Connecticut,GPE,8832
+Delaware,GPE,8832
+Florida,GPE,8832
+Georgia,GPE,8832
+Hawaii,GPE,8832
+Idaho,GPE,8832
+Indiana,GPE,8832
+Iowa,GPE,8832
+Kansas,GPE,8832
+Kentucky,GPE,8832
+Louisiana,GPE,8832
+Maine,GPE,8832
+Maryland,GPE,8832
+Massachusetts,GPE,8832
+Michigan,GPE,8832
+Minnesota,GPE,8832
+Mississippi,GPE,8832
+Missouri,GPE,8832
+Montana,GPE,8832
+Nebraska,GPE,8832
+Nevada,GPE,8832
+New Hampshire,GPE,8832
+New Jersey,GPE,8832
+Ohio,GPE,8832
+Oklahoma,GPE,8832
+Oregon,GPE,8832
+Pennsylvania,GPE,8832
+Rhode Island,GPE,8832
+Tennessee,GPE,8832
+Texas,GPE,8832
+Utah,GPE,8832
+Vermont,GPE,8832
+Virginia,GPE,8832
+Washington,GPE,8832
+Washington,GPE,8832
+D.C.,GPE,8832
+Wisconsin,GPE,8832
+Wyoming,GPE,8832
+US,GPE,8832
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,8832
+Marshall Islands American Samoa Federated States,ORG,8832
+Micronesia Guam,FAC,8832
+Alberta,GPE,8832
+Canada,GPE,8832
+British Columbia,GPE,8832
+Canada Manitoba,GPE,8832
+Canada,GPE,8832
+New Brunswick,GPE,8832
+Canada Newfoundland,PERSON,8832
+Canada,GPE,8832
+Canada,GPE,8832
+Canada Ontario,GPE,8832
+Canada,GPE,8832
+Edward Island,GPE,8832
+Canada Quebec,GPE,8832
+Canada,GPE,8832
+Saskatchewan,GPE,8832
+Canada Yukon Territory,ORG,8832
+Canada,GPE,8832
+Zip Code,PERSON,8832

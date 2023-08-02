@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,14569
+Alabama,GPE,14569
+Alaska,GPE,14569
+Arizona,GPE,14569
+Arkansas,GPE,14569
+California,GPE,14569
+Colorado,GPE,14569
+Connecticut,GPE,14569
+Delaware,GPE,14569
+Florida,GPE,14569
+Georgia,GPE,14569
+Hawaii,GPE,14569
+Idaho,GPE,14569
+Indiana,GPE,14569
+Iowa,GPE,14569
+Kansas,GPE,14569
+Kentucky,GPE,14569
+Louisiana,GPE,14569
+Maine,GPE,14569
+Maryland,GPE,14569
+Massachusetts,GPE,14569
+Michigan,GPE,14569
+Minnesota,GPE,14569
+Mississippi,GPE,14569
+Missouri,GPE,14569
+Montana,GPE,14569
+Nebraska,GPE,14569
+Nevada,GPE,14569
+New Hampshire,GPE,14569
+New Jersey,GPE,14569
+Ohio,GPE,14569
+Oklahoma,GPE,14569
+Oregon,GPE,14569
+Pennsylvania,GPE,14569
+Rhode Island,GPE,14569
+Tennessee,GPE,14569
+Texas,GPE,14569
+Utah,GPE,14569
+Vermont,GPE,14569
+Virginia,GPE,14569
+Washington,GPE,14569
+Washington,GPE,14569
+D.C.,GPE,14569
+Wisconsin,GPE,14569
+Wyoming,GPE,14569
+US,GPE,14569
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,14569
+Marshall Islands American Samoa Federated States,ORG,14569
+Micronesia Guam,FAC,14569
+Alberta,GPE,14569
+Canada,GPE,14569
+British Columbia,GPE,14569
+Canada Manitoba,GPE,14569
+Canada,GPE,14569
+New Brunswick,GPE,14569
+Canada Newfoundland,PERSON,14569
+Canada,GPE,14569
+Canada,GPE,14569
+Canada Ontario,GPE,14569
+Canada,GPE,14569
+Edward Island,GPE,14569
+Canada Quebec,GPE,14569
+Canada,GPE,14569
+Saskatchewan,GPE,14569
+Canada Yukon Territory,ORG,14569
+Canada,GPE,14569
+Zip Code,PERSON,14569

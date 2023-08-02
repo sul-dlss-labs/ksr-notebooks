@@ -1,0 +1,18 @@
+text,label,fe_id
+Calif.,GPE,31088
+Friday,DATE,31088
+morning,TIME,31088
+two,CARDINAL,31088
+National City,GPE,31088
+The National City Police Department,ORG,31088
+around 4:20 a.m.,TIME,31088
+Highway 54,FAC,31088
+NCPD,ORG,31088
+NCPD,ORG,31088
+two,CARDINAL,31088
+33rd Street,FAC,31088
+Hoover Avenue,FAC,31088
+Onscene,PERSON,31088
+first,ORDINAL,31088
+8:30 a.m.,TIME,31088
+NCPD,ORG,31088

@@ -1,0 +1,67 @@
+text,label,fe_id
+Dan Scanlan,PERSON,14223
+David Bauerlein,PERSON,14223
+21-year-old,DATE,14223
+Friday,DATE,14223
+night,TIME,14223
+Homer Ken Warren,PERSON,14223
+Jacksonville,GPE,14223
+Matthew Bolan,PERSON,14223
+13-year,DATE,14223
+Warren,PERSON,14223
+Division Street,FAC,14223
+25th Street,FAC,14223
+Tom Hackney,PERSON,14223
+second,ORDINAL,14223
+Bolan,ORG,14223
+Terrance J. Clark,PERSON,14223
+23,DATE,14223
+third,ORDINAL,14223
+Chrysler Sebring,ORG,14223
+Bolan,PERSON,14223
+Friday,DATE,14223
+night,TIME,14223
+the previous day,DATE,14223
+three,CARDINAL,14223
+Bolan,PERSON,14223
+Warren,PERSON,14223
+Clark,PERSON,14223
+Bolan,ORG,14223
+Hackney,PERSON,14223
+Warren,PERSON,14223
+Bolan,ORG,14223
+Warren,GPE,14223
+Bolan,PERSON,14223
+Hackney,PERSON,14223
+Warren,PERSON,14223
+60-day,DATE,14223
+last October,DATE,14223
+Bolan,PERSON,14223
+Martin Luther King Jr.,PERSON,14223
+one,CARDINAL,14223
+Friday,DATE,14223
+afternoon,TIME,14223
+93-year-old,DATE,14223
+Southside,LOC,14223
+Tom Hackney,PERSON,14223
+Bolan,ORG,14223
+Chrysler,ORG,14223
+Thursday,DATE,14223
+night,TIME,14223
+Calvin Avenue,FAC,14223
+Hackney,PERSON,14223
+Bolan,PERSON,14223
+about 6:20 p.m.,TIME,14223
+West 25th,DATE,14223
+Division,ORG,14223
+three,CARDINAL,14223
+Bolan,PERSON,14223
+two,CARDINAL,14223
+Division Street,FAC,14223
+UF Health,ORG,14223
+Jacksonville,GPE,14223
+Bolan,PERSON,14223
+first,ORDINAL,14223
+second,ORDINAL,14223
+Jacksonville,GPE,14223
+this year,DATE,14223

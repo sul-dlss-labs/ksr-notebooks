@@ -1,0 +1,64 @@
+text,label,fe_id
+Main Street,FAC,30032
+Branford,GPE,30032
+Tuesday,DATE,30032
+afternoon,TIME,30032
+Yale New Haven Hospital,ORG,30032
+Branford,GPE,30032
+EMS,ORG,30032
+Wednesday,DATE,30032
+morning,TIME,30032
+9:15 a.m.,TIME,30032
+some 200,CARDINAL,30032
+one,CARDINAL,30032
+today,DATE,30032
+Branford,GPE,30032
+around noon,TIME,30032
+Main Street,FAC,30032
+Cherry Hill Road,FAC,30032
+the early evening,TIME,30032
+One,CARDINAL,30032
+hundreds,CARDINAL,30032
+second,ORDINAL,30032
+first,ORDINAL,30032
+one,CARDINAL,30032
+SWAT,ORG,30032
+Bearcat,ORG,30032
+South Central,LOC,30032
+4:30 p.m.,TIME,30032
+Branford,GPE,30032
+first,ORDINAL,30032
+one,CARDINAL,30032
+O’Malley,ORG,30032
+Branford,GPE,30032
+the New Haven State’s,ORG,30032
+the Connecticut State,ORG,30032
+Christine Cohen,PERSON,30032
+Robin Comey,PERSON,30032
+Cohen,PERSON,30032
+South Central,LOC,30032
+just before 6 p.m.,TIME,30032
+Steve Milano,PERSON,30032
+Richlin Home and Auto,ORG,30032
+241,CARDINAL,30032
+first,ORDINAL,30032
+about 11:50 a.m.,TIME,30032
+As of 2:20 p.m.,TIME,30032
+he estimated 200-300,CARDINAL,30032
+some 85 feet,QUANTITY,30032
+Milano,PERSON,30032
+about a half-dozen,CARDINAL,30032
+241,CARDINAL,30032
+three,CARDINAL,30032
+first,ORDINAL,30032
+New Haven County,GPE,30032
+about a dozen,CARDINAL,30032
+Jacob Oslin,PERSON,30032
+16,DATE,30032
+second,ORDINAL,30032
+Connecticut State,ORG,30032
+the South Central Regional,LOC,30032
+Branford,GPE,30032
+Jessika Harkay,PERSON,30032
+Zach Murdock,PERSON,30032
+Christine Dempsey,PERSON,30032

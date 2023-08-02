@@ -1,0 +1,49 @@
+text,label,fe_id
+Sunday,DATE,29092
+second,ORDINAL,29092
+just over 24 hours,TIME,29092
+the Tennessee Bureau of Investigation,ORG,29092
+TBI,ORG,29092
+about 11:15 p.m.,TIME,29092
+1000,CARDINAL,29092
+Pheasant Court,ORG,29092
+Kingston Springs,GPE,29092
+Terry David Fox,PERSON,29092
+58,DATE,29092
+TBI,ORG,29092
+Fox,ORG,29092
+Fox,ORG,29092
+Fox,ORG,29092
+TBI,ORG,29092
+about 8:30 p.m.,TIME,29092
+Saturday,DATE,29092
+2300,CARDINAL,29092
+Petway Road,FAC,29092
+Three,CARDINAL,29092
+Cheatham County,GPE,29092
+At least one,CARDINAL,29092
+Michael Gurley,PERSON,29092
+Gurley,PERSON,29092
+County Sheriff,PERSON,29092
+Mike Breedlove,PERSON,29092
+Monday,DATE,29092
+TBI,ORG,29092
+District Attorney’s Office,ORG,29092
+every day,DATE,29092
+Breedlove,WORK_OF_ART,29092
+two,CARDINAL,29092
+24-48 hour,TIME,29092
+two,CARDINAL,29092
+Breedlove,WORK_OF_ART,29092
+one last night,TIME,29092
+two,CARDINAL,29092
+the United States,GPE,29092
+Meghan Mangrum,PERSON,29092
+Katie Nixon,PERSON,29092
+Community News,ORG,29092
+Nicole Young,PERSON,29092
+615-306-3570,CARDINAL,29092
+Natalie Neysa Alund,PERSON,29092
+Nashville,GPE,29092
+Tennessean,NORP,29092
+the USA TODAY Network,ORG,29092

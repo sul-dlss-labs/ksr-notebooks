@@ -1,0 +1,25 @@
+text,label,fe_id
+CHICAGO,GPE,1234
+Chicago,GPE,1234
+Calumet District,LOC,1234
+Julie Riggs,PERSON,1234
+44,DATE,1234
+Sunday,DATE,1234
+afternoon,TIME,1234
+Edward Riggs,PERSON,1234
+Pat Camden,PERSON,1234
+Cook County,GPE,1234
+Monday,DATE,1234
+Julie Riggs,PERSON,1234
+around 4:30 p.m.,TIME,1234
+Sunday,DATE,1234
+Roseland Community Hospital,ORG,1234
+Camden,PERSON,1234
+Julie Riggs,PERSON,1234
+Edward Riggs,PERSON,1234
+52,DATE,1234
+Saturday,DATE,1234
+evening,TIME,1234
+6800,CARDINAL,1234
+South St. Lawrence Avenue,ORG,1234
+Camden,GPE,1234

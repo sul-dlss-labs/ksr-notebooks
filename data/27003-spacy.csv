@@ -1,0 +1,15 @@
+text,label,fe_id
+Three,CARDINAL,27003
+fourth,ORDINAL,27003
+Friday,DATE,27003
+morning,TIME,27003
+Los Angeles,GPE,27003
+around 4 a.m.,TIME,27003
+1700,CARDINAL,27003
+Sunset Boulevard,FAC,27003
+Tony,PERSON,27003
+the Los Angeles Police Department,ORG,27003
+Infiniti,ORG,27003
+the 101 Freeway,FAC,27003
+the Rampart Boulevard,FAC,27003
+Echo Park,GPE,27003

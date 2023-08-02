@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,26326
+Alabama,GPE,26326
+Alaska,GPE,26326
+Arizona,GPE,26326
+Arkansas,GPE,26326
+California,GPE,26326
+Colorado,GPE,26326
+Connecticut,GPE,26326
+Delaware,GPE,26326
+Florida,GPE,26326
+Georgia,GPE,26326
+Hawaii,GPE,26326
+Idaho,GPE,26326
+Indiana,GPE,26326
+Iowa,GPE,26326
+Kansas,GPE,26326
+Kentucky,GPE,26326
+Louisiana,GPE,26326
+Maine,GPE,26326
+Maryland,GPE,26326
+Massachusetts,GPE,26326
+Michigan,GPE,26326
+Minnesota,GPE,26326
+Mississippi,GPE,26326
+Missouri,GPE,26326
+Montana,GPE,26326
+Nebraska,GPE,26326
+Nevada,GPE,26326
+New Hampshire,GPE,26326
+New Jersey,GPE,26326
+Ohio,GPE,26326
+Oklahoma,GPE,26326
+Oregon,GPE,26326
+Pennsylvania,GPE,26326
+Rhode Island,GPE,26326
+Tennessee,GPE,26326
+Texas,GPE,26326
+Utah,GPE,26326
+Vermont,GPE,26326
+Virginia,GPE,26326
+Washington,GPE,26326
+Washington,GPE,26326
+D.C.,GPE,26326
+Wisconsin,GPE,26326
+Wyoming,GPE,26326
+US,GPE,26326
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,26326
+Marshall Islands American Samoa Federated States,ORG,26326
+Micronesia Guam,FAC,26326
+Alberta,GPE,26326
+Canada,GPE,26326
+British Columbia,GPE,26326
+Canada Manitoba,GPE,26326
+Canada,GPE,26326
+New Brunswick,GPE,26326
+Canada Newfoundland,PERSON,26326
+Canada,GPE,26326
+Canada,GPE,26326
+Canada Ontario,GPE,26326
+Canada,GPE,26326
+Edward Island,GPE,26326
+Canada Quebec,GPE,26326
+Canada,GPE,26326
+Saskatchewan,GPE,26326
+Canada Yukon Territory,ORG,26326
+Canada,GPE,26326
+Zip Code,PERSON,26326

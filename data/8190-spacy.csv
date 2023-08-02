@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,8190
+Alabama,GPE,8190
+Alaska,GPE,8190
+Arizona,GPE,8190
+Arkansas,GPE,8190
+California,GPE,8190
+Colorado,GPE,8190
+Connecticut,GPE,8190
+Delaware,GPE,8190
+Florida,GPE,8190
+Georgia,GPE,8190
+Hawaii,GPE,8190
+Idaho,GPE,8190
+Indiana,GPE,8190
+Iowa,GPE,8190
+Kansas,GPE,8190
+Kentucky,GPE,8190
+Louisiana,GPE,8190
+Maine,GPE,8190
+Maryland,GPE,8190
+Massachusetts,GPE,8190
+Michigan,GPE,8190
+Minnesota,GPE,8190
+Mississippi,GPE,8190
+Missouri,GPE,8190
+Montana,GPE,8190
+Nebraska,GPE,8190
+Nevada,GPE,8190
+New Hampshire,GPE,8190
+New Jersey,GPE,8190
+Ohio,GPE,8190
+Oklahoma,GPE,8190
+Oregon,GPE,8190
+Pennsylvania,GPE,8190
+Rhode Island,GPE,8190
+Tennessee,GPE,8190
+Texas,GPE,8190
+Utah,GPE,8190
+Vermont,GPE,8190
+Virginia,GPE,8190
+Washington,GPE,8190
+Washington,GPE,8190
+D.C.,GPE,8190
+Wisconsin,GPE,8190
+Wyoming,GPE,8190
+US,GPE,8190
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,8190
+Marshall Islands American Samoa Federated States,ORG,8190
+Micronesia Guam,FAC,8190
+Alberta,GPE,8190
+Canada,GPE,8190
+British Columbia,GPE,8190
+Canada Manitoba,GPE,8190
+Canada,GPE,8190
+New Brunswick,GPE,8190
+Canada Newfoundland,PERSON,8190
+Canada,GPE,8190
+Canada,GPE,8190
+Canada Ontario,GPE,8190
+Canada,GPE,8190
+Edward Island,GPE,8190
+Canada Quebec,GPE,8190
+Canada,GPE,8190
+Saskatchewan,GPE,8190
+Canada Yukon Territory,ORG,8190
+Canada,GPE,8190
+Zip Code,PERSON,8190

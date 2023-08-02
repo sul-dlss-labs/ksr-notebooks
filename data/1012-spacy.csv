@@ -1,0 +1,21 @@
+text,label,fe_id
+Long Island,LOC,1012
+two,CARDINAL,1012
+Nassau County,GPE,1012
+Detective Sgt,ORG,1012
+Kevin Smith,PERSON,1012
+Roy Wright,PERSON,1012
+1701,CARDINAL,1012
+Kirkwood Ave,WORK_OF_ART,1012
+Merrick,GPE,1012
+four,CARDINAL,1012
+six,CARDINAL,1012
+12,CARDINAL,1012
+a Home Depot,ORG,1012
+Freeport,GPE,1012
+early yesterday,DATE,1012
+1:40 a.m.,TIME,1012
+Smith,PERSON,1012
+Wright,PERSON,1012
+one,CARDINAL,1012
+Smith,GPE,1012

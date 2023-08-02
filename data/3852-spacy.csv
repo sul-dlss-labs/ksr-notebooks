@@ -1,0 +1,57 @@
+text,label,fe_id
+$5 million,MONEY,3852
+one,CARDINAL,3852
+Orange County,GPE,3852
+Buena Park,FAC,3852
+George Wright,PERSON,3852
+Santiago College,ORG,3852
+Wright,PERSON,3852
+Buena Park,FAC,3852
+Federico Sayre,PERSON,3852
+Herrera,PERSON,3852
+Ron Furtado,PERSON,3852
+Juan Herrera,PERSON,3852
+two days,DATE,3852
+Christmas,DATE,3852
+2004,DATE,3852
+Herrera,PERSON,3852
+Herrera,ORG,3852
+23,DATE,3852
+Sayre,GPE,3852
+Furtado,PERSON,3852
+Buena Park,FAC,3852
+Tom Monson,PERSON,3852
+Jim Vanderpool,PERSON,3852
+Gary Worrall,PERSON,3852
+Kent Henderson,PERSON,3852
+Herrera,PERSON,3852
+Henderson,PERSON,3852
+Sayre,PERSON,3852
+Sayre,PERSON,3852
+Marcos Osoria,PERSON,3852
+"Dec. 23, 2004",DATE,3852
+two,CARDINAL,3852
+Furtado,PERSON,3852
+Steve Yakubovsky,PERSON,3852
+Grand Avenue,FAC,3852
+Jackson Street,FAC,3852
+Yakubovsky,ORG,3852
+Furtado,PERSON,3852
+Herrera,ORG,3852
+one,CARDINAL,3852
+Sayre,GPE,3852
+Furtado,PERSON,3852
+Marc Firestone,PERSON,3852
+Furtado,PERSON,3852
+Officer Furtado,WORK_OF_ART,3852
+Herrera,ORG,3852
+four,CARDINAL,3852
+third,ORDINAL,3852
+Herrera,ORG,3852
+Firestone,ORG,3852
+Furtado,PERSON,3852
+Herrera,ORG,3852
+Roger Clark,PERSON,3852
+Furtado,PERSON,3852
+the Riverside County District,FAC,3852
+714,CARDINAL,3852

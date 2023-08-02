@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,14094
+Alabama,GPE,14094
+Alaska,GPE,14094
+Arizona,GPE,14094
+Arkansas,GPE,14094
+California,GPE,14094
+Colorado,GPE,14094
+Connecticut,GPE,14094
+Delaware,GPE,14094
+Florida,GPE,14094
+Georgia,GPE,14094
+Hawaii,GPE,14094
+Idaho,GPE,14094
+Indiana,GPE,14094
+Iowa,GPE,14094
+Kansas,GPE,14094
+Kentucky,GPE,14094
+Louisiana,GPE,14094
+Maine,GPE,14094
+Maryland,GPE,14094
+Massachusetts,GPE,14094
+Michigan,GPE,14094
+Minnesota,GPE,14094
+Mississippi,GPE,14094
+Missouri,GPE,14094
+Montana,GPE,14094
+Nebraska,GPE,14094
+Nevada,GPE,14094
+New Hampshire,GPE,14094
+New Jersey,GPE,14094
+Ohio,GPE,14094
+Oklahoma,GPE,14094
+Oregon,GPE,14094
+Pennsylvania,GPE,14094
+Rhode Island,GPE,14094
+Tennessee,GPE,14094
+Texas,GPE,14094
+Utah,GPE,14094
+Vermont,GPE,14094
+Virginia,GPE,14094
+Washington,GPE,14094
+Washington,GPE,14094
+D.C.,GPE,14094
+Wisconsin,GPE,14094
+Wyoming,GPE,14094
+US,GPE,14094
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,14094
+Marshall Islands American Samoa Federated States,ORG,14094
+Micronesia Guam,FAC,14094
+Alberta,GPE,14094
+Canada,GPE,14094
+British Columbia,GPE,14094
+Canada Manitoba,GPE,14094
+Canada,GPE,14094
+New Brunswick,GPE,14094
+Canada Newfoundland,PERSON,14094
+Canada,GPE,14094
+Canada,GPE,14094
+Canada Ontario,GPE,14094
+Canada,GPE,14094
+Edward Island,GPE,14094
+Canada Quebec,GPE,14094
+Canada,GPE,14094
+Saskatchewan,GPE,14094
+Canada Yukon Territory,ORG,14094
+Canada,GPE,14094
+Zip Code,PERSON,14094

@@ -1,0 +1,12 @@
+text,label,fe_id
+Friday night,TIME,28517
+two,CARDINAL,28517
+Chicago,GPE,28517
+About 10:40 p.m.,TIME,28517
+400,CARDINAL,28517
+West 76th Street,DATE,28517
+A few minutes later,TIME,28517
+two,CARDINAL,28517
+the University of Chicago Medical Center,ORG,28517
+Four,CARDINAL,28517
+The Major Accidents Unit,ORG,28517

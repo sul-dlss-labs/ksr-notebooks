@@ -1,0 +1,74 @@
+text,label,fe_id
+Imperial County,GPE,7326
+one,CARDINAL,7326
+last year,DATE,7326
+at least 20,CARDINAL,7326
+Six,CARDINAL,7326
+this week,DATE,7326
+Jose Garcia,PERSON,7326
+U.S. Immigration and Customs Enforcement,ORG,7326
+San Diego,GPE,7326
+Alejandro Toribio Gama,PERSON,7326
+second,ORDINAL,7326
+Superior Court,ORG,7326
+El Centro,GPE,7326
+Toribio,PERSON,7326
+shortly before 11 p.m.,TIME,7326
+"July 18, 2008",DATE,7326
+Westmorland,PERSON,7326
+1997,DATE,7326
+GMC Suburban,ORG,7326
+Forty-five minutes later,TIME,7326
+Six,CARDINAL,7326
+10-year-old,DATE,7326
+12-year-old,DATE,7326
+Toribio,PERSON,7326
+two days later,DATE,7326
+Brawley,GPE,7326
+15,CARDINAL,7326
+16,DATE,7326
+$150 to $250,MONEY,7326
+$200 to $500,MONEY,7326
+Garcia,PERSON,7326
+$50 to $200,MONEY,7326
+Garcia,PERSON,7326
+McDonald’s,ORG,7326
+Westmorland,GPE,7326
+Highway 86,FAC,7326
+the California Highway Patrol,ORG,7326
+one,CARDINAL,7326
+"$2,000 to $2,500",MONEY,7326
+Los Angeles,GPE,7326
+Suburban,ORG,7326
+six,CARDINAL,7326
+Andres Avelino Velasco,PERSON,7326
+40,DATE,7326
+Angelica Contreras Reyes,PERSON,7326
+33,DATE,7326
+10-year-old,DATE,7326
+Juan Velasco,PERSON,7326
+San Pablo de los Remedios,GPE,7326
+Ixtlahuaca,GPE,7326
+Mexico,GPE,7326
+12-year-old,DATE,7326
+Ofelia Govea,PERSON,7326
+31,DATE,7326
+Leobardo Gutierrez Aparicio,PERSON,7326
+29,CARDINAL,7326
+Milagros Guadalupe Reyes,PERSON,7326
+28,CARDINAL,7326
+Gutierrez,PERSON,7326
+more than 24 hours later,TIME,7326
+Toribio,PERSON,7326
+Mexican,NORP,7326
+last summer,DATE,7326
+Border Patrol,ORG,7326
+Jose Morales,PERSON,7326
+the Border Patrol’s,ORG,7326
+San Diego,GPE,7326
+the United States,GPE,7326
+Morales,PERSON,7326
+Leslie Berestein,PERSON,7326
+619,CARDINAL,7326
+542,CARDINAL,7326
+leslie.berestein@uniontrib.com,ORG,7326

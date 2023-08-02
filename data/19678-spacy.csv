@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,19678
+United States,GPE,19678
+Canada Mexico,GPE,19678
+United Mexican,GPE,19678
+Bahamas,GPE,19678
+Commonwealth,GPE,19678
+Cuba,GPE,19678
+"Republic of Dominican Republic Haiti,",GPE,19678
+Republic of Jamaica,GPE,19678
+Afghanistan,GPE,19678
+Albania,GPE,19678
+People's Socialist Republic,ORG,19678
+Algeria,GPE,19678
+People's Democratic Republic of American,GPE,19678
+Angola,GPE,19678
+Republic of Anguilla Antarctica,ORG,19678
+South,LOC,19678
+Barbuda Argentina,PERSON,19678
+Argentine Republic,GPE,19678
+Armenia Aruba,PERSON,19678
+Australia,GPE,19678
+Commonwealth,GPE,19678
+Austria,GPE,19678
+Republic of Bahrain,ORG,19678
+Belgium,GPE,19678
+Kingdom of Belize Benin,ORG,19678
+People's Republic of Bermuda Bhutan,GPE,19678
+Kingdom of Bolivia,GPE,19678
+Republic of Bosnia,GPE,19678
+Botswana,GPE,19678
+Republic of Bouvet Island,ORG,19678
+Bouvetoya,GPE,19678
+Brazil,GPE,19678
+Federative Republic,GPE,19678
+British Virgin,GPE,19678
+Bulgaria,GPE,19678
+People's Republic of Burkina Faso Burundi,GPE,19678
+Republic of Cambodia,GPE,19678
+Kingdom of Cameroon,GPE,19678
+United Republic of Cape Verde,GPE,19678
+"Republic of Cayman Islands Central African Republic Chad,",ORG,19678
+Republic of Chile,ORG,19678
+Republic of China,ORG,19678
+People's Republic of Christmas Island,GPE,19678
+Colombia,GPE,19678
+Union of the Congo,ORG,19678
+Democratic Republic of Congo,GPE,19678
+People's Republic of Cook,GPE,19678
+Costa Rica,GPE,19678
+Ivory Coast,GPE,19678
+Republic Denmark,GPE,19678
+Kingdom of Djibouti,GPE,19678
+Republic of Dominica,GPE,19678
+Commonwealth,GPE,19678
+Ecuador,GPE,19678
+Republic of Egypt,GPE,19678
+Arab Republic,GPE,19678
+El Salvador,GPE,19678
+Republic of Equatorial Guinea,GPE,19678
+Republic of Eritrea,GPE,19678
+Estonia,GPE,19678
+Ethiopia,GPE,19678
+Malvinas,GPE,19678
+Fiji,GPE,19678
+Republic of the Fiji Islands Finland,ORG,19678
+Republic of France,GPE,19678
+French,NORP,19678
+French,NORP,19678
+Guiana,PERSON,19678
+French,NORP,19678
+Polynesia,GPE,19678
+Southern Territories Gabon,PRODUCT,19678
+Gabonese Republic Gambia,GPE,19678
+Georgia,GPE,19678
+Germany,GPE,19678
+Ghana,GPE,19678
+Republic of Gibraltar Greece,ORG,19678
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,19678
+Republic of Guinea,GPE,19678
+Revolutionary People's Rep'c,ORG,19678
+Guinea-Bissau,ORG,19678
+Republic of Heard,ORG,19678
+McDonald Islands Holy See,ORG,19678
+Vatican City State,GPE,19678
+Honduras,GPE,19678
+Republic of Hong Kong,GPE,19678
+Special Administrative Region of China,ORG,19678
+Hrvatska,PERSON,19678
+Croatia,GPE,19678
+Hungary,GPE,19678
+Hungarian People's Republic Iceland,PERSON,19678
+Republic of India,GPE,19678
+Republic of Indonesia,GPE,19678
+Republic of Iran,GPE,19678
+Islamic Republic of Iraq,GPE,19678
+Republic of Ireland,GPE,19678
+Israel,GPE,19678
+State of Italy,GPE,19678
+Italian,NORP,19678
+Japan,GPE,19678
+Jordan,GPE,19678
+Hashemite Kingdom of Kazakhstan,GPE,19678
+Republic of Kiribati,GPE,19678
+Republic of Korea,GPE,19678
+Democratic,NORP,19678
+Republic of Kuwait,ORG,19678
+Lao People's,PERSON,19678
+Latvia,GPE,19678
+Lebanon,GPE,19678
+Lebanese Republic Lesotho,GPE,19678
+Kingdom of Liberia,GPE,19678
+Lithuania Luxembourg,GPE,19678
+Special Administrative Region of China Macedonia,ORG,19678
+Yugoslav Republic of Madagascar,GPE,19678
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,19678
+Islamic Republic,GPE,19678
+Mayotte Micronesia,PERSON,19678
+Federated States,GPE,19678
+Moldova,GPE,19678
+Republic of Monaco,ORG,19678
+Principality,NORP,19678
+Morocco,GPE,19678
+Kingdom of Mozambique,ORG,19678
+Republic of Nepal,GPE,19678
+Netherlands,GPE,19678
+Kingdom,GPE,19678
+the New Caledonia New Zealand,ORG,19678
+Nicaragua,GPE,19678
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,19678
+Norway,GPE,19678
+Kingdom of Oman,GPE,19678
+Pakistan,GPE,19678
+Islamic Republic of,GPE,19678
+Occupied Panama,GPE,19678
+Republic of Peru,GPE,19678
+Republic of Philippines,GPE,19678
+Republic of the Pitcairn Island Poland,ORG,19678
+Polish,NORP,19678
+Republic Portugal,GPE,19678
+Portuguese Republic,GPE,19678
+Puerto Rico Qatar,GPE,19678
+State of Reunion Romania,ORG,19678
+Socialist Republic,GPE,19678
+Rwanda,GPE,19678
+Rwandese Republic Samoa,GPE,19678
+Independent State of San Marino,ORG,19678
+Republic of Sao Tome,ORG,19678
+Principe,GPE,19678
+Democratic Republic of Saudi Arabia,GPE,19678
+"Kingdom of Senegal, Republic of Serbia",GPE,19678
+Montenegro Seychelles,PERSON,19678
+Republic of Sierra Leone,ORG,19678
+Republic of Singapore,ORG,19678
+Republic of Slovakia,ORG,19678
+Slovak Republic,GPE,19678
+Slovenia Solomon Islands,GPE,19678
+Somalia,GPE,19678
+Somali Republic South Africa,GPE,19678
+Republic of South Georgia,GPE,19678
+Spain,GPE,19678
+Spanish,NORP,19678
+Sri Lanka,GPE,19678
+Democratic,NORP,19678
+Miquelon St. Vincent,PERSON,19678
+Democratic Republic,GPE,19678
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,19678
+Kingdom of Sweden,GPE,19678
+Kingdom of Switzerland,GPE,19678
+Swiss Confederation Syrian Arab Republic,ORG,19678
+Taiwan,GPE,19678
+China,GPE,19678
+Tanzania,GPE,19678
+United Republic of Thailand,GPE,19678
+Kingdom of Timor-Leste,GPE,19678
+Democratic Republic of Togo,GPE,19678
+Togolese Republic Tokelau,ORG,19678
+Tokelau,GPE,19678
+Tonga,GPE,19678
+Kingdom of Trinidad,ORG,19678
+Tobago,GPE,19678
+Republic of Tunisia,ORG,19678
+Republic of Turkey,GPE,19678
+Republic of Turkmenistan Turks,ORG,19678
+Uganda,GPE,19678
+Republic of Ukraine United Arab Emirates,GPE,19678
+United Kingdom of Great,GPE,19678
+Eastern Republic,GPE,19678
+Venezuela,GPE,19678
+Bolivarian Republic,GPE,19678
+Viet Nam,GPE,19678
+Socialist Republic,GPE,19678
+Yemen,GPE,19678
+Zambia,GPE,19678
+Republic of Zimbabwe,GPE,19678

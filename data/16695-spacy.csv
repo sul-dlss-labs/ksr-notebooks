@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,16695
+Alabama,GPE,16695
+Alaska,GPE,16695
+Arizona,GPE,16695
+Arkansas,GPE,16695
+California,GPE,16695
+Colorado,GPE,16695
+Connecticut,GPE,16695
+Delaware,GPE,16695
+Florida,GPE,16695
+Georgia,GPE,16695
+Hawaii,GPE,16695
+Idaho,GPE,16695
+Indiana,GPE,16695
+Iowa,GPE,16695
+Kansas,GPE,16695
+Kentucky,GPE,16695
+Louisiana,GPE,16695
+Maine,GPE,16695
+Maryland,GPE,16695
+Massachusetts,GPE,16695
+Michigan,GPE,16695
+Minnesota,GPE,16695
+Mississippi,GPE,16695
+Missouri,GPE,16695
+Montana,GPE,16695
+Nebraska,GPE,16695
+Nevada,GPE,16695
+New Hampshire,GPE,16695
+New Jersey,GPE,16695
+Ohio,GPE,16695
+Oklahoma,GPE,16695
+Oregon,GPE,16695
+Pennsylvania,GPE,16695
+Rhode Island,GPE,16695
+Tennessee,GPE,16695
+Texas,GPE,16695
+Utah,GPE,16695
+Vermont,GPE,16695
+Virginia,GPE,16695
+Washington,GPE,16695
+Washington,GPE,16695
+D.C.,GPE,16695
+Wisconsin,GPE,16695
+Wyoming,GPE,16695
+US,GPE,16695
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,16695
+Marshall Islands American Samoa Federated States,ORG,16695
+Micronesia Guam,FAC,16695
+Alberta,GPE,16695
+Canada,GPE,16695
+British Columbia,GPE,16695
+Canada Manitoba,GPE,16695
+Canada,GPE,16695
+New Brunswick,GPE,16695
+Canada Newfoundland,PERSON,16695
+Canada,GPE,16695
+Canada,GPE,16695
+Canada Ontario,GPE,16695
+Canada,GPE,16695
+Edward Island,GPE,16695
+Canada Quebec,GPE,16695
+Canada,GPE,16695
+Saskatchewan,GPE,16695
+Canada Yukon Territory,ORG,16695
+Canada,GPE,16695
+Zip Code,PERSON,16695

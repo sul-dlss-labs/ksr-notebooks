@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,24193
+Alabama,GPE,24193
+Alaska,GPE,24193
+Arizona,GPE,24193
+Arkansas,GPE,24193
+California,GPE,24193
+Colorado,GPE,24193
+Connecticut,GPE,24193
+Delaware,GPE,24193
+Florida,GPE,24193
+Georgia,GPE,24193
+Hawaii,GPE,24193
+Idaho,GPE,24193
+Indiana,GPE,24193
+Iowa,GPE,24193
+Kansas,GPE,24193
+Kentucky,GPE,24193
+Louisiana,GPE,24193
+Maine,GPE,24193
+Maryland,GPE,24193
+Massachusetts,GPE,24193
+Michigan,GPE,24193
+Minnesota,GPE,24193
+Mississippi,GPE,24193
+Missouri,GPE,24193
+Montana,GPE,24193
+Nebraska,GPE,24193
+Nevada,GPE,24193
+New Hampshire,GPE,24193
+New Jersey,GPE,24193
+Ohio,GPE,24193
+Oklahoma,GPE,24193
+Oregon,GPE,24193
+Pennsylvania,GPE,24193
+Rhode Island,GPE,24193
+Tennessee,GPE,24193
+Texas,GPE,24193
+Utah,GPE,24193
+Vermont,GPE,24193
+Virginia,GPE,24193
+Washington,GPE,24193
+Washington,GPE,24193
+D.C.,GPE,24193
+Wisconsin,GPE,24193
+Wyoming,GPE,24193
+US,GPE,24193
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,24193
+Marshall Islands American Samoa Federated States,ORG,24193
+Micronesia Guam,FAC,24193
+Alberta,GPE,24193
+Canada,GPE,24193
+British Columbia,GPE,24193
+Canada Manitoba,GPE,24193
+Canada,GPE,24193
+New Brunswick,GPE,24193
+Canada Newfoundland,PERSON,24193
+Canada,GPE,24193
+Canada,GPE,24193
+Canada Ontario,GPE,24193
+Canada,GPE,24193
+Edward Island,GPE,24193
+Canada Quebec,GPE,24193
+Canada,GPE,24193
+Saskatchewan,GPE,24193
+Canada Yukon Territory,ORG,24193
+Canada,GPE,24193
+Zip Code,PERSON,24193

@@ -1,0 +1,17 @@
+text,label,fe_id
+the Jacksonville Sheriff's Officer,ORG,31154
+5,CARDINAL,31154
+JACKSONVILLE,GPE,31154
+Fla,GPE,31154
+SWAT,ORG,31154
+Wednesday,DATE,31154
+evening,TIME,31154
+Hyde Park,LOC,31154
+about 5:30 p.m.,TIME,31154
+6300,CARDINAL,31154
+San Juan Avenue,GPE,31154
+Waters,ORG,31154
+Waters,NORP,31154
+Waters,ORG,31154
+second,ORDINAL,31154
+JSO,ORG,31154

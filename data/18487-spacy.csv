@@ -1,0 +1,29 @@
+text,label,fe_id
+five-hour,TIME,18487
+Philadelphia,GPE,18487
+Roxborough,GPE,18487
+Saturday,DATE,18487
+morning,TIME,18487
+29,CARDINAL,18487
+River Road,FAC,18487
+River Road,FAC,18487
+the Schuylkill River,LOC,18487
+Gladwyne,GPE,18487
+Montgomery County,GPE,18487
+NBC10,PERSON,18487
+as many as 70,CARDINAL,18487
+9 a.m.,TIME,18487
+shortly after 5 a.m.,TIME,18487
+the Regional Rail,ORG,18487
+Norristown,GPE,18487
+two,CARDINAL,18487
+the Schuylkill River,LOC,18487
+Montgomery County,GPE,18487
+SEPTA,PERSON,18487
+@SEPTA,ORG,18487
+"November 26, 2016",DATE,18487
+Shawmont,GPE,18487
+Port Royal,FAC,18487
+SWAT,ORG,18487
+Homeland Security,ORG,18487
+shortly before 9 a.m.,TIME,18487

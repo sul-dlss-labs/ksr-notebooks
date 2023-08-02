@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,23950
+United States,GPE,23950
+Canada Mexico,GPE,23950
+United Mexican,GPE,23950
+Bahamas,GPE,23950
+Commonwealth,GPE,23950
+Cuba,GPE,23950
+"Republic of Dominican Republic Haiti,",GPE,23950
+Republic of Jamaica,GPE,23950
+Afghanistan,GPE,23950
+Albania,GPE,23950
+People's Socialist Republic,ORG,23950
+Algeria,GPE,23950
+People's Democratic Republic of American,GPE,23950
+Angola,GPE,23950
+Republic of Anguilla Antarctica,ORG,23950
+South,LOC,23950
+Barbuda Argentina,PERSON,23950
+Argentine Republic,GPE,23950
+Armenia Aruba,PERSON,23950
+Australia,GPE,23950
+Commonwealth,GPE,23950
+Austria,GPE,23950
+Republic of Bahrain,ORG,23950
+Belgium,GPE,23950
+Kingdom of Belize Benin,ORG,23950
+People's Republic of Bermuda Bhutan,GPE,23950
+Kingdom of Bolivia,GPE,23950
+Republic of Bosnia,GPE,23950
+Botswana,GPE,23950
+Republic of Bouvet Island,ORG,23950
+Bouvetoya,GPE,23950
+Brazil,GPE,23950
+Federative Republic,GPE,23950
+British Virgin,GPE,23950
+Bulgaria,GPE,23950
+People's Republic of Burkina Faso Burundi,GPE,23950
+Republic of Cambodia,GPE,23950
+Kingdom of Cameroon,GPE,23950
+United Republic of Cape Verde,GPE,23950
+"Republic of Cayman Islands Central African Republic Chad,",ORG,23950
+Republic of Chile,ORG,23950
+Republic of China,ORG,23950
+People's Republic of Christmas Island,GPE,23950
+Colombia,GPE,23950
+Union of the Congo,ORG,23950
+Democratic Republic of Congo,GPE,23950
+People's Republic of Cook,GPE,23950
+Costa Rica,GPE,23950
+Ivory Coast,GPE,23950
+Republic Denmark,GPE,23950
+Kingdom of Djibouti,GPE,23950
+Republic of Dominica,GPE,23950
+Commonwealth,GPE,23950
+Ecuador,GPE,23950
+Republic of Egypt,GPE,23950
+Arab Republic,GPE,23950
+El Salvador,GPE,23950
+Republic of Equatorial Guinea,GPE,23950
+Republic of Eritrea,GPE,23950
+Estonia,GPE,23950
+Ethiopia,GPE,23950
+Malvinas,GPE,23950
+Fiji,GPE,23950
+Republic of the Fiji Islands Finland,ORG,23950
+Republic of France,GPE,23950
+French,NORP,23950
+French,NORP,23950
+Guiana,PERSON,23950
+French,NORP,23950
+Polynesia,GPE,23950
+Southern Territories Gabon,PRODUCT,23950
+Gabonese Republic Gambia,GPE,23950
+Georgia,GPE,23950
+Germany,GPE,23950
+Ghana,GPE,23950
+Republic of Gibraltar Greece,ORG,23950
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,23950
+Republic of Guinea,GPE,23950
+Revolutionary People's Rep'c,ORG,23950
+Guinea-Bissau,ORG,23950
+Republic of Heard,ORG,23950
+McDonald Islands Holy See,ORG,23950
+Vatican City State,GPE,23950
+Honduras,GPE,23950
+Republic of Hong Kong,GPE,23950
+Special Administrative Region of China,ORG,23950
+Hrvatska,PERSON,23950
+Croatia,GPE,23950
+Hungary,GPE,23950
+Hungarian People's Republic Iceland,PERSON,23950
+Republic of India,GPE,23950
+Republic of Indonesia,GPE,23950
+Republic of Iran,GPE,23950
+Islamic Republic of Iraq,GPE,23950
+Republic of Ireland,GPE,23950
+Israel,GPE,23950
+State of Italy,GPE,23950
+Italian,NORP,23950
+Japan,GPE,23950
+Jordan,GPE,23950
+Hashemite Kingdom of Kazakhstan,GPE,23950
+Republic of Kiribati,GPE,23950
+Republic of Korea,GPE,23950
+Democratic,NORP,23950
+Republic of Kuwait,ORG,23950
+Lao People's,PERSON,23950
+Latvia,GPE,23950
+Lebanon,GPE,23950
+Lebanese Republic Lesotho,GPE,23950
+Kingdom of Liberia,GPE,23950
+Lithuania Luxembourg,GPE,23950
+Special Administrative Region of China Macedonia,ORG,23950
+Yugoslav Republic of Madagascar,GPE,23950
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,23950
+Islamic Republic,GPE,23950
+Mayotte Micronesia,PERSON,23950
+Federated States,GPE,23950
+Moldova,GPE,23950
+Republic of Monaco,ORG,23950
+Principality,NORP,23950
+Morocco,GPE,23950
+Kingdom of Mozambique,ORG,23950
+Republic of Nepal,GPE,23950
+Netherlands,GPE,23950
+Kingdom,GPE,23950
+the New Caledonia New Zealand,ORG,23950
+Nicaragua,GPE,23950
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,23950
+Norway,GPE,23950
+Kingdom of Oman,GPE,23950
+Pakistan,GPE,23950
+Islamic Republic of,GPE,23950
+Occupied Panama,GPE,23950
+Republic of Peru,GPE,23950
+Republic of Philippines,GPE,23950
+Republic of the Pitcairn Island Poland,ORG,23950
+Polish,NORP,23950
+Republic Portugal,GPE,23950
+Portuguese Republic,GPE,23950
+Puerto Rico Qatar,GPE,23950
+State of Reunion Romania,ORG,23950
+Socialist Republic,GPE,23950
+Rwanda,GPE,23950
+Rwandese Republic Samoa,GPE,23950
+Independent State of San Marino,ORG,23950
+Republic of Sao Tome,ORG,23950
+Principe,GPE,23950
+Democratic Republic of Saudi Arabia,GPE,23950
+"Kingdom of Senegal, Republic of Serbia",GPE,23950
+Montenegro Seychelles,PERSON,23950
+Republic of Sierra Leone,ORG,23950
+Republic of Singapore,ORG,23950
+Republic of Slovakia,ORG,23950
+Slovak Republic,GPE,23950
+Slovenia Solomon Islands,GPE,23950
+Somalia,GPE,23950
+Somali Republic South Africa,GPE,23950
+Republic of South Georgia,GPE,23950
+Spain,GPE,23950
+Spanish,NORP,23950
+Sri Lanka,GPE,23950
+Democratic,NORP,23950
+Miquelon St. Vincent,PERSON,23950
+Democratic Republic,GPE,23950
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,23950
+Kingdom of Sweden,GPE,23950
+Kingdom of Switzerland,GPE,23950
+Swiss Confederation Syrian Arab Republic,ORG,23950
+Taiwan,GPE,23950
+China,GPE,23950
+Tanzania,GPE,23950
+United Republic of Thailand,GPE,23950
+Kingdom of Timor-Leste,GPE,23950
+Democratic Republic of Togo,GPE,23950
+Togolese Republic Tokelau,ORG,23950
+Tokelau,GPE,23950
+Tonga,GPE,23950
+Kingdom of Trinidad,ORG,23950
+Tobago,GPE,23950
+Republic of Tunisia,ORG,23950
+Republic of Turkey,GPE,23950
+Republic of Turkmenistan Turks,ORG,23950
+Uganda,GPE,23950
+Republic of Ukraine United Arab Emirates,GPE,23950
+United Kingdom of Great,GPE,23950
+Eastern Republic,GPE,23950
+Venezuela,GPE,23950
+Bolivarian Republic,GPE,23950
+Viet Nam,GPE,23950
+Socialist Republic,GPE,23950
+Yemen,GPE,23950
+Zambia,GPE,23950
+Republic of Zimbabwe,GPE,23950

@@ -1,0 +1,33 @@
+text,label,fe_id
+Baltimore,GPE,14139
+67-year-old,DATE,14139
+Maryland Transit,ORG,14139
+Tuesday,DATE,14139
+morning,TIME,14139
+Antonio Moreno,PERSON,14139
+1100,DATE,14139
+Cloverdale Rd,GPE,14139
+Moreno,PERSON,14139
+MTA,ORG,14139
+Paulette Austrich,PERSON,14139
+5400,CARDINAL,14139
+Park Heights Ave,FAC,14139
+four,CARDINAL,14139
+Austrich,PERSON,14139
+Moreno,PERSON,14139
+CPR,ORG,14139
+Maryland General Hospital,ORG,14139
+the Baltimore Police Department's,ORG,14139
+first,ORDINAL,14139
+MTA,ORG,14139
+John E. Gavrilis,PERSON,14139
+Gavrilis,PERSON,14139
+26 years,DATE,14139
+the Baltimore Police Department,ORG,14139
+2004,DATE,14139
+Austrich,PERSON,14139
+Moreno,PERSON,14139
+"Aug. 9, 2013",DATE,14139
+Maryland,GPE,14139
+Moreno,PERSON,14139
+68,DATE,14139

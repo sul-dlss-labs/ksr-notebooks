@@ -1,0 +1,221 @@
+text,label,fe_id
+under age 18,DATE,10348
+18 or older,DATE,10348
+View Video,ORG,10348
+Milwaukee County,GPE,10348
+Derek Williams,PERSON,10348
+Milwaukee,GPE,10348
+July 2011,DATE,10348
+the Journal Sentinel,ORG,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+22,DATE,10348
+more than a year ago,DATE,10348
+Christopher Poulos,PERSON,10348
+Williams,PERSON,10348
+Milwaukee,GPE,10348
+Williams,PERSON,10348
+Milwaukee County,GPE,10348
+John Chisholm,PERSON,10348
+Chisholm,PERSON,10348
+the Police Department,ORG,10348
+the Fire and Police Commission,FAC,10348
+Chisholm,PERSON,10348
+Chisholm,PERSON,10348
+Milwaukee,GPE,10348
+Edward Flynn,PERSON,10348
+second,ORDINAL,10348
+first,ORDINAL,10348
+last November,DATE,10348
+Williams,PERSON,10348
+"seven minutes, 45 seconds",TIME,10348
+CPR,ORG,10348
+CPR,ORG,10348
+more than 45 minutes,TIME,10348
+Williams,PERSON,10348
+Chisholm,GPE,10348
+Milwaukee Fire,FAC,10348
+Michael Tobin,PERSON,10348
+Alfonso Morales,PERSON,10348
+the video months ago,DATE,10348
+The Police Department's,ORG,10348
+Flynn,PERSON,10348
+Morales,PERSON,10348
+Milwaukee,GPE,10348
+Anne E. Schwartz,PERSON,10348
+Friday,DATE,10348
+Tobin,GPE,10348
+two,CARDINAL,10348
+Williams,PERSON,10348
+two,CARDINAL,10348
+Williams,PERSON,10348
+Poulos,PERSON,10348
+Williams,PERSON,10348
+the Journal Sentinel,ORG,10348
+Werner U. Spitz,PERSON,10348
+one,CARDINAL,10348
+Spitz,ORG,10348
+Poulos,PERSON,10348
+March,DATE,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+Spitz,PERSON,10348
+the Journal Sentinel,ORG,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+Spitz,ORG,10348
+Spitz,ORG,10348
+Medicolegal Investigation of Death,WORK_OF_ART,10348
+Poulos,PERSON,10348
+first,ORDINAL,10348
+November 2011,DATE,10348
+June,DATE,10348
+last week,DATE,10348
+Williams,PERSON,10348
+Jonathan Safran,PERSON,10348
+Williams,PERSON,10348
+three,CARDINAL,10348
+Williams,PERSON,10348
+two,CARDINAL,10348
+Williams,PERSON,10348
+Safran,NORP,10348
+Williams,PERSON,10348
+Safran,PERSON,10348
+Derek,ORG,10348
+Williams,PERSON,10348
+Poulos,PERSON,10348
+August 2011,DATE,10348
+Williams,PERSON,10348
+earlier in the day,TIME,10348
+N. Holton,PERSON,10348
+E. Center,ORG,10348
+Richard M. Ticcioni,PERSON,10348
+Ticcioni,PERSON,10348
+Patrick Coe,PERSON,10348
+Williams,PERSON,10348
+Milwaukee,GPE,10348
+Detective Luke,PERSON,10348
+Ticcioni,PERSON,10348
+Williams,PERSON,10348
+at least 15 minutes,TIME,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+A few minutes later,TIME,10348
+Ticcioni,ORG,10348
+Coe,ORG,10348
+Williams,PERSON,10348
+Coe,PERSON,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+Ticcioni,PERSON,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+Jeffrey Cline,PERSON,10348
+Jason Bleichwehl,PERSON,10348
+Williams,PERSON,10348
+Poulos,PERSON,10348
+Friday,DATE,10348
+March,DATE,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+Poulos,PERSON,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+the National Institutes of Health,ORG,10348
+Spitz,ORG,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+Ticcioni,PERSON,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+Spitz,ORG,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+Spitz,ORG,10348
+99%,PERCENT,10348
+only one-third,CARDINAL,10348
+the Journal of Forensic Sciences,ORG,10348
+Poulos,PERSON,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+CPR,ORG,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+Spitz,ORG,10348
+Williams,PERSON,10348
+Spitz,ORG,10348
+the Police Academy,ORG,10348
+Robin Shellow,PERSON,10348
+Williams,PERSON,10348
+CPR,ORG,10348
+Derek,PERSON,10348
+Derek,ORG,10348
+Chisholm,ORG,10348
+99,CARDINAL,10348
+100,CARDINAL,10348
+Chisholm,ORG,10348
+every day,DATE,10348
+June,DATE,10348
+the Fire and Police Commission,FAC,10348
+Tobin,GPE,10348
+the Police Department,ORG,10348
+CPR,ORG,10348
+Schwartz,PERSON,10348
+Tobin,GPE,10348
+the Police Department,ORG,10348
+last week,DATE,10348
+Department,ORG,10348
+Schwartz,PERSON,10348
+the Police Department,ORG,10348
+Flynn,PERSON,10348
+Flynn,PERSON,10348
+Tobin,GPE,10348
+Flynn,PERSON,10348
+Tobin,GPE,10348
+Fire and Police Commission,ORG,10348
+Safran,PERSON,10348
+Williams,PERSON,10348
+Williams,PERSON,10348
+three,CARDINAL,10348
+ages 4,DATE,10348
+3,CARDINAL,10348
+1,CARDINAL,10348
+Safran,PERSON,10348
+U.S.,GPE,10348
+Safran,PERSON,10348
+Williams,PERSON,10348
+Safran,PERSON,10348
+Williams,PERSON,10348
+three,CARDINAL,10348
+ages 4,DATE,10348
+3,CARDINAL,10348
+1,CARDINAL,10348
+Monday,DATE,10348
+Samster,PERSON,10348
+Konkel,PERSON,10348
+Safran,GPE,10348
+Riverfront Plaza,FAC,10348
+Suite,GPE,10348
+405,CARDINAL,10348
+3rd,ORDINAL,10348
+Milwaukee,GPE,10348
+WI 53203,ORG,10348
+Derek Williams,PERSON,10348
+Milwaukee,GPE,10348
+Tom Barrett,PERSON,10348
+414,CARDINAL,10348
+286-2200,CARDINAL,10348
+Fire and Police Commission,ORG,10348
+Michael Tobin,PERSON,10348
+414,CARDINAL,10348
+286-5000,CARDINAL,10348
+Milwaukee,GPE,10348
+Edward Flynn,PERSON,10348
+414,CARDINAL,10348
+933,CARDINAL,10348
+Milwaukee,GPE,10348
+414,CARDINAL,10348
+286,CARDINAL,10348

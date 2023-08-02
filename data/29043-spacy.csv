@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,29043
+Alabama,GPE,29043
+Alaska,GPE,29043
+Arizona,GPE,29043
+Arkansas,GPE,29043
+California,GPE,29043
+Colorado,GPE,29043
+Connecticut,GPE,29043
+Delaware,GPE,29043
+Florida,GPE,29043
+Georgia,GPE,29043
+Hawaii,GPE,29043
+Idaho,GPE,29043
+Indiana,GPE,29043
+Iowa,GPE,29043
+Kansas,GPE,29043
+Kentucky,GPE,29043
+Louisiana,GPE,29043
+Maine,GPE,29043
+Maryland,GPE,29043
+Massachusetts,GPE,29043
+Michigan,GPE,29043
+Minnesota,GPE,29043
+Mississippi,GPE,29043
+Missouri,GPE,29043
+Montana,GPE,29043
+Nebraska,GPE,29043
+Nevada,GPE,29043
+New Hampshire,GPE,29043
+New Jersey,GPE,29043
+Ohio,GPE,29043
+Oklahoma,GPE,29043
+Oregon,GPE,29043
+Pennsylvania,GPE,29043
+Rhode Island,GPE,29043
+Tennessee,GPE,29043
+Texas,GPE,29043
+Utah,GPE,29043
+Vermont,GPE,29043
+Virginia,GPE,29043
+Washington,GPE,29043
+Washington,GPE,29043
+D.C.,GPE,29043
+Wisconsin,GPE,29043
+Wyoming,GPE,29043
+US,GPE,29043
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,29043
+Marshall Islands American Samoa Federated States,ORG,29043
+Micronesia Guam,FAC,29043
+Alberta,GPE,29043
+Canada,GPE,29043
+British Columbia,GPE,29043
+Canada Manitoba,GPE,29043
+Canada,GPE,29043
+New Brunswick,GPE,29043
+Canada Newfoundland,PERSON,29043
+Canada,GPE,29043
+Canada,GPE,29043
+Canada Ontario,GPE,29043
+Canada,GPE,29043
+Edward Island,GPE,29043
+Canada Quebec,GPE,29043
+Canada,GPE,29043
+Saskatchewan,GPE,29043
+Canada Yukon Territory,ORG,29043
+Canada,GPE,29043
+Zip Code,PERSON,29043

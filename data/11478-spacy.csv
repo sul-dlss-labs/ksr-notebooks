@@ -1,0 +1,21 @@
+text,label,fe_id
+Two,CARDINAL,11478
+Indio,GPE,11478
+"Monday, June 25",DATE,11478
+just before 2:30 p.m.,TIME,11478
+"Monday, June 25",DATE,11478
+the Las Brisas Apartments,FAC,11478
+81,CARDINAL,11478
+Hoover Street,FAC,11478
+Benjamin Guitron,PERSON,11478
+the Police Department,ORG,11478
+first,ORDINAL,11478
+Guitron,ORG,11478
+Guitron,PERSON,11478
+one,CARDINAL,11478
+Guitron,ORG,11478
+Riverside County,GPE,11478
+Guitron,ORG,11478
+Steven Barrie,PERSON,11478
+Twitter,PERSON,11478
+@Steven_Barrie,PERSON,11478

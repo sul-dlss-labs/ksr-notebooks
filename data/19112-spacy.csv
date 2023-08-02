@@ -1,0 +1,23 @@
+text,label,fe_id
+31-day,DATE,19112
+Phoenix,GPE,19112
+daily,DATE,19112
+at least 110,CARDINAL,19112
+Fahrenheit,GPE,19112
+Southwest,LOC,19112
+July,DATE,19112
+Southwest,LOC,19112
+June,DATE,19112
+Texas,GPE,19112
+New Mexico,GPE,19112
+Arizona,GPE,19112
+California,GPE,19112
+Phoenix,GPE,19112
+consecutive days,DATE,19112
+110 degrees,QUANTITY,19112
+Monday,DATE,19112
+108,CARDINAL,19112
+3:10 p.m.,TIME,19112
+31-day,DATE,19112
+110 degrees,QUANTITY,19112
+Southwest,LOC,19112

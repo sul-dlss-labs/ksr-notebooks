@@ -1,0 +1,29 @@
+text,label,fe_id
+Steve Lieberman,PERSON,16300
+28-year-old,DATE,16300
+Brooklyn,GPE,16300
+early Friday,DATE,16300
+New Hempstead Road,ORG,16300
+Monday,DATE,16300
+about an hour earlier,TIME,16300
+the Palisades Interstate Parkway,ORG,16300
+100 miles per hour,QUANTITY,16300
+The Journal News,ORG,16300
+Friday,DATE,16300
+New Hempstead Road,ORG,16300
+more than seven hours,TIME,16300
+Monday afternoon,TIME,16300
+more than 100 miles,QUANTITY,16300
+about 4:15 a.m.,TIME,16300
+Friday,DATE,16300
+About an hour later,TIME,16300
+5:15 a.m.,TIME,16300
+PIP,ORG,16300
+11,CARDINAL,16300
+New Hempstead Road,ORG,16300
+New City,GPE,16300
+PIP,ORG,16300
+New Hempstead Road,WORK_OF_ART,16300
+The Journal News,ORG,16300
+Friday,DATE,16300
+morning,TIME,16300

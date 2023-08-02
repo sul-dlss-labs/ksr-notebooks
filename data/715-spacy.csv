@@ -1,0 +1,26 @@
+text,label,fe_id
+Tuesday,DATE,715
+Monday night,TIME,715
+the Harbor Freeway,FAC,715
+18-year-old,DATE,715
+graffiti,PERSON,715
+California Highway Patrol,FAC,715
+Los Angeles Police Department,ORG,715
+About 6:45 p.m.,TIME,715
+Monday,DATE,715
+El Segundo Boulevard,ORG,715
+CHP,ORG,715
+Officer John Tye,PERSON,715
+Henry Quan,PERSON,715
+LAPD,ORG,715
+Harbor,LOC,715
+Quan,PERSON,715
+second,ORDINAL,715
+about 7:35 p.m.,TIME,715
+Martin Luther King,PERSON,715
+first,ORDINAL,715
+Tye,PERSON,715
+Quan,PERSON,715
+CHP,ORG,715
+310,CARDINAL,715
+516-3355,CARDINAL,715

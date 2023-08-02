@@ -1,0 +1,16 @@
+text,label,fe_id
+North Sacramento,GPE,29126
+Saturday,DATE,29126
+night,TIME,29126
+shortly after 8 p.m.,TIME,29126
+1600,CARDINAL,29126
+Juliesse Avenue,FAC,29126
+Marconi Avenue,FAC,29126
+80,CARDINAL,29126
+North Sacramento,LOC,29126
+"the night of Nov. 14, 2020",TIME,29126
+Sacramento Police Department,ORG,29126
+Sacramento,GPE,29126
+one,CARDINAL,29126
+the Sacramento Police Department,ORG,29126
+CBS,ORG,29126

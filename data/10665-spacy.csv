@@ -1,0 +1,15 @@
+text,label,fe_id
+Manuel Vargas,PERSON,10665
+42-year-old,DATE,10665
+Latino,PERSON,10665
+Downey Police,ORG,10665
+"Wednesday, Oct. 12",DATE,10665
+Firestone Boulevard and Old River School Road,FAC,10665
+Los Angeles County,GPE,10665
+about 6:50 p.m.,TIME,10665
+Vargas,GPE,10665
+about 40 minutes later,TIME,10665
+Coroner,ORG,10665
+Manuel Vargas,PERSON,10665
+Crime Stoppers,PERSON,10665
+222,CARDINAL,10665

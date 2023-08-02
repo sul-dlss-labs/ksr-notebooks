@@ -1,0 +1,28 @@
+text,label,fe_id
+Monday,DATE,13783
+5200,CARDINAL,13783
+North Crowley Lane,LOC,13783
+North La Cholla Boulevard,LOC,13783
+West Curtis Road,FAC,13783
+911,CARDINAL,13783
+9:30 a.m.,TIME,13783
+Courtney Rodriguez,PERSON,13783
+the Pima County Sheriff’s Department,ORG,13783
+Mental Health Support Team,ORG,13783
+Scott Mitchell,PERSON,13783
+Rodriguez,PERSON,13783
+Mitchell,PERSON,13783
+Mitchell,PERSON,13783
+Rodriguez,PERSON,13783
+SWAT,ORG,13783
+Mitchell,PERSON,13783
+Rodriguez,ORG,13783
+SWAT,ORG,13783
+Mitchell,PERSON,13783
+Sgt,PERSON,13783
+Derek Tyra,PERSON,13783
+14-year,DATE,13783
+Rodriguez,ORG,13783
+Mitchell,PERSON,13783
+46,DATE,13783
+just before 3 p.m.,TIME,13783

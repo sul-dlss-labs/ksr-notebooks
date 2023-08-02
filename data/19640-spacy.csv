@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,19640
+Alabama,GPE,19640
+Alaska,GPE,19640
+Arizona,GPE,19640
+Arkansas,GPE,19640
+California,GPE,19640
+Colorado,GPE,19640
+Connecticut,GPE,19640
+Delaware,GPE,19640
+Florida,GPE,19640
+Georgia,GPE,19640
+Hawaii,GPE,19640
+Idaho,GPE,19640
+Indiana,GPE,19640
+Iowa,GPE,19640
+Kansas,GPE,19640
+Kentucky,GPE,19640
+Louisiana,GPE,19640
+Maine,GPE,19640
+Maryland,GPE,19640
+Massachusetts,GPE,19640
+Michigan,GPE,19640
+Minnesota,GPE,19640
+Mississippi,GPE,19640
+Missouri,GPE,19640
+Montana,GPE,19640
+Nebraska,GPE,19640
+Nevada,GPE,19640
+New Hampshire,GPE,19640
+New Jersey,GPE,19640
+Ohio,GPE,19640
+Oklahoma,GPE,19640
+Oregon,GPE,19640
+Pennsylvania,GPE,19640
+Rhode Island,GPE,19640
+Tennessee,GPE,19640
+Texas,GPE,19640
+Utah,GPE,19640
+Vermont,GPE,19640
+Virginia,GPE,19640
+Washington,GPE,19640
+Washington,GPE,19640
+D.C.,GPE,19640
+Wisconsin,GPE,19640
+Wyoming,GPE,19640
+US,GPE,19640
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,19640
+Marshall Islands American Samoa Federated States,ORG,19640
+Micronesia Guam,FAC,19640
+Alberta,GPE,19640
+Canada,GPE,19640
+British Columbia,GPE,19640
+Canada Manitoba,GPE,19640
+Canada,GPE,19640
+New Brunswick,GPE,19640
+Canada Newfoundland,PERSON,19640
+Canada,GPE,19640
+Canada,GPE,19640
+Canada Ontario,GPE,19640
+Canada,GPE,19640
+Edward Island,GPE,19640
+Canada Quebec,GPE,19640
+Canada,GPE,19640
+Saskatchewan,GPE,19640
+Canada Yukon Territory,ORG,19640
+Canada,GPE,19640
+Zip Code,PERSON,19640

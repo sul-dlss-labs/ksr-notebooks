@@ -1,0 +1,34 @@
+text,label,fe_id
+Two,CARDINAL,7096
+the weekend,DATE,7096
+Saturday night,TIME,7096
+Chicago,GPE,7096
+Rigoberto Lopez,PERSON,7096
+24,DATE,7096
+three,CARDINAL,7096
+the Southeast Side,LOC,7096
+Antoinette Ursitti,PERSON,7096
+about 7:50 p.m.,TIME,7096
+9600,CARDINAL,7096
+South Ewing Avenue,LOC,7096
+three,CARDINAL,7096
+SWAT,ORG,7096
+10300,DATE,7096
+South Muskegon Avenue,LOC,7096
+Ursitti,ORG,7096
+three,CARDINAL,7096
+The Independent Police Review Authority,ORG,7096
+Saturday,DATE,7096
+Markham,GPE,7096
+one,CARDINAL,7096
+about 10:30 p.m.,TIME,7096
+911,CARDINAL,7096
+about two,CARDINAL,7096
+Dollar Tree,WORK_OF_ART,7096
+Canterbury Shopping Center,ORG,7096
+two,CARDINAL,7096
+one,CARDINAL,7096
+Antoine Covington,ORG,7096
+18,DATE,7096
+Markham,GPE,7096
+second,ORDINAL,7096

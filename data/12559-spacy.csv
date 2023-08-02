@@ -1,0 +1,14 @@
+text,label,fe_id
+New York,GPE,12559
+two,CARDINAL,12559
+Connecticut,GPE,12559
+20,CARDINAL,12559
+Friday,DATE,12559
+Fairfield,GPE,12559
+Matt Panilaitis,PERSON,12559
+20 to 25,CARDINAL,12559
+New York,GPE,12559
+New Haven,GPE,12559
+Fairfield,GPE,12559
+Conn.,GPE,12559
+second,ORDINAL,12559

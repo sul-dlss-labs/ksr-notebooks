@@ -1,0 +1,24 @@
+text,label,fe_id
+the Los Angeles Police Department,ORG,26878
+"Thursday, December 5",DATE,26878
+52-year-old,DATE,26878
+Antonio Centeno Rodriguez,PERSON,26878
+Panorama City,GPE,26878
+Lazzeri,NORP,26878
+James Frazier Jr.,PERSON,26878
+21,DATE,26878
+Van Nuys,GPE,26878
+October 2019,DATE,26878
+Taranjit Singh,PERSON,26878
+several hours,TIME,26878
+Kester Avenue,FAC,26878
+Burbank Boulevard,FAC,26878
+Frazier,PERSON,26878
+Kester Avenue,FAC,26878
+Frazier,PERSON,26878
+Lazzeri,NORP,26878
+.380,CARDINAL,26878
+the Board of Police Commissioners,ORG,26878
+the Office of the Inspector General,ORG,26878
+LAPD,ORG,26878
+the Los Angeles County District,ORG,26878

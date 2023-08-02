@@ -1,0 +1,15 @@
+text,label,fe_id
+yesterday,DATE,8024
+Rickey Lee Kitzmiller,PERSON,8024
+"April 17, 2009",DATE,8024
+"Friday, April 17, 2009",DATE,8024
+12:08pm,TIME,8024
+the Western District,LOC,8024
+911,CARDINAL,8024
+her ‘70s,DATE,8024
+One,CARDINAL,8024
+the University of Maryland Shock Trauma,ORG,8024
+13 year,DATE,8024
+the Western District Patrol Section,ORG,8024
+the Anne Arundel County Police Department’s Homicide Unit,FAC,8024
+State,ORG,8024

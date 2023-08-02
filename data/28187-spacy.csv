@@ -1,0 +1,59 @@
+text,label,fe_id
+Two,CARDINAL,28187
+Monday morning,TIME,28187
+Vacaville,GPE,28187
+Interstate 80,FAC,28187
+California Highway Patrol,FAC,28187
+Solano County,GPE,28187
+Tuesday,DATE,28187
+Jaiah Metcalf,PERSON,28187
+21,DATE,28187
+Sacramento,GPE,28187
+Alazae Jeffrey,PERSON,28187
+19,DATE,28187
+Elk Grove,GPE,28187
+CHP,ORG,28187
+Solano,PERSON,28187
+Dave Harvey,PERSON,28187
+Tayshawn Larun Clayton,PERSON,28187
+21,DATE,28187
+Sacramento,GPE,28187
+Clayton,PERSON,28187
+Solano County Jail,GPE,28187
+Harvey,PERSON,28187
+two,CARDINAL,28187
+one,CARDINAL,28187
+one,CARDINAL,28187
+183,MONEY,28187
+333,CARDINAL,28187
+Related Articles Crime and Public Safety,ORG,28187
+Southern California,LOC,28187
+Southern California,LOC,28187
+Crime and Public Safety,ORG,28187
+San Jose,GPE,28187
+I-5,ORG,28187
+Chico,GPE,28187
+four,CARDINAL,28187
+San Jose,GPE,28187
+I-5,ORG,28187
+Chico,GPE,28187
+four,CARDINAL,28187
+Crime and Public Safety,ORG,28187
+17-year-old,DATE,28187
+American,NORP,28187
+17-year-old,DATE,28187
+American,NORP,28187
+Crime and Public Safety,ORG,28187
+Los Angeles,GPE,28187
+Los Angeles,GPE,28187
+Crime and Public Safety,ORG,28187
+Driver,ORG,28187
+Santa Cruz County,GPE,28187
+Harvey,PERSON,28187
+AM-PM,TIME,28187
+1400,CARDINAL,28187
+Alamo Drive,FAC,28187
+Alamo Lane,FAC,28187
+Interstate 80,FAC,28187
+Clayton,ORG,28187
+Alamo Drive,FAC,28187

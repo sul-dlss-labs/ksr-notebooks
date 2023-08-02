@@ -1,0 +1,28 @@
+text,label,fe_id
+30-year-old,DATE,20900
+Aaron Tobias,PERSON,20900
+Tobias,PERSON,20900
+I-94,FAC,20900
+Tobias,PERSON,20900
+I-94,PRODUCT,20900
+shortly before 11 p.m.,TIME,20900
+Brian VandenBrink,PERSON,20900
+the Portage Department of Public Safety,ORG,20900
+Monday,DATE,20900
+VandenBrink,PERSON,20900
+Westnedge Avenue,FAC,20900
+I-94,PRODUCT,20900
+VandenBrink,PERSON,20900
+the Portage Road,FAC,20900
+VandenBrink,PERSON,20900
+VandenBrink,PERSON,20900
+second,ORDINAL,20900
+third,ORDINAL,20900
+VandenBrink,PERSON,20900
+VandenBrink,PERSON,20900
+"Michigan State Police
+
+",ORG,20900
+Alex Mitchell,PERSON,20900
+the Kalamazoo Gazette,GPE,20900
+Twitter,PRODUCT,20900

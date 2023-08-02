@@ -1,0 +1,30 @@
+text,label,fe_id
+20-year-old,DATE,24942
+first,ORDINAL,24942
+Friday,DATE,24942
+second,ORDINAL,24942
+three,CARDINAL,24942
+the Red Poppy Boutique,ORG,24942
+640,CARDINAL,24942
+Sept. 11,DATE,24942
+Santa Ana Police Cpl,ORG,24942
+Anthony Bertagna,PERSON,24942
+Orange County,GPE,24942
+Bertagna,PERSON,24942
+100 mph,QUANTITY,24942
+Bertagna,PERSON,24942
+Chestnut Avenue,FAC,24942
+Lyon Street,FAC,24942
+Santa Ana,GPE,24942
+Bertagna,GPE,24942
+19-year-old,DATE,24942
+Luis Arreguin,PERSON,24942
+Los Angeles,GPE,24942
+Bertagna,GPE,24942
+Santa Ana,GPE,24942
+Bertagna,GPE,24942
+Orange County Fire Authority,ORG,24942
+Bertagna,GPE,24942
+21-year-old,DATE,24942
+Travon McNeil,PERSON,24942
+Los Angeles,GPE,24942

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,4037
+Alabama,GPE,4037
+Alaska,GPE,4037
+Arizona,GPE,4037
+Arkansas,GPE,4037
+California,GPE,4037
+Colorado,GPE,4037
+Connecticut,GPE,4037
+Delaware,GPE,4037
+Florida,GPE,4037
+Georgia,GPE,4037
+Hawaii,GPE,4037
+Idaho,GPE,4037
+Indiana,GPE,4037
+Iowa,GPE,4037
+Kansas,GPE,4037
+Kentucky,GPE,4037
+Louisiana,GPE,4037
+Maine,GPE,4037
+Maryland,GPE,4037
+Massachusetts,GPE,4037
+Michigan,GPE,4037
+Minnesota,GPE,4037
+Mississippi,GPE,4037
+Missouri,GPE,4037
+Montana,GPE,4037
+Nebraska,GPE,4037
+Nevada,GPE,4037
+New Hampshire,GPE,4037
+New Jersey,GPE,4037
+Ohio,GPE,4037
+Oklahoma,GPE,4037
+Oregon,GPE,4037
+Pennsylvania,GPE,4037
+Rhode Island,GPE,4037
+Tennessee,GPE,4037
+Texas,GPE,4037
+Utah,GPE,4037
+Vermont,GPE,4037
+Virginia,GPE,4037
+Washington,GPE,4037
+Washington,GPE,4037
+D.C.,GPE,4037
+Wisconsin,GPE,4037
+Wyoming,GPE,4037
+US,GPE,4037
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,4037
+Marshall Islands American Samoa Federated States,ORG,4037
+Micronesia Guam,FAC,4037
+Alberta,GPE,4037
+Canada,GPE,4037
+British Columbia,GPE,4037
+Canada Manitoba,GPE,4037
+Canada,GPE,4037
+New Brunswick,GPE,4037
+Canada Newfoundland,PERSON,4037
+Canada,GPE,4037
+Canada,GPE,4037
+Canada Ontario,GPE,4037
+Canada,GPE,4037
+Edward Island,GPE,4037
+Canada Quebec,GPE,4037
+Canada,GPE,4037
+Saskatchewan,GPE,4037
+Canada Yukon Territory,ORG,4037
+Canada,GPE,4037
+Zip Code,PERSON,4037

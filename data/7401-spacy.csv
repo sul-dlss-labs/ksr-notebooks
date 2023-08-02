@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7401
+Alabama,GPE,7401
+Alaska,GPE,7401
+Arizona,GPE,7401
+Arkansas,GPE,7401
+California,GPE,7401
+Colorado,GPE,7401
+Connecticut,GPE,7401
+Delaware,GPE,7401
+Florida,GPE,7401
+Georgia,GPE,7401
+Hawaii,GPE,7401
+Idaho,GPE,7401
+Indiana,GPE,7401
+Iowa,GPE,7401
+Kansas,GPE,7401
+Kentucky,GPE,7401
+Louisiana,GPE,7401
+Maine,GPE,7401
+Maryland,GPE,7401
+Massachusetts,GPE,7401
+Michigan,GPE,7401
+Minnesota,GPE,7401
+Mississippi,GPE,7401
+Missouri,GPE,7401
+Montana,GPE,7401
+Nebraska,GPE,7401
+Nevada,GPE,7401
+New Hampshire,GPE,7401
+New Jersey,GPE,7401
+Ohio,GPE,7401
+Oklahoma,GPE,7401
+Oregon,GPE,7401
+Pennsylvania,GPE,7401
+Rhode Island,GPE,7401
+Tennessee,GPE,7401
+Texas,GPE,7401
+Utah,GPE,7401
+Vermont,GPE,7401
+Virginia,GPE,7401
+Washington,GPE,7401
+Washington,GPE,7401
+D.C.,GPE,7401
+Wisconsin,GPE,7401
+Wyoming,GPE,7401
+US,GPE,7401
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7401
+Marshall Islands American Samoa Federated States,ORG,7401
+Micronesia Guam,FAC,7401
+Alberta,GPE,7401
+Canada,GPE,7401
+British Columbia,GPE,7401
+Canada Manitoba,GPE,7401
+Canada,GPE,7401
+New Brunswick,GPE,7401
+Canada Newfoundland,PERSON,7401
+Canada,GPE,7401
+Canada,GPE,7401
+Canada Ontario,GPE,7401
+Canada,GPE,7401
+Edward Island,GPE,7401
+Canada Quebec,GPE,7401
+Canada,GPE,7401
+Saskatchewan,GPE,7401
+Canada Yukon Territory,ORG,7401
+Canada,GPE,7401
+Zip Code,PERSON,7401

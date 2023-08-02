@@ -1,0 +1,5 @@
+head,type,tail,subject,predicate,object,fe_id
+Yellowstone County,contains administrative territorial entity,Missoula,,,,15603
+,,,Missoula,located in the administrative territorial entity,Yellowstone County,15603
+,,,Huntley,located in the administrative territorial entity,Yellowstone County,15603
+,,,Yellowstone County,contains administrative territorial entity,Missoula,15603

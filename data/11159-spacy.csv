@@ -1,0 +1,28 @@
+text,label,fe_id
+6,CARDINAL,11159
+911,CARDINAL,11159
+Tuesday,DATE,11159
+36th,ORDINAL,11159
+Riverside,PERSON,11159
+Friday,DATE,11159
+J.C. Comstock,PERSON,11159
+Phillip Doll,PRODUCT,11159
+65-year-old,DATE,11159
+"Related Story: Attacker Who Was Killed By Tulsa Police Was Wanted For Murder
+
+Her",WORK_OF_ART,11159
+Caller,PERSON,11159
+Tuesday,DATE,11159
+night,TIME,11159
+Caller,PERSON,11159
+911,CARDINAL,11159
+One,CARDINAL,11159
+J.C. Comstock,ORG,11159
+Friday,DATE,11159
+second,ORDINAL,11159
+Tulsa,GPE,11159
+Scott Wood,PERSON,11159
+Phillip Doll,PRODUCT,11159
+Related Story:,WORK_OF_ART,11159
+Scott Wood,ORG,11159
+Officer Comstock,ORG,11159

@@ -1,0 +1,13 @@
+text,label,fe_id
+One,CARDINAL,28419
+hours,TIME,28419
+2200,CARDINAL,28419
+South,LOC,28419
+West Haven,GPE,28419
+just before 1 a.m.,TIME,28419
+Sunday,DATE,28419
+second,ORDINAL,28419
+the Weber County Sheriff’s Office,ORG,28419
+Ogden Metro,PERSON,28419
+several hours,TIME,28419
+The Weber County Sheriff’s Office,ORG,28419

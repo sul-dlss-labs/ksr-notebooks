@@ -1,0 +1,23 @@
+text,label,fe_id
+"POLICE Department
+
+Investigation",ORG,24963
+100,CARDINAL,24963
+"September 28,",DATE,24963
+2018,DATE,24963
+Houston,GPE,24963
+100,CARDINAL,24963
+South Houston,LOC,24963
+about 12:30 a.m.,TIME,24963
+Sept. 28,DATE,24963
+23,CARDINAL,24963
+the Harris County Institute of Forensic Sciences,ORG,24963
+HPD Vehicular Crimes Division,ORG,24963
+Chevrolet,ORG,24963
+South Houston,LOC,24963
+Impala,GPE,24963
+South Houston,GPE,24963
+HPD,ORG,24963
+1100,DATE,24963
+Avenue B.,PERSON,24963
+two,CARDINAL,24963

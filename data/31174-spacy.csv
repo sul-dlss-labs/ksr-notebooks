@@ -1,0 +1,44 @@
+text,label,fe_id
+Monday night,TIME,31174
+Miami-Dade,GPE,31174
+Fla.,GPE,31174
+Monday night,TIME,31174
+Miami-Dade,GPE,31174
+first,ORDINAL,31174
+Chevron,ORG,31174
+Nicholas Guyadeen,PERSON,31174
+Jackson South Medical Center,ORG,31174
+Quail Roost Drive,FAC,31174
+Southwest 115th Avenue,LOC,31174
+Miami-Dade County,GPE,31174
+37-year-old,DATE,31174
+Corey Stanley,PERSON,31174
+Monday morning,TIME,31174
+several years,DATE,31174
+second,ORDINAL,31174
+Sarasota,GPE,31174
+Joshua Sayed,PERSON,31174
+Stanley,ORG,31174
+Corey Timothy Stanley,PERSON,31174
+Miami-Dade County,GPE,31174
+Monday,DATE,31174
+night,TIME,31174
+South Florida,LOC,31174
+Local 10 News,ORG,31174
+Stanley,PERSON,31174
+three,CARDINAL,31174
+Miami-Dade,GPE,31174
+Stanley,ORG,31174
+Operation Community Shield,ORG,31174
+this year,DATE,31174
+Operation Summer Heat,EVENT,31174
+"more than 2,500",CARDINAL,31174
+June,DATE,31174
+873,CARDINAL,31174
+146,CARDINAL,31174
+Stanley,PERSON,31174
+Monday night,TIME,31174
+Sayed,PERSON,31174
+The Florida Department of Law Enforcement,ORG,31174
+Miami-Dade Police Department,GPE,31174
+Guyadeen,PERSON,31174

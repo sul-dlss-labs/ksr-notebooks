@@ -1,0 +1,21 @@
+text,label,fe_id
+The Tennessee Bureau of Investigation,ORG,30418
+Monday,DATE,30418
+Mt. Juliet,LOC,30418
+3100,CARDINAL,30418
+West Division Street,LOC,30418
+911,CARDINAL,30418
+Mt. Juliet,NORP,30418
+two,CARDINAL,30418
+CPR,ORG,30418
+Mt. Juliet,LOC,30418
+TBI,ORG,30418
+District Attorney's,ORG,30418
+Mt. Juliet Police Capt,ORG,30418
+Tyler Chandler,PERSON,30418
+Jason Lawson,PERSON,30418
+James Hambrick,PERSON,30418
+Andy Humbles,PERSON,30418
+615-726-5939,CARDINAL,30418
+Twitter,PRODUCT,30418
+AndyHumbles,PRODUCT,30418

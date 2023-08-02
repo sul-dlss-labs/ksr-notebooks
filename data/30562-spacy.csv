@@ -1,0 +1,21 @@
+text,label,fe_id
+Houston,GPE,30562
+Tuesday,DATE,30562
+evening,TIME,30562
+Houston,GPE,30562
+the Houston Police Department,ORG,30562
+6:30 p.m.,TIME,30562
+the Villa Paree Apartments,ORG,30562
+7500,CARDINAL,30562
+Park Place,FAC,30562
+one,CARDINAL,30562
+Houston,GPE,30562
+Troy Finner,PERSON,30562
+between one,CARDINAL,30562
+second,ORDINAL,30562
+Finner,PERSON,30562
+one,CARDINAL,30562
+second,ORDINAL,30562
+first,ORDINAL,30562
+second,ORDINAL,30562
+Finner,PERSON,30562

@@ -1,0 +1,93 @@
+text,label,fe_id
+Chicago,GPE,17065
+Saturday,DATE,17065
+morning,TIME,17065
+one,CARDINAL,17065
+two,CARDINAL,17065
+12-hour,TIME,17065
+Saturday,DATE,17065
+first,ORDINAL,17065
+Quintonio LeGrier,PERSON,17065
+19,DATE,17065
+Bettie Jones,ORG,17065
+55,DATE,17065
+about 4:25 a.m.,TIME,17065
+4700,CARDINAL,17065
+West Erie,LOC,17065
+the Chicago Police Office of News Affairs,ORG,17065
+two,CARDINAL,17065
+Chicago,GPE,17065
+Eugene Roy,PERSON,17065
+Saturday,DATE,17065
+morning,TIME,17065
+the Independent Police Review Authority,ORG,17065
+Cook County,GPE,17065
+two,CARDINAL,17065
+an hour,TIME,17065
+LeGrier,PERSON,17065
+Cook County,GPE,17065
+LeGrier,PERSON,17065
+Northern Illinois University,ORG,17065
+Janet Cooksey,PERSON,17065
+LeGrier,PERSON,17065
+seven,CARDINAL,17065
+Cooksey,PERSON,17065
+LeGrier,PERSON,17065
+September,DATE,17065
+Cooksey,PERSON,17065
+The Chicago Police Department,ORG,17065
+Saturday,DATE,17065
+evening,TIME,17065
+55-year-old,DATE,17065
+Bettie Jones,ORG,17065
+second,ORDINAL,17065
+Jones,PERSON,17065
+second,ORDINAL,17065
+five,CARDINAL,17065
+LeGrier,PERSON,17065
+Latesha Jones,PERSON,17065
+Bettie,ORG,17065
+three,CARDINAL,17065
+the Chicago Sun-Times,ORG,17065
+Jones,PERSON,17065
+Jones,PERSON,17065
+five,CARDINAL,17065
+a year and a half,DATE,17065
+the Sun-Times,ORG,17065
+NBC,ORG,17065
+5,CARDINAL,17065
+Jones,PERSON,17065
+Ronnie Campbell,PERSON,17065
+Campbell,ORG,17065
+"more than $7,000",MONEY,17065
+Sunday night,TIME,17065
+Jones,PERSON,17065
+Less than 12 hours later,TIME,17065
+second,ORDINAL,17065
+Chicago,GPE,17065
+approximately 1:30 p.m.,TIME,17065
+1000,CARDINAL,17065
+West 103rd Street,GPE,17065
+Washington Heights,GPE,17065
+One,CARDINAL,17065
+the Chicago Fire Department,ORG,17065
+Friends,ORG,17065
+23-year,DATE,17065
+Mekel Lumpkin,ORG,17065
+two-year-old,DATE,17065
+Lumpkin,PERSON,17065
+Lumpkin,ORG,17065
+Sharon Fairley,PERSON,17065
+IPRA,ORG,17065
+Fairley,PERSON,17065
+30 days,DATE,17065
+Superintendent Escalante,PERSON,17065
+Emanuel,PERSON,17065
+Sunday,DATE,17065
+afternoon,TIME,17065
+the Independent Police Review Authority,ORG,17065
+yesterday,DATE,17065
+the Independent Police Review Authority’s,ORG,17065
+Emanuel,PERSON,17065
+Fairley,PERSON,17065
+Escalante,PERSON,17065

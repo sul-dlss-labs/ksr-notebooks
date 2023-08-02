@@ -1,0 +1,22 @@
+text,label,fe_id
+Times,ORG,1802
+Three,CARDINAL,1802
+Monday,DATE,1802
+two,CARDINAL,1802
+Pico Rivera,ORG,1802
+one 15,DATE,1802
+17,CARDINAL,1802
+third,ORDINAL,1802
+Richard Rafael Gutierrez,PERSON,1802
+21,DATE,1802
+Pico Rivera,ORG,1802
+two,CARDINAL,1802
+one,CARDINAL,1802
+fourth,ORDINAL,1802
+Michael Bilderrain,PERSON,1802
+18,CARDINAL,1802
+Pico Rivera,ORG,1802
+last week,DATE,1802
+California Highway Patrol,FAC,1802
+the San Fernando Valley,LOC,1802
+South Gate,LOC,1802

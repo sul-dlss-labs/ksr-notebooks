@@ -1,0 +1,61 @@
+text,label,fe_id
+1:25 p.m.,TIME,8283
+7:12 this morning,TIME,8283
+GEORGE,PERSON,8283
+SPRINGFIELD,GPE,8283
+Springfield,GPE,8283
+15-year-old,DATE,8283
+East Columbus Avenue,LOC,8283
+Thursday,DATE,8283
+night,TIME,8283
+Delano M. Walker,PERSON,8283
+Sgt,PERSON,8283
+John M. Delaney,PERSON,8283
+Delaney,LAW,8283
+one,CARDINAL,8283
+three,CARDINAL,8283
+Balise Auto Sales,ORG,8283
+East Columbus Avenue,LOC,8283
+shortly after 10 p.m.,TIME,8283
+1990,DATE,8283
+Vincent Ramos,PERSON,8283
+39,DATE,8283
+Springfield,GPE,8283
+Delaney,LAW,8283
+William J. Fitchet,PERSON,8283
+Ramos,ORG,8283
+Delaney,LAW,8283
+Sgt,PERSON,8283
+Peter Albano,PERSON,8283
+Sean Sullivan,PERSON,8283
+Hyundai,ORG,8283
+681,CARDINAL,8283
+Albano,PERSON,8283
+two,CARDINAL,8283
+Sullivan,PERSON,8283
+Walker,PERSON,8283
+Delaney,LAW,8283
+Sullivan,PERSON,8283
+Walker,ORG,8283
+Walker,PERSON,8283
+Sullivan,PERSON,8283
+Delaney,LAW,8283
+Sullivan,PERSON,8283
+Walker,ORG,8283
+Delaney,LAW,8283
+Sullivan,PERSON,8283
+Walker,ORG,8283
+Walker,PERSON,8283
+CPR,ORG,8283
+first,ORDINAL,8283
+Delaney,LAW,8283
+Baystate Medical Center,ORG,8283
+Walker,ORG,8283
+Delaney,LAW,8283
+Sgt,PERSON,8283
+Thomas Long,PERSON,8283
+the Traffic Division,ORG,8283
+Delaney,LAW,8283
+three,CARDINAL,8283
+Hampden County District,GPE,8283
+William M. Bennett's,PERSON,8283

@@ -1,0 +1,29 @@
+text,label,fe_id
+three,CARDINAL,24593
+Chicago,GPE,24593
+River North,LOC,24593
+Wednesday,DATE,24593
+night,TIME,24593
+Around 10:54 p.m.,TIME,24593
+Jeep Grand Cherokee,ORG,24593
+500,CARDINAL,24593
+North State Street,GPE,24593
+Grand Avenue,FAC,24593
+Jeep,ORG,24593
+North Dearborn Street,FAC,24593
+first,ORDINAL,24593
+West Grand Avenue,LOC,24593
+66-year-old,DATE,24593
+Northwestern Memorial Hospital,ORG,24593
+The Cook County Medical Examiner's,ORG,24593
+64-year-old,DATE,24593
+Illinois Masonic Medical Center,ORG,24593
+Two,CARDINAL,24593
+Jeep,ORG,24593
+45-year-old,DATE,24593
+Stroger Hospital,PERSON,24593
+48-year-old,DATE,24593
+Illinois Masonic Medical Center,ORG,24593
+Three,CARDINAL,24593
+Jeep,ORG,24593
+three,CARDINAL,24593

@@ -1,0 +1,21 @@
+text,label,fe_id
+Taser,ORG,9187
+Waller County,GPE,9187
+midnight,TIME,9187
+911,CARDINAL,9187
+first,ORDINAL,9187
+9pm,TIME,9187
+the Willowchase Apartments,ORG,9187
+Fifth,ORDINAL,9187
+Allen Street,FAC,9187
+911,CARDINAL,9187
+David Hartley,PERSON,9187
+only one,CARDINAL,9187
+Taser,ORG,9187
+at least two,CARDINAL,9187
+Waller County EMS,ORG,9187
+CPR,ORG,9187
+Bellville General Hospital,ORG,9187
+22-year-old,DATE,9187
+Terrell Houston,ORG,9187
+the Texas Rangers,ORG,9187

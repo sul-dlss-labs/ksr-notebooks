@@ -1,0 +1,39 @@
+text,label,fe_id
+Times,ORG,4033
+San Bernardino County,GPE,4033
+late-night,TIME,4033
+Needles,GPE,4033
+Monday,DATE,4033
+Jose Daniel Herrera,PERSON,4033
+Chip Patterson,PERSON,4033
+Herrera,ORG,4033
+Ruben Landa,PERSON,4033
+Landa,PERSON,4033
+28,DATE,4033
+late Monday,DATE,4033
+Las Vegas,GPE,4033
+California,GPE,4033
+Landa,PERSON,4033
+Herrera,PRODUCT,4033
+30 minutes earlier,TIME,4033
+Herrera,ORG,4033
+Lake Havasu City,GPE,4033
+Ariz.,GPE,4033
+Toyota,ORG,4033
+Camry,PRODUCT,4033
+midnight,TIME,4033
+Interstate 40 west,FAC,4033
+Park Moabi Road,ORG,4033
+Needles,GPE,4033
+up to,CARDINAL,4033
+100 mph,QUANTITY,4033
+20-year-old,DATE,4033
+Patterson,PERSON,4033
+Patterson,PERSON,4033
+second,ORDINAL,4033
+Herrera,ORG,4033
+Patterson,PERSON,4033
+Patterson,PERSON,4033
+Herrera,ORG,4033
+Patterson,PERSON,4033
+almost 100 mph,QUANTITY,4033

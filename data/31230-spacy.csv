@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,31230
+Alabama,GPE,31230
+Alaska,GPE,31230
+Arizona,GPE,31230
+Arkansas,GPE,31230
+California,GPE,31230
+Colorado,GPE,31230
+Connecticut,GPE,31230
+Delaware,GPE,31230
+Florida,GPE,31230
+Georgia,GPE,31230
+Hawaii,GPE,31230
+Idaho,GPE,31230
+Indiana,GPE,31230
+Iowa,GPE,31230
+Kansas,GPE,31230
+Kentucky,GPE,31230
+Louisiana,GPE,31230
+Maine,GPE,31230
+Maryland,GPE,31230
+Massachusetts,GPE,31230
+Michigan,GPE,31230
+Minnesota,GPE,31230
+Mississippi,GPE,31230
+Missouri,GPE,31230
+Montana,GPE,31230
+Nebraska,GPE,31230
+Nevada,GPE,31230
+New Hampshire,GPE,31230
+New Jersey,GPE,31230
+Ohio,GPE,31230
+Oklahoma,GPE,31230
+Oregon,GPE,31230
+Pennsylvania,GPE,31230
+Rhode Island,GPE,31230
+Tennessee,GPE,31230
+Texas,GPE,31230
+Utah,GPE,31230
+Vermont,GPE,31230
+Virginia,GPE,31230
+Washington,GPE,31230
+Washington,GPE,31230
+D.C.,GPE,31230
+Wisconsin,GPE,31230
+Wyoming,GPE,31230
+US,GPE,31230
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,31230
+Marshall Islands American Samoa Federated States,ORG,31230
+Micronesia Guam,FAC,31230
+Alberta,GPE,31230
+Canada,GPE,31230
+British Columbia,GPE,31230
+Canada Manitoba,GPE,31230
+Canada,GPE,31230
+New Brunswick,GPE,31230
+Canada Newfoundland,PERSON,31230
+Canada,GPE,31230
+Canada,GPE,31230
+Canada Ontario,GPE,31230
+Canada,GPE,31230
+Edward Island,GPE,31230
+Canada Quebec,GPE,31230
+Canada,GPE,31230
+Saskatchewan,GPE,31230
+Canada Yukon Territory,ORG,31230
+Canada,GPE,31230
+Zip Code,PERSON,31230

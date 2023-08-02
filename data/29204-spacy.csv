@@ -1,0 +1,22 @@
+text,label,fe_id
+The California Highway Patrol,ORG,29204
+Sunday,DATE,29204
+evening,TIME,29204
+Beaumont,GPE,29204
+CHP,ORG,29204
+Beaumont,GPE,29204
+California Highway Patrol Officers,FAC,29204
+7:44 p.m.,TIME,29204
+6th,ORDINAL,29204
+Beaumont Avenue,FAC,29204
+The Beaumont Police Department,ORG,29204
+6th,ORDINAL,29204
+Beaumont Avenue,FAC,29204
+"November 23, 2020",DATE,29204
+two,CARDINAL,29204
+CHP,ORG,29204
+The Beaumont Police Department,ORG,29204
+the Riverside County Sheriff's Department,ORG,29204
+CHP,ORG,29204
+kin,ORG,29204
+Beaumont Police Department's,ORG,29204

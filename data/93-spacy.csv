@@ -1,0 +1,35 @@
+text,label,fe_id
+Chicago,GPE,93
+today,DATE,93
+Chicago,GPE,93
+early this morning,TIME,93
+the South Side,LOC,93
+Pat Camden,PERSON,93
+Eugene Guy,PERSON,93
+21,DATE,93
+4500,CARDINAL,93
+South Federal Street,LOC,93
+about 1 a.m.,TIME,93
+two,CARDINAL,93
+Camden,GPE,93
+up to three,CARDINAL,93
+43rd Street,FAC,93
+South Michigan Avenue,LOC,93
+Guy,PERSON,93
+one,CARDINAL,93
+Guy,PERSON,93
+Camden,GPE,93
+45th,GPE,93
+South Michigan,GPE,93
+Guy,PERSON,93
+Camden,GPE,93
+Between eight and ten,CARDINAL,93
+Steve Williams,PERSON,93
+45,DATE,93
+the Inner City Youth Foundation,ORG,93
+4500 S. Michigan,PERCENT,93
+Williams,PERSON,93
+the Chicago Urban League,ORG,93
+4510,CARDINAL,93
+S. Michigan Ave,PERSON,93
+10 to 12,CARDINAL,93

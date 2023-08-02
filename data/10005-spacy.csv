@@ -1,0 +1,19 @@
+text,label,fe_id
+CBS,ORG,10005
+Montebello,GPE,10005
+Monday,DATE,10005
+the Montebello Code Enforcement Division,ORG,10005
+Thursday,DATE,10005
+morning,TIME,10005
+Greenwood Avenue,FAC,10005
+Jorge Jimenez,PERSON,10005
+31,DATE,10005
+Montebello,PERSON,10005
+Jimenez,LANGUAGE,10005
+Monday,DATE,10005
+Jimenez,ORG,10005
+at least four,CARDINAL,10005
+six,CARDINAL,10005
+35,CARDINAL,10005
+Jimenez,GPE,10005
+Jimenez,ORG,10005

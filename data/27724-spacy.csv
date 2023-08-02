@@ -1,0 +1,12 @@
+text,label,fe_id
+Miami-Dade County,GPE,27724
+at least one,CARDINAL,27724
+Fla.,GPE,27724
+Miami-Dade County,GPE,27724
+at least one,CARDINAL,27724
+Monday,DATE,27724
+8-8:30 p.m.,TIME,27724
+Southwest 145th Avenue,LOC,27724
+276th Street,FAC,27724
+second,ORDINAL,27724
+The Florida Department of Law Enforcement,ORG,27724

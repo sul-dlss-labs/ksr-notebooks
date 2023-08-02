@@ -1,0 +1,237 @@
+text,label,fe_id
+State,ORG,11266
+"April 21, 2012
+
+",DATE,11266
+Cause of Death and Other Findings,ORG,11266
+Legal Finding,PERSON,11266
+Law Concerning,PERSON,11266
+Footnotes,GPE,11266
+Attachment,GPE,11266
+Meriden,GPE,11266
+Angel Luis Cajigas,PERSON,11266
+Raul Rosado,PERSON,11266
+"April 21, 2012",DATE,11266
+Michael Dearington,PERSON,11266
+State,ORG,11266
+Judicial District,ORG,11266
+New Haven,GPE,11266
+Section 51-277a,LAW,11266
+the Connecticut General Statutes,ORG,11266
+Meriden,GPE,11266
+Richard Gasparri,PERSON,11266
+third,ORDINAL,11266
+10,CARDINAL,11266
+Maple Branch Road,ORG,11266
+the Western District Major Crime Squad,ORG,11266
+the Connecticut State,ORG,11266
+the Forensic Science Crime Laboratory,ORG,11266
+the Connecticut State Police,ORG,11266
+the Office of the State Medical Examiner,ORG,11266
+the Meriden Police Department,ORG,11266
+Angel Luis Cajigas,PERSON,11266
+Raul Rosado,PERSON,11266
+Aquada,GPE,11266
+Puerto Rico,GPE,11266
+"October 20, 1975",DATE,11266
+Puerto Rico,GPE,11266
+United States,GPE,11266
+U.S.,GPE,11266
+about three years,DATE,11266
+10 Maple Branch Road,ORG,11266
+Meriden,GPE,11266
+about one year,DATE,11266
+three,CARDINAL,11266
+four,CARDINAL,11266
+first,ORDINAL,11266
+four,CARDINAL,11266
+second,ORDINAL,11266
+three,CARDINAL,11266
+third,ORDINAL,11266
+second,ORDINAL,11266
+third,ORDINAL,11266
+weekly,DATE,11266
+marijuana,PERSON,11266
+Rushford,GPE,11266
+"Friday, April 20, 2012",DATE,11266
+second,ORDINAL,11266
+Carlos Rodriguez,PERSON,11266
+about 7:30 a.m.,TIME,11266
+second,ORDINAL,11266
+3:30 p.m.,TIME,11266
+6:30 p.m.,TIME,11266
+third,ORDINAL,11266
+around 6:30 p.m.,TIME,11266
+about 8:30 p.m.,TIME,11266
+second,ORDINAL,11266
+Rodriguez,PERSON,11266
+11:00 p.m.,TIME,11266
+Rodriguez,PERSON,11266
+Around 2:00 a.m.,TIME,11266
+"April 21, 2012",DATE,11266
+Spanish,NORP,11266
+five to ten minutes,TIME,11266
+third,ORDINAL,11266
+approximately one hour,TIME,11266
+second,ORDINAL,11266
+911,CARDINAL,11266
+2:38 a.m.,TIME,11266
+Meriden,GPE,11266
+about eight minutes,TIME,11266
+10 Maple Branch Road,ORG,11266
+First,ORDINAL,11266
+two,CARDINAL,11266
+second,ORDINAL,11266
+second,ORDINAL,11266
+third,ORDINAL,11266
+at least one,CARDINAL,11266
+Gasparri,PERSON,11266
+45 degree,QUANTITY,11266
+about three feet,QUANTITY,11266
+four,CARDINAL,11266
+Gasparri,PERSON,11266
+Officer Egan,PERSON,11266
+Taser,GPE,11266
+Two,CARDINAL,11266
+Officer Gasparri,FAC,11266
+me).[3,PERSON,11266
+four,CARDINAL,11266
+Officer Egan,PERSON,11266
+Taser,ORG,11266
+Gasparri,PERSON,11266
+two,CARDINAL,11266
+Gasparri,PERSON,11266
+one,CARDINAL,11266
+Gasparri,PERSON,11266
+fourth,ORDINAL,11266
+Angel Luis Cajigas a.k.a,PERSON,11266
+Raul Rosado,PERSON,11266
+"April 23, 2012",DATE,11266
+the Office of the Chief Medical Examiner,ORG,11266
+H. Wayne Carver,PERSON,11266
+M.D.,GPE,11266
+the Chief Medical Examiner,ORG,11266
+three,CARDINAL,11266
+1,CARDINAL,11266
+3,CARDINAL,11266
+1-2,CARDINAL,11266
+4,CARDINAL,11266
+the Medical Examiner,ORG,11266
+W-835,WORK_OF_ART,11266
+5,CARDINAL,11266
+the Medical Examiner,ORG,11266
+the Toxicological Section of the Office of the Medical Examiner,ORG,11266
+0.03 mg/L,QUANTITY,11266
+Benzoylecogonine,ORG,11266
+1.36 mg/L,TIME,11266
+Benzoylecogonine,ORG,11266
+the Connecticut General Statutes,ORG,11266
+the Division of Criminal,ORG,11266
+State,ORG,11266
+the Division of Criminal Justice,ORG,11266
+State,ORG,11266
+Section 53a-22”,LAW,11266
+Connecticut,GPE,11266
+Statues,PERSON,11266
+the Division of Criminal Justice,ORG,11266
+Angel Louis Cajigas,PERSON,11266
+age 37,DATE,11266
+some years,DATE,11266
+Puerto Rico,GPE,11266
+Meriden,GPE,11266
+the morning,TIME,11266
+"April 21, 2012",DATE,11266
+Shortly after midnight,TIME,11266
+second,ORDINAL,11266
+between 1-2 hours,CARDINAL,11266
+911,CARDINAL,11266
+second,ORDINAL,11266
+Four,CARDINAL,11266
+third,ORDINAL,11266
+third,ORDINAL,11266
+second,ORDINAL,11266
+third,ORDINAL,11266
+9,CARDINAL,11266
+Officer Gasparri,PERSON,11266
+Gasparri,PERSON,11266
+two,CARDINAL,11266
+third,ORDINAL,11266
+Officer Gasparri,PERSON,11266
+fourth,ORDINAL,11266
+Gasparri,PERSON,11266
+seconds,TIME,11266
+Graham v. Connor,PERSON,11266
+490,CARDINAL,11266
+U.S.,GPE,11266
+389,CARDINAL,11266
+396,CARDINAL,11266
+1989,DATE,11266
+second,ORDINAL,11266
+Scott v. Heinrich,PERSON,11266
+39,CARDINAL,11266
+3d 912,CARDINAL,11266
+915,CARDINAL,11266
+9th Cir. 1992,DATE,11266
+Section 53a-22,LAW,11266
+C.G.S.,GPE,11266
+Gasparri,PERSON,11266
+Angel Luis Cajigas,PERSON,11266
+the Division of Criminal Justice,ORG,11266
+Connecticut,GPE,11266
+Statutes,PERSON,11266
+1,CARDINAL,11266
+third,ORDINAL,11266
+State,ORG,11266
+Smith,GPE,11266
+73,CARDINAL,11266
+173,CARDINAL,11266
+2002,DATE,11266
+The United States Supreme Court,ORG,11266
+20/20,CARDINAL,11266
+Graham v. Connor,PERSON,11266
+490,CARDINAL,11266
+U.S.,GPE,11266
+389,CARDINAL,11266
+396,CARDINAL,11266
+1989,DATE,11266
+Graham,PERSON,11266
+Court,ORG,11266
+second,ORDINAL,11266
+396,CARDINAL,11266
+397,CARDINAL,11266
+State,ORG,11266
+Silveira,PERSON,11266
+198,CARDINAL,11266
+Conn.,GPE,11266
+454,CARDINAL,11266
+1986,DATE,11266
+State,ORG,11266
+643,CARDINAL,11266
+1999,DATE,11266
+second,ORDINAL,11266
+Maria Salim,PERSON,11266
+Administratrix v. William Proulx,PERSON,11266
+93,CARDINAL,11266
+86,DATE,11266
+92,DATE,11266
+2d Cir. 1996,DATE,11266
+East Hartford Police Department’s,ORG,11266
+Scott v. Henrich,PERSON,11266
+39,CARDINAL,11266
+3d 912,CARDINAL,11266
+915,CARDINAL,11266
+9th Cir. 1992,DATE,11266
+Malley v. Briggs,PERSON,11266
+475,CARDINAL,11266
+335,CARDINAL,11266
+341,CARDINAL,11266
+1986,DATE,11266
+State,ORG,11266
+New Haven,GPE,11266
+"December 4, 2012
+
+",DATE,11266
+PDF File - Size,ORG,11266
+1,CARDINAL,11266
+second,ORDINAL,11266
+third,ORDINAL,11266

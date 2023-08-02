@@ -1,0 +1,66 @@
+text,label,fe_id
+FBI,ORG,10302
+U.S.-Mexico,ORG,10302
+U.S. Customs and Border Protection,ORG,10302
+U.S.,GPE,10302
+Tuesday,DATE,10302
+night,TIME,10302
+San Ysidro Port of Entry,FAC,10302
+Two,CARDINAL,10302
+San Diego,GPE,10302
+around 7:30 p.m.,TIME,10302
+Tuesday,DATE,10302
+three,CARDINAL,10302
+Dairy Mart Road,ORG,10302
+second,ORDINAL,10302
+Two,CARDINAL,10302
+Mexico,GPE,10302
+third,ORDINAL,10302
+one,CARDINAL,10302
+first,ORDINAL,10302
+Border Patrol Agent,ORG,10302
+Tijuana,GPE,10302
+Mexico,GPE,10302
+the Associated Press,ORG,10302
+Mexico,GPE,10302
+ACLU,ORG,10302
+Mexico,GPE,10302
+Jose Alfredo Yañez,PERSON,10302
+Mexican,NORP,10302
+Mexican,NORP,10302
+Jose Alfredo Yanez,PERSON,10302
+40,DATE,10302
+Tijuana,GPE,10302
+Heriberto Garcia,PERSON,10302
+Baja California,GPE,10302
+Yanez,ORG,10302
+18-year-old,DATE,10302
+five months',DATE,10302
+second,ORDINAL,10302
+Mexico,GPE,10302
+Foreign Relations Department,ORG,10302
+Wednesday,DATE,10302
+Shawn Moran,PERSON,10302
+the National Border Patrol Council Local 1613,ORG,10302
+U.S.,GPE,10302
+the United States,GPE,10302
+Moran,PERSON,10302
+Border Patrol,ORG,10302
+Moran,PERSON,10302
+the American Civil Liberties Union,ORG,10302
+Border Patrol,ORG,10302
+San Diego,GPE,10302
+Kevin Keenan,PERSON,10302
+ACLU,ORG,10302
+San Diego,GPE,10302
+Imperial Counties,ORG,10302
+3-year,DATE,10302
+the U.S. Border Patrol,ORG,10302
+second,ORDINAL,10302
+FBI,ORG,10302
+U.S.,GPE,10302
+Keenan,PERSON,10302
+U.S.,GPE,10302
+Congress,ORG,10302
+Rep,PERSON,10302
+Congress Needs,ORG,10302

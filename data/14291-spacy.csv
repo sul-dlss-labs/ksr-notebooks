@@ -1,0 +1,23 @@
+text,label,fe_id
+Tulsa,GPE,14291
+overnight,TIME,14291
+the Oklahoma Highway Patrol,ORG,14291
+Kevin Hilburn,PERSON,14291
+34,DATE,14291
+Interstate 44,FAC,14291
+33rd West Avenue,FAC,14291
+about 11:50 p.m.,TIME,14291
+Thursday,DATE,14291
+Sapulpa,ORG,14291
+OHP,ORG,14291
+Hilburn,PRODUCT,14291
+2000,DATE,14291
+Chevrolet,ORG,14291
+33rd,ORDINAL,14291
+West Avenue,FAC,14291
+Michiko Henderson,PERSON,14291
+19,DATE,14291
+St. John Medical Center,ORG,14291
+OHP,ORG,14291
+Hilburn,PERSON,14291
+Henderson,GPE,14291

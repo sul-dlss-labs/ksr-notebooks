@@ -1,0 +1,25 @@
+text,label,fe_id
+Dallas,GPE,23827
+Dallas,GPE,23827
+Tuesday,DATE,23827
+morning,TIME,23827
+Dallas,GPE,23827
+Dallas,GPE,23827
+Tuesday,DATE,23827
+morning,TIME,23827
+first,ORDINAL,23827
+about 10:16 a.m.,TIME,23827
+2300,CARDINAL,23827
+North Field Street,GPE,23827
+52-year-old,DATE,23827
+Nancy Churchwell,PERSON,23827
+about 1 p.m.,TIME,23827
+Dallas,GPE,23827
+U.S.,GPE,23827
+29-year-old,DATE,23827
+Marlon Smith,PERSON,23827
+2100,CARDINAL,23827
+Hulse Boulevard,ORG,23827
+Pleasant Grove,GPE,23827
+Dallas Sheriff's Department,ORG,23827
+Smith,GPE,23827

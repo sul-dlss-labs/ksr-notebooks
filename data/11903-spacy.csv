@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,11903
+Alabama,GPE,11903
+Alaska,GPE,11903
+Arizona,GPE,11903
+Arkansas,GPE,11903
+California,GPE,11903
+Colorado,GPE,11903
+Connecticut,GPE,11903
+Delaware,GPE,11903
+Florida,GPE,11903
+Georgia,GPE,11903
+Hawaii,GPE,11903
+Idaho,GPE,11903
+Indiana,GPE,11903
+Iowa,GPE,11903
+Kansas,GPE,11903
+Kentucky,GPE,11903
+Louisiana,GPE,11903
+Maine,GPE,11903
+Maryland,GPE,11903
+Massachusetts,GPE,11903
+Michigan,GPE,11903
+Minnesota,GPE,11903
+Mississippi,GPE,11903
+Missouri,GPE,11903
+Montana,GPE,11903
+Nebraska,GPE,11903
+Nevada,GPE,11903
+New Hampshire,GPE,11903
+New Jersey,GPE,11903
+Ohio,GPE,11903
+Oklahoma,GPE,11903
+Oregon,GPE,11903
+Pennsylvania,GPE,11903
+Rhode Island,GPE,11903
+Tennessee,GPE,11903
+Texas,GPE,11903
+Utah,GPE,11903
+Vermont,GPE,11903
+Virginia,GPE,11903
+Washington,GPE,11903
+Washington,GPE,11903
+D.C.,GPE,11903
+Wisconsin,GPE,11903
+Wyoming,GPE,11903
+US,GPE,11903
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,11903
+Marshall Islands American Samoa Federated States,ORG,11903
+Micronesia Guam,FAC,11903
+Alberta,GPE,11903
+Canada,GPE,11903
+British Columbia,GPE,11903
+Canada Manitoba,GPE,11903
+Canada,GPE,11903
+New Brunswick,GPE,11903
+Canada Newfoundland,PERSON,11903
+Canada,GPE,11903
+Canada,GPE,11903
+Canada Ontario,GPE,11903
+Canada,GPE,11903
+Edward Island,GPE,11903
+Canada Quebec,GPE,11903
+Canada,GPE,11903
+Saskatchewan,GPE,11903
+Canada Yukon Territory,ORG,11903
+Canada,GPE,11903
+Zip Code,PERSON,11903

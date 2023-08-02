@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7085
+Alabama,GPE,7085
+Alaska,GPE,7085
+Arizona,GPE,7085
+Arkansas,GPE,7085
+California,GPE,7085
+Colorado,GPE,7085
+Connecticut,GPE,7085
+Delaware,GPE,7085
+Florida,GPE,7085
+Georgia,GPE,7085
+Hawaii,GPE,7085
+Idaho,GPE,7085
+Indiana,GPE,7085
+Iowa,GPE,7085
+Kansas,GPE,7085
+Kentucky,GPE,7085
+Louisiana,GPE,7085
+Maine,GPE,7085
+Maryland,GPE,7085
+Massachusetts,GPE,7085
+Michigan,GPE,7085
+Minnesota,GPE,7085
+Mississippi,GPE,7085
+Missouri,GPE,7085
+Montana,GPE,7085
+Nebraska,GPE,7085
+Nevada,GPE,7085
+New Hampshire,GPE,7085
+New Jersey,GPE,7085
+Ohio,GPE,7085
+Oklahoma,GPE,7085
+Oregon,GPE,7085
+Pennsylvania,GPE,7085
+Rhode Island,GPE,7085
+Tennessee,GPE,7085
+Texas,GPE,7085
+Utah,GPE,7085
+Vermont,GPE,7085
+Virginia,GPE,7085
+Washington,GPE,7085
+Washington,GPE,7085
+D.C.,GPE,7085
+Wisconsin,GPE,7085
+Wyoming,GPE,7085
+US,GPE,7085
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7085
+Marshall Islands American Samoa Federated States,ORG,7085
+Micronesia Guam,FAC,7085
+Alberta,GPE,7085
+Canada,GPE,7085
+British Columbia,GPE,7085
+Canada Manitoba,GPE,7085
+Canada,GPE,7085
+New Brunswick,GPE,7085
+Canada Newfoundland,PERSON,7085
+Canada,GPE,7085
+Canada,GPE,7085
+Canada Ontario,GPE,7085
+Canada,GPE,7085
+Edward Island,GPE,7085
+Canada Quebec,GPE,7085
+Canada,GPE,7085
+Saskatchewan,GPE,7085
+Canada Yukon Territory,ORG,7085
+Canada,GPE,7085
+Zip Code,PERSON,7085

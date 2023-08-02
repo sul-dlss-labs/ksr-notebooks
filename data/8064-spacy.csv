@@ -1,0 +1,5 @@
+text,label,fe_id
+Carver Library,FAC,8064
+Tuesday,DATE,8064
+evening,TIME,8064
+10,CARDINAL,8064

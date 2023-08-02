@@ -1,0 +1,18 @@
+text,label,fe_id
+Two,CARDINAL,9101
+this morning,TIME,9101
+two,CARDINAL,9101
+8:15 a.m.,TIME,9101
+34-year-old,DATE,9101
+Highway 169,FAC,9101
+Marschall Road,FAC,9101
+Highway 169,FAC,9101
+two hours,TIME,9101
+30-year-old,DATE,9101
+Shakopee,PERSON,9101
+St. Francis Regional Medical Center,ORG,9101
+Shakopee,PERSON,9101
+yesterday,DATE,9101
+Plymouth,GPE,9101
+this morning,TIME,9101
+The Minnesota Bureau of Criminal Apprehension,ORG,9101

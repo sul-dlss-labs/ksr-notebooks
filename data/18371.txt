@@ -1,0 +1,45 @@
+A suspected drunken driver fled police through downtown Norwich early Sunday, striking a car and killing the passenger, police said.
+
+Thomas Allan Richter, 74, of Southbury was taken to William W. Backus Hospital, where he died, they said. The driver, Carol Jean Richter, 72, of New Milford, also was taken to the hospital, where she was being treated for injuries that state police said appeared serious.
+
+The occupants of the fleeing car also had injuries that appeared serious, state police said. Both Cory Long, 35, of Hartford — the driver — and Isaiah Lee, 35, of Groton, the passenger, were being treated at Backus Hospital, state police said.
+
+According to police, a city officer tried to pull Long over on suspicion of drunk driving on Route 32, or West Thames Street. Long, who had been driving erratically, failed to stop the 2004 Subaru Legacy, triggering a pursuit through downtown Norwich.
+
+As Long drove east on Route 2, or Main Street on the Shetucket River Bridge, he went into the westbound lane, striking Carol Jean Richter’s stopped 2010 Toyota Corolla nearly head on, state police said.
+
+Norwich police said Long had ricocheted off a curb before the impact with the Subaru, which was stopped at a traffic light.
+
+Neither Thomas Allan Richter nor Isaiah Lee was wearing a seatbelt, state police said.
+
+At the request of the New London State’s Attorney’s Office, the Connecticut State Police Collision Analysis Reconstruction Squad is investigating the crash. Witnesses are asked to contact Trooper John Wilson at 203-630-8085 or john.wilson@ct.gov.
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #c52026;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Trending Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

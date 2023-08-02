@@ -1,0 +1,37 @@
+text,label,fe_id
+Three,CARDINAL,28182
+four,CARDINAL,28182
+early Wednesday,DATE,28182
+15,CARDINAL,28182
+16,DATE,28182
+17,DATE,28182
+Thursday,DATE,28182
+West Cypress Street,LOC,28182
+Nissan Altima,PERSON,28182
+the Tampa Police Department,ORG,28182
+six,CARDINAL,28182
+three,CARDINAL,28182
+18-year-old,DATE,28182
+Eddy Durkin,PERSON,28182
+Thursday,DATE,28182
+20-year-old,DATE,28182
+19-year-old,DATE,28182
+Durkin,PERSON,28182
+Durkin,PERSON,28182
+Marsy’s Law,ORG,28182
+2018,DATE,28182
+Florida,GPE,28182
+Altima,FAC,28182
+about 2:40 a.m.,TIME,28182
+N Dale Mabry Highway,ORG,28182
+W Kennedy Boulevard,PERSON,28182
+less than two minutes,TIME,28182
+Altima,PERSON,28182
+W Cypress Boulevard,ORG,28182
+Reo Street,FAC,28182
+more than two miles,QUANTITY,28182
+at least one,CARDINAL,28182
+Cypress Point Park,LOC,28182
+two,CARDINAL,28182
+four,CARDINAL,28182
+Durkin,PERSON,28182

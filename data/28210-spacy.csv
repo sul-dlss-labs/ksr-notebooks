@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,28210
+Alabama,GPE,28210
+Alaska,GPE,28210
+Arizona,GPE,28210
+Arkansas,GPE,28210
+California,GPE,28210
+Colorado,GPE,28210
+Connecticut,GPE,28210
+Delaware,GPE,28210
+Florida,GPE,28210
+Georgia,GPE,28210
+Hawaii,GPE,28210
+Idaho,GPE,28210
+Indiana,GPE,28210
+Iowa,GPE,28210
+Kansas,GPE,28210
+Kentucky,GPE,28210
+Louisiana,GPE,28210
+Maine,GPE,28210
+Maryland,GPE,28210
+Massachusetts,GPE,28210
+Michigan,GPE,28210
+Minnesota,GPE,28210
+Mississippi,GPE,28210
+Missouri,GPE,28210
+Montana,GPE,28210
+Nebraska,GPE,28210
+Nevada,GPE,28210
+New Hampshire,GPE,28210
+New Jersey,GPE,28210
+Ohio,GPE,28210
+Oklahoma,GPE,28210
+Oregon,GPE,28210
+Pennsylvania,GPE,28210
+Rhode Island,GPE,28210
+Tennessee,GPE,28210
+Texas,GPE,28210
+Utah,GPE,28210
+Vermont,GPE,28210
+Virginia,GPE,28210
+Washington,GPE,28210
+Washington,GPE,28210
+D.C.,GPE,28210
+Wisconsin,GPE,28210
+Wyoming,GPE,28210
+US,GPE,28210
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,28210
+Marshall Islands American Samoa Federated States,ORG,28210
+Micronesia Guam,FAC,28210
+Alberta,GPE,28210
+Canada,GPE,28210
+British Columbia,GPE,28210
+Canada Manitoba,GPE,28210
+Canada,GPE,28210
+New Brunswick,GPE,28210
+Canada Newfoundland,PERSON,28210
+Canada,GPE,28210
+Canada,GPE,28210
+Canada Ontario,GPE,28210
+Canada,GPE,28210
+Edward Island,GPE,28210
+Canada Quebec,GPE,28210
+Canada,GPE,28210
+Saskatchewan,GPE,28210
+Canada Yukon Territory,ORG,28210
+Canada,GPE,28210
+Zip Code,PERSON,28210

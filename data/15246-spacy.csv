@@ -1,0 +1,37 @@
+text,label,fe_id
+Less than a minute,TIME,15246
+LAS VEGAS,GPE,15246
+AP,ORG,15246
+25-year-old,DATE,15246
+California Highway Patrol,FAC,15246
+more than two,CARDINAL,15246
+two,CARDINAL,15246
+Clark County,GPE,15246
+Fresno,GPE,15246
+California,GPE,15246
+Phia W. Vang,PERSON,15246
+Tuesday,DATE,15246
+about 6:30 p.m.,TIME,15246
+Thursday,DATE,15246
+Interstate 15,ORG,15246
+Jean,GPE,15246
+Nevada,GPE,15246
+Vang,PERSON,15246
+Toyota,ORG,15246
+CHP,ORG,15246
+I-15,PRODUCT,15246
+California,GPE,15246
+Nevada,GPE,15246
+Jean,NORP,15246
+about 30 miles,QUANTITY,15246
+Las Vegas,GPE,15246
+Las Vegas,GPE,15246
+Matt McCarthy,PERSON,15246
+Vang,PERSON,15246
+CHP,ORG,15246
+McCarthy,PERSON,15246
+California,GPE,15246
+one,CARDINAL,15246
+The Associated Press,ORG,15246
+U.S.,GPE,15246
+U.S.,GPE,15246

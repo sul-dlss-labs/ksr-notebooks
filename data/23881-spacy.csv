@@ -1,0 +1,5 @@
+text,label,fe_id
+Miami,GPE,23881
+one,CARDINAL,23881
+today,DATE,23881
+as little as $1,MONEY,23881

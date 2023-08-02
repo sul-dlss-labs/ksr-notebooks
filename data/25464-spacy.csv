@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,25464
+United States,GPE,25464
+Canada Mexico,GPE,25464
+United Mexican,GPE,25464
+Bahamas,GPE,25464
+Commonwealth,GPE,25464
+Cuba,GPE,25464
+"Republic of Dominican Republic Haiti,",GPE,25464
+Republic of Jamaica,GPE,25464
+Afghanistan,GPE,25464
+Albania,GPE,25464
+People's Socialist Republic,ORG,25464
+Algeria,GPE,25464
+People's Democratic Republic of American,GPE,25464
+Angola,GPE,25464
+Republic of Anguilla Antarctica,ORG,25464
+South,LOC,25464
+Barbuda Argentina,PERSON,25464
+Argentine Republic,GPE,25464
+Armenia Aruba,PERSON,25464
+Australia,GPE,25464
+Commonwealth,GPE,25464
+Austria,GPE,25464
+Republic of Bahrain,ORG,25464
+Belgium,GPE,25464
+Kingdom of Belize Benin,ORG,25464
+People's Republic of Bermuda Bhutan,GPE,25464
+Kingdom of Bolivia,GPE,25464
+Republic of Bosnia,GPE,25464
+Botswana,GPE,25464
+Republic of Bouvet Island,ORG,25464
+Bouvetoya,GPE,25464
+Brazil,GPE,25464
+Federative Republic,GPE,25464
+British Virgin,GPE,25464
+Bulgaria,GPE,25464
+People's Republic of Burkina Faso Burundi,GPE,25464
+Republic of Cambodia,GPE,25464
+Kingdom of Cameroon,GPE,25464
+United Republic of Cape Verde,GPE,25464
+"Republic of Cayman Islands Central African Republic Chad,",ORG,25464
+Republic of Chile,ORG,25464
+Republic of China,ORG,25464
+People's Republic of Christmas Island,GPE,25464
+Colombia,GPE,25464
+Union of the Congo,ORG,25464
+Democratic Republic of Congo,GPE,25464
+People's Republic of Cook,GPE,25464
+Costa Rica,GPE,25464
+Ivory Coast,GPE,25464
+Republic Denmark,GPE,25464
+Kingdom of Djibouti,GPE,25464
+Republic of Dominica,GPE,25464
+Commonwealth,GPE,25464
+Ecuador,GPE,25464
+Republic of Egypt,GPE,25464
+Arab Republic,GPE,25464
+El Salvador,GPE,25464
+Republic of Equatorial Guinea,GPE,25464
+Republic of Eritrea,GPE,25464
+Estonia,GPE,25464
+Ethiopia,GPE,25464
+Malvinas,GPE,25464
+Fiji,GPE,25464
+Republic of the Fiji Islands Finland,ORG,25464
+Republic of France,GPE,25464
+French,NORP,25464
+French,NORP,25464
+Guiana,PERSON,25464
+French,NORP,25464
+Polynesia,GPE,25464
+Southern Territories Gabon,PRODUCT,25464
+Gabonese Republic Gambia,GPE,25464
+Georgia,GPE,25464
+Germany,GPE,25464
+Ghana,GPE,25464
+Republic of Gibraltar Greece,ORG,25464
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,25464
+Republic of Guinea,GPE,25464
+Revolutionary People's Rep'c,ORG,25464
+Guinea-Bissau,ORG,25464
+Republic of Heard,ORG,25464
+McDonald Islands Holy See,ORG,25464
+Vatican City State,GPE,25464
+Honduras,GPE,25464
+Republic of Hong Kong,GPE,25464
+Special Administrative Region of China,ORG,25464
+Hrvatska,PERSON,25464
+Croatia,GPE,25464
+Hungary,GPE,25464
+Hungarian People's Republic Iceland,PERSON,25464
+Republic of India,GPE,25464
+Republic of Indonesia,GPE,25464
+Republic of Iran,GPE,25464
+Islamic Republic of Iraq,GPE,25464
+Republic of Ireland,GPE,25464
+Israel,GPE,25464
+State of Italy,GPE,25464
+Italian,NORP,25464
+Japan,GPE,25464
+Jordan,GPE,25464
+Hashemite Kingdom of Kazakhstan,GPE,25464
+Republic of Kiribati,GPE,25464
+Republic of Korea,GPE,25464
+Democratic,NORP,25464
+Republic of Kuwait,ORG,25464
+Lao People's,PERSON,25464
+Latvia,GPE,25464
+Lebanon,GPE,25464
+Lebanese Republic Lesotho,GPE,25464
+Kingdom of Liberia,GPE,25464
+Lithuania Luxembourg,GPE,25464
+Special Administrative Region of China Macedonia,ORG,25464
+Yugoslav Republic of Madagascar,GPE,25464
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,25464
+Islamic Republic,GPE,25464
+Mayotte Micronesia,PERSON,25464
+Federated States,GPE,25464
+Moldova,GPE,25464
+Republic of Monaco,ORG,25464
+Principality,NORP,25464
+Morocco,GPE,25464
+Kingdom of Mozambique,ORG,25464
+Republic of Nepal,GPE,25464
+Netherlands,GPE,25464
+Kingdom,GPE,25464
+the New Caledonia New Zealand,ORG,25464
+Nicaragua,GPE,25464
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,25464
+Norway,GPE,25464
+Kingdom of Oman,GPE,25464
+Pakistan,GPE,25464
+Islamic Republic of,GPE,25464
+Occupied Panama,GPE,25464
+Republic of Peru,GPE,25464
+Republic of Philippines,GPE,25464
+Republic of the Pitcairn Island Poland,ORG,25464
+Polish,NORP,25464
+Republic Portugal,GPE,25464
+Portuguese Republic,GPE,25464
+Puerto Rico Qatar,GPE,25464
+State of Reunion Romania,ORG,25464
+Socialist Republic,GPE,25464
+Rwanda,GPE,25464
+Rwandese Republic Samoa,GPE,25464
+Independent State of San Marino,ORG,25464
+Republic of Sao Tome,ORG,25464
+Principe,GPE,25464
+Democratic Republic of Saudi Arabia,GPE,25464
+"Kingdom of Senegal, Republic of Serbia",GPE,25464
+Montenegro Seychelles,PERSON,25464
+Republic of Sierra Leone,ORG,25464
+Republic of Singapore,ORG,25464
+Republic of Slovakia,ORG,25464
+Slovak Republic,GPE,25464
+Slovenia Solomon Islands,GPE,25464
+Somalia,GPE,25464
+Somali Republic South Africa,GPE,25464
+Republic of South Georgia,GPE,25464
+Spain,GPE,25464
+Spanish,NORP,25464
+Sri Lanka,GPE,25464
+Democratic,NORP,25464
+Miquelon St. Vincent,PERSON,25464
+Democratic Republic,GPE,25464
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,25464
+Kingdom of Sweden,GPE,25464
+Kingdom of Switzerland,GPE,25464
+Swiss Confederation Syrian Arab Republic,ORG,25464
+Taiwan,GPE,25464
+China,GPE,25464
+Tanzania,GPE,25464
+United Republic of Thailand,GPE,25464
+Kingdom of Timor-Leste,GPE,25464
+Democratic Republic of Togo,GPE,25464
+Togolese Republic Tokelau,ORG,25464
+Tokelau,GPE,25464
+Tonga,GPE,25464
+Kingdom of Trinidad,ORG,25464
+Tobago,GPE,25464
+Republic of Tunisia,ORG,25464
+Republic of Turkey,GPE,25464
+Republic of Turkmenistan Turks,ORG,25464
+Uganda,GPE,25464
+Republic of Ukraine United Arab Emirates,GPE,25464
+United Kingdom of Great,GPE,25464
+Eastern Republic,GPE,25464
+Venezuela,GPE,25464
+Bolivarian Republic,GPE,25464
+Viet Nam,GPE,25464
+Socialist Republic,GPE,25464
+Yemen,GPE,25464
+Zambia,GPE,25464
+Republic of Zimbabwe,GPE,25464

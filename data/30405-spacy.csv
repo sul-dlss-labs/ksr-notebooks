@@ -1,0 +1,25 @@
+text,label,fe_id
+SALT LAKE CITY,GPE,30405
+The Salt Lake City Police Department,GPE,30405
+one,CARDINAL,30405
+Pioneer Park,FAC,30405
+Thursday,DATE,30405
+morning,TIME,30405
+FOX,ORG,30405
+two,CARDINAL,30405
+first,ORDINAL,30405
+second,ORDINAL,30405
+Salt Lake City,PERSON,30405
+Mike Brown,PERSON,30405
+the Salt Lake City Fire Department,GPE,30405
+today,DATE,30405
+FOX 13,LAW,30405
+an afternoon,TIME,30405
+Salt Lake City,GPE,30405
+Erin Mendenhall,PERSON,30405
+Salt Lake City,GPE,30405
+number one,CARDINAL,30405
+Mendenhall,ORG,30405
+each day,DATE,30405
+fox13now.com,ORG,30405
+FOX,ORG,30405

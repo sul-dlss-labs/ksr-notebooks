@@ -1,0 +1,6 @@
+text,label,fe_id
+Millions,CARDINAL,17098
+an estimated $1.05 billion,MONEY,17098
+Friday night,TIME,17098
+fifth,ORDINAL,17098
+billions,CARDINAL,17098

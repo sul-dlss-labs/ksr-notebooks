@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,29057
+Alabama,GPE,29057
+Alaska,GPE,29057
+Arizona,GPE,29057
+Arkansas,GPE,29057
+California,GPE,29057
+Colorado,GPE,29057
+Connecticut,GPE,29057
+Delaware,GPE,29057
+Florida,GPE,29057
+Georgia,GPE,29057
+Hawaii,GPE,29057
+Idaho,GPE,29057
+Indiana,GPE,29057
+Iowa,GPE,29057
+Kansas,GPE,29057
+Kentucky,GPE,29057
+Louisiana,GPE,29057
+Maine,GPE,29057
+Maryland,GPE,29057
+Massachusetts,GPE,29057
+Michigan,GPE,29057
+Minnesota,GPE,29057
+Mississippi,GPE,29057
+Missouri,GPE,29057
+Montana,GPE,29057
+Nebraska,GPE,29057
+Nevada,GPE,29057
+New Hampshire,GPE,29057
+New Jersey,GPE,29057
+Ohio,GPE,29057
+Oklahoma,GPE,29057
+Oregon,GPE,29057
+Pennsylvania,GPE,29057
+Rhode Island,GPE,29057
+Tennessee,GPE,29057
+Texas,GPE,29057
+Utah,GPE,29057
+Vermont,GPE,29057
+Virginia,GPE,29057
+Washington,GPE,29057
+Washington,GPE,29057
+D.C.,GPE,29057
+Wisconsin,GPE,29057
+Wyoming,GPE,29057
+US,GPE,29057
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,29057
+Marshall Islands American Samoa Federated States,ORG,29057
+Micronesia Guam,FAC,29057
+Alberta,GPE,29057
+Canada,GPE,29057
+British Columbia,GPE,29057
+Canada Manitoba,GPE,29057
+Canada,GPE,29057
+New Brunswick,GPE,29057
+Canada Newfoundland,PERSON,29057
+Canada,GPE,29057
+Canada,GPE,29057
+Canada Ontario,GPE,29057
+Canada,GPE,29057
+Edward Island,GPE,29057
+Canada Quebec,GPE,29057
+Canada,GPE,29057
+Saskatchewan,GPE,29057
+Canada Yukon Territory,ORG,29057
+Canada,GPE,29057
+Zip Code,PERSON,29057

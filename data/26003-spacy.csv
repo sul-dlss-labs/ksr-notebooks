@@ -1,0 +1,34 @@
+text,label,fe_id
+Georgia State Patrol,ORG,26003
+two,CARDINAL,26003
+Friday,DATE,26003
+5,CARDINAL,26003
+DUBLIN,GPE,26003
+Ga.,GPE,26003
+Georgia State Patrol,ORG,26003
+two,CARDINAL,26003
+Friday,DATE,26003
+Interstate 16,FAC,26003
+Laurens County,GPE,26003
+2005,DATE,26003
+Chevrolet,ORG,26003
+Impala,PERSON,26003
+State Route,ORG,26003
+199,CARDINAL,26003
+Laurens County Sheriff's Office,ORG,26003
+Impala,GPE,26003
+PIT,ORG,26003
+Impala,GPE,26003
+quarter,CARDINAL,26003
+Impala,GPE,26003
+two,CARDINAL,26003
+third,ORDINAL,26003
+21-year-old,DATE,26003
+Tevin Blount,PERSON,26003
+Glennville,PERSON,26003
+27-year-old,DATE,26003
+Preston Coleman,PERSON,26003
+Vidalia,GPE,26003
+25-year-old,DATE,26003
+Shequan Moss,PERSON,26003
+East Dublin,GPE,26003

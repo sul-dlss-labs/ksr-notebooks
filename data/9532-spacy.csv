@@ -1,0 +1,35 @@
+text,label,fe_id
+James Davis,PERSON,9532
+18-year-old,DATE,9532
+"Thursday, Oct. 7",DATE,9532
+2000,CARDINAL,9532
+East 114th Street,LOC,9532
+Watts,LOC,9532
+Los Angeles County,GPE,9532
+the Imperial Courts,ORG,9532
+shortly after 5 p.m.,TIME,9532
+One,CARDINAL,9532
+James Davis,PERSON,9532
+LAPD,ORG,9532
+Davis,PERSON,9532
+at least one,CARDINAL,9532
+More than 50,CARDINAL,9532
+6:45 p.m.,TIME,9532
+Davis,PERSON,9532
+St. Francis Medical Center,ORG,9532
+114th,ORDINAL,9532
+Grape,FAC,9532
+Watts,LOC,9532
+LAPD,ORG,9532
+Los Angeles County Sheriff's Department,GPE,9532
+The Times' Crime L.A.,ORG,9532
+six recent months,DATE,9532
+Watts,LOC,9532
+"about 41,000",CARDINAL,9532
+366,CARDINAL,9532
+the six months ending Sept. 5,DATE,9532
+12th,ORDINAL,9532
+more than 200,CARDINAL,9532
+Times,ORG,9532
+Andrew Blankstein,PERSON,9532
+Robert J. Lopez,PERSON,9532

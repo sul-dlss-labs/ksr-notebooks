@@ -1,0 +1,57 @@
+text,label,fe_id
+Seattle,GPE,3627
+yesterday,DATE,3627
+early morning,TIME,3627
+Northgate,ORG,3627
+the King County Medical Examiner's Office,ORG,3627
+Herbert L. Hightower,PERSON,3627
+25,DATE,3627
+Seattle,GPE,3627
+911,CARDINAL,3627
+Northgate,ORG,3627
+about 1 a.m.,TIME,3627
+11500,CARDINAL,3627
+Stone Avenue North,FAC,3627
+911,CARDINAL,3627
+Nick Metz,PERSON,3627
+About 1:20 a.m.,TIME,3627
+two,CARDINAL,3627
+North Precinct,NORP,3627
+Seattle,GPE,3627
+Sean Whitcomb,PERSON,3627
+about 10 feet,QUANTITY,3627
+one,CARDINAL,3627
+SWAT,ORG,3627
+four,CARDINAL,3627
+Metz,PERSON,3627
+Hightower,ORG,3627
+At least one,CARDINAL,3627
+2-year-old,DATE,3627
+one,CARDINAL,3627
+Hightower,ORG,3627
+Clark Kimerer,PERSON,3627
+yesterday,DATE,3627
+Taser,ORG,3627
+Kimerer,ORG,3627
+35-year-old,DATE,3627
+11-year,DATE,3627
+nights,TIME,3627
+the North Precinct,LOC,3627
+Kimerer,ORG,3627
+Kimerer,ORG,3627
+third,ORDINAL,3627
+Seattle,GPE,3627
+this year,DATE,3627
+May,DATE,3627
+three,CARDINAL,3627
+the Chinatown International District,ORG,3627
+March,DATE,3627
+Level 3,PERSON,3627
+Red Cross,ORG,3627
+Capitol Hill,ORG,3627
+March,DATE,3627
+May,DATE,3627
+Whitcomb,PERSON,3627
+yesterday,DATE,3627
+Jessica Blanchard,PERSON,3627
+206-464-3896,CARDINAL,3627

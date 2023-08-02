@@ -1,0 +1,9 @@
+text,label,fe_id
+Jose Jimenez,PERSON,6662
+30,DATE,6662
+Latino,PERSON,6662
+59th,ORDINAL,6662
+Hooper Avenue,FAC,6662
+Florence,GPE,6662
+10:37 a.m.,TIME,6662
+"Saturday, Nov. 10",DATE,6662

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,10321
+Alabama,GPE,10321
+Alaska,GPE,10321
+Arizona,GPE,10321
+Arkansas,GPE,10321
+California,GPE,10321
+Colorado,GPE,10321
+Connecticut,GPE,10321
+Delaware,GPE,10321
+Florida,GPE,10321
+Georgia,GPE,10321
+Hawaii,GPE,10321
+Idaho,GPE,10321
+Indiana,GPE,10321
+Iowa,GPE,10321
+Kansas,GPE,10321
+Kentucky,GPE,10321
+Louisiana,GPE,10321
+Maine,GPE,10321
+Maryland,GPE,10321
+Massachusetts,GPE,10321
+Michigan,GPE,10321
+Minnesota,GPE,10321
+Mississippi,GPE,10321
+Missouri,GPE,10321
+Montana,GPE,10321
+Nebraska,GPE,10321
+Nevada,GPE,10321
+New Hampshire,GPE,10321
+New Jersey,GPE,10321
+Ohio,GPE,10321
+Oklahoma,GPE,10321
+Oregon,GPE,10321
+Pennsylvania,GPE,10321
+Rhode Island,GPE,10321
+Tennessee,GPE,10321
+Texas,GPE,10321
+Utah,GPE,10321
+Vermont,GPE,10321
+Virginia,GPE,10321
+Washington,GPE,10321
+Washington,GPE,10321
+D.C.,GPE,10321
+Wisconsin,GPE,10321
+Wyoming,GPE,10321
+US,GPE,10321
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,10321
+Marshall Islands American Samoa Federated States,ORG,10321
+Micronesia Guam,FAC,10321
+Alberta,GPE,10321
+Canada,GPE,10321
+British Columbia,GPE,10321
+Canada Manitoba,GPE,10321
+Canada,GPE,10321
+New Brunswick,GPE,10321
+Canada Newfoundland,PERSON,10321
+Canada,GPE,10321
+Canada,GPE,10321
+Canada Ontario,GPE,10321
+Canada,GPE,10321
+Edward Island,GPE,10321
+Canada Quebec,GPE,10321
+Canada,GPE,10321
+Saskatchewan,GPE,10321
+Canada Yukon Territory,ORG,10321
+Canada,GPE,10321
+Zip Code,PERSON,10321

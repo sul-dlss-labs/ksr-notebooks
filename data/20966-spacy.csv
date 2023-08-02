@@ -1,0 +1,11 @@
+text,label,fe_id
+Hollywood,GPE,20966
+The Writers Guild of America,ORG,20966
+Tuesday,DATE,20966
+night,TIME,20966
+Friday,DATE,20966
+first,ORDINAL,20966
+two,CARDINAL,20966
+three months ago,DATE,20966
+Hollywood,GPE,20966
+July 14,DATE,20966

@@ -1,0 +1,76 @@
+text,label,fe_id
+One,CARDINAL,426
+Eric Vantslot,PERSON,426
+Vantslot,ORG,426
+two,CARDINAL,426
+30,DATE,426
+Denver,GPE,426
+St. Anthony Central Hospital,ORG,426
+Vantslot,ORG,426
+one,CARDINAL,426
+1100,DATE,426
+Fourth Street,FAC,426
+6-inch,QUANTITY,426
+Boulder County Sheriff George Epp,PERSON,426
+Steve Aubry,PERSON,426
+Peter Zavednak,PERSON,426
+five,CARDINAL,426
+Vantslot,GPE,426
+Epp,ORG,426
+Aubry,PRODUCT,426
+43,DATE,426
+17-year,DATE,426
+Zavednak,PERSON,426
+27,DATE,426
+three years,DATE,426
+Eagle County,GPE,426
+June,DATE,426
+Boulder County,GPE,426
+Epp,ORG,426
+Aubry,PRODUCT,426
+Zavednak,PERSON,426
+911,CARDINAL,426
+32-year-old,DATE,426
+Tressen Hoylman,PERSON,426
+Vantslot,PERSON,426
+earlier this summer,DATE,426
+two,CARDINAL,426
+Vantslot,ORG,426
+Hoylman,PERSON,426
+Hoylman,PERSON,426
+early Tuesday morning,TIME,426
+Epp,ORG,426
+911,CARDINAL,426
+Aubry,PRODUCT,426
+Zavednak,PERSON,426
+about 5:30 a.m.,TIME,426
+Vantslot,PERSON,426
+Vantslot,ORG,426
+one,CARDINAL,426
+Vantslot,PRODUCT,426
+the Sheriff's Department,ORG,426
+Rick Breese,PERSON,426
+Hoylman,PERSON,426
+morning,TIME,426
+two,CARDINAL,426
+Hoylman,PERSON,426
+Breese,NORP,426
+three,CARDINAL,426
+Vantslot,ORG,426
+Breese,NORP,426
+Breese,NORP,426
+Lyons,GPE,426
+"1,600",CARDINAL,426
+20 years,DATE,426
+Breese,NORP,426
+Wyoming,GPE,426
+Colorado Springs,GPE,426
+Boulder County,GPE,426
+Vantslot,ORG,426
+today,DATE,426
+Boulder County,GPE,426
+1988,DATE,426
+Kerry Fournet,PERSON,426
+Derek Scott Powell,PERSON,426
+Fournet,GPE,426
+Coal Creek Canyon,LOC,426

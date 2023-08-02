@@ -1,0 +1,28 @@
+text,label,fe_id
+Queens,ORG,25
+15-inch,QUANTITY,25
+yesterday,DATE,25
+Alan Zelencic,PERSON,25
+28,DATE,25
+the Long Island City,LOC,25
+Zelencic,PERSON,25
+about 50 minutes,TIME,25
+Elmhurst Hospital Center,ORG,25
+Lisa,PERSON,25
+911,CARDINAL,25
+Maria,PERSON,25
+52,DATE,25
+Alan,PERSON,25
+Maria Zelencic,PERSON,25
+Jonathan Dudley,PERSON,25
+Frank Caruso,PERSON,25
+114th,ORDINAL,25
+Zelencic,PERSON,25
+Sgt,PERSON,25
+Andrew McInnis,PERSON,25
+Dudley,PERSON,25
+Caruso,PERSON,25
+NYPD,ORG,25
+Emergency Service Unit,ORG,25
+McInnis,ORG,25
+yesterday,DATE,25

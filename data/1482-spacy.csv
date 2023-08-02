@@ -1,0 +1,23 @@
+text,label,fe_id
+Boston,GPE,1482
+South End,GPE,1482
+yesterday,DATE,1482
+4 a.m.,TIME,1482
+Roxbury,ORG,1482
+Elm Hill Avenue,FAC,1482
+Crawford Street,FAC,1482
+one,CARDINAL,1482
+one,CARDINAL,1482
+Boston,GPE,1482
+David Estrada,PERSON,1482
+the Associated Press,ORG,1482
+Boston Emergency Medical Services,ORG,1482
+Boston Medical Center,ORG,1482
+Estrada,ORG,1482
+Crawford Street,FAC,1482
+Boston,GPE,1482
+Estrada,ORG,1482
+William Murray,PERSON,1482
+Jr.,GPE,1482
+37,DATE,1482
+the South End,LOC,1482

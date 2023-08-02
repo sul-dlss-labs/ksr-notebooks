@@ -1,0 +1,60 @@
+text,label,fe_id
+Baltimore,GPE,30568
+second,ORDINAL,30568
+just hours,TIME,30568
+15-year-old,DATE,30568
+Dasan Jones,PERSON,30568
+first,ORDINAL,30568
+Baltimore,GPE,30568
+Eric Banks Jr,PERSON,30568
+June 25,DATE,30568
+Anne Arundel County,PERSON,30568
+Ronald Karasic,PERSON,30568
+three days later,DATE,30568
+second,ORDINAL,30568
+3 p.m.,TIME,30568
+Tuesday,DATE,30568
+the Baltimore Sun,ORG,30568
+Two hours later,TIME,30568
+Anne Arundel County,PERSON,30568
+Dasan,PERSON,30568
+34,DATE,30568
+Baltimore,GPE,30568
+Dasan,PERSON,30568
+June,DATE,30568
+second,ORDINAL,30568
+Sun,LOC,30568
+Banks,PERSON,30568
+Dasan,GPE,30568
+Instagram,ORG,30568
+Eric,PERSON,30568
+the night of the,TIME,30568
+4th,ORDINAL,30568
+Verizon,ORG,30568
+Eric Banks,PERSON,30568
+first,ORDINAL,30568
+Dasan,GPE,30568
+two,CARDINAL,30568
+Banks,PERSON,30568
+Tuesday,DATE,30568
+Dasan,PERSON,30568
+Dasan,GPE,30568
+Banks,PERSON,30568
+Dasan,PERSON,30568
+Banks,PERSON,30568
+one,CARDINAL,30568
+Sun,LOC,30568
+Banks,ORG,30568
+May,DATE,30568
+two days later,DATE,30568
+Tiffany Binford,PERSON,30568
+Sun,LOC,30568
+Banks,ORG,30568
+Banks,PERSON,30568
+the Baltimore Police force,ORG,30568
+three years,DATE,30568
+the US Marine Corps,ORG,30568
+11 years,DATE,30568
+the ‘Crime Stories,ORG,30568
+Nancy Grace,PERSON,30568
+Dasan Jones,PERSON,30568

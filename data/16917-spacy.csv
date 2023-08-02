@@ -1,0 +1,33 @@
+text,label,fe_id
+early Wednesday morning,TIME,16917
+the California Highway Patrol,ORG,16917
+more than 100 mph,CARDINAL,16917
+Redwood City,GPE,16917
+San Jose,GPE,16917
+Santa Clara County Coroner,GPE,16917
+21-year-old,DATE,16917
+Daniel Avalos,PERSON,16917
+San Jose,GPE,16917
+CHP Sgt,ORG,16917
+Jeremy Cox,PERSON,16917
+Honda,ORG,16917
+Accord,PRODUCT,16917
+Winchester Boulevard,FAC,16917
+San Mateo County,GPE,16917
+about 3:30 a.m.,TIME,16917
+Fox,PERSON,16917
+18-year-old,DATE,16917
+CHP,ORG,16917
+first,ORDINAL,16917
+125 mph,QUANTITY,16917
+Fox,ORG,16917
+Los Baños,GPE,16917
+Winchester,PERSON,16917
+US Highway,FAC,16917
+Hellyer Avenue,FAC,16917
+Interstate Highway 880,FAC,16917
+280,CARDINAL,16917
+CHP,ORG,16917
+Two,CARDINAL,16917
+CHP,ORG,16917
+Fox,ORG,16917

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,21651
+Alabama,GPE,21651
+Alaska,GPE,21651
+Arizona,GPE,21651
+Arkansas,GPE,21651
+California,GPE,21651
+Colorado,GPE,21651
+Connecticut,GPE,21651
+Delaware,GPE,21651
+Florida,GPE,21651
+Georgia,GPE,21651
+Hawaii,GPE,21651
+Idaho,GPE,21651
+Indiana,GPE,21651
+Iowa,GPE,21651
+Kansas,GPE,21651
+Kentucky,GPE,21651
+Louisiana,GPE,21651
+Maine,GPE,21651
+Maryland,GPE,21651
+Massachusetts,GPE,21651
+Michigan,GPE,21651
+Minnesota,GPE,21651
+Mississippi,GPE,21651
+Missouri,GPE,21651
+Montana,GPE,21651
+Nebraska,GPE,21651
+Nevada,GPE,21651
+New Hampshire,GPE,21651
+New Jersey,GPE,21651
+Ohio,GPE,21651
+Oklahoma,GPE,21651
+Oregon,GPE,21651
+Pennsylvania,GPE,21651
+Rhode Island,GPE,21651
+Tennessee,GPE,21651
+Texas,GPE,21651
+Utah,GPE,21651
+Vermont,GPE,21651
+Virginia,GPE,21651
+Washington,GPE,21651
+Washington,GPE,21651
+D.C.,GPE,21651
+Wisconsin,GPE,21651
+Wyoming,GPE,21651
+US,GPE,21651
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,21651
+Marshall Islands American Samoa Federated States,ORG,21651
+Micronesia Guam,FAC,21651
+Alberta,GPE,21651
+Canada,GPE,21651
+British Columbia,GPE,21651
+Canada Manitoba,GPE,21651
+Canada,GPE,21651
+New Brunswick,GPE,21651
+Canada Newfoundland,PERSON,21651
+Canada,GPE,21651
+Canada,GPE,21651
+Canada Ontario,GPE,21651
+Canada,GPE,21651
+Edward Island,GPE,21651
+Canada Quebec,GPE,21651
+Canada,GPE,21651
+Saskatchewan,GPE,21651
+Canada Yukon Territory,ORG,21651
+Canada,GPE,21651
+Zip Code,PERSON,21651

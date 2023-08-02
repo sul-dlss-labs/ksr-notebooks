@@ -1,0 +1,28 @@
+text,label,fe_id
+One,CARDINAL,27874
+two,CARDINAL,27874
+Knoxville,GPE,27874
+April 7,DATE,27874
+about 6 p.m.,TIME,27874
+Monday,DATE,27874
+Knoxville Police Department,ORG,27874
+Western Heights,GPE,27874
+Keith Avenue,FAC,27874
+the night of April 7,TIME,27874
+The Knox County Sheriff's Office,ORG,27874
+Napoleon J. Moore,PERSON,27874
+19,DATE,27874
+Knoxville,GPE,27874
+Moore,ORG,27874
+W. Emory Road,PERSON,27874
+Knox County Sheriff's Office,ORG,27874
+18-year-old,DATE,27874
+Savanna M. Howard,PERSON,27874
+Maynardville,GPE,27874
+UT Medical Center,ORG,27874
+second,ORDINAL,27874
+Tennova North,PERSON,27874
+The Knox County Sheriff’s Office,ORG,27874
+Knox County,GPE,27874
+Moore,PERSON,27874
+Howard,PERSON,27874

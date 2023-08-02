@@ -1,0 +1,20 @@
+text,label,fe_id
+One,CARDINAL,1242
+Wednesday,DATE,1242
+night,TIME,1242
+Southeast Baltimore,GPE,1242
+About 9:15 p.m.,TIME,1242
+Mustafa Malik,PERSON,1242
+2900,CARDINAL,1242
+Mathews St.,ORG,1242
+Malik,PERSON,1242
+43,DATE,1242
+Johns Hopkins Hospital,ORG,1242
+half-hour,TIME,1242
+Kevin Brown,PERSON,1242
+Shortly before 11 p.m.,TIME,1242
+21-year-old,DATE,1242
+500,CARDINAL,1242
+N. Linwood Ave.,ORG,1242
+McElderry Park,LOC,1242
+Brown,PERSON,1242

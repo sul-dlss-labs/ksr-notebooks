@@ -1,0 +1,81 @@
+text,label,fe_id
+Portland,GPE,30056
+Lents Park,FAC,30056
+Southeast Portland,GPE,30056
+"Friday, April 16, 2021",DATE,30056
+Jonathan Levinson,PERSON,30056
+Portland,GPE,30056
+Lents Park,FAC,30056
+Southeast Portland,GPE,30056
+just after 9:30 a.m.,TIME,30056
+Friday,DATE,30056
+Kevin Allen,PERSON,30056
+East Precinct,NORP,30056
+Chris Davis,PERSON,30056
+Chuck Lovell,PERSON,30056
+Lovell,ORG,30056
+Davis,PERSON,30056
+Southeast 92nd Avenue,LOC,30056
+Holgate Street,FAC,30056
+Davis,PERSON,30056
+40,CARDINAL,30056
+two,CARDINAL,30056
+one,CARDINAL,30056
+Zachary DeLong,PERSON,30056
+U.S. Army Ranger,ORG,30056
+2013,DATE,30056
+DeLong,PERSON,30056
+Portland,GPE,30056
+28 years,DATE,30056
+one,CARDINAL,30056
+19,CARDINAL,30056
+Portland,GPE,30056
+Portland,GPE,30056
+Darren Wilson,PERSON,30056
+Wilson,PERSON,30056
+Michael Brown,PERSON,30056
+2014,DATE,30056
+Ferguson,GPE,30056
+Missouri,GPE,30056
+weeks,DATE,30056
+DeLong,PERSON,30056
+5th,ORDINAL,30056
+Portland,GPE,30056
+the Portland Police Bureau,ORG,30056
+DeLong,ORG,30056
+San Diego,GPE,30056
+2011,DATE,30056
+second,ORDINAL,30056
+DeLong,PERSON,30056
+second,ORDINAL,30056
+The Portland Police Bureau,ORG,30056
+DeLong,PERSON,30056
+Saturday,DATE,30056
+approximately 20 minutes,TIME,30056
+8:16 a.m.,TIME,30056
+Juan Chavez,PERSON,30056
+AM/PM,EVENT,30056
+two,CARDINAL,30056
+Portland Street Response,FAC,30056
+OPB,ORG,30056
+Allen,PERSON,30056
+Portland Street Response,FAC,30056
+Street Response,WORK_OF_ART,30056
+Davis,PERSON,30056
+Portland,ORG,30056
+Ted Wheeler,PERSON,30056
+Portland,GPE,30056
+Sergio Olmos,PERSON,30056
+@MrOlmos,ORG,30056
+"April 16, 2021
+
+",DATE,30056
+the Multnomah County Sheriff’s Office,ORG,30056
+Portland,GPE,30056
+One,CARDINAL,30056
+OPB,ORG,30056
+Batman,WORK_OF_ART,30056
+one,CARDINAL,30056
+Wheeler,PERSON,30056
+this morning,TIME,30056
+Sergio Olmos,PERSON,30056

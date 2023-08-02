@@ -1,0 +1,63 @@
+text,label,fe_id
+SANTA CRUZ,GPE,30035
+San Jose,GPE,30035
+early Wednesday,TIME,30035
+morning,TIME,30035
+Highway 1,FAC,30035
+the Morrissey Boulevard,FAC,30035
+the California Highway Patrol,ORG,30035
+1:47 a.m.,TIME,30035
+north,PERSON,30035
+Dimeo Lane,PERSON,30035
+Santa Cruz,GPE,30035
+2004,DATE,30035
+Toyota,ORG,30035
+Camry,PRODUCT,30035
+CHP,ORG,30035
+Vehicle,ORG,30035
+Richard Quihuis Jr.,PERSON,30035
+19,DATE,30035
+San Jose,GPE,30035
+Morrissey Boulevard,FAC,30035
+CHP,ORG,30035
+Articles Crashes,PERSON,30035
+Disasters,PRODUCT,30035
+16,CARDINAL,30035
+India,GPE,30035
+16,CARDINAL,30035
+India,GPE,30035
+Disasters,PRODUCT,30035
+13-year-old,DATE,30035
+Bay Area,LOC,30035
+Tesla,PERSON,30035
+13-year-old,DATE,30035
+Bay Area,LOC,30035
+Tesla,PERSON,30035
+Crashes,PERSON,30035
+Disasters,PRODUCT,30035
+Oakland,GPE,30035
+"Interstate 980
+
+",FAC,30035
+Interstate 980 Crashes,FAC,30035
+Disasters,PRODUCT,30035
+Southern California,LOC,30035
+Southern California,LOC,30035
+Crashes,PERSON,30035
+Disasters,NORP,30035
+Mojave Desert,WORK_OF_ART,30035
+Las Vegas,GPE,30035
+Quihuis,PERSON,30035
+the California Highway Patrol,ORG,30035
+two,CARDINAL,30035
+17,CARDINAL,30035
+19,DATE,30035
+20,DATE,30035
+San Jose,GPE,30035
+17-year-old,DATE,30035
+19-year-old,DATE,30035
+Quihuis,PERSON,30035
+Dominican Hospital,ORG,30035
+Santa Cruz County Jail,GPE,30035
+"150,000",MONEY,30035
+Wednesday afternoon,TIME,30035

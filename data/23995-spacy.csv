@@ -1,0 +1,23 @@
+text,label,fe_id
+California,GPE,23995
+Timothy Breckenridge,PERSON,23995
+42,DATE,23995
+Atwater,PERSON,23995
+last Friday,DATE,23995
+Vern Warnke,PERSON,23995
+Atwater Boulevard,FAC,23995
+Warnke,PERSON,23995
+Breckenridge,ORG,23995
+Warnke,PERSON,23995
+Warnke,PERSON,23995
+Breckenridge,ORG,23995
+Warnke,PERSON,23995
+two,CARDINAL,23995
+first,ORDINAL,23995
+Jeff Kettering,PERSON,23995
+the Merced County Probation Department,ORG,23995
+Warnke,PERSON,23995
+Breckenridge,ORG,23995
+the end of the day,DATE,23995
+Monday,DATE,23995
+STORIES,ORG,23995

@@ -1,0 +1,21 @@
+text,label,fe_id
+San Jose,GPE,25972
+California,GPE,25972
+several feet,QUANTITY,25972
+around 12:52 p.m.,TIME,25972
+Kollmar Drive,PERSON,25972
+Enrique Garcia,PERSON,25972
+Three,CARDINAL,25972
+one,CARDINAL,25972
+NBC Bay Area,LOC,25972
+three,CARDINAL,25972
+SJPD,ORG,25972
+Santa Clara County,GPE,25972
+the San Jose Police Department’s Homicide Unit,ORG,25972
+third,ORDINAL,25972
+a month,DATE,25972
+second,ORDINAL,25972
+this year,DATE,25972
+San Jose,GPE,25972
+February,DATE,25972
+UPS,ORG,25972

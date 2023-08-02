@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,31394
+Alabama,GPE,31394
+Alaska,GPE,31394
+Arizona,GPE,31394
+Arkansas,GPE,31394
+California,GPE,31394
+Colorado,GPE,31394
+Connecticut,GPE,31394
+Delaware,GPE,31394
+Florida,GPE,31394
+Georgia,GPE,31394
+Hawaii,GPE,31394
+Idaho,GPE,31394
+Indiana,GPE,31394
+Iowa,GPE,31394
+Kansas,GPE,31394
+Kentucky,GPE,31394
+Louisiana,GPE,31394
+Maine,GPE,31394
+Maryland,GPE,31394
+Massachusetts,GPE,31394
+Michigan,GPE,31394
+Minnesota,GPE,31394
+Mississippi,GPE,31394
+Missouri,GPE,31394
+Montana,GPE,31394
+Nebraska,GPE,31394
+Nevada,GPE,31394
+New Hampshire,GPE,31394
+New Jersey,GPE,31394
+Ohio,GPE,31394
+Oklahoma,GPE,31394
+Oregon,GPE,31394
+Pennsylvania,GPE,31394
+Rhode Island,GPE,31394
+Tennessee,GPE,31394
+Texas,GPE,31394
+Utah,GPE,31394
+Vermont,GPE,31394
+Virginia,GPE,31394
+Washington,GPE,31394
+Washington,GPE,31394
+D.C.,GPE,31394
+Wisconsin,GPE,31394
+Wyoming,GPE,31394
+US,GPE,31394
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,31394
+Marshall Islands American Samoa Federated States,ORG,31394
+Micronesia Guam,FAC,31394
+Alberta,GPE,31394
+Canada,GPE,31394
+British Columbia,GPE,31394
+Canada Manitoba,GPE,31394
+Canada,GPE,31394
+New Brunswick,GPE,31394
+Canada Newfoundland,PERSON,31394
+Canada,GPE,31394
+Canada,GPE,31394
+Canada Ontario,GPE,31394
+Canada,GPE,31394
+Edward Island,GPE,31394
+Canada Quebec,GPE,31394
+Canada,GPE,31394
+Saskatchewan,GPE,31394
+Canada Yukon Territory,ORG,31394
+Canada,GPE,31394
+Zip Code,PERSON,31394

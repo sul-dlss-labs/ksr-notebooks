@@ -1,0 +1,558 @@
+text,label,fe_id
+2009,DATE,8650
+four,CARDINAL,8650
+Parkland,GPE,8650
+Washington,GPE,8650
+USA,GPE,8650
+"November 29, 2009",DATE,8650
+four,CARDINAL,8650
+Lakewood,GPE,8650
+Washington,GPE,8650
+Forza,PERSON,8650
+11401,DATE,8650
+Steele Street,ORG,8650
+Parkland,GPE,8650
+Pierce County,GPE,8650
+Washington,GPE,8650
+Tacoma,GPE,8650
+Maurice Clemmons,PERSON,8650
+two-day,DATE,8650
+Clemmons,ORG,8650
+Seattle,GPE,8650
+Seattle Police Department,ORG,8650
+Five,CARDINAL,8650
+Clemmons,ORG,8650
+the Pierce County Prosecutor's Office,ORG,8650
+Lakewood,ORG,8650
+Seattle,GPE,8650
+Seattle,GPE,8650
+Timothy Brenton,PERSON,8650
+a month earlier,DATE,8650
+Three weeks later,DATE,8650
+December 21,DATE,8650
+Eatonville,GPE,8650
+two,CARDINAL,8650
+Pierce County,GPE,8650
+Lakewood,GPE,8650
+Washington,GPE,8650
+Lakewood,GPE,8650
+second,ORDINAL,8650
+the United States,GPE,8650
+"the March 21, 2009",DATE,8650
+four,CARDINAL,8650
+Oakland,GPE,8650
+California,GPE,8650
+second,ORDINAL,8650
+four,CARDINAL,8650
+first,ORDINAL,8650
+2004,DATE,8650
+Maurice Clemmons,PERSON,8650
+Maurice Clemmons,PERSON,8650
+"February 6, 1972 –",DATE,8650
+"December 1, 2009",DATE,8650
+the November 29,EVENT,8650
+2009,DATE,8650
+four,CARDINAL,8650
+Parkland,GPE,8650
+two days,DATE,8650
+Clemmons,ORG,8650
+Seattle,GPE,8650
+Clemmons,ORG,8650
+five,CARDINAL,8650
+Arkansas,GPE,8650
+eight,CARDINAL,8650
+first,ORDINAL,8650
+1989,DATE,8650
+age 17,DATE,8650
+108 years,DATE,8650
+2000,DATE,8650
+Arkansas,GPE,8650
+Mike Huckabee,PERSON,8650
+47 years,DATE,8650
+The Arkansas Parole Board,ORG,8650
+2000,DATE,8650
+the months,DATE,8650
+Parkland,GPE,8650
+One week,DATE,8650
+Parkland,GPE,8650
+"150,000",MONEY,8650
+Clemmons,ORG,8650
+four,CARDINAL,8650
+U.S.,GPE,8650
+July 2016,DATE,8650
+Dallas,GPE,8650
+Texas,GPE,8650
+five,CARDINAL,8650
+Maurice Clemmons's,PERSON,8650
+Chrysler,ORG,8650
+Dorothy Mae,PERSON,8650
+five,CARDINAL,8650
+Marianna,GPE,8650
+Arkansas,GPE,8650
+Little Rock,GPE,8650
+Hall High School,ORG,8650
+1989,DATE,8650
+17-year-old,DATE,8650
+Clemmons,ORG,8650
+two,CARDINAL,8650
+midnight,TIME,8650
+Little Rock,GPE,8650
+16,MONEY,8650
+Clemmons,ORG,8650
+35 years,DATE,8650
+one,CARDINAL,8650
+one,CARDINAL,8650
+Clemmons,ORG,8650
+age 16,DATE,8650
+Clemmons,ORG,8650
+1990,DATE,8650
+Clemmons,ORG,8650
+108 years,DATE,8650
+eight,CARDINAL,8650
+Arkansas,GPE,8650
+1990,DATE,8650
+60-year,DATE,8650
+Arkansas,GPE,8650
+"6,700",MONEY,8650
+Clemmons,ORG,8650
+1989,DATE,8650
+Clemmons,ORG,8650
+35 years,DATE,8650
+1989,DATE,8650
+Little Rock,GPE,8650
+six years,DATE,8650
+eight years,DATE,8650
+Pulaski County,GPE,8650
+at least 2015.[9,CARDINAL,8650
+the Tucker Correctional Facility,ORG,8650
+Tucker,PERSON,8650
+Arkansas[14,PERSON,8650
+the Cummins Unit,ORG,8650
+27-year-old,DATE,8650
+16 year old,DATE,8650
+Maurice Clemmons,PERSON,8650
+Mike Huckabee[9,PERSON,8650
+1999,DATE,8650
+10 years,DATE,8650
+Clemmons,ORG,8650
+Arkansas,GPE,8650
+Mike Huckabee.[11],PERSON,8650
+Huckabee,ORG,8650
+Clemmons,ORG,8650
+Christian,NORP,8650
+"speak"".[9][16] Clemmons",PRODUCT,8650
+Seattle,GPE,8650
+Washington,GPE,8650
+Arkansas,GPE,8650
+Clemmons,ORG,8650
+Pulaski County Circuit Court,ORG,8650
+Marion Humphrey,PERSON,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+the bipartisan parole board,ORG,8650
+Clemmons,ORG,8650
+case.[8][9][11][17] Mark Fraiser,PERSON,8650
+Pulaski County,GPE,8650
+Clemmons,ORG,8650
+"May 3, 2000",DATE,8650
+Huckabee,ORG,8650
+Clemmons,ORG,8650
+108-year,DATE,8650
+47 years,DATE,8650
+5 months and 19 days,DATE,8650
+Huckabee,ORG,8650
+Clemmons,ORG,8650
+The Arkansas Parole Board,ORG,8650
+Clemmons,ORG,8650
+"July 13, 2000",DATE,8650
+August 1,DATE,8650
+2000.[9][12,CARDINAL,8650
+Less than a year,DATE,8650
+March 2001,DATE,8650
+Clemmons,ORG,8650
+Ouachita County,GPE,8650
+"July 13, 2001",DATE,8650
+10 years,DATE,8650
+2004,DATE,8650
+2004,DATE,8650
+first,ORDINAL,8650
+Washington,GPE,8650
+2004,DATE,8650
+Arkansas,GPE,8650
+That year,DATE,8650
+Nicole Smith,PERSON,8650
+The Seattle Times,ORG,8650
+the Washington State Department of Corrections,ORG,8650
+October 2005,DATE,8650
+Tacoma,GPE,8650
+the next five years,DATE,8650
+Clemmons,ORG,8650
+six,CARDINAL,8650
+one,CARDINAL,8650
+Arkansas,GPE,8650
+five,CARDINAL,8650
+2004,DATE,8650
+Clemmons,ORG,8650
+May 2009.[11,DATE,8650
+The Seattle Times,ORG,8650
+four days,DATE,8650
+May 2009,DATE,8650
+Maurice Clemmons',PERSON,8650
+May 9,DATE,8650
+Clemmons,ORG,8650
+one,CARDINAL,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+second,ORDINAL,8650
+Pierce County Jail,PERSON,8650
+two,CARDINAL,8650
+two,CARDINAL,8650
+the next day,DATE,8650
+"40,000",MONEY,8650
+May 11,DATE,8650
+around 1 a.m.,TIME,8650
+Clemmons,ORG,8650
+two,CARDINAL,8650
+ages 11,DATE,8650
+12,DATE,8650
+two,CARDINAL,8650
+11-year-old,DATE,8650
+12-year-old,DATE,8650
+Clemmons,ORG,8650
+Jesus,PERSON,8650
+12-year-old,DATE,8650
+around 4 a.m.,TIME,8650
+911,CARDINAL,8650
+second,ORDINAL,8650
+the next day,DATE,8650
+May 9,DATE,8650
+Child Protective Services,ORG,8650
+Clemmons,ORG,8650
+"July 1, 2009",DATE,8650
+Pierce County,GPE,8650
+second,ORDINAL,8650
+The Beast,WORK_OF_ART,8650
+Barack Obama,PERSON,8650
+LeBron James,PERSON,8650
+Oprah Winfrey,PERSON,8650
+Pierce County,GPE,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+Arkansas,GPE,8650
+years,DATE,8650
+the Arkansas Department of Community Correction,ORG,8650
+Pierce County,PERSON,8650
+July 22,DATE,8650
+Washington,GPE,8650
+Stephen Penner,PERSON,8650
+Pierce County,GPE,8650
+Arkansas,GPE,8650
+Clemmons,ORG,8650
+May 2009,DATE,8650
+American,NORP,8650
+two,CARDINAL,8650
+the Western State Hospital,ORG,8650
+October 19,DATE,8650
+Clemmons,ORG,8650
+Pierce County,GPE,8650
+John McCarthy,PERSON,8650
+Clemmons,ORG,8650
+"40,000",MONEY,8650
+"100,000",MONEY,8650
+Clemmons,ORG,8650
+Pierce County,GPE,8650
+Thomas Felnagle,PERSON,8650
+"150,000",MONEY,8650
+"200,000",MONEY,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+"November 23, 2009",DATE,8650
+Clemmons,ORG,8650
+"15,000",MONEY,8650
+"190,000",MONEY,8650
+Two,CARDINAL,8650
+Clemmons,ORG,8650
+the morning of,TIME,8650
+"Sunday, November 29, 2009",DATE,8650
+four,CARDINAL,8650
+Forza Coffee Company,ORG,8650
+Blue Steele Coffee,ORG,8650
+Parkland,GPE,8650
+McChord Air Force Base,ORG,8650
+four,CARDINAL,8650
+Dorcus Allen's,PERSON,8650
+Allen,PERSON,8650
+Clemmons,ORG,8650
+Allen,PERSON,8650
+Allen,PERSON,8650
+Clemmons,ORG,8650
+Forza,ORG,8650
+approximately 8:15 AM,TIME,8650
+Forza,ORG,8650
+four,CARDINAL,8650
+Clemmons,ORG,8650
+17 9mm,QUANTITY,8650
+Smith & Wesson,ORG,8650
+Washington,GPE,8650
+Mark Renninger,PERSON,8650
+Tina Griswold,PERSON,8650
+first,ORDINAL,8650
+four,CARDINAL,8650
+Ronald Owens,PERSON,8650
+Greg Richards,PERSON,8650
+Richards,ORG,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+Richards,ORG,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+Dorcus,PERSON,8650
+four,CARDINAL,8650
+Clemmons,ORG,8650
+four,CARDINAL,8650
+Clemmons,ORG,8650
+one,CARDINAL,8650
+four,CARDINAL,8650
+November 29th,DATE,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+the days,DATE,8650
+Clemmons,ORG,8650
+Allen,PERSON,8650
+Manhunt,WORK_OF_ART,8650
+afternoon,TIME,8650
+Pierce County,GPE,8650
+Maurice Clemmons,PERSON,8650
+Arkansas,GPE,8650
+Washington,GPE,8650
+Clemmons,ORG,8650
+the late evening hours,TIME,8650
+November 29,DATE,8650
+Seattle,GPE,8650
+Clemmons,ORG,8650
+Seattle,GPE,8650
+King County Sheriff's Office,ORG,8650
+SWAT,ORG,8650
+the King County Sheriff's Office,ORG,8650
+Seattle Police Department,ORG,8650
+Tacoma Police Department,ORG,8650
+twelve-hour,TIME,8650
+Earlier in the day,TIME,8650
+Tacoma,GPE,8650
+Tacoma,GPE,8650
+Pierce,PERSON,8650
+the University of Washington,ORG,8650
+Rizal Park,PERSON,8650
+Renton,GPE,8650
+King County Sheriff's Deputies,ORG,8650
+Washington State Patrol,ORG,8650
+Snoqualmie Pass-area,PERSON,8650
+50 miles,QUANTITY,8650
+80 km,QUANTITY,8650
+Seattle,GPE,8650
+hours,TIME,8650
+one,CARDINAL,8650
+thousands,CARDINAL,8650
+"145,000",MONEY,8650
+Clemmons,ORG,8650
+Death of Clemmons,WORK_OF_ART,8650
+two days,DATE,8650
+Clemmons,ORG,8650
+December 1,DATE,8650
+Seattle,GPE,8650
+Around 2:45 a.m.,TIME,8650
+December 1,DATE,8650
+Seattle,GPE,8650
+Benjamin L. Kelly,PERSON,8650
+Brighton,PERSON,8650
+Seattle,GPE,8650
+the Rainier Valley,LOC,8650
+1990,DATE,8650
+Acura Integra,ORG,8650
+44th,ORDINAL,8650
+Place South,LOC,8650
+South Kenyon Street,LOC,8650
+about two hours,TIME,8650
+Kelly,PERSON,8650
+Clemmons,ORG,8650
+first,ORDINAL,8650
+Kelly,PERSON,8650
+Clemmons,ORG,8650
+Clemmons,ORG,8650
+Kelly,PERSON,8650
+three,CARDINAL,8650
+Clemmons,ORG,8650
+four,CARDINAL,8650
+Kenyon Street,FAC,8650
+Kelly,PERSON,8650
+backup.[30] Within,PERSON,8650
+Seattle,GPE,8650
+Seattle Fire Department,ORG,8650
+Clemmons,ORG,8650
+Parkland,GPE,8650
+Location of Parkland,WORK_OF_ART,8650
+Pierce County,GPE,8650
+four,CARDINAL,8650
+the Lakewood Police Department,ORG,8650
+2004,DATE,8650
+Mark Renninger,PERSON,8650
+39,DATE,8650
+thirteen years,DATE,8650
+36,CARDINAL,8650
+Ronald Owens,PERSON,8650
+37,DATE,8650
+twelve years,DATE,8650
+Puyallup,ORG,8650
+36,CARDINAL,8650
+Tina Griswold,PERSON,8650
+40,DATE,8650
+fourteen years,DATE,8650
+36,CARDINAL,8650
+Greg Richards,PERSON,8650
+42,DATE,8650
+eight years,DATE,8650
+Graham,PERSON,8650
+the Lakewood Police Independent Guild,ORG,8650
+2012,DATE,8650
+about $3.2 million,MONEY,8650
+March 2012,DATE,8650
+Lakewood,GPE,8650
+Skeeter Timothy Manos,PERSON,8650
+9mm,QUANTITY,8650
+Glock Model 17,PERSON,8650
+Smith & Wesson,ORG,8650
+Clemmons,ORG,8650
+Glock,PERSON,8650
+June 2005,DATE,8650
+Renton,GPE,8650
+Washington,GPE,8650
+March 2006,DATE,8650
+Seattle,GPE,8650
+Second Avenue,FAC,8650
+James Street,FAC,8650
+Smith & Wesson,ORG,8650
+1981,DATE,8650
+Lakewood,GPE,8650
+Colorado,GPE,8650
+One,CARDINAL,8650
+five years,DATE,8650
+four,CARDINAL,8650
+Dorcus Allen,PERSON,8650
+"December 2, 2009",DATE,8650
+six,CARDINAL,8650
+Clemmons,ORG,8650
+Lakewood,GPE,8650
+June 2010,DATE,8650
+Clemmons,ORG,8650
+five years,DATE,8650
+December 2010,DATE,8650
+three,CARDINAL,8650
+four,CARDINAL,8650
+"January 14, 2011",DATE,8650
+Pierce County Superior Court,ORG,8650
+Stephanie Arend,PERSON,8650
+Eddie Lee Davis,PERSON,8650
+10 years,DATE,8650
+five months,DATE,8650
+Douglas Edward Davis,PERSON,8650
+seven years,DATE,8650
+six months,DATE,8650
+Letrecia Nelson,PERSON,8650
+six years,DATE,8650
+two months,DATE,8650
+One,CARDINAL,8650
+the Washington Supreme Court,ORG,8650
+2013,DATE,8650
+2014,DATE,8650
+May 2011,DATE,8650
+Darcus Allen,PERSON,8650
+four,CARDINAL,8650
+Clemmons,ORG,8650
+420 years,DATE,8650
+January 2015,DATE,8650
+the Washington Supreme Court,ORG,8650
+Allen,PERSON,8650
+Allen,PERSON,8650
+second,ORDINAL,8650
+first,ORDINAL,8650
+Clemmons,ORG,8650
+second,ORDINAL,8650
+November 10,DATE,8650
+2022.[48,CARDINAL,8650
+Mike Huckabee,PERSON,8650
+Clemmons,ORG,8650
+2000.[49][50,CARDINAL,8650
+Huckabee,ORG,8650
+Huckabee,ORG,8650
+Huckabee,ORG,8650
+Arkansas,GPE,8650
+Washington State,GPE,8650
+Huckabee,ORG,8650
+the Republican Party,ORG,8650
+"2012,[53",CARDINAL,8650
+Clemmons,ORG,8650
+"Willie Horton,[53][54",PERSON,8650
+Massachusetts,GPE,8650
+1986,DATE,8650
+several months later,DATE,8650
+Horton,PERSON,8650
+1988,DATE,8650
+Democratic Party,ORG,8650
+Michael Dukakis,PERSON,8650
+Massachusetts,GPE,8650
+Timothy Egan,PERSON,8650
+The New York Times,ORG,8650
+Huckabee,ORG,8650
+Clemmons,ORG,8650
+Huckabee,ORG,8650
+The Other Side of Mercy,WORK_OF_ART,8650
+Jonathan Martin,PERSON,8650
+The Seattle Times,ORG,8650
+Huckabee,ORG,8650
+Clemmons,ORG,8650
+Martin,PERSON,8650
+Huckabee,ORG,8650
+Times,ORG,8650
+Martin,ORG,8650
+Huckabee,PERSON,8650
+2016,DATE,8650
+Maurice Clemmons,ORG,8650
+U.S.,GPE,8650
+Dukakis,ORG,8650
+Horton,ORG,8650
+Clemmons,ORG,8650
+Lakewood,GPE,8650
+Bret Farrar,PERSON,8650
+the Lakewood Police Department,ORG,8650
+2010,DATE,8650
+four,CARDINAL,8650
+"December 8, 2009",DATE,8650
+the Tacoma Dome.[56],FAC,8650
+10-mile,QUANTITY,8650
+16 km,QUANTITY,8650
+McChord Air Force Base,ORG,8650
+Lakewood,GPE,8650
+the Tacoma Dome,ORG,8650
+"Over 2,000",CARDINAL,8650
+over 150,CARDINAL,8650
+five hours,TIME,8650
+"20,000",CARDINAL,8650
+Emergency Medical Services,ORG,8650
+the Tacoma Dome.[58,FAC,8650
+New York City,GPE,8650
+Boston,GPE,8650
+Royal Canadian Mounted Police Officers,ORG,8650
+Constables,ORG,8650
+Officers and Paramedics,WORK_OF_ART,8650
+the British Columbia Ambulance Service,ORG,8650
+Lakewood,ORG,8650
+four,CARDINAL,8650
+Washington,GPE,8650
+Christine Gregoire,PERSON,8650
+today,DATE,8650
+"20,000",CARDINAL,8650
+One thousand,CARDINAL,8650
+Tacoma,GPE,8650
+two weeks,DATE,8650
+Blue Steele Coffee Company,ORG,8650

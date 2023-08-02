@@ -1,0 +1,14 @@
+text,label,fe_id
+Sunday,DATE,116
+last week,DATE,116
+Patric Ferguson,PERSON,116
+first,ORDINAL,116
+first,ORDINAL,116
+the Memphis Police Department,ORG,116
+Ferguson,PERSON,116
+29,DATE,116
+second,ORDINAL,116
+Joshua Rogers,PERSON,116
+28,DATE,116
+The Memphis Police Department,ORG,116
+the Shelby County Sheriff’s Office,ORG,116

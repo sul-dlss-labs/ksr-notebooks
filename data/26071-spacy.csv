@@ -1,0 +1,22 @@
+text,label,fe_id
+One,CARDINAL,26071
+two,CARDINAL,26071
+Havre,LOC,26071
+Sunday,DATE,26071
+two,CARDINAL,26071
+4:14 a.m.,TIME,26071
+the Montana Highway Patrol,ORG,26071
+the Havre Police Department,ORG,26071
+1st Street,FAC,26071
+14th Avenue,FAC,26071
+the Highway Patrol,FAC,26071
+24-year-old,DATE,26071
+Havre,ORG,26071
+the Highway Patrol,FAC,26071
+20-year-old,DATE,26071
+Billings,ORG,26071
+Northern Montana Hospital,ORG,26071
+29-year-old,DATE,26071
+Pennsylvania,GPE,26071
+the Montana Highway Patrol,ORG,26071
+the Highway Patrol,FAC,26071

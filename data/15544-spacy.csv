@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,15544
+Alabama,GPE,15544
+Alaska,GPE,15544
+Arizona,GPE,15544
+Arkansas,GPE,15544
+California,GPE,15544
+Colorado,GPE,15544
+Connecticut,GPE,15544
+Delaware,GPE,15544
+Florida,GPE,15544
+Georgia,GPE,15544
+Hawaii,GPE,15544
+Idaho,GPE,15544
+Indiana,GPE,15544
+Iowa,GPE,15544
+Kansas,GPE,15544
+Kentucky,GPE,15544
+Louisiana,GPE,15544
+Maine,GPE,15544
+Maryland,GPE,15544
+Massachusetts,GPE,15544
+Michigan,GPE,15544
+Minnesota,GPE,15544
+Mississippi,GPE,15544
+Missouri,GPE,15544
+Montana,GPE,15544
+Nebraska,GPE,15544
+Nevada,GPE,15544
+New Hampshire,GPE,15544
+New Jersey,GPE,15544
+Ohio,GPE,15544
+Oklahoma,GPE,15544
+Oregon,GPE,15544
+Pennsylvania,GPE,15544
+Rhode Island,GPE,15544
+Tennessee,GPE,15544
+Texas,GPE,15544
+Utah,GPE,15544
+Vermont,GPE,15544
+Virginia,GPE,15544
+Washington,GPE,15544
+Washington,GPE,15544
+D.C.,GPE,15544
+Wisconsin,GPE,15544
+Wyoming,GPE,15544
+US,GPE,15544
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,15544
+Marshall Islands American Samoa Federated States,ORG,15544
+Micronesia Guam,FAC,15544
+Alberta,GPE,15544
+Canada,GPE,15544
+British Columbia,GPE,15544
+Canada Manitoba,GPE,15544
+Canada,GPE,15544
+New Brunswick,GPE,15544
+Canada Newfoundland,PERSON,15544
+Canada,GPE,15544
+Canada,GPE,15544
+Canada Ontario,GPE,15544
+Canada,GPE,15544
+Edward Island,GPE,15544
+Canada Quebec,GPE,15544
+Canada,GPE,15544
+Saskatchewan,GPE,15544
+Canada Yukon Territory,ORG,15544
+Canada,GPE,15544
+Zip Code,PERSON,15544

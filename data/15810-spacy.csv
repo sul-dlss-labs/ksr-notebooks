@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,15810
+Alabama,GPE,15810
+Alaska,GPE,15810
+Arizona,GPE,15810
+Arkansas,GPE,15810
+California,GPE,15810
+Colorado,GPE,15810
+Connecticut,GPE,15810
+Delaware,GPE,15810
+Florida,GPE,15810
+Georgia,GPE,15810
+Hawaii,GPE,15810
+Idaho,GPE,15810
+Indiana,GPE,15810
+Iowa,GPE,15810
+Kansas,GPE,15810
+Kentucky,GPE,15810
+Louisiana,GPE,15810
+Maine,GPE,15810
+Maryland,GPE,15810
+Massachusetts,GPE,15810
+Michigan,GPE,15810
+Minnesota,GPE,15810
+Mississippi,GPE,15810
+Missouri,GPE,15810
+Montana,GPE,15810
+Nebraska,GPE,15810
+Nevada,GPE,15810
+New Hampshire,GPE,15810
+New Jersey,GPE,15810
+Ohio,GPE,15810
+Oklahoma,GPE,15810
+Oregon,GPE,15810
+Pennsylvania,GPE,15810
+Rhode Island,GPE,15810
+Tennessee,GPE,15810
+Texas,GPE,15810
+Utah,GPE,15810
+Vermont,GPE,15810
+Virginia,GPE,15810
+Washington,GPE,15810
+Washington,GPE,15810
+D.C.,GPE,15810
+Wisconsin,GPE,15810
+Wyoming,GPE,15810
+US,GPE,15810
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,15810
+Marshall Islands American Samoa Federated States,ORG,15810
+Micronesia Guam,FAC,15810
+Alberta,GPE,15810
+Canada,GPE,15810
+British Columbia,GPE,15810
+Canada Manitoba,GPE,15810
+Canada,GPE,15810
+New Brunswick,GPE,15810
+Canada Newfoundland,PERSON,15810
+Canada,GPE,15810
+Canada,GPE,15810
+Canada Ontario,GPE,15810
+Canada,GPE,15810
+Edward Island,GPE,15810
+Canada Quebec,GPE,15810
+Canada,GPE,15810
+Saskatchewan,GPE,15810
+Canada Yukon Territory,ORG,15810
+Canada,GPE,15810
+Zip Code,PERSON,15810

@@ -1,0 +1,5 @@
+text,label,fe_id
+SmartAsset,ORG,31305
+126,CARDINAL,31305
+annual,DATE,31305
+more than $100,MONEY,31305

@@ -1,0 +1,33 @@
+text,label,fe_id
+The Nueces County Medical Examiner,ORG,30540
+24-year-old,DATE,30540
+Tristan Trevino,PERSON,30540
+CHRISTI,GPE,30540
+Texas,GPE,30540
+Corpus Christi,ORG,30540
+Monday,DATE,30540
+morning,TIME,30540
+3News,CARDINAL,30540
+The Nueces County Medical Examiner,ORG,30540
+24-year-old,DATE,30540
+Tristan Trevino,PERSON,30540
+just after 6:50 a.m.,TIME,30540
+3800,CARDINAL,30540
+Caravelle Parkway,FAC,30540
+David Blackmon,PERSON,30540
+Trevino,PERSON,30540
+Blackmon,PERSON,30540
+first,ORDINAL,30540
+second,ORDINAL,30540
+Blackmon,PERSON,30540
+Trevino,PERSON,30540
+Monday evening,TIME,30540
+25-year-old,DATE,30540
+Juan De Los Santos,PERSON,30540
+CCPD,ORG,30540
+312-percent,PERCENT,30540
+January 2020,DATE,30540
+Blackmon,PERSON,30540
+this year,DATE,30540
+the Auto Theft Taskforce,ORG,30540
+the Coastal Bend,ORG,30540

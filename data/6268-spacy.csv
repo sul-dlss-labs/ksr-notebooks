@@ -1,0 +1,9 @@
+text,label,fe_id
+Bronx,GPE,6268
+Tuesday night,TIME,6268
+yesterday,DATE,6268
+James Harris,PERSON,6268
+42,DATE,6268
+1900,CARDINAL,6268
+Harris,PERSON,6268
+fourth,ORDINAL,6268

@@ -1,0 +1,1 @@
+remove-circle Internet Archive's in-browser bookreader "theater" requires JavaScript to be enabled. It appears your browser does not have it turned on. Please see your browser settings for this feature.

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,31488
+Alabama,GPE,31488
+Alaska,GPE,31488
+Arizona,GPE,31488
+Arkansas,GPE,31488
+California,GPE,31488
+Colorado,GPE,31488
+Connecticut,GPE,31488
+Delaware,GPE,31488
+Florida,GPE,31488
+Georgia,GPE,31488
+Hawaii,GPE,31488
+Idaho,GPE,31488
+Indiana,GPE,31488
+Iowa,GPE,31488
+Kansas,GPE,31488
+Kentucky,GPE,31488
+Louisiana,GPE,31488
+Maine,GPE,31488
+Maryland,GPE,31488
+Massachusetts,GPE,31488
+Michigan,GPE,31488
+Minnesota,GPE,31488
+Mississippi,GPE,31488
+Missouri,GPE,31488
+Montana,GPE,31488
+Nebraska,GPE,31488
+Nevada,GPE,31488
+New Hampshire,GPE,31488
+New Jersey,GPE,31488
+Ohio,GPE,31488
+Oklahoma,GPE,31488
+Oregon,GPE,31488
+Pennsylvania,GPE,31488
+Rhode Island,GPE,31488
+Tennessee,GPE,31488
+Texas,GPE,31488
+Utah,GPE,31488
+Vermont,GPE,31488
+Virginia,GPE,31488
+Washington,GPE,31488
+Washington,GPE,31488
+D.C.,GPE,31488
+Wisconsin,GPE,31488
+Wyoming,GPE,31488
+US,GPE,31488
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,31488
+Marshall Islands American Samoa Federated States,ORG,31488
+Micronesia Guam,FAC,31488
+Alberta,GPE,31488
+Canada,GPE,31488
+British Columbia,GPE,31488
+Canada Manitoba,GPE,31488
+Canada,GPE,31488
+New Brunswick,GPE,31488
+Canada Newfoundland,PERSON,31488
+Canada,GPE,31488
+Canada,GPE,31488
+Canada Ontario,GPE,31488
+Canada,GPE,31488
+Edward Island,GPE,31488
+Canada Quebec,GPE,31488
+Canada,GPE,31488
+Saskatchewan,GPE,31488
+Canada Yukon Territory,ORG,31488
+Canada,GPE,31488
+Zip Code,PERSON,31488

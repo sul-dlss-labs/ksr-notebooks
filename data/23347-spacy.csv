@@ -1,0 +1,37 @@
+text,label,fe_id
+Charleston,GPE,23347
+Thursday,DATE,23347
+night,TIME,23347
+11 p.m.,TIME,23347
+Thursday,DATE,23347
+Patrolman S. Johnson,PERSON,23347
+Albert Street,FAC,23347
+Johnson,PERSON,23347
+Seth Hardwick,PERSON,23347
+Patrolman Johnson,PERSON,23347
+Johnson,PERSON,23347
+Hardwick,ORG,23347
+Chrishawn Perkins,ORG,23347
+Seth Hardwick,PERSON,23347
+Chrishawn Perkins,ORG,23347
+Christopher Perkins,PERSON,23347
+Casey Tucker,PERSON,23347
+Raynee Herman,PERSON,23347
+the Go-Mart,ORG,23347
+Bigley Avenue,FAC,23347
+Albert Street,FAC,23347
+Herman,PERSON,23347
+four,CARDINAL,23347
+Hardwick,ORG,23347
+three,CARDINAL,23347
+Casey Tucker,PERSON,23347
+first,ORDINAL,23347
+second,ORDINAL,23347
+first,ORDINAL,23347
+Raynee Herman,PERSON,23347
+first,ORDINAL,23347
+Christopher Perkins,PERSON,23347
+first,ORDINAL,23347
+first,ORDINAL,23347
+second,ORDINAL,23347
+Chrishawn Perkins,ORG,23347

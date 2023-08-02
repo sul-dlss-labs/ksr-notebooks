@@ -1,0 +1,71 @@
+text,label,fe_id
+San Diego County,GPE,25527
+2017,DATE,25527
+two,CARDINAL,25527
+2018,DATE,25527
+2020,DATE,25527
+three,CARDINAL,25527
+2017,DATE,25527
+Officer-Involved Shooting,ORG,25527
+Thermographic,PERSON,25527
+"January 11, 2017",DATE,25527
+Old Town,ORG,25527
+35-year-old,DATE,25527
+Luke Lampers,PERSON,25527
+Anaheim,ORG,25527
+San Diego,GPE,25527
+Anaheim Police Department,ORG,25527
+San Diego,GPE,25527
+APD,ORG,25527
+Lampers,PRODUCT,25527
+the DA's Office,ORG,25527
+Lampers,GPE,25527
+San Diego County,GPE,25527
+Office,ORG,25527
+2018,DATE,25527
+In-Custody Death,ORG,25527
+Chula Vista Police Department,ORG,25527
+29-year-old,DATE,25527
+Jason Watts,PERSON,25527
+7-Eleven,TIME,25527
+Chula Vista,GPE,25527
+"October 12, 2018",DATE,25527
+Chula Vista Police Department,ORG,25527
+Watts,LOC,25527
+Watts,LOC,25527
+Watts,LOC,25527
+Two,CARDINAL,25527
+7-Eleven,EVENT,25527
+Watts,LOC,25527
+Watts,LOC,25527
+Watts,LOC,25527
+third,ORDINAL,25527
+Watts,LOC,25527
+three,CARDINAL,25527
+Watts,LOC,25527
+Watts,LOC,25527
+fourth,ORDINAL,25527
+Watts,LOC,25527
+Watts,LOC,25527
+Watts,LOC,25527
+Paradise Valley Hospital,LOC,25527
+Watts,LOC,25527
+Paradise Valley Hospital,LOC,25527
+Central Jail,LOC,25527
+Watts,LOC,25527
+UCSD Hospital,ORG,25527
+2020,DATE,25527
+In-Custody Death,ORG,25527
+San Diego,GPE,25527
+Harold Leonard Daniels Jr.,PERSON,25527
+52,DATE,25527
+Estrella Avenue,FAC,25527
+Jan. 20,DATE,25527
+Daniels,PERSON,25527
+Daniels,PERSON,25527
+Daniels,PERSON,25527
+UCSD Hospital,ORG,25527
+Daniels,PERSON,25527
+Daniels,PERSON,25527
+San Diego County,GPE,25527
+Office,ORG,25527

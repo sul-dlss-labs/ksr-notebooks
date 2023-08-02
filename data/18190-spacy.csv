@@ -1,0 +1,22 @@
+text,label,fe_id
+Friday two weeks,DATE,18190
+Shortly after 5:30 p.m.,TIME,18190
+the night of Sept. 12,TIME,18190
+East C Street,GPE,18190
+Washington High School,ORG,18190
+Joseph Carter,PERSON,18190
+32,DATE,18190
+Christian Vargas,GPE,18190
+25,DATE,18190
+Colton,ORG,18190
+Cpl,PERSON,18190
+Ray Mendez,PERSON,18190
+Friday,DATE,18190
+first,ORDINAL,18190
+two,CARDINAL,18190
+Vargas,PERSON,18190
+Mendez,GPE,18190
+Carter,PERSON,18190
+West Valley Detention Center,LOC,18190
+Carter,PERSON,18190
+"350,000",MONEY,18190

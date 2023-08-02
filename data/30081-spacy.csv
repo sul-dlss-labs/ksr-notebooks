@@ -1,0 +1,25 @@
+text,label,fe_id
+Tuesday,DATE,30081
+morning,TIME,30081
+Colo.,GPE,30081
+The Lakewood Police Department,ORG,30081
+Tuesday,DATE,30081
+one,CARDINAL,30081
+LPD Agents,ORG,30081
+West 5th Avenue,LOC,30081
+Benton Street,FAC,30081
+John Romero,PERSON,30081
+LPD,ORG,30081
+Denver Metro,ORG,30081
+Romero,ORG,30081
+Romero,ORG,30081
+West 3rd Place,FAC,30081
+Depew Street,ORG,30081
+Romero,ORG,30081
+Romero,ORG,30081
+LPD,ORG,30081
+Romero,ORG,30081
+LPD,ORG,30081
+CPR,ORG,30081
+Romero,PERSON,30081
+The Jefferson County Critical Incident Response Team,ORG,30081

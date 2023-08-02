@@ -1,0 +1,12 @@
+text,label,fe_id
+early morning,TIME,23467
+"Thursday, December 14",DATE,23467
+around 2:31 a.m.,TIME,23467
+2321,CARDINAL,23467
+Garfield,PERSON,23467
+first,ORDINAL,23467
+the University Hospitals and,ORG,23467
+Clinics,ORG,23467
+Around 5:15 a.m.,TIME,23467
+262 21st,CARDINAL,23467
+the University of Iowa Hospitals,ORG,23467

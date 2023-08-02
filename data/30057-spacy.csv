@@ -1,0 +1,45 @@
+text,label,fe_id
+San Antonio,GPE,30057
+two,CARDINAL,30057
+SAN ANTONIO,GPE,30057
+San Antonio,GPE,30057
+two,CARDINAL,30057
+five-year,DATE,30057
+around 11:27 a.m.,TIME,30057
+Friday,DATE,30057
+2300,CARDINAL,30057
+Pinn Road,ORG,30057
+the San Antonio Police Department,ORG,30057
+third,ORDINAL,30057
+The Medical Examiner,ORG,30057
+two,CARDINAL,30057
+the SAPD Shooting Team and Internal Affairs,ORG,30057
+San Antonio,GPE,30057
+Friday,DATE,30057
+morning,TIME,30057
+two,CARDINAL,30057
+William McManus,PERSON,30057
+McManus,PERSON,30057
+five-year,DATE,30057
+three,CARDINAL,30057
+2300,CARDINAL,30057
+Pinn Road,ORG,30057
+McManus,PERSON,30057
+a few minutes,TIME,30057
+McManus,PERSON,30057
+20s,DATE,30057
+third,ORDINAL,30057
+McManus,PERSON,30057
+San Antonio,GPE,30057
+2,CARDINAL,30057
+Friday,DATE,30057
+morning,TIME,30057
+second,ORDINAL,30057
+two days,DATE,30057
+San Antonio,GPE,30057
+Thursday,DATE,30057
+first,ORDINAL,30057
+the San Antonio International Airport,FAC,30057
+Friday,DATE,30057
+Highway 281,FAC,30057
+Loop 1604,DATE,30057

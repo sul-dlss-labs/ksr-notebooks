@@ -1,0 +1,23 @@
+text,label,fe_id
+California Highway Patrol,FAC,9910
+53-year-old,DATE,9910
+Wrightwood,ORG,9910
+San Bernardino County,GPE,9910
+Thursday,DATE,9910
+Jeffrey Street,FAC,9910
+Feb. 27,DATE,9910
+Five,CARDINAL,9910
+two,CARDINAL,9910
+two,CARDINAL,9910
+Reid L. Robsahm,PERSON,9910
+four,CARDINAL,9910
+two,CARDINAL,9910
+CHP,ORG,9910
+Street,PERSON,9910
+Robsahm,GPE,9910
+second,ORDINAL,9910
+CHP,ORG,9910
+Andrew Howell,PERSON,9910
+AR-15,PRODUCT,9910
+Officer Howell’s,WORK_OF_ART,9910
+Robsahm,GPE,9910

@@ -1,0 +1,36 @@
+text,label,fe_id
+"Dianne L Stallings
+
+Ruidoso News
+
+Officer",ORG,23274
+One,CARDINAL,23274
+early Sunday,DATE,23274
+the New Mexico State Police,ORG,23274
+about 7 a.m.,TIME,23274
+"Sunday, Nov. 5",DATE,23274
+Police Investigations Bureau,ORG,23274
+Ruidoso,GPE,23274
+around 6:20 a.m.,TIME,23274
+Ruidoso Police Department,ORG,23274
+Timberline Drive,LOC,23274
+first,ORDINAL,23274
+two,CARDINAL,23274
+first,ORDINAL,23274
+Ford,ORG,23274
+Johnathon Brownell,PERSON,23274
+28,DATE,23274
+Brownell,ORG,23274
+second,ORDINAL,23274
+Ford,ORG,23274
+Marlysa Sanchez,PERSON,23274
+31,DATE,23274
+Los Lunas,GPE,23274
+second,ORDINAL,23274
+Sanchez,GPE,23274
+Brownell,ORG,23274
+University Medical Center,ORG,23274
+El Paso,GPE,23274
+Brownell,PERSON,23274
+three,CARDINAL,23274
+Brownell,PERSON,23274

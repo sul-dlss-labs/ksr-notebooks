@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,24370
+United States,GPE,24370
+Canada Mexico,GPE,24370
+United Mexican,GPE,24370
+Bahamas,GPE,24370
+Commonwealth,GPE,24370
+Cuba,GPE,24370
+"Republic of Dominican Republic Haiti,",GPE,24370
+Republic of Jamaica,GPE,24370
+Afghanistan,GPE,24370
+Albania,GPE,24370
+People's Socialist Republic,ORG,24370
+Algeria,GPE,24370
+People's Democratic Republic of American,GPE,24370
+Angola,GPE,24370
+Republic of Anguilla Antarctica,ORG,24370
+South,LOC,24370
+Barbuda Argentina,PERSON,24370
+Argentine Republic,GPE,24370
+Armenia Aruba,PERSON,24370
+Australia,GPE,24370
+Commonwealth,GPE,24370
+Austria,GPE,24370
+Republic of Bahrain,ORG,24370
+Belgium,GPE,24370
+Kingdom of Belize Benin,ORG,24370
+People's Republic of Bermuda Bhutan,GPE,24370
+Kingdom of Bolivia,GPE,24370
+Republic of Bosnia,GPE,24370
+Botswana,GPE,24370
+Republic of Bouvet Island,ORG,24370
+Bouvetoya,GPE,24370
+Brazil,GPE,24370
+Federative Republic,GPE,24370
+British Virgin,GPE,24370
+Bulgaria,GPE,24370
+People's Republic of Burkina Faso Burundi,GPE,24370
+Republic of Cambodia,GPE,24370
+Kingdom of Cameroon,GPE,24370
+United Republic of Cape Verde,GPE,24370
+"Republic of Cayman Islands Central African Republic Chad,",ORG,24370
+Republic of Chile,ORG,24370
+Republic of China,ORG,24370
+People's Republic of Christmas Island,GPE,24370
+Colombia,GPE,24370
+Union of the Congo,ORG,24370
+Democratic Republic of Congo,GPE,24370
+People's Republic of Cook,GPE,24370
+Costa Rica,GPE,24370
+Ivory Coast,GPE,24370
+Republic Denmark,GPE,24370
+Kingdom of Djibouti,GPE,24370
+Republic of Dominica,GPE,24370
+Commonwealth,GPE,24370
+Ecuador,GPE,24370
+Republic of Egypt,GPE,24370
+Arab Republic,GPE,24370
+El Salvador,GPE,24370
+Republic of Equatorial Guinea,GPE,24370
+Republic of Eritrea,GPE,24370
+Estonia,GPE,24370
+Ethiopia,GPE,24370
+Malvinas,GPE,24370
+Fiji,GPE,24370
+Republic of the Fiji Islands Finland,ORG,24370
+Republic of France,GPE,24370
+French,NORP,24370
+French,NORP,24370
+Guiana,PERSON,24370
+French,NORP,24370
+Polynesia,GPE,24370
+Southern Territories Gabon,PRODUCT,24370
+Gabonese Republic Gambia,GPE,24370
+Georgia,GPE,24370
+Germany,GPE,24370
+Ghana,GPE,24370
+Republic of Gibraltar Greece,ORG,24370
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,24370
+Republic of Guinea,GPE,24370
+Revolutionary People's Rep'c,ORG,24370
+Guinea-Bissau,ORG,24370
+Republic of Heard,ORG,24370
+McDonald Islands Holy See,ORG,24370
+Vatican City State,GPE,24370
+Honduras,GPE,24370
+Republic of Hong Kong,GPE,24370
+Special Administrative Region of China,ORG,24370
+Hrvatska,PERSON,24370
+Croatia,GPE,24370
+Hungary,GPE,24370
+Hungarian People's Republic Iceland,PERSON,24370
+Republic of India,GPE,24370
+Republic of Indonesia,GPE,24370
+Republic of Iran,GPE,24370
+Islamic Republic of Iraq,GPE,24370
+Republic of Ireland,GPE,24370
+Israel,GPE,24370
+State of Italy,GPE,24370
+Italian,NORP,24370
+Japan,GPE,24370
+Jordan,GPE,24370
+Hashemite Kingdom of Kazakhstan,GPE,24370
+Republic of Kiribati,GPE,24370
+Republic of Korea,GPE,24370
+Democratic,NORP,24370
+Republic of Kuwait,ORG,24370
+Lao People's,PERSON,24370
+Latvia,GPE,24370
+Lebanon,GPE,24370
+Lebanese Republic Lesotho,GPE,24370
+Kingdom of Liberia,GPE,24370
+Lithuania Luxembourg,GPE,24370
+Special Administrative Region of China Macedonia,ORG,24370
+Yugoslav Republic of Madagascar,GPE,24370
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,24370
+Islamic Republic,GPE,24370
+Mayotte Micronesia,PERSON,24370
+Federated States,GPE,24370
+Moldova,GPE,24370
+Republic of Monaco,ORG,24370
+Principality,NORP,24370
+Morocco,GPE,24370
+Kingdom of Mozambique,ORG,24370
+Republic of Nepal,GPE,24370
+Netherlands,GPE,24370
+Kingdom,GPE,24370
+the New Caledonia New Zealand,ORG,24370
+Nicaragua,GPE,24370
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,24370
+Norway,GPE,24370
+Kingdom of Oman,GPE,24370
+Pakistan,GPE,24370
+Islamic Republic of,GPE,24370
+Occupied Panama,GPE,24370
+Republic of Peru,GPE,24370
+Republic of Philippines,GPE,24370
+Republic of the Pitcairn Island Poland,ORG,24370
+Polish,NORP,24370
+Republic Portugal,GPE,24370
+Portuguese Republic,GPE,24370
+Puerto Rico Qatar,GPE,24370
+State of Reunion Romania,ORG,24370
+Socialist Republic,GPE,24370
+Rwanda,GPE,24370
+Rwandese Republic Samoa,GPE,24370
+Independent State of San Marino,ORG,24370
+Republic of Sao Tome,ORG,24370
+Principe,GPE,24370
+Democratic Republic of Saudi Arabia,GPE,24370
+"Kingdom of Senegal, Republic of Serbia",GPE,24370
+Montenegro Seychelles,PERSON,24370
+Republic of Sierra Leone,ORG,24370
+Republic of Singapore,ORG,24370
+Republic of Slovakia,ORG,24370
+Slovak Republic,GPE,24370
+Slovenia Solomon Islands,GPE,24370
+Somalia,GPE,24370
+Somali Republic South Africa,GPE,24370
+Republic of South Georgia,GPE,24370
+Spain,GPE,24370
+Spanish,NORP,24370
+Sri Lanka,GPE,24370
+Democratic,NORP,24370
+Miquelon St. Vincent,PERSON,24370
+Democratic Republic,GPE,24370
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,24370
+Kingdom of Sweden,GPE,24370
+Kingdom of Switzerland,GPE,24370
+Swiss Confederation Syrian Arab Republic,ORG,24370
+Taiwan,GPE,24370
+China,GPE,24370
+Tanzania,GPE,24370
+United Republic of Thailand,GPE,24370
+Kingdom of Timor-Leste,GPE,24370
+Democratic Republic of Togo,GPE,24370
+Togolese Republic Tokelau,ORG,24370
+Tokelau,GPE,24370
+Tonga,GPE,24370
+Kingdom of Trinidad,ORG,24370
+Tobago,GPE,24370
+Republic of Tunisia,ORG,24370
+Republic of Turkey,GPE,24370
+Republic of Turkmenistan Turks,ORG,24370
+Uganda,GPE,24370
+Republic of Ukraine United Arab Emirates,GPE,24370
+United Kingdom of Great,GPE,24370
+Eastern Republic,GPE,24370
+Venezuela,GPE,24370
+Bolivarian Republic,GPE,24370
+Viet Nam,GPE,24370
+Socialist Republic,GPE,24370
+Yemen,GPE,24370
+Zambia,GPE,24370
+Republic of Zimbabwe,GPE,24370

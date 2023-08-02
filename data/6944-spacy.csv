@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6944
+Alabama,GPE,6944
+Alaska,GPE,6944
+Arizona,GPE,6944
+Arkansas,GPE,6944
+California,GPE,6944
+Colorado,GPE,6944
+Connecticut,GPE,6944
+Delaware,GPE,6944
+Florida,GPE,6944
+Georgia,GPE,6944
+Hawaii,GPE,6944
+Idaho,GPE,6944
+Indiana,GPE,6944
+Iowa,GPE,6944
+Kansas,GPE,6944
+Kentucky,GPE,6944
+Louisiana,GPE,6944
+Maine,GPE,6944
+Maryland,GPE,6944
+Massachusetts,GPE,6944
+Michigan,GPE,6944
+Minnesota,GPE,6944
+Mississippi,GPE,6944
+Missouri,GPE,6944
+Montana,GPE,6944
+Nebraska,GPE,6944
+Nevada,GPE,6944
+New Hampshire,GPE,6944
+New Jersey,GPE,6944
+Ohio,GPE,6944
+Oklahoma,GPE,6944
+Oregon,GPE,6944
+Pennsylvania,GPE,6944
+Rhode Island,GPE,6944
+Tennessee,GPE,6944
+Texas,GPE,6944
+Utah,GPE,6944
+Vermont,GPE,6944
+Virginia,GPE,6944
+Washington,GPE,6944
+Washington,GPE,6944
+D.C.,GPE,6944
+Wisconsin,GPE,6944
+Wyoming,GPE,6944
+US,GPE,6944
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6944
+Marshall Islands American Samoa Federated States,ORG,6944
+Micronesia Guam,FAC,6944
+Alberta,GPE,6944
+Canada,GPE,6944
+British Columbia,GPE,6944
+Canada Manitoba,GPE,6944
+Canada,GPE,6944
+New Brunswick,GPE,6944
+Canada Newfoundland,PERSON,6944
+Canada,GPE,6944
+Canada,GPE,6944
+Canada Ontario,GPE,6944
+Canada,GPE,6944
+Edward Island,GPE,6944
+Canada Quebec,GPE,6944
+Canada,GPE,6944
+Saskatchewan,GPE,6944
+Canada Yukon Territory,ORG,6944
+Canada,GPE,6944
+Zip Code,PERSON,6944

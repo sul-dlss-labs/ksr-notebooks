@@ -1,0 +1,65 @@
+A man who was shot by police after a fight with officers and a car chase from East Hartford into Glastonbury died late Thursday, his lawyer said.
+
+Juan McCray, 31, had been at Hartford Hospital since he was shot on Feb. 4, attorney David K. Jaffe said. Family members decided to remove McCray from life support, a source with knowledge of the case said.
+
+Jaffe has said he has “serious concerns” about how police handled the incident, which left McCray with a bullet in his brain, a collapsed lung and several broken ribs.
+
+“I’m looking into whether or not the police acted in accordance with accepted police practices,” Jaffe said Friday. “If they did not, then there would probably be a lawsuit.”
+
+The case, which was initially handled by the Hartford state’s attorney’s office, will be transferred to another jurisdiction, which is state law after a death from police use of force. The chief state’s attorney has not decided which office will oversee the state investigation into the shooting.
+
+East Hartford police have referred questions about the shooting to state police, who have not updated information since their initial news release.
+
+An official at the Chief State Medical Examiner’s Office in Farmington said no autopsy information would be available Friday.
+
+Events started with a stolen vehicle complaint to town police at about 8:30 p.m. Jaffe said McCray was driving his grandmother’s Nissan Sentra. East Hartford officers spotted the car and followed it to the parking lot of 11 Turtle Creek Lane, an apartment complex near Burnside Avenue.
+
+In the parking lot, the suspect and officers struggled, police spokesman Lt. Joshua Litwin said soon after the incident. Officers were injured and police fired at the driver, who sped away, police said in a news release.
+
+Police chased the driver into Glastonbury, and during the chase, “the suspect vehicle was involved in numerous crashes involving other vehicles,” state police said. No civilian injuries were reported. At one point, the car went off the road, hit a guardrail and spun out, then kept going, a source close to the investigation told The Courant. Near the end of the chase, the car’s hood popped open, but the driver continued driving away, the source said.
+
+The pursuit ended with a crash in the area of New London Turnpike, Chestnut Hill Road and Copley Road in Glastonbury, where East Hartford police fired again, hitting the driver multiple times, police said.
+
+“I have serious concerns about the shooting,” Jaffe has said, “because nobody has reported that he had a weapon on him.”
+
+East Hartford officers who were injured were treated and released from a hospital, but some were not able to return to duty immediately, police have said. Some officers have been placed on desk duty pending the outcome of the state investigation.
+
+McCray’s sister, Charissa Kearney, said he grew up in Vernon and is the father of two young children.
+
+McCray likely was coming to see her at the Turtle Creek apartments on Super Bowl Sunday, Kearney said, but she was not home when he arrived.
+
+Kearney has said she did not know why McCray allegedly fought with police, but she said her brother never carried a weapon and likely fled from officers because he was scared.
+
+McCray had a record of criminal convictions that include forgery, risk of injury to a minor, driving under the influence, reckless driving and identity theft. He had been in and out of jail and prison in the past 10 years, records show.
+
+Police are asking anyone with information about the shooting and chase to call detectives at 860-706-5652, or text TIP711, to 274637. All calls and texts will remain confidential, state police said.
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #c52026;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Trending Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

@@ -1,0 +1,21 @@
+text,label,fe_id
+approximately 8 p.m.,TIME,26594
+"Friday, Sept. 13",DATE,26594
+two,CARDINAL,26594
+Brackettville Border Patrol Station,ORG,26594
+Ranch Road 674,LOC,26594
+Brackettville,GPE,26594
+Texas,GPE,26594
+San Antonio,GPE,26594
+25-year-old,DATE,26594
+United States,GPE,26594
+two,CARDINAL,26594
+second,ORDINAL,26594
+32-year-old,DATE,26594
+United States,GPE,26594
+first,ORDINAL,26594
+AirFlight,ORG,26594
+San Antonio,GPE,26594
+Texas Rangers,ORG,26594
+"the Federal Bureau of Investigations, Customs and Border Protection’s Office of Professional Responsibility",ORG,26594
+Kinney County Sheriff’s Office,ORG,26594

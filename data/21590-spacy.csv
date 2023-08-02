@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,21590
+Alabama,GPE,21590
+Alaska,GPE,21590
+Arizona,GPE,21590
+Arkansas,GPE,21590
+California,GPE,21590
+Colorado,GPE,21590
+Connecticut,GPE,21590
+Delaware,GPE,21590
+Florida,GPE,21590
+Georgia,GPE,21590
+Hawaii,GPE,21590
+Idaho,GPE,21590
+Indiana,GPE,21590
+Iowa,GPE,21590
+Kansas,GPE,21590
+Kentucky,GPE,21590
+Louisiana,GPE,21590
+Maine,GPE,21590
+Maryland,GPE,21590
+Massachusetts,GPE,21590
+Michigan,GPE,21590
+Minnesota,GPE,21590
+Mississippi,GPE,21590
+Missouri,GPE,21590
+Montana,GPE,21590
+Nebraska,GPE,21590
+Nevada,GPE,21590
+New Hampshire,GPE,21590
+New Jersey,GPE,21590
+Ohio,GPE,21590
+Oklahoma,GPE,21590
+Oregon,GPE,21590
+Pennsylvania,GPE,21590
+Rhode Island,GPE,21590
+Tennessee,GPE,21590
+Texas,GPE,21590
+Utah,GPE,21590
+Vermont,GPE,21590
+Virginia,GPE,21590
+Washington,GPE,21590
+Washington,GPE,21590
+D.C.,GPE,21590
+Wisconsin,GPE,21590
+Wyoming,GPE,21590
+US,GPE,21590
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,21590
+Marshall Islands American Samoa Federated States,ORG,21590
+Micronesia Guam,FAC,21590
+Alberta,GPE,21590
+Canada,GPE,21590
+British Columbia,GPE,21590
+Canada Manitoba,GPE,21590
+Canada,GPE,21590
+New Brunswick,GPE,21590
+Canada Newfoundland,PERSON,21590
+Canada,GPE,21590
+Canada,GPE,21590
+Canada Ontario,GPE,21590
+Canada,GPE,21590
+Edward Island,GPE,21590
+Canada Quebec,GPE,21590
+Canada,GPE,21590
+Saskatchewan,GPE,21590
+Canada Yukon Territory,ORG,21590
+Canada,GPE,21590
+Zip Code,PERSON,21590

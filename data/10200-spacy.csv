@@ -1,0 +1,12 @@
+text,label,fe_id
+One,CARDINAL,10200
+The University of Kansas Hospital,ORG,10200
+Kansas City,GPE,10200
+Kan.,GPE,10200
+Roeland Park,GPE,10200
+Johnson County Sheriff’s Office,ORG,10200
+Johnson County,GPE,10200
+Friday,DATE,10200
+approximately 10:45 p.m.,TIME,10200
+Roeland Park,LOC,10200
+Fairway,ORG,10200

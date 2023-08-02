@@ -1,0 +1,43 @@
+text,label,fe_id
+Lisa M. Krieger,PERSON,765
+"San
+
+",GPE,765
+Jose Mercury News,ORG,765
+SAN JOSE,GPE,765
+99.9 percent,PERCENT,765
+Science,ORG,765
+Craig Venter,PERSON,765
+Celera Genomics Corp.,ORG,765
+one,CARDINAL,765
+two,CARDINAL,765
+two,CARDINAL,765
+Venter,ORG,765
+Washington,GPE,765
+D.C.,GPE,765
+Africans,NORP,765
+African,NORP,765
+Caucasians,NORP,765
+Africans,NORP,765
+Venter,ORG,765
+Chinese,NORP,765
+Caucasians,NORP,765
+west Africa,GPE,765
+Harold P. Freeman,PERSON,765
+"Celera's
+
+Institutional Review Board",ORG,765
+Freeman,PERSON,765
+North General Hospital,ORG,765
+New York City,GPE,765
+one,CARDINAL,765
+1989,DATE,765
+Celera Genomics,PERSON,765
+1998,DATE,765
+last week's,DATE,765
+Nature and Science,WORK_OF_ART,765
+two,CARDINAL,765
+just one,CARDINAL,765
+"1,000",CARDINAL,765
+Venter,ORG,765
+Freeman,PERSON,765

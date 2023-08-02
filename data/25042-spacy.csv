@@ -1,0 +1,33 @@
+text,label,fe_id
+Crime & Safety Driver Died After,ORG,25042
+BCPD,ORG,25042
+Parkville,GPE,25042
+Monday,DATE,25042
+night,TIME,25042
+the Parkway Crossing,FAC,25042
+MD,GPE,25042
+Monday night,TIME,25042
+Baltimore County,GPE,25042
+2400,CARDINAL,25042
+Cleanleigh Drive,FAC,25042
+around 8:30 p.m.,TIME,25042
+"Monday, Oct. 29",DATE,25042
+Derrick Alexander Sellman,PERSON,25042
+28,DATE,25042
+2300,CARDINAL,25042
+Walshire Avenue,FAC,25042
+Baltimore,GPE,25042
+Sinai Hospital,FAC,25042
+10 a.m.,TIME,25042
+"Tuesday, Oct. 30",DATE,25042
+second,ORDINAL,25042
+the Parkway Crossing,FAC,25042
+Sellman,PRODUCT,25042
+Sellman,PRODUCT,25042
+the Home Depot,ORG,25042
+Sellman,PRODUCT,25042
+Sinai Hospital,ORG,25042
+Monday,DATE,25042
+night,TIME,25042
+the University of Maryland Shock Trauma Center,ORG,25042
+"Tuesday, Oct. 30",DATE,25042

@@ -1,0 +1,58 @@
+text,label,fe_id
+Chicago,GPE,15698
+South Chicago,LOC,15698
+about 1:15 a.m.,TIME,15698
+Wednesday,DATE,15698
+2800,CARDINAL,15698
+East 79th Street,DATE,15698
+60-year-old,DATE,15698
+Wednesday afternoon,TIME,15698
+the hours,TIME,15698
+East 79th,DATE,15698
+Burnham,ORG,15698
+Muskegon,GPE,15698
+CTA,ORG,15698
+79th,ORDINAL,15698
+Less than an hour,TIME,15698
+311 request log,QUANTITY,15698
+at least Jan. 29,DATE,15698
+Previous 311,CARDINAL,15698
+"March 26, 2014",DATE,15698
+"June 5, 2012",DATE,15698
+two days,DATE,15698
+Michael Claffey,PERSON,15698
+the Chicago Department of Transportation,ORG,15698
+Claffey,PERSON,15698
+Holmes,PERSON,15698
+311,CARDINAL,15698
+79th,ORDINAL,15698
+Burnham,ORG,15698
+Jan. 28,DATE,15698
+two days later,DATE,15698
+Friday,DATE,15698
+Wednesday,DATE,15698
+Wednesday,DATE,15698
+Holmes,PERSON,15698
+about one to,CARDINAL,15698
+two days,DATE,15698
+79th Street,FAC,15698
+Lionel Wilson,PRODUCT,15698
+South Burnham Avenue,FAC,15698
+79th,ORDINAL,15698
+a few weeks,DATE,15698
+Wilson,ORG,15698
+Wilson,ORG,15698
+nighttime,TIME,15698
+Justin Gilliam,PERSON,15698
+Muskegon,GPE,15698
+80th Street,FAC,15698
+79th,ORDINAL,15698
+Tuesday,DATE,15698
+night,TIME,15698
+Daywatch Weekdays Start,PERSON,15698
+each day,DATE,15698
+Chicago Tribune,ORG,15698
+Subscriber Terms & Conditions,ORG,15698
+79th,ORDINAL,15698
+Wednesday,DATE,15698
+Gilliam,PERSON,15698

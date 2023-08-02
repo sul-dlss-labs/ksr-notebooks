@@ -1,0 +1,17 @@
+text,label,fe_id
+Maria Ruvalcaba,PERSON,10401
+29-year-old,DATE,10401
+Latina,PERSON,10401
+"Friday, July 22",DATE,10401
+300,CARDINAL,10401
+East Ann Street,GPE,10401
+Los Angeles County,GPE,10401
+Ed Winter,PERSON,10401
+about 5 p.m.,TIME,10401
+Winter,PERSON,10401
+Ruvalcaba,GPE,10401
+less than an hour later,TIME,10401
+Winter,DATE,10401
+Crime Stoppers,PERSON,10401
+222,CARDINAL,10401
+Los Angeles Times,ORG,10401

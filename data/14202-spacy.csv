@@ -1,0 +1,23 @@
+text,label,fe_id
+Coral Springs,GPE,14202
+Tuesday,DATE,14202
+night,TIME,14202
+Coral Springs,ORG,14202
+around 7:15 p.m.,TIME,14202
+2600,CARDINAL,14202
+Riverside Drive,FAC,14202
+36-year-old,DATE,14202
+Joel Matias,PERSON,14202
+two,CARDINAL,14202
+Matias,PERSON,14202
+Toyota,ORG,14202
+Corolla,PRODUCT,14202
+Sample Road,FAC,14202
+Matias,PERSON,14202
+Rock Island Road and Sample Road,FAC,14202
+Turtle Run Boulevard,ORG,14202
+Matias,PERSON,14202
+Broward Health North,ORG,14202
+Broward Health Coral Springs,ORG,14202
+Coral Springs Police,ORG,14202
+954-344-1800,CARDINAL,14202

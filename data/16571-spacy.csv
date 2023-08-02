@@ -1,0 +1,29 @@
+text,label,fe_id
+Manuel Soriano,PERSON,16571
+29-year-old,DATE,16571
+Latino,PERSON,16571
+Los Angeles,GPE,16571
+"Friday, Aug. 28",DATE,16571
+14600,DATE,16571
+Valerio Street,FAC,16571
+Van Nuys,GPE,16571
+Los Angeles County,GPE,16571
+Shortly after 11:30 p.m.,TIME,16571
+two,CARDINAL,16571
+LAPD,ORG,16571
+Van Nuys Division,ORG,16571
+911,CARDINAL,16571
+Sgt,PERSON,16571
+Barry Montgomery,PERSON,16571
+30-year-old,DATE,16571
+Montgomery,ORG,16571
+one,CARDINAL,16571
+Montgomery,ORG,16571
+4-foot,QUANTITY,16571
+Montgomery,ORG,16571
+two,CARDINAL,16571
+Montgomery,ORG,16571
+28th,ORDINAL,16571
+this year,DATE,16571
+Half,CARDINAL,16571
+the Police Commission,ORG,16571

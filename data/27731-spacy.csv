@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,27731
+United States,GPE,27731
+Canada Mexico,GPE,27731
+United Mexican,GPE,27731
+Bahamas,GPE,27731
+Commonwealth,GPE,27731
+Cuba,GPE,27731
+"Republic of Dominican Republic Haiti,",GPE,27731
+Republic of Jamaica,GPE,27731
+Afghanistan,GPE,27731
+Albania,GPE,27731
+People's Socialist Republic,ORG,27731
+Algeria,GPE,27731
+People's Democratic Republic of American,GPE,27731
+Angola,GPE,27731
+Republic of Anguilla Antarctica,ORG,27731
+South,LOC,27731
+Barbuda Argentina,PERSON,27731
+Argentine Republic,GPE,27731
+Armenia Aruba,PERSON,27731
+Australia,GPE,27731
+Commonwealth,GPE,27731
+Austria,GPE,27731
+Republic of Bahrain,ORG,27731
+Belgium,GPE,27731
+Kingdom of Belize Benin,ORG,27731
+People's Republic of Bermuda Bhutan,GPE,27731
+Kingdom of Bolivia,GPE,27731
+Republic of Bosnia,GPE,27731
+Botswana,GPE,27731
+Republic of Bouvet Island,ORG,27731
+Bouvetoya,GPE,27731
+Brazil,GPE,27731
+Federative Republic,GPE,27731
+British Virgin,GPE,27731
+Bulgaria,GPE,27731
+People's Republic of Burkina Faso Burundi,GPE,27731
+Republic of Cambodia,GPE,27731
+Kingdom of Cameroon,GPE,27731
+United Republic of Cape Verde,GPE,27731
+"Republic of Cayman Islands Central African Republic Chad,",ORG,27731
+Republic of Chile,ORG,27731
+Republic of China,ORG,27731
+People's Republic of Christmas Island,GPE,27731
+Colombia,GPE,27731
+Union of the Congo,ORG,27731
+Democratic Republic of Congo,GPE,27731
+People's Republic of Cook,GPE,27731
+Costa Rica,GPE,27731
+Ivory Coast,GPE,27731
+Republic Denmark,GPE,27731
+Kingdom of Djibouti,GPE,27731
+Republic of Dominica,GPE,27731
+Commonwealth,GPE,27731
+Ecuador,GPE,27731
+Republic of Egypt,GPE,27731
+Arab Republic,GPE,27731
+El Salvador,GPE,27731
+Republic of Equatorial Guinea,GPE,27731
+Republic of Eritrea,GPE,27731
+Estonia,GPE,27731
+Ethiopia,GPE,27731
+Malvinas,GPE,27731
+Fiji,GPE,27731
+Republic of the Fiji Islands Finland,ORG,27731
+Republic of France,GPE,27731
+French,NORP,27731
+French,NORP,27731
+Guiana,PERSON,27731
+French,NORP,27731
+Polynesia,GPE,27731
+Southern Territories Gabon,PRODUCT,27731
+Gabonese Republic Gambia,GPE,27731
+Georgia,GPE,27731
+Germany,GPE,27731
+Ghana,GPE,27731
+Republic of Gibraltar Greece,ORG,27731
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,27731
+Republic of Guinea,GPE,27731
+Revolutionary People's Rep'c,ORG,27731
+Guinea-Bissau,ORG,27731
+Republic of Heard,ORG,27731
+McDonald Islands Holy See,ORG,27731
+Vatican City State,GPE,27731
+Honduras,GPE,27731
+Republic of Hong Kong,GPE,27731
+Special Administrative Region of China,ORG,27731
+Hrvatska,PERSON,27731
+Croatia,GPE,27731
+Hungary,GPE,27731
+Hungarian People's Republic Iceland,PERSON,27731
+Republic of India,GPE,27731
+Republic of Indonesia,GPE,27731
+Republic of Iran,GPE,27731
+Islamic Republic of Iraq,GPE,27731
+Republic of Ireland,GPE,27731
+Israel,GPE,27731
+State of Italy,GPE,27731
+Italian,NORP,27731
+Japan,GPE,27731
+Jordan,GPE,27731
+Hashemite Kingdom of Kazakhstan,GPE,27731
+Republic of Kiribati,GPE,27731
+Republic of Korea,GPE,27731
+Democratic,NORP,27731
+Republic of Kuwait,ORG,27731
+Lao People's,PERSON,27731
+Latvia,GPE,27731
+Lebanon,GPE,27731
+Lebanese Republic Lesotho,GPE,27731
+Kingdom of Liberia,GPE,27731
+Lithuania Luxembourg,GPE,27731
+Special Administrative Region of China Macedonia,ORG,27731
+Yugoslav Republic of Madagascar,GPE,27731
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,27731
+Islamic Republic,GPE,27731
+Mayotte Micronesia,PERSON,27731
+Federated States,GPE,27731
+Moldova,GPE,27731
+Republic of Monaco,ORG,27731
+Principality,NORP,27731
+Morocco,GPE,27731
+Kingdom of Mozambique,ORG,27731
+Republic of Nepal,GPE,27731
+Netherlands,GPE,27731
+Kingdom,GPE,27731
+the New Caledonia New Zealand,ORG,27731
+Nicaragua,GPE,27731
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,27731
+Norway,GPE,27731
+Kingdom of Oman,GPE,27731
+Pakistan,GPE,27731
+Islamic Republic of,GPE,27731
+Occupied Panama,GPE,27731
+Republic of Peru,GPE,27731
+Republic of Philippines,GPE,27731
+Republic of the Pitcairn Island Poland,ORG,27731
+Polish,NORP,27731
+Republic Portugal,GPE,27731
+Portuguese Republic,GPE,27731
+Puerto Rico Qatar,GPE,27731
+State of Reunion Romania,ORG,27731
+Socialist Republic,GPE,27731
+Rwanda,GPE,27731
+Rwandese Republic Samoa,GPE,27731
+Independent State of San Marino,ORG,27731
+Republic of Sao Tome,ORG,27731
+Principe,GPE,27731
+Democratic Republic of Saudi Arabia,GPE,27731
+"Kingdom of Senegal, Republic of Serbia",GPE,27731
+Montenegro Seychelles,PERSON,27731
+Republic of Sierra Leone,ORG,27731
+Republic of Singapore,ORG,27731
+Republic of Slovakia,ORG,27731
+Slovak Republic,GPE,27731
+Slovenia Solomon Islands,GPE,27731
+Somalia,GPE,27731
+Somali Republic South Africa,GPE,27731
+Republic of South Georgia,GPE,27731
+Spain,GPE,27731
+Spanish,NORP,27731
+Sri Lanka,GPE,27731
+Democratic,NORP,27731
+Miquelon St. Vincent,PERSON,27731
+Democratic Republic,GPE,27731
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,27731
+Kingdom of Sweden,GPE,27731
+Kingdom of Switzerland,GPE,27731
+Swiss Confederation Syrian Arab Republic,ORG,27731
+Taiwan,GPE,27731
+China,GPE,27731
+Tanzania,GPE,27731
+United Republic of Thailand,GPE,27731
+Kingdom of Timor-Leste,GPE,27731
+Democratic Republic of Togo,GPE,27731
+Togolese Republic Tokelau,ORG,27731
+Tokelau,GPE,27731
+Tonga,GPE,27731
+Kingdom of Trinidad,ORG,27731
+Tobago,GPE,27731
+Republic of Tunisia,ORG,27731
+Republic of Turkey,GPE,27731
+Republic of Turkmenistan Turks,ORG,27731
+Uganda,GPE,27731
+Republic of Ukraine United Arab Emirates,GPE,27731
+United Kingdom of Great,GPE,27731
+Eastern Republic,GPE,27731
+Venezuela,GPE,27731
+Bolivarian Republic,GPE,27731
+Viet Nam,GPE,27731
+Socialist Republic,GPE,27731
+Yemen,GPE,27731
+Zambia,GPE,27731
+Republic of Zimbabwe,GPE,27731

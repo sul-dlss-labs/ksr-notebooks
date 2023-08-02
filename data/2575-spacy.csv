@@ -1,0 +1,15 @@
+text,label,fe_id
+yesterday,DATE,2575
+fourth,ORDINAL,2575
+Upper,GPE,2575
+Manhattan,GPE,2575
+About 4:15 p.m.,TIME,2575
+470,CARDINAL,2575
+Andres Abando,PERSON,2575
+37,DATE,2575
+Juan Carlos Sanchez Vasquez,PERSON,2575
+30,DATE,2575
+Manhattan,GPE,2575
+Abando,PERSON,2575
+Tina Kelley,PERSON,2575
+NYT,ORG,2575

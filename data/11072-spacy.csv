@@ -1,0 +1,35 @@
+text,label,fe_id
+Ezequiel Garcia,PERSON,11072
+45-year-old,DATE,11072
+Latino,PERSON,11072
+the U.S. Immigration and Customs Enforcement,ORG,11072
+"Thursday, Feb. 16",DATE,11072
+500,CARDINAL,11072
+West Ocean Boulevard,LOC,11072
+Long Beach,GPE,11072
+Los Angeles County,GPE,11072
+Garcia,PERSON,11072
+Kevin Kozak,PERSON,11072
+Garcia,PERSON,11072
+Thursday,DATE,11072
+evening,TIME,11072
+Kozak,GPE,11072
+51,DATE,11072
+second,ORDINAL,11072
+ICE,ORG,11072
+Los Angeles,GPE,11072
+six,CARDINAL,11072
+Garcia,PERSON,11072
+Kozak,PERSON,11072
+Garcia,PERSON,11072
+Kozak,ORG,11072
+today,DATE,11072
+ICE,ORG,11072
+Claude Arnold,PERSON,11072
+ICE,ORG,11072
+Los Angeles,GPE,11072
+first,ORDINAL,11072
+ICE,ORG,11072
+Paloma,NORP,11072
+Victoria Kim,PERSON,11072
+Andrew Blankstein,PERSON,11072

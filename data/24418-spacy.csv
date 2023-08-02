@@ -1,0 +1,24 @@
+text,label,fe_id
+46-year-old,DATE,24418
+Saturday night,TIME,24418
+Anaheim,ORG,24418
+"Sunday, June 24",DATE,24418
+5:36 p.m.,TIME,24418
+1000,CARDINAL,24418
+W. Lincoln Ave,PERSON,24418
+At least one,CARDINAL,24418
+Anaheim Police Sgt,WORK_OF_ART,24418
+Daron Wyatt,PERSON,24418
+A few minutes later,TIME,24418
+two,CARDINAL,24418
+Wyatt,PERSON,24418
+less than a minute,TIME,24418
+Narcan,ORG,24418
+CPR,ORG,24418
+Anaheim Fire & Rescue,ORG,24418
+first,ORDINAL,24418
+Taser,ORG,24418
+Orange County,GPE,24418
+Anaheim Police Homicide,ORG,24418
+Anaheim,ORG,24418
+Incident Review Team,ORG,24418

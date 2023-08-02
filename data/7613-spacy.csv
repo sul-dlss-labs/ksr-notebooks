@@ -1,0 +1,30 @@
+text,label,fe_id
+Saturday hours,TIME,7613
+second,ORDINAL,7613
+the South Side,LOC,7613
+Chicago,GPE,7613
+About 8:40 p.m.,TIME,7613
+Saturday,DATE,7613
+4400,CARDINAL,7613
+South Martin Luther King Jr. Drive,LOC,7613
+Bronzeville,GPE,7613
+Mark Payne,PERSON,7613
+the Independent Police Review Authority,ORG,7613
+Ahmad Hicks,PERSON,7613
+28,DATE,7613
+300,CARDINAL,7613
+East 71st Street,DATE,7613
+11:45 p.m.,TIME,7613
+Cook County,GPE,7613
+Hicks,ORG,7613
+Payne,ORG,7613
+second,ORDINAL,7613
+about 12:45 a.m.,TIME,7613
+today,DATE,7613
+West 65th,DATE,7613
+South Wood Streets,LOC,7613
+Woodlawn,GPE,7613
+Payne,ORG,7613
+The Independent Police Review Authority,ORG,7613
+Kim Profant,PERSON,7613
+Chicago Breaking News Center,ORG,7613

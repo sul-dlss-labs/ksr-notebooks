@@ -1,0 +1,73 @@
+Click Back Button to Return to Publication
+
+UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+
+�
+
+JULIE MARTIN, et al.,
+
+Defendant-Appellant,
+
+v. DOUG DISHONG, et al.,
+
+Defendants-Appellees,
+
+No. 02-1173, No. 02-1193
+
+�
+
+57 Fed. Appx. 153
+
+�
+
+December 5, 2002, Argued�
+
+January 30, 2003, Decided
+
+NOTICE: RULES OF THE FOURTH CIRCUIT COURT OF APPEALS MAY LIMIT CITATION TO UNPUBLISHED OPINIONS. PLEASE REFER TO THE RULES OF THE UNITED STATES COURT OF APPEALS FOR THIS CIRCUIT.
+
+PER CURIAM:
+
+�� Doug Dishong appeals an order of the district court denying his motion for summary judgment on grounds of qualified immunity. We affirm. n1
+
+�� I.
+
+��� On review of the grant or denial of a motion for summary judgment, we view the evidence in the light most favorable to the nonmoving party. See Suarez Corp. Indus. v. McGraw, 202 F.3d 676, 684 (4th Cir. 2000). Furthermore, because this is an interlocutory appeal from the denial of summary judgment and the order appealed from set forth the relevant facts, we must accept the facts as described in that order rather than conducting an independent review of the evidence. See�� Gray-Hopkins v. Prince George's County , 309 F.3d 224, 229-30 (4th Cir. 2002).
+
+�� As the district court explained, this case arises from the fatal shooting of Matthew Martin in April 2000. Before the shooting, a deputy sheriff in Georgetown County, South Carolina, observed Martin in a place that made her suspect he was planning to dump trash illegally. When she approached to investigate, Martin fled in his truck. A second deputy saw Martin about fifteen minutes later and began pursuing him. This vehicle chase culminated at an intersection where Dishong and another deputy had set up a roadblock.
+
+�� The deputies assert that when Martin reached the roadblock, he rammed Dishong's vehicle, backed up, collided with the vehicle again, backed up a second time, and then drove forward toward Dishong's vehicle once more. By contrast, Martin's wife (Plaintiff) alleges that Martin collided with� Dishong's vehicle accidentally and then tried to turn away from the roadblock. It is undisputed that Dishong fired several shots at Martin during these events, that the other two deputies fired at his tires, and that a shot fired by Dishong caused Martin's death.
+
+�� [*155] The parties offered conflicting evidence concerning the relative positions of Dishong and Martin at the moment when Dishong fired the fatal shot. Evidence presented by the defense placed Dishong next to his vehicle and in the path of Martin's on-coming truck. By contrast, Plaintiff offered evidence indicating that Dishong was safely inside his vehicle as Martin came toward it. Another scenario supported by Plaintiff's evidence placed Dishong behind his vehicle while Martin was attempting to drive away from the intersection.
+
+�� Plaintiff sued Dishong under 42 U.S.C.A. � 1983 (West Supp. 2002), alleging that he employed deadly force without justification. n2 On summary judgment, the district court ruled that Dishong was not entitled to qualified immunity because constitutional limitations on the use of force were clearly established at the time of the shooting and a reasonable jury could find that Dishong breached those limits by shooting at Martin without any reasonable fear that he was in danger. Dishong noted an immediate appeal from this order. See Mitchell v. Forsyth, 472 U.S. 511, 530, 86 L. Ed. 2d 411, 105 S. Ct. 2806 (1985).
+
+�� II.
+
+��� The use of deadly force against a fleeing suspect constitutes a seizure under the Fourth Amendment. See�� Tennessee v. Garner, 471 U.S. 1, 7, 85 L. Ed. 2d 1, 105 S. Ct. 1694 (1985); see also�� Graham v. Connor, 490 U.S. 386, 395, 104 L. Ed. 2d 443, 109 S. Ct. 1865 (1989) �(holding that the Fourth Amendment governs all claims alleging excessive force by law officers attempting to effect an arrest). The use of deadly force is permissible only when "it is necessary to prevent the [suspect's] escape and the officer has probable cause to believe that the suspect poses a significant threat of death or serious physical injury to the officer or others." Garner, 471 U.S. at 3. Expounding on this rule, the Supreme Court said, �"If the suspect threatens the officer with a weapon or there is probable cause to believe that he has committed a crime involving the infliction or threatened infliction of serious physical harm, deadly force may be used if necessary to prevent escape . . . ." Id. at 11.
+
+��� Garner thus approves the use of deadly force by a police officer against a fleeing suspect if the suspect (1) poses a threat to the officer, (2) poses a threat to others, or (3) has committed a serious violent crime.� Dishong claims that the third condition is met here because Martin's attempt to ram Dishong with his truck amounted to a potentially lethal assault; thus, Dishong was justified in using deadly force to prevent Martin's escape even if Martin was driving away from the roadblock when the fatal shot was fired. During summary judgment proceedings, however, Dishong emphasized the first Garner condition, claiming that deadly force was warranted because he was in imminent peril at the moment he fired the fatal shot. This was the only component of Garner discussed by the district court, and it is consequently the only aspect of Garner we will address. n3
+
+�� With our focus narrowed in this manner, we uphold the decision of the district court. As that court detailed in its order, the evidence in the summary judgment record would support different conclusions, depending on which evidence was believed [*156] by the trier of fact. One possible conclusion -- that Dishong was standing outside his vehicle and Martin was driving directly toward him at the moment the fatal shot was fired -- would support Dishong's assertion that he used deadly force to protect himself. But this assertion fails under other scenarios supported by other evidence, in which Dishong was safely inside or behind his vehicle. The district court correctly concluded that this dispute of fact precludes the entry of summary judgment based on the assertion that Dishong reasonably feared for his own safety when he fired the shot that killed Martin. See Fed. R. Civ. P. 56(c) (stating that summary judgment is appropriate if "there is no genuine issue as to any material fact").
+
+�� III.
+
+�� For the reasons stated above, we affirm the decision of the district court denying Dishong's motion for summary judgment.
+
+�� AFFIRMED
+
+FOOTNOTES:
+
+n1 Dishong's appeal (Case No. 02-1173) was consolidated with an appeal from the grant of summary judgment in favor of another Defendant (Case No. 02-1193). We dismiss the latter appeal for lack of jurisdiction. See�� Baird v. Palmer, 114 F.3d 39, 42-43 (4th Cir. 1997).
+
+�
+
+n2 Plaintiff's complaint named three other Defendants in addition to Dishong. Two were voluntarily dismissed from the suit; the third, Sheriff A. Lane Cribb, prevailed on his motion for summary judgment. Plaintiff appealed from the judgment in favor of Cribb, but that appeal has been dismissed. See supra note 1.
+
+�
+
+n3 We do not decide whether Dishong is entitled to summary judgment on the basis advanced here -- that he was preventing the escape of a dangerous criminal -- or on the ground that Martin's flight would have posed a danger to others.
+
+�
+
+Click Back Button to Return to Publication

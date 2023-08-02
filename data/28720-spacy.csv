@@ -1,0 +1,27 @@
+text,label,fe_id
+10-year-old,DATE,28720
+5-year-old,DATE,28720
+Wednesday,DATE,28720
+afternoon,TIME,28720
+two,CARDINAL,28720
+about 12:30 p.m.,TIME,28720
+8000,CARDINAL,28720
+South Halsted Street,GPE,28720
+Gresham,PERSON,28720
+80th Street,FAC,28720
+57-year-old,DATE,28720
+Halsted,FAC,28720
+80th Street,FAC,28720
+two,CARDINAL,28720
+Three,CARDINAL,28720
+Comer Children’s Hospital,ORG,28720
+10-year-old,DATE,28720
+5-year-old,DATE,28720
+43-year-old,DATE,28720
+57-year-old,DATE,28720
+University of Chicago Medical Center,ORG,28720
+The Civilian Office of Police Accountability,ORG,28720
+the Chicago Police Major Accidents Investigation Unit,ORG,28720
+Block Club Chicago,ORG,28720
+Chicago,GPE,28720
+Block Club,ORG,28720

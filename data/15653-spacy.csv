@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,15653
+Alabama,GPE,15653
+Alaska,GPE,15653
+Arizona,GPE,15653
+Arkansas,GPE,15653
+California,GPE,15653
+Colorado,GPE,15653
+Connecticut,GPE,15653
+Delaware,GPE,15653
+Florida,GPE,15653
+Georgia,GPE,15653
+Hawaii,GPE,15653
+Idaho,GPE,15653
+Indiana,GPE,15653
+Iowa,GPE,15653
+Kansas,GPE,15653
+Kentucky,GPE,15653
+Louisiana,GPE,15653
+Maine,GPE,15653
+Maryland,GPE,15653
+Massachusetts,GPE,15653
+Michigan,GPE,15653
+Minnesota,GPE,15653
+Mississippi,GPE,15653
+Missouri,GPE,15653
+Montana,GPE,15653
+Nebraska,GPE,15653
+Nevada,GPE,15653
+New Hampshire,GPE,15653
+New Jersey,GPE,15653
+Ohio,GPE,15653
+Oklahoma,GPE,15653
+Oregon,GPE,15653
+Pennsylvania,GPE,15653
+Rhode Island,GPE,15653
+Tennessee,GPE,15653
+Texas,GPE,15653
+Utah,GPE,15653
+Vermont,GPE,15653
+Virginia,GPE,15653
+Washington,GPE,15653
+Washington,GPE,15653
+D.C.,GPE,15653
+Wisconsin,GPE,15653
+Wyoming,GPE,15653
+US,GPE,15653
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,15653
+Marshall Islands American Samoa Federated States,ORG,15653
+Micronesia Guam,FAC,15653
+Alberta,GPE,15653
+Canada,GPE,15653
+British Columbia,GPE,15653
+Canada Manitoba,GPE,15653
+Canada,GPE,15653
+New Brunswick,GPE,15653
+Canada Newfoundland,PERSON,15653
+Canada,GPE,15653
+Canada,GPE,15653
+Canada Ontario,GPE,15653
+Canada,GPE,15653
+Edward Island,GPE,15653
+Canada Quebec,GPE,15653
+Canada,GPE,15653
+Saskatchewan,GPE,15653
+Canada Yukon Territory,ORG,15653
+Canada,GPE,15653
+Zip Code,PERSON,15653

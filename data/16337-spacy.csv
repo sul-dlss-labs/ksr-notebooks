@@ -1,0 +1,35 @@
+text,label,fe_id
+Neil Peter White,PERSON,16337
+38-year-old,DATE,16337
+Los Angeles,GPE,16337
+"Thursday, July 9",DATE,16337
+West 9th Street,GPE,16337
+Mid-Wilshire,ORG,16337
+Los Angeles County,GPE,16337
+About 8:40 a.m.,TIME,16337
+LAPD Wilshire Division,ORG,16337
+Wilshire Boulevard,FAC,16337
+La Brea Avenue,FAC,16337
+Andy Smith,PERSON,16337
+Smith,ORG,16337
+South Sycamore Avenue,LOC,16337
+Smith,ORG,16337
+Taser,GPE,16337
+Smith,ORG,16337
+Taser,ORG,16337
+Smith,ORG,16337
+Taser,ORG,16337
+Cedars-Sinai Medical Center,ORG,16337
+Smith,ORG,16337
+Sgt,PERSON,16337
+Frank Preciado,PERSON,16337
+LAPD,ORG,16337
+Preciado,PERSON,16337
+Patrick Comiskey,PERSON,16337
+Louie,PERSON,16337
+two,CARDINAL,16337
+Comiskey,GPE,16337
+54,DATE,16337
+Comiskey,PERSON,16337
+July 16,DATE,16337
+Stephan Shuff,LOC,16337

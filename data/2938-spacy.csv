@@ -1,0 +1,593 @@
+text,label,fe_id
+CLEVELAND,GPE,2938
+Ohio,GPE,2938
+The Nov. 29,DATE,2938
+2012,DATE,2938
+137,CARDINAL,2938
+13,CARDINAL,2938
+Cleveland,GPE,2938
+two,CARDINAL,2938
+Geoffrey Alpert,PERSON,2938
+the University of South Carolina,ORG,2938
+Alpert,PERSON,2938
+Cleveland,GPE,2938
+the past decade,DATE,2938
+2000,DATE,2938
+61,CARDINAL,2938
+32,CARDINAL,2938
+The Plain Dealer,ORG,2938
+January 2002 to February 2004,DATE,2938
+19,CARDINAL,2938
+10,CARDINAL,2938
+One,CARDINAL,2938
+James Simone,PERSON,2938
+12,CARDINAL,2938
+five,CARDINAL,2938
+40-year,DATE,2938
+2011,DATE,2938
+the U.S. Justice Department,ORG,2938
+second,ORDINAL,2938
+since 2000,DATE,2938
+FBI,ORG,2938
+2009,DATE,2938
+414,CARDINAL,2938
+2010,DATE,2938
+387,CARDINAL,2938
+Patrick D'Angelo,PERSON,2938
+the Cleveland Police Patrolmen's Association,ORG,2938
+D'Angelo,PERSON,2938
+2000-2014,DATE,2938
+"May 19, 2014:",DATE,2938
+Fleet Avenue,FAC,2938
+East 57th Street,DATE,2938
+one,CARDINAL,2938
+about 20 minutes later,TIME,2938
+"Dec. 10, 2013:",DATE,2938
+Robert Miles,PERSON,2938
+Xavier Hempstead,PERSON,2938
+Emery Avenue,FAC,2938
+Hempstead,PERSON,2938
+"Dec. 10, 2013:",DATE,2938
+John Lally,PERSON,2938
+Demarkos Simmons,PERSON,2938
+22,DATE,2938
+West 32nd Street,DATE,2938
+"July 26, 2013:",DATE,2938
+East 131st Street,GPE,2938
+"June 23, 2013:",DATE,2938
+Gregory Love,PERSON,2938
+29,DATE,2938
+Maple Heights,GPE,2938
+Vincent Montague Jr.,PERSON,2938
+the Warehouse District,LOC,2938
+Love,WORK_OF_ART,2938
+Oct. 2012,DATE,2938
+Roy Rudisill Jr.,PERSON,2938
+48,DATE,2938
+2-1/2 years,DATE,2938
+two,CARDINAL,2938
+four,CARDINAL,2938
+five,CARDINAL,2938
+Rudisill,PERSON,2938
+West 97th Street,DATE,2938
+"Sept. 12, 2012:",DATE,2938
+Just after midnight,TIME,2938
+Saturday,DATE,2938
+night,TIME,2938
+two,CARDINAL,2938
+East 93rd Street,GPE,2938
+Parmalee Avenue,FAC,2938
+one,CARDINAL,2938
+Patrolman Mark Worsencroft,PERSON,2938
+Randall Scott Jr.,PERSON,2938
+27-year-old,DATE,2938
+Cleveland City,GPE,2938
+Sabra Pierce Scott,PERSON,2938
+Randall Scott,PERSON,2938
+"Aug. 12, 2012:",DATE,2938
+Lisa,PERSON,2938
+Michael Maclin,PERSON,2938
+two,CARDINAL,2938
+East 140th Street,LOC,2938
+Rugby Avenue,FAC,2938
+Dirt,PERSON,2938
+Rottweiler,PERSON,2938
+Paul Baeppler,PERSON,2938
+two,CARDINAL,2938
+12-gauge,QUANTITY,2938
+third,ORDINAL,2938
+Lisa Maclin,PERSON,2938
+Maclins,ORG,2938
+Baeppler,ORG,2938
+Frank Jackson,PERSON,2938
+Michael McGrath,PERSON,2938
+at least $2.5 million,MONEY,2938
+"April 14, 2012:",DATE,2938
+two,CARDINAL,2938
+Clarence Bennet,FAC,2938
+30,DATE,2938
+three,CARDINAL,2938
+Bennet,ORG,2938
+"March 13, 2012",DATE,2938
+Four,CARDINAL,2938
+Willie Sudduth,PERSON,2938
+Cleveland,GPE,2938
+Gordon Holmes,PERSON,2938
+Thomas Barnes,PERSON,2938
+John Hall,PERSON,2938
+Michael Rasberry,PERSON,2938
+two,CARDINAL,2938
+East 93rd Street,FAC,2938
+Sudduth,ORG,2938
+Sudduth,GPE,2938
+"March 10, 2012:",DATE,2938
+Roger Jones,PERSON,2938
+Kenneth Smith,PERSON,2938
+20,DATE,2938
+Jones,PERSON,2938
+Bolivar Avenue,FAC,2938
+Jones,PERSON,2938
+Smith,GPE,2938
+Jones,PERSON,2938
+Smith,GPE,2938
+Smith,ORG,2938
+Jones,PERSON,2938
+This past April,DATE,2938
+Timothy J. McGinty,PERSON,2938
+Jones,PERSON,2938
+Cleveland,GPE,2938
+"Jan. 6, 2012:",DATE,2938
+24-year-old,DATE,2938
+Lexington,GPE,2938
+Ky.,GPE,2938
+Naumann Avenue,FAC,2938
+three,CARDINAL,2938
+Kentucky,GPE,2938
+"Sept. 6, 2011",DATE,2938
+Five,CARDINAL,2938
+Donald Rodgers,PERSON,2938
+39,DATE,2938
+West 37th Street,DATE,2938
+35-year-old,DATE,2938
+Anthony Espada,PERSON,2938
+Mathias Varga,PERSON,2938
+Michael Rinkus,PERSON,2938
+Brian Middaugh,PERSON,2938
+Thomas Magyar,PERSON,2938
+Rodgers,PERSON,2938
+"July 29, 2011",DATE,2938
+Illuminado Lopez,PRODUCT,2938
+44,DATE,2938
+Cleveland,GPE,2938
+West 52nd Street,DATE,2938
+Taser,GPE,2938
+"July 4, 2011",DATE,2938
+Daniel Ficker,PERSON,2938
+27,DATE,2938
+Cleveland,GPE,2938
+David Mindek,PERSON,2938
+Mindek,ORG,2938
+Ficker,ORG,2938
+"8,000",MONEY,2938
+Ficker,PERSON,2938
+Matthew Craska,PERSON,2938
+Ficker,ORG,2938
+Parma,GPE,2938
+Craska,GPE,2938
+Ficker,PRODUCT,2938
+Craska,GPE,2938
+Ficker,ORG,2938
+"May 26, 2011:",DATE,2938
+Two,CARDINAL,2938
+Wendy,ORG,2938
+Pearl Road,FAC,2938
+four,CARDINAL,2938
+21-year-old,DATE,2938
+"April 8, 2011:",DATE,2938
+Walter Thomas,PERSON,2938
+Aron Jones,PERSON,2938
+32,DATE,2938
+Libations Bar at East 91st Street,WORK_OF_ART,2938
+Aetna Road,FAC,2938
+Thomas,PERSON,2938
+Thomas,PERSON,2938
+Jones,PERSON,2938
+Jones,PERSON,2938
+Thomas,PERSON,2938
+Thomas,PERSON,2938
+three,CARDINAL,2938
+Jones,PERSON,2938
+"April 18, 2011:",DATE,2938
+Leon James,PERSON,2938
+23,DATE,2938
+East Side,LOC,2938
+four,CARDINAL,2938
+Lloyd Davis,ORG,2938
+58,DATE,2938
+"Sept. 30, 2010",DATE,2938
+Danny Withers Jr.,PERSON,2938
+21,DATE,2938
+East 125th Street,LOC,2938
+Daniel Zola,PERSON,2938
+Fifth Third Bank,ORG,2938
+five days earlier,DATE,2938
+"Sept. 3, 2010",DATE,2938
+Byron Carner,ORG,2938
+43,DATE,2938
+Whitcomb Road,WORK_OF_ART,2938
+Carner,ORG,2938
+Carner,ORG,2938
+"June 10, 2010",DATE,2938
+Germaine Ware,ORG,2938
+24,DATE,2938
+East 134th Street,LOC,2938
+Glenside Road,FAC,2938
+Ware,ORG,2938
+"Dec. 23, 2009:",DATE,2938
+Aaron Petitt,PERSON,2938
+29-year-old,DATE,2938
+Cleveland,GPE,2938
+Signet Avenue,FAC,2938
+second,ORDINAL,2938
+"Aug. 19, 2009:",DATE,2938
+West 40th Street,DATE,2938
+Two,CARDINAL,2938
+two,CARDINAL,2938
+one,CARDINAL,2938
+two,CARDINAL,2938
+"May 22, 2009:",DATE,2938
+Kinsman Road,FAC,2938
+One,CARDINAL,2938
+Cory Dix,PERSON,2938
+22,DATE,2938
+"April 15, 2009:",DATE,2938
+Two,CARDINAL,2938
+Kevin Jackson,PERSON,2938
+28,DATE,2938
+East 128th Street,LOC,2938
+Woodside Avenue,FAC,2938
+Jackson,PERSON,2938
+Jackson,PERSON,2938
+Jackson,PERSON,2938
+"Nov. 12, 2008",DATE,2938
+Kameron Brown,PERSON,2938
+19,DATE,2938
+Brown,PERSON,2938
+the Riverside Estates on,FAC,2938
+Rocky River Drive,LOC,2938
+Brown,PERSON,2938
+Brown,PERSON,2938
+five,CARDINAL,2938
+"Sept. 10, 2008",DATE,2938
+Gatha Dye III,PERSON,2938
+21,DATE,2938
+Martin Luther King Jr. Drive,PERSON,2938
+17-year-old,DATE,2938
+Dye,PERSON,2938
+Dye,PERSON,2938
+"July 9, 2008",DATE,2938
+Patrolman James Simone,PERSON,2938
+Robert Hackworth,PERSON,2938
+35,DATE,2938
+fifth,ORDINAL,2938
+Simone,PERSON,2938
+12th,ORDINAL,2938
+40-year,DATE,2938
+Simone,PERSON,2938
+Fulton Road,ORG,2938
+Hackworth,PERSON,2938
+Simone,PERSON,2938
+Hackworth,PERSON,2938
+West 52nd Street,GPE,2938
+Hackworth,PERSON,2938
+"May 28, 2008",DATE,2938
+Two,CARDINAL,2938
+Darrell Workman Jr.,PERSON,2938
+31,DATE,2938
+East 47th Street,LOC,2938
+Workman,PERSON,2938
+One,CARDINAL,2938
+three,CARDINAL,2938
+Workman,PERSON,2938
+the previous week,DATE,2938
+marijuana,PERSON,2938
+"March 1, 2008",DATE,2938
+Johnny Nelson,PERSON,2938
+24,DATE,2938
+Dudley Avenue,FAC,2938
+one,CARDINAL,2938
+Nelson,PERSON,2938
+Nelson,PERSON,2938
+two,CARDINAL,2938
+three,CARDINAL,2938
+"Jan. 13, 2008",DATE,2938
+Raymond Herring,PERSON,2938
+40,DATE,2938
+Skeet's,FAC,2938
+VSP Lounge,ORG,2938
+East 93rd Street,DATE,2938
+One,CARDINAL,2938
+nine,CARDINAL,2938
+"Dec. 29, 2007:",DATE,2938
+West 47th Street,DATE,2938
+two,CARDINAL,2938
+"May 8, 2007:",DATE,2938
+Aaron Steele,PERSON,2938
+23,DATE,2938
+Steele,PERSON,2938
+Patrolman Robert Miles,PERSON,2938
+Detective Todd Staimpel,PERSON,2938
+William Van Verth,PERSON,2938
+"April 3, 2007:",DATE,2938
+Two,CARDINAL,2938
+22-year-old,DATE,2938
+Cleveland,GPE,2938
+Superior Avenue,FAC,2938
+waistband,GPE,2938
+"March 23, 2007:",DATE,2938
+Lexington Village,GPE,2938
+East 79th Street,DATE,2938
+Angelo Miller,PERSON,2938
+17,DATE,2938
+John Lundy,PERSON,2938
+at least five,CARDINAL,2938
+Miller,ORG,2938
+One,CARDINAL,2938
+Miller,PERSON,2938
+Lundy,PERSON,2938
+"Aug. 25, 2006:",DATE,2938
+Patrolmen Robert Nagy,PERSON,2938
+Anthony Lipinski,PERSON,2938
+West 143rd Street,LOC,2938
+Charles Pasek Jr.,PERSON,2938
+40,DATE,2938
+Nagy,PERSON,2938
+three,CARDINAL,2938
+"March 23, 2006",DATE,2938
+Three,CARDINAL,2938
+Hosea Williams,PERSON,2938
+23,DATE,2938
+.380,CARDINAL,2938
+East 79th Street,DATE,2938
+Williams,PERSON,2938
+9-1-1,CARDINAL,2938
+Williams,PERSON,2938
+Williams,PERSON,2938
+Five,CARDINAL,2938
+Williams,PERSON,2938
+"Dec. 11, 2005",DATE,2938
+Angelo Ferguson,PERSON,2938
+18,DATE,2938
+two,CARDINAL,2938
+East 141st Street,LOC,2938
+at least four,CARDINAL,2938
+Patrolmen Brian Carney,PERSON,2938
+Reginald Beddard,PERSON,2938
+Ferguson,ORG,2938
+"Oct. 20, 2005",DATE,2938
+Patrolman Alvin Gulley,PERSON,2938
+City Council,ORG,2938
+Frank Jackson,PERSON,2938
+Memorial Elementary School,ORG,2938
+at least three,CARDINAL,2938
+David Crenshaw,PERSON,2938
+33,DATE,2938
+two,CARDINAL,2938
+"Sept. 30, 2005",DATE,2938
+Blenheim Road,GPE,2938
+Laray Renshaw,PERSON,2938
+36,DATE,2938
+Patrolman John Franko,PERSON,2938
+Renshaw,PERSON,2938
+Franko,PERSON,2938
+Renshaw,ORG,2938
+four,CARDINAL,2938
+Renshaw,ORG,2938
+"Sept. 23, 2005",DATE,2938
+Graig Wilson,PERSON,2938
+36,DATE,2938
+Three,CARDINAL,2938
+Lorain Avenue,FAC,2938
+West 117th Street,LOC,2938
+Wilson,ORG,2938
+"Sept. 1, 2005",DATE,2938
+Two,CARDINAL,2938
+at least 10,CARDINAL,2938
+15-year-old,DATE,2938
+Brandon McCloud,PERSON,2938
+John Kraynik,PERSON,2938
+Philip Habeeb,PERSON,2938
+"April 29, 2004",DATE,2938
+Reginald Smith,PERSON,2938
+Arlington Wilson Jr.,PERSON,2938
+21,DATE,2938
+East 146th Street,LOC,2938
+St. Clair Avenue,FAC,2938
+Pepper Avenue,FAC,2938
+"March 3, 2004",DATE,2938
+Eren Beyah,PERSON,2938
+27,DATE,2938
+SWAT,ORG,2938
+11-hour,TIME,2938
+9mm,QUANTITY,2938
+William Johnson,PERSON,2938
+at least seven,CARDINAL,2938
+the following week,DATE,2938
+Florida,GPE,2938
+"Jan. 18, 2004",DATE,2938
+East 154th Street,LOC,2938
+two,CARDINAL,2938
+Brandon Robinson,PERSON,2938
+24,DATE,2938
+Timothy Clark,PERSON,2938
+Robinson,PERSON,2938
+Clark,PERSON,2938
+"Nov. 14, 2003",DATE,2938
+Two,CARDINAL,2938
+Stanley Strnad's,ORG,2938
+East 185th Street,FAC,2938
+North Collinwood,GPE,2938
+Strnad,NORP,2938
+26,DATE,2938
+Daniel Jopek,PERSON,2938
+Martin Rudin,PERSON,2938
+Strnad,NORP,2938
+East 156th,NORP,2938
+Parkgrove Avenue,FAC,2938
+Strnad ran,PERSON,2938
+Jopek,PERSON,2938
+five,CARDINAL,2938
+four,CARDINAL,2938
+Strnad,NORP,2938
+Jopek,PERSON,2938
+Strnad,NORP,2938
+Strnad,PERSON,2938
+Jopek,PERSON,2938
+Jopek,PERSON,2938
+Jopek,PERSON,2938
+Rudin,PERSON,2938
+2002,DATE,2938
+"Oct. 23, 2003",DATE,2938
+three,CARDINAL,2938
+Bruce Garner,PERSON,2938
+Edwin Diaz,PERSON,2938
+34,DATE,2938
+Diaz,PERSON,2938
+three,CARDINAL,2938
+10 years,DATE,2938
+"Aug. 13, 2003:",DATE,2938
+Jimmie Jones,PERSON,2938
+38,DATE,2938
+East 93rd Street,GPE,2938
+Jones,PERSON,2938
+Jones,PERSON,2938
+"July 29, 2003",DATE,2938
+West 98th Street,DATE,2938
+Madison Avenue,FAC,2938
+Kyle Banks,PERSON,2938
+25,DATE,2938
+Patrolman Mickey Mondock,PERSON,2938
+Banks,PERSON,2938
+"Jan. 9, 2003",DATE,2938
+Michael Ciacchi,PERSON,2938
+38,DATE,2938
+Valley View,FAC,2938
+Cleveland,GPE,2938
+about three hours,TIME,2938
+Stickney Avenue,FAC,2938
+Brooklyn,GPE,2938
+One,CARDINAL,2938
+James Simone,PERSON,2938
+"Aug. 27, 2002",DATE,2938
+Two,CARDINAL,2938
+West 85th Street,GPE,2938
+Patrolman Robert Taylor,PERSON,2938
+Ricardo Mason,ORG,2938
+16,DATE,2938
+Patrolman Matthew Baeppler,PERSON,2938
+Malcolm Hoyle,PERSON,2938
+16,DATE,2938
+$1 million,MONEY,2938
+Mason,ORG,2938
+Hoyle,PERSON,2938
+Ricardo,PERSON,2938
+"Aug. 8, 2002",DATE,2938
+Two,CARDINAL,2938
+Jeffrey Hopkins,PERSON,2938
+23,DATE,2938
+Detroit Avenue,FAC,2938
+Hopkins to Public Square,ORG,2938
+Hopkins,PERSON,2938
+PCP,ORG,2938
+Michael Schmitt,PERSON,2938
+Schmitt,PERSON,2938
+Donald Finau,PERSON,2938
+Hopkins,ORG,2938
+four,CARDINAL,2938
+Schmitt,PERSON,2938
+"June 28, 2002",DATE,2938
+Patrolman James Toomey,PERSON,2938
+Joseph Pearly Finley,PERSON,2938
+20,CARDINAL,2938
+15,CARDINAL,2938
+Finley,GPE,2938
+"June 6, 2002",DATE,2938
+Daniel Jopek,PERSON,2938
+Martin Rudin,PERSON,2938
+Stephon Keith Moore,WORK_OF_ART,2938
+39,DATE,2938
+Lake Shore Boulevard,FAC,2938
+Moore,ORG,2938
+Moore,ORG,2938
+"250,000",MONEY,2938
+"Jan. 26, 2002",DATE,2938
+Two,CARDINAL,2938
+Lee Avenue,FAC,2938
+Craig Bickerstaff,PERSON,2938
+27,DATE,2938
+318-pound,QUANTITY,2938
+Bickerstaff,GPE,2938
+Cleveland,GPE,2938
+"Jan. 15, 2002",DATE,2938
+Two,CARDINAL,2938
+East 176th Street,LOC,2938
+Harvard,ORG,2938
+Lee,PERSON,2938
+Jermaine Sanders,PERSON,2938
+25,DATE,2938
+John Patton,PERSON,2938
+Walter Thomas,PERSON,2938
+Patton,GPE,2938
+Thomas,PERSON,2938
+2011,DATE,2938
+"Dec. 6, 2001",DATE,2938
+Patrolman Edward Lentz,PERSON,2938
+Jane Campbell,PERSON,2938
+Shaker Square,FAC,2938
+Chevrolet,ORG,2938
+wagon,ORG,2938
+12-year-old,DATE,2938
+Lorenzo Locklear,PERSON,2938
+Lentz,PERSON,2938
+14,CARDINAL,2938
+Lorenzo,PERSON,2938
+Lorenzo,PERSON,2938
+Lorenzo,PERSON,2938
+Lentz,PERSON,2938
+"800,000",MONEY,2938
+"Aug. 22, 2001",DATE,2938
+Daniel Harris,PERSON,2938
+47,DATE,2938
+East 131st Street,GPE,2938
+Harris,PERSON,2938
+10-minute,TIME,2938
+Harris,PERSON,2938
+One,CARDINAL,2938
+Harris,PERSON,2938
+Harris,PERSON,2938
+"June 19, 2001",DATE,2938
+Trevon Williams,PERSON,2938
+6,DATE,2938
+East 149th Street,LOC,2938
+Collinwood,GPE,2938
+9-mm,QUANTITY,2938
+Michael Meyer,PERSON,2938
+Jimmy Nelson,PERSON,2938
+Trevon,PERSON,2938
+Meyer,ORG,2938
+$1.9 million,MONEY,2938
+"Dec. 2, 2000",DATE,2938
+the West Bank,GPE,2938
+Charles Gadison,PERSON,2938
+22,DATE,2938
+Shaker Heights,GPE,2938
+Keith Campbell,PERSON,2938
+Michael Bentley,PERSON,2938
+Francis Santell,PERSON,2938
+David Siefer,PERSON,2938
+Gadison,PERSON,2938
+"Oct. 18, 2000",DATE,2938
+East 153rd Street,GPE,2938
+Sunview Avenue,FAC,2938
+Marsean Scott,PERSON,2938
+19,DATE,2938

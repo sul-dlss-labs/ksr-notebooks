@@ -1,0 +1,20 @@
+text,label,fe_id
+Bronx,GPE,22317
+31-year-old,DATE,22317
+first,ORDINAL,22317
+NYPD,ORG,22317
+Bronx,GPE,22317
+first,ORDINAL,22317
+New York City,GPE,22317
+Pratt Avenue,FAC,22317
+Wednesday,DATE,22317
+Carlos Gomez,PERSON,22317
+several minutes,TIME,22317
+Gomez,PERSON,22317
+One,CARDINAL,22317
+two,CARDINAL,22317
+NYPD,ORG,22317
+April,DATE,22317
+Washington Heights,GPE,22317
+NYPD,ORG,22317
+James O'Neill,PERSON,22317

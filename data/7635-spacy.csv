@@ -1,0 +1,46 @@
+text,label,fe_id
+Kansas Highway Patrol,ORG,7635
+Wichita,GPE,7635
+last year,DATE,7635
+two,CARDINAL,7635
+Nov. 15,DATE,7635
+24-year-old,DATE,7635
+Jennifer Stilley,PERSON,7635
+Stilley,ORG,7635
+Chevrolet Cobalt,PERSON,7635
+a Buick Century,LOC,7635
+43-year-old,DATE,7635
+Mia Alberson,PERSON,7635
+Alberson,PERSON,7635
+Peggy King,PERSON,7635
+44,DATE,7635
+Alberson,PERSON,7635
+Teresa Phillips,PERSON,7635
+45,DATE,7635
+Alberson,PERSON,7635
+15 mph,QUANTITY,7635
+About six second,TIME,7635
+an estimated 90 mph,QUANTITY,7635
+29-year-old,DATE,7635
+Joseph Batemon,PERSON,7635
+Stilley,PERSON,7635
+Trooper,NORP,7635
+Eric Molleker,PERSON,7635
+Batemon,PERSON,7635
+Highway Patrol,FAC,7635
+Stilley,PERSON,7635
+Maj,PERSON,7635
+Alan Stoecklein,PERSON,7635
+83 mph,QUANTITY,7635
+60 mile,QUANTITY,7635
+Molleker,PERSON,7635
+Stilley,ORG,7635
+Interstate 135,FAC,7635
+Stoecklein,PERSON,7635
+Stilley,PERSON,7635
+Alberson,PERSON,7635
+Autopsy,PRODUCT,7635
+Stilley,ORG,7635
+0.18,CARDINAL,7635
+Alberson,PERSON,7635
+0.15,CARDINAL,7635

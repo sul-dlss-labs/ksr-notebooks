@@ -1,0 +1,44 @@
+text,label,fe_id
+"late Tuesday, July 31",DATE,11644
+the Police Department,ORG,11644
+Rudy L. Arias,PERSON,11644
+27,DATE,11644
+Hemet,ORG,11644
+about 6 a.m.,TIME,11644
+Wednesday,DATE,11644
+Riverside County,GPE,11644
+seven hours earlier,TIME,11644
+Hemet,ORG,11644
+two,CARDINAL,11644
+the Hemet Police Department,ORG,11644
+Riverside County,GPE,11644
+Arias,ORG,11644
+Riverside County,GPE,11644
+David Haar,PERSON,11644
+Arias,PERSON,11644
+San Jacinto,GPE,11644
+4:15 p.m.,TIME,11644
+"Monday, July 30",DATE,11644
+about 11:10 p.m.,TIME,11644
+"Tuesday, July 31",DATE,11644
+200,CARDINAL,11644
+East Florida Avenue,LOC,11644
+Duane Wisehart,PERSON,11644
+two,CARDINAL,11644
+100,CARDINAL,11644
+West Kimball Avenue,LOC,11644
+as many as 10,CARDINAL,11644
+two,CARDINAL,11644
+Ellen Ellis,PERSON,11644
+67,DATE,11644
+Malik Black,PERSON,11644
+14,DATE,11644
+Malik,PERSON,11644
+Ellis,PERSON,11644
+Kim Ochoa,PERSON,11644
+second,ORDINAL,11644
+third,ORDINAL,11644
+seconds,TIME,11644
+Florida Avenue,FAC,11644
+State Street,FAC,11644
+The Hemet PD,WORK_OF_ART,11644

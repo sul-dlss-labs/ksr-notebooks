@@ -1,0 +1,3 @@
+Follow along with the video below to see how to install our site as a web app on your home screen.
+
+Note: This feature currently requires accessing the site using the built-in Safari browser.

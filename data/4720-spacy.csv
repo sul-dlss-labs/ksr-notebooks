@@ -1,0 +1,33 @@
+text,label,fe_id
+Chicago,GPE,4720
+Tuesday,DATE,4720
+night,TIME,4720
+56-year-old,DATE,4720
+two,CARDINAL,4720
+63rd Street,FAC,4720
+St. Lawrence Avenue,FAC,4720
+11 p.m.,TIME,4720
+Monique Bond,PERSON,4720
+Chevy,ORG,4720
+Blazer,PRODUCT,4720
+Betty Salters,PERSON,4720
+three,CARDINAL,4720
+5600,CARDINAL,4720
+South Calumet Avenue,LOC,4720
+1989,DATE,4720
+Blazer,PRODUCT,4720
+Cameron Jackson,PERSON,4720
+24,DATE,4720
+Jackson,PERSON,4720
+Illinois,GPE,4720
+state,ORG,4720
+Beth Kaufman,PERSON,4720
+state,ORG,4720
+Kaufman,PERSON,4720
+Jackson,PERSON,4720
+oneElevated,ORG,4720
+63rd Street,FAC,4720
+Chicago Housing Authority,ORG,4720
+three,CARDINAL,4720
+Advocate Christ Medical Center,ORG,4720
+Oak Lawn,GPE,4720

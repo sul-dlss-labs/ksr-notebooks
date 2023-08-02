@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,24061
+Alabama,GPE,24061
+Alaska,GPE,24061
+Arizona,GPE,24061
+Arkansas,GPE,24061
+California,GPE,24061
+Colorado,GPE,24061
+Connecticut,GPE,24061
+Delaware,GPE,24061
+Florida,GPE,24061
+Georgia,GPE,24061
+Hawaii,GPE,24061
+Idaho,GPE,24061
+Indiana,GPE,24061
+Iowa,GPE,24061
+Kansas,GPE,24061
+Kentucky,GPE,24061
+Louisiana,GPE,24061
+Maine,GPE,24061
+Maryland,GPE,24061
+Massachusetts,GPE,24061
+Michigan,GPE,24061
+Minnesota,GPE,24061
+Mississippi,GPE,24061
+Missouri,GPE,24061
+Montana,GPE,24061
+Nebraska,GPE,24061
+Nevada,GPE,24061
+New Hampshire,GPE,24061
+New Jersey,GPE,24061
+Ohio,GPE,24061
+Oklahoma,GPE,24061
+Oregon,GPE,24061
+Pennsylvania,GPE,24061
+Rhode Island,GPE,24061
+Tennessee,GPE,24061
+Texas,GPE,24061
+Utah,GPE,24061
+Vermont,GPE,24061
+Virginia,GPE,24061
+Washington,GPE,24061
+Washington,GPE,24061
+D.C.,GPE,24061
+Wisconsin,GPE,24061
+Wyoming,GPE,24061
+US,GPE,24061
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,24061
+Marshall Islands American Samoa Federated States,ORG,24061
+Micronesia Guam,FAC,24061
+Alberta,GPE,24061
+Canada,GPE,24061
+British Columbia,GPE,24061
+Canada Manitoba,GPE,24061
+Canada,GPE,24061
+New Brunswick,GPE,24061
+Canada Newfoundland,PERSON,24061
+Canada,GPE,24061
+Canada,GPE,24061
+Canada Ontario,GPE,24061
+Canada,GPE,24061
+Edward Island,GPE,24061
+Canada Quebec,GPE,24061
+Canada,GPE,24061
+Saskatchewan,GPE,24061
+Canada Yukon Territory,ORG,24061
+Canada,GPE,24061
+Zip Code,PERSON,24061

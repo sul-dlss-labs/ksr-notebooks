@@ -1,0 +1,26 @@
+text,label,fe_id
+The Denver Office of the Medical Examiner,ORG,26703
+Monday,DATE,26703
+last week,DATE,26703
+40-mile,QUANTITY,26703
+Interstate 70,FAC,26703
+Andy Escobar,PERSON,26703
+18,DATE,26703
+Escobar,ORG,26703
+Strasburg,GPE,26703
+Thursday,DATE,26703
+Arapahoe County,GPE,26703
+Escobar,ORG,26703
+I-70,GPE,26703
+100 mph,QUANTITY,26703
+Escobar,ORG,26703
+I-70,GPE,26703
+Washington Street,FAC,26703
+Denver,GPE,26703
+Denver,GPE,26703
+Escobar,ORG,26703
+Denver Health,ORG,26703
+I-70,GPE,26703
+Interstate 270,FAC,26703
+Washington Street,FAC,26703
+nearly six hours,TIME,26703

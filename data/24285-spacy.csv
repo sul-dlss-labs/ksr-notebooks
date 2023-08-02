@@ -1,0 +1,28 @@
+text,label,fe_id
+Leslie Salazar,PERSON,24285
+20,DATE,24285
+June,DATE,24285
+AUSTIN,GPE,24285
+Texas,GPE,24285
+Travis County,GPE,24285
+Tuesday,DATE,24285
+last summer,DATE,24285
+Margaret Moore,PERSON,24285
+Thomas Brown,PERSON,24285
+Moore,ORG,24285
+"the early hours of June 7, 2018",TIME,24285
+South Glenn Street,GPE,24285
+911,CARDINAL,24285
+Leslie Salazar,PERSON,24285
+Salazar,ORG,24285
+one,CARDINAL,24285
+Officer Brown,PERSON,24285
+around the end of the,DATE,24285
+Officer Brown,PERSON,24285
+Officer Brown,PERSON,24285
+two,CARDINAL,24285
+Brown,PERSON,24285
+three,CARDINAL,24285
+three,CARDINAL,24285
+first,ORDINAL,24285
+3 a.m.,TIME,24285

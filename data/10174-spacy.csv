@@ -1,0 +1,40 @@
+text,label,fe_id
+30-year-old,DATE,10174
+this week,DATE,10174
+last May,DATE,10174
+today,DATE,10174
+about 1:30 a.m.,TIME,10174
+"May 11, 2011",DATE,10174
+two,CARDINAL,10174
+two,CARDINAL,10174
+3101,DATE,10174
+one,CARDINAL,10174
+FOP,ORG,10174
+Pat Camden,PERSON,10174
+two,CARDINAL,10174
+Camden,GPE,10174
+One,CARDINAL,10174
+nearly five-hour,TIME,10174
+second,ORDINAL,10174
+Mario Jones,PERSON,10174
+30,DATE,10174
+10000,CARDINAL,10174
+South Normal Avenue,GPE,10174
+Jones,PERSON,10174
+about 10:15 p.m.,TIME,10174
+Tuesday,DATE,10174
+9500,CARDINAL,10174
+South Halsted Street,GPE,10174
+Office of News Affairs,ORG,10174
+Friday,DATE,10174
+Jeff Wilson,PERSON,10174
+30,DATE,10174
+10000,CARDINAL,10174
+South Normal Avenue,GPE,10174
+from 2005,DATE,10174
+Illinois Department of Corrections,ORG,10174
+May 11,DATE,10174
+Wilson,ORG,10174
+Big Muddy Correctional Center,ORG,10174
+"October, 2010",DATE,10174
+Wilson,ORG,10174

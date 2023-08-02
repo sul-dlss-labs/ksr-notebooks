@@ -1,0 +1,125 @@
+Appeal from the Circuit Court for Lincoln County
+
+No. 2013CV92
+
+Franklin L. Russell, Judge Plaintiffs, on behalf of themselves and a deceased family member, sued the City of Fayetteville and others for wrongful death and personal injuries resulting from an automobile accident involving a stolen police car. Plaintiffs alleged a police officer negligently failed to secure a suspect after placing her in the police car. The suspect then stole the police car, drove away at a high rate of speed, and collided with the plaintiffs' vehicle. The City moved to dismiss on the grounds that it was immune from suit based upon the public interest doctrine, and the trial court granted the motion. We affirm the dismissal.
+
+Tenn. R. App. 3 Appeal as of Right; Judgment of the Circuit Court Affirmed
+
+W. NEAL MCBRAYER, J., delivered the opinion of the Court, in which FRANK G. CLEMENT, JR., P.J., M.S., and ANDY D. BENNETT, J., joined. Blair Durham and Michael B. Schwegler, Nashville, Tennessee, for the appellants, Gavin Holt, Destany Holt, Devin Gooding, Deanna Gooding, Henry Holt, Sr., Henry Holt, Jr., Monica M. Gooding, Jeffrey Gooding, and Windy Wallace. Kristin Ellis Berexa and Laura Adams Hight, Nashville, Tennessee, for the appellees, City of Fayetteville and Fayetteville Police Department.
+
+OPINION
+
+I. FACTUAL AND PROCEDURAL BACKGROUND
+
+Henry Holt Sr., by next friends Monica Gooding and Henry Holt, Jr.; Monica and Jeffrey Gooding, both individually and on behalf of their minor children, Devin Gooding, Deanna Gooding, and Destany Holt; and Gavin Holt, by next friend Windy Wallace, ("Plaintiffs") filed suit against the City of Fayetteville ("City"), the Fayetteville Police Department and John Doe Police Officer ("Police Officer"), seeking recovery for injuries incurred in a tragic automobile accident. On August 31, 2013, Police Officer arrested Misty Shelton and placed her in his police car. Plaintiffs alleged Police Officer "did not follow the correct and proper procedures when arresting Defendant Misty Shelton and did not properly restrain her and take her into custody." Thereafter, Shelton stole the police car and, while driving at a high rate of speed, collided with the vehicle occupied by Henry Holt, Sr., Destany Holt, Monica Gooding, Devin Gooding, and Deanna Gooding. As a result of this collision, Henry Holt Sr. died, and Monica Gooding, Devin Gooding, and Destany Holt suffered severe injuries.
+
+Plaintiffs subsequently filed two amended complaints: one adding Misty Shelton as a defendant and one adding additional plaintiffs. The allegations against the city remained the same in all three complaints.
+
+The City is a duly constituted municipal corporation of the State of Tennessee. It is undisputed that, at all times relevant to the complaint, Police Officer was an employee of the City and was acting in the course of his employment. The City raised the defense of sovereign immunity in its answer and subsequently moved to dismiss under Rule 12.02(6) of the Tennessee Rules of Civil Procedure, asserting the City was immune under the Tennessee Governmental Tort Liability Act ("GTLA") and the public duty doctrine. In response to the motion, Plaintiffs argued the GTLA removed the City's immunity for injuries incurred from negligent operation of a motor vehicle and from the negligent act of an employee. After a hearing, the trial court granted the City's motion to dismiss, finding that, although the GTLA removed immunity for negligent acts of employees, Plaintiffs' claims against the City were barred by the public duty doctrine. The court certified the order was final on October 22, 2014. Plaintiffs timely filed their notice of appeal.
+
+II. ANALYSIS
+
+A. STANDARD OF REVIEW
+
+In evaluating a Rule 12.02(6) motion to dismiss, the court reviews the pleadings to determine whether the plaintiff has stated a claim upon which relief may be granted. Tenn. R. Civ. P. 12.02(6). By filing a Rule 12.02(6) motion, the defendant is challenging the legal sufficiency of the plaintiff's claim, not the evidence. Webb v. Nashville Area Habitat for Humanity, Inc., 346 S.W.3d 422, 426 (Tenn. 2011). Thus, the court "must construe the complaint liberally, presuming all factual allegations to be true and giving the plaintiff the benefit of all reasonable inferences." Id. (quoting Tigg v. Pirelli Tire Corp., 232 S.W.3d 28, 31-32 (Tenn. 2007)). The court should only grant a motion to dismiss if "the plaintiff can prove no set of facts in support of the claim that would entitle the plaintiff to relief." Id. (quoting Crews v. Buckman Labs. Int'l, Inc., 78 S.W.3d 852, 857 (Tenn. 2002)). We review the trial court's decision on a motion to dismiss de novo without any presumption of correctness. Phillips v. Montgomery Cty., 442 S.W.3d 233, 237 (Tenn. 2014).
+
+B. GOVERNMENTAL TORT LIABILITY ACT
+
+As a municipality, the City is entitled to the immunity granted by the GTLA. Tenn. Code Ann. § 29-20-102(3)(a) (Supp. 2015). The GTLA provides general immunity from tort liability to municipalities when engaged in governmental or proprietary functions. Tenn. Code Ann. § 29-20-201 (2012); Kirby v. Macon Cty., 892 S.W.2d 403, 406 (Tenn. 1994). The Act then waives immunity for injuries caused by: (1) negligent operation of motor vehicles by employees; (2) defective or dangerous roadways; (3) defective or dangerous public improvements; and (4) negligent acts of employees, with nine enumerated exceptions. Tenn. Code Ann. §§ 29-20-202 to -204 (2012).
+
+Plaintiffs contend the City is potentially liable for damages in this case by virtue of Tennessee Code Annotated § 29-20-202, which removes sovereign immunity "for injuries resulting from the negligent operation by any employee of a motor vehicle . . . while in the scope of employment." Tenn. Code Ann. § 29-20-202 (2012). Although a City employee was not driving the vehicle when the collision occurred, Plaintiffs argue that Police Officer's conduct amounted to operating a vehicle within the meaning of the statute.
+
+The GTLA does not define "operation" of a motor vehicle, and the parties have not pointed us to any case law interpreting this phrase under the statute. Plaintiffs submit that "operation" of a vehicle means more than driving, citing an unreported decision from our Court, Smith v. State, No. W2002-00874-COA-R3-CV, 2002 WL 31895719 (Tenn. Ct. App. Dec. 30, 2002). In Smith v. State, a state trooper parked his vehicle at an accident scene in a manner that resulted in a second traffic accident. Id. at *2-3. We held that, although the trooper was outside his parked vehicle at the time of the accident, the Tennessee Claims Commission's jurisdiction could be invoked on the basis of negligent operation of a motor vehicle. Id. at *5. We reasoned that "operation of the vehicle by [the trooper] resulted in the condition and placement of the vehicle at the time of the accident causing injuries." Id. Importantly, we also stated that "such an interpretation of the word 'operation' is not clearly contrary to the intent of the statute as enacted by the General Assembly." Id.
+
+Plaintiffs argue that "operation" in the motor-vehicle exception is analogous to the "physical control" requirement in the DUI statute. See Tenn. Code Ann. § 55-10-401 (Supp. 2015) ("It is unlawful for any person to drive or to be in physical control of any automobile . . . while (1) [u]nder the influence of any intoxicant."). However, the GTLA states "operation," not "physical control," Tenn. Code Ann. § 29-20-202 (2012), and text is of primary importance to our construction of statutes. In re Estate of Trigg, 368 S.W.3d 483, 490 (Tenn. 2012). The limited waiver of governmental immunity in the GTLA must be strictly construed and confined to its express terms. See Ezell, 902 S.W.2d at 399.
+
+We find the Smith decision readily distinguishable. As noted, in Smith, we interpreted the jurisdictional provision of the Claims Commission statute, which is to be liberally construed to confer jurisdiction. Tenn. Code Ann. § 9-8-307(a)(3) (Supp. 2015). In the case before us, we interpret the GTLA, which must be strictly construed. See, e.g., Hughes v. Metro. Gov't of Nashville & Davidson Cty, 340 S.W.3d 352, 361 (Tenn. 2011) ("[T]he GTLA, as a statute in derogation of the common law, must 'be strictly construed and confined to [its] express terms.'" (quoting Ezell v. Cockrell, 902 S.W.2d 394, 399 (Tenn. 1995)).
+
+Moreover, even if we were to agree that "operation" of a motor vehicle under the GTLA includes parking and other uses of a vehicle beyond driving, Plaintiffs' negligence allegations in this case differ markedly from those in the Smith case. Here, Plaintiffs only allege Police Officer negligently restrained Shelton after her arrest. Plaintiffs argue on appeal that we might assume Police Officer left the key in the ignition or the engine running, but the complaint contains no such allegations. We are unable to create a claim of negligent operation of a motor vehicle solely from an allegation that Police Officer negligently restrained Shelton. See Donaldson v. Donaldson, 557 S.W.2d 60, 62 (Tenn. 1977) ("There is no duty on the part of the court to create a claim that the pleader does not spell out in his complaint.").
+
+When interpreting statutory provisions, our goal is to "ascertain and effectuate the legislature's intent." Kite v. Kite, 22 S.W.3d 803, 805 (Tenn. 1997). When a statute's language is unambiguous, we derive legislative intent from the statute's plain language. Carson Creek Vacation Resorts, Inc. v. Dep't of Rev., 865 S.W.2d 1, 2 (Tenn.1993). We conclude that the plain language of Tennessee Code Annotated § 29-20-202 does not extend to the acts complained of by the Plaintiffs, and consequently, Plaintiffs cannot assert immunity was removed by virtue of negligent operation of a motor vehicle by Police Officer.
+
+Although we conclude that Plaintiffs have not stated a claim for removal of immunity based upon negligent operation of a motor vehicle under the GTLA, Plaintiffs also argue that immunity was removed based on the negligent acts of Police Officer under Tennessee Code Annotated § 29-20-205. Under this provision of the GTLA, immunity is waived for injuries caused by "a negligent act or omission of any employee within the scope of his employment." Tenn. Code Ann. § 29-20-205 (2012). The removal of immunity does not extend to injuries arising out of nine categories of actions, but City does not contend that any of those categories are applicable here.
+
+Tennessee Code Annotated § 29-20-205 waives immunity for negligent acts or omissions of employees unless the injury arises out of: (1) The exercise or performance or the failure to exercise or perform a discretionary function, whether or not the discretion is abused;
+
+
+
+(2) False imprisonment pursuant to a mittimus from a court, false arrest, malicious prosecution, intentional trespass, abuse of process, libel, slander, deceit, interference with contract rights, infliction of mental anguish, invasion of right of privacy, or civil rights;
+
+
+
+(3) The issuance, denial, suspension or revocation of, or by the failure or refusal to issue, deny, suspend or revoke, any permit, license, certificate, approval, order or similar authorization;
+
+
+
+(4) A failure to make an inspection, or by reason of making an inadequate or negligent inspection of any property;
+
+
+
+(5) The institution or prosecution of any judicial or administrative proceeding, even if malicious or without probable cause;
+
+
+
+(6) Misrepresentation by an employee whether or not such is negligent or intentional;
+
+
+
+(7) Or results from riots, unlawful assemblies, public demonstrations, mob violence and civil disturbances;
+
+
+
+(8) Or in connection with the assessment, levy or collection of taxes; or
+
+
+
+(9) Or in connection with any failure occurring before January 1, 2005, which is caused directly or indirectly by the failure of computer software or any device containing a computer processor to accurately or properly recognize, calculate, display, sort, or otherwise process dates or times, if, and only if, the failure or malfunction causing the loss was unforeseeable or if the failure or malfunction causing the loss was foreseeable but a reasonable plan or design or both for identifying and preventing the failure or malfunction was adopted and reasonably implemented complying with generally accepted computer and information system design standards. Notwithstanding any other law, nothing in this subdivision (9) shall in any way limit the liability of a third party, direct or indirect, who is negligent. Further, a person who is injured by the negligence of a third party contractor, direct or indirect, shall have a cause of action against the contractor.
+
+
+
+Tenn. Code Ann. § 29-20-205 (2012).
+
+Even though immunity is removed for certain negligent acts or omissions of an employee, our inquiry is not complete. Although the complaint alleges negligent acts or omissions by Police Officer and the GTLA does not provide immunity for such acts or omissions, the City asserts it is nevertheless immune under the public duty doctrine.
+
+Plaintiffs cite Pile v. City of Brandenburg, 215 S.W.3d 36 (Ky. 2006), to argue the public duty doctrine should not apply in cases involving ministerial or operational decisions of municipal employees. The Pile case involves application of Kentucky law, which differs markedly from Tennessee. We must apply Tennessee law as interpreted by our Supreme Court. See Ezell v. Cockrell, 902 S.W.2d 394, 399 (Tenn. 1995) (holding the public duty doctrine applies to a breach of a public duty unless a special exception exists).
+
+C. PUBLIC DUTY DOCTRINE
+
+The public duty doctrine is a valid defense to a tort action against a municipality. Ezell v. Cockrell, 902 S.W.2d 394, 396 (Tenn. 1995). Our Supreme Court has explained the interaction of the GTLA and the public duty doctrine thusly:
+
+Both the GTLA and the public duty doctrine are affirmative defenses. Courts first look to the GTLA. If immunity is found under the GTLA, a court need not inquire as to whether the public duty doctrine also provides immunity. If, however, the GTLA does not provide immunity, courts may look to the general rule of immunity under the public duty doctrine. If immunity is then found under the public duty doctrine, the next inquiry is whether the special duty exception removes the immunity afforded under the public duty doctrine.
+
+
+
+The public duty doctrine "shields a public employee from suits for injuries that are caused by the public employee's breach of a duty owed to the public at large." Ezell, 902 S.W.2d at 397. However, an exception to the public duty doctrine applies if a special relationship exists between the plaintiff and governmental employee giving rise to a special duty. Ezell, 902 S.W.2d at 402. Our Supreme Court stated that the special-duty exception arises when:
+
+1) officials, by their actions, affirmatively undertake to protect the plaintiff, and the plaintiff relies upon the undertaking; 2) a statute specifically provides for a cause of action against an official or municipality for injuries resulting to a particular class of individuals, of which the plaintiff is a member, from failure to enforce certain laws; or 3) the plaintiff alleges a cause of action involving intent, malice, or reckless misconduct.
+
+
+
+. If one of these special relationships exists, immunity is removed..,., 996 S.W.2d 162, 165 (Tenn. 1999) (holding the issuance of an order of protection created a special duty).
+
+As an initial matter, Plaintiffs argue that the public duty doctrine does not apply because they are not seeking recovery for breach of a duty to the public. We respectfully disagree. The decision to arrest a suspect and properly secure him or her is a duty owed to the public at large. See Ezell, 902 S.W.2d at 401 (police officer's duty to arrest or detain drunk drivers is to the public generally); see also Robert A. Shapiro, Annotation, Personal Liability of Policeman, Sheriff, or Similar Peace Officer or His Bond, for Injury Suffered as a Result of Failure to Enforce Law or Arrest Lawbreaker, 41 A.L.R.3d 700, 702 (1972) ("[I]t is nevertheless generally held that the specific duty to preserve the peace is one which the officer owes to the public generally, and not to particular individuals, and that the breach of such duty accordingly creates no liability on the part of the officer to an individual who was damaged by the lawbreaker's conduct."). Consequently, the City is immune unless a special-duty exception negates the public duty doctrine defense.
+
+The first special-duty exception does not apply. Plaintiffs did not allege any affirmative undertaking by the City or its employees to specifically protect Plaintiffs. Instead, Plaintiffs argue that, by placing Shelton in custody, Police Officer "narrowed down the scope of his duty of reasonable care from the public at large down to the class of civilians who were then utilizing roadways" in the City. We find this argument unavailing. For the special-duty exception to apply, the duty must be particular to the Plaintiffs, not to a class of individuals of which Plaintiffs happen to be members. Hurd v. Flores, 221 SW.3d 14, 28 (Tenn. Ct. App. 2006). Furthermore, Plaintiffs have not alleged and could not show reliance on the actions of Police Officer.
+
+Plaintiffs argue that there are two statutory bases for the existence of a special relationship and the imposition of a corresponding duty. First, Plaintiffs point to Tennessee Code Annotated § 55-8-108, more commonly known as the pursuit statute. Under the pursuit statute, "when responding to an emergency call, or when in the pursuit of an actual or suspected violator of the law," a law enforcement officer is not relieved "from the duty to drive with due regard for the safety of all persons" or his "own reckless disregard for the safety of others." Tenn. Code Ann. § 55-8-108(a) & (b)(2) (2012). The pursuit statute also makes law enforcement officers liable for injuries caused by a fleeing party when the officers are negligent in conducting their pursuit and the negligence proximately causes injuries to a third party. Id. § 55-8-108(e); see Haynes v. Hamilton Cty., 883 S.W.2d 606 (Tenn. 1994) (holding municipality can be held liable for injuries caused to innocent third parties by suspect in a high-speed chase).
+
+We conclude that the pursuit statute does not create a special duty under the facts alleged in the complaint. The pursuit statute, by its express terms, applies to conduct of drivers responding to an emergency call or when in pursuit. Shelton was neither responding to an emergency call nor in pursuit of an actual or suspected violater of the law. Plaintiffs also failed to allege that Police Officer was either in pursuit of Shelton when the accident occurred or that any such pursuit was negligent. Moreover, Plaintiffs did not even cite the pursuit statute in their complaint. See Tenn. R. Civ. P. 8.05; Gardner v. Insura Prop. & Cas. Ins. Co., 956 S.W.2d 1, 4 (Tenn. Ct. App. 1997) (rejecting plaintiff's claim that a special duty arose under the pursuit statute when the complaint did not refer to the statute or recite facts supporting such a claim).
+
+Second, Plaintiffs argue that Tennessee Code Annotated § 55-8-162 provides a cause of action against the City for Plaintiffs' injuries. Under that statute, "[n]o person driving or in charge of a motor vehicle shall permit it to stand unattended without first stopping the engine, locking the ignition, and effectively setting the brake thereon and, when standing upon any grade, turning the front wheels to the curb or side of the highway." Tenn. Code Ann. § 55-8-162(a) (2012). Once again, Plaintiffs failed to allege violation of this statute in their complaint. See Tenn. R. Civ. P. 8.05. Even had such an allegation been included in the complaint, the statute does not "specifically provide[] for a cause of action against an official or municipality for injuries resulting to a particular class of individuals." Ezell, 902 S.W.2d at 402.
+
+Finally, Plaintiffs have not alleged Police Officer acted with intent, malice, or recklessness. See Ezell, 902 S.W.2d at 403 (stating no special duty of care could arise when the plaintiff failed to allege such conduct). As the complaint only alleges negligent conduct, the third of the Ezell special-duty exceptions does not apply.
+
+Although conceding that the complaint alleged only negligence, Plaintiffs contend that their claims "may sound in recklessness . . . depending on what the discovery process reveals." From the record, it appears that Plaintiffs did conduct some discovery prior to responding to the motion to dismiss, and Plaintiffs amended their complaint at least once without adding any allegations of reckless conduct. Under these circumstances and based on the facts alleged in the complaint, the trial court did not err in ruling on the motion to dismiss without first granting Plaintiffs more time to conduct discovery. --------
+
+III. CONCLUSION
+
+We conclude that the City of Fayetteville is immune from suit based upon the public duty doctrine. Because no special-duty exceptions apply, we affirm the decision of the trial court to dismiss the Plaintiffs' claims against the City and remand this case for further proceedings consistent with this opinion.
+
+/s/ _________
+
+
+
+W. NEAL MCBRAYER, JUDGE

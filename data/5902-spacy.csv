@@ -1,0 +1,202 @@
+text,label,fe_id
+Utah,GPE,5902
+Trolley Square,FAC,5902
+the evening,TIME,5902
+"February 12, 2007",DATE,5902
+Trolley Square Mall,FAC,5902
+Salt Lake City,GPE,5902
+Utah,GPE,5902
+Sulejman Talović,PERSON,5902
+five,CARDINAL,5902
+four,CARDINAL,5902
+the Salt Lake City Police Department,GPE,5902
+"February 12, 2007",DATE,5902
+6:42 p.m.,TIME,5902
+MST,PERSON,5902
+Talović,ORG,5902
+the Trolley Square Mall,FAC,5902
+6,CARDINAL,5902
+12,CARDINAL,5902
+38,CARDINAL,5902
+"handgun,[4",PRODUCT,5902
+Two minutes,TIME,5902
+52-year-old,DATE,5902
+Jeffrey Walker,PERSON,5902
+16-year-old,DATE,5902
+Alan,PERSON,5902
+Alan Walker,PERSON,5902
+Jeffrey Walker,PERSON,5902
+34-year-old,DATE,5902
+Shaun Munns,ORG,5902
+approximately 30 yards,QUANTITY,5902
+29-year-old,DATE,5902
+Vanessa Quinn,PERSON,5902
+second,ORDINAL,5902
+Cabin Fever,PERSON,5902
+seven,CARDINAL,5902
+44-year-old,DATE,5902
+Carolyn Tuft,PERSON,5902
+53-year-old,DATE,5902
+Stacy Hanson,PERSON,5902
+Hanson,ORG,5902
+Talović,ORG,5902
+Hanson,ORG,5902
+three,CARDINAL,5902
+15-year-old,DATE,5902
+Kirsten Hinckley,PERSON,5902
+Carolyn Tuft,PERSON,5902
+24-year-old,DATE,5902
+Brad Frantz,PERSON,5902
+29-year-old,DATE,5902
+Teresa Ellis,ORG,5902
+three,CARDINAL,5902
+three,CARDINAL,5902
+Hinckley,PERSON,5902
+Ellis,PERSON,5902
+Carolyn Tuft,PERSON,5902
+Tuft,LOC,5902
+Hinckley,PERSON,5902
+Ellis,PERSON,5902
+Hinckley,PERSON,5902
+Ellis,PERSON,5902
+Tuft,ORG,5902
+second,ORDINAL,5902
+Kenneth Hammond,PERSON,5902
+the Ogden City Police Department,GPE,5902
+Hammond,GPE,5902
+Trolley Square,FAC,5902
+911,CARDINAL,5902
+Sarita Hammond,PERSON,5902
+Sarita Hammond,PERSON,5902
+Hammond,GPE,5902
+Talović,ORG,5902
+Talović,ORG,5902
+three,CARDINAL,5902
+the Pottery Barn Kids,ORG,5902
+Cabin Fever,PERSON,5902
+Stacy Hanson,PERSON,5902
+Barrett Dodds,PERSON,5902
+Talović,GPE,5902
+Pottery Barn,ORG,5902
+Hanson,PERSON,5902
+Sergeant Andrew Oblad,PERSON,5902
+the Salt Lake City Police Department,GPE,5902
+Trolley Square,FAC,5902
+Kenneth Hammond,PERSON,5902
+Hammond,GPE,5902
+Salt Lake City,GPE,5902
+Sergeant Joshua Scharman,PERSON,5902
+Detective Dustin Marshall,PERSON,5902
+Brett Olsen,PERSON,5902
+Gordon Worsencroft,PERSON,5902
+Scharman,PERSON,5902
+Olsen,PERSON,5902
+eight,CARDINAL,5902
+Heckler & Koch,ORG,5902
+Marshall,PERSON,5902
+five,CARDINAL,5902
+AR-15,PRODUCT,5902
+Talović,ORG,5902
+Scharman,PERSON,5902
+Olsen,PERSON,5902
+15,CARDINAL,5902
+At least 30,CARDINAL,5902
+Talović,ORG,5902
+29,CARDINAL,5902
+at least one,CARDINAL,5902
+six,CARDINAL,5902
+KTVX,ORG,5902
+Pottery Barn,ORG,5902
+Cabin Fever,PERSON,5902
+One,CARDINAL,5902
+Jeffrey Walker,PERSON,5902
+53,DATE,5902
+Vanessa Quinn,PERSON,5902
+29,DATE,5902
+Brad Frantz,PERSON,5902
+24,DATE,5902
+Cabin Fever,PERSON,5902
+Kirsten Hinckley,PERSON,5902
+15,DATE,5902
+Cabin Fever,PERSON,5902
+Teresa Ellis,PERSON,5902
+29,CARDINAL,5902
+Cabin Fever,PERSON,5902
+16,DATE,5902
+Jeffrey Walker,PERSON,5902
+Shawn Munns,PERSON,5902
+34,DATE,5902
+Carolyn Tuft,PERSON,5902
+43,DATE,5902
+Kirsten Hinckley,PERSON,5902
+Cabin Fever,PERSON,5902
+Stacy Hanson,PERSON,5902
+53,DATE,5902
+Cabin Fever,PERSON,5902
+Sulejman Talović,WORK_OF_ART,5902
+"October 6, 1988",DATE,5902
+"February 12, 2007",DATE,5902
+Cerska,GPE,5902
+Vlasenica,LOC,5902
+Bosnia and Herzegovina,GPE,5902
+the United States,GPE,5902
+1998.[10,CARDINAL,5902
+2005[11,CARDINAL,5902
+three,CARDINAL,5902
+Salt Lake City,GPE,5902
+Talovic,PERSON,5902
+one,CARDINAL,5902
+one,CARDINAL,5902
+Talović,ORG,5902
+Talovići,GPE,5902
+Cerska,GPE,5902
+Bosnia and Herzegovina,GPE,5902
+"March 2, 2007",DATE,5902
+Sulejman,PERSON,5902
+Suljo Talović,FAC,5902
+Bosnia,GPE,5902
+Ajka Omerović,PERSON,5902
+Talović,ORG,5902
+Sarajevo,GPE,5902
+Utah,GPE,5902
+Bosnia,GPE,5902
+Salt Lake City,GPE,5902
+KSL,ORG,5902
+KSL,ORG,5902
+Omerović,GPE,5902
+Talović,ORG,5902
+Suljo Talović,GPE,5902
+two,CARDINAL,5902
+Sulejman,PERSON,5902
+Sulejman,PRODUCT,5902
+U.S.,GPE,5902
+U.S.,GPE,5902
+21,CARDINAL,5902
+18+,DATE,5902
+the War on Terrorism,EVENT,5902
+John Gibson[20,PERSON,5902
+U.S.,GPE,5902
+Chris Cannon[21,PERSON,5902
+Talović,ORG,5902
+Talović,ORG,5902
+Cannon,ORG,5902
+Talović,ORG,5902
+FBI,ORG,5902
+Patrick Kiernan,PERSON,5902
+Ajka Omerović,PERSON,5902
+Muslims,NORP,5902
+Five,CARDINAL,5902
+Utah,GPE,5902
+Capitol,FAC,5902
+February 16,DATE,5902
+the Trolley Square,LOC,5902
+Andrew Oblad,PERSON,5902
+Sergeant Joshua Scharman,PERSON,5902
+Detective Dustin Marshall,PERSON,5902
+Brett Olsen,PERSON,5902
+the Salt Lake City Police Department,GPE,5902
+Kenneth Hammond,PERSON,5902
+the Ogden Police Department,ORG,5902
+"February 13, 2007",DATE,5902
+Salt Lake City,GPE,5902
+Hammond,GPE,5902

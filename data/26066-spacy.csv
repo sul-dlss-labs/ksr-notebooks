@@ -1,0 +1,48 @@
+text,label,fe_id
+second,ORDINAL,26066
+weekend,DATE,26066
+Atlanta,GPE,26066
+Maria Gispert,PERSON,26066
+51,DATE,26066
+Wednesday,DATE,26066
+Atlanta Medical Center,ORG,26066
+Saturday,DATE,26066
+morning,TIME,26066
+the Fulton County Medical Examiner,ORG,26066
+Gispert,PERSON,26066
+Juan “Tito” Gispert,PERSON,26066
+28,DATE,26066
+two,CARDINAL,26066
+Gisperts,ORG,26066
+three,CARDINAL,26066
+Florida,GPE,26066
+Michigan,GPE,26066
+Georgia State Patrol,ORG,26066
+140-mph,QUANTITY,26066
+Downtown Connector,ORG,26066
+Kahre,GPE,26066
+Jamal Williams,PERSON,26066
+Spring Street,FAC,26066
+Dodge Challenger,PERSON,26066
+Williams,PERSON,26066
+GSP,ORG,26066
+Challenger,ORG,26066
+Spring Street,FAC,26066
+I-75/85 South,LOC,26066
+GSP,ORG,26066
+Williams,PERSON,26066
+Nissan Altima,ORG,26066
+Gisperts,ORG,26066
+Ford Expedition,ORG,26066
+Two,CARDINAL,26066
+Nissan,ORG,26066
+Williams,PERSON,26066
+first,ORDINAL,26066
+five,CARDINAL,26066
+Williams,PERSON,26066
+Fulton County Jail,GPE,26066
+Saturday,DATE,26066
+first,ORDINAL,26066
+Monday morning,TIME,26066
+the Fulton County Sheriff’s Office,ORG,26066
+May 6,DATE,26066

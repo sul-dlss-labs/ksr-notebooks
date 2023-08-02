@@ -1,0 +1,19 @@
+text,label,fe_id
+seven hours,TIME,63
+Monday,DATE,63
+morning,TIME,63
+Alex Montelongo,PERSON,63
+25,DATE,63
+SWAT,ORG,63
+about 3 a.m.,TIME,63
+about 7:45 p.m.,TIME,63
+Sunday,DATE,63
+Montelongo,PERSON,63
+9400,CARDINAL,63
+Beverly Road,GPE,63
+Mark Bailey,PERSON,63
+SWAT,ORG,63
+Bailey,PERSON,63
+second,ORDINAL,63
+Montelongo,PERSON,63
+Bailey,PERSON,63

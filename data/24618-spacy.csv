@@ -1,0 +1,21 @@
+text,label,fe_id
+Middletown Police,ORG,24618
+around 12:53 a.m.,TIME,24618
+Thursday,DATE,24618
+2000,DATE,24618
+Lexus GS,ORG,24618
+300,CARDINAL,24618
+Cottage Street,FAC,24618
+Railroad Avenue,FAC,24618
+Academy Avenue,FAC,24618
+Sterling Street,FAC,24618
+8,CARDINAL,24618
+Middletown,ORG,24618
+the Orange County Medical Examiner's Office,ORG,24618
+the Middletown Fire Department,ORG,24618
+the Middletown Police,ORG,24618
+the New York State Police,ORG,24618
+Orange County,GPE,24618
+Office,ORG,24618
+845,CARDINAL,24618
+Daily Voice Southwest Dutchess,ORG,24618

@@ -1,0 +1,25 @@
+text,label,fe_id
+Times,ORG,865
+California Highway Patrol,FAC,865
+Brea,PERSON,865
+April,DATE,865
+two,CARDINAL,865
+50,CARDINAL,865
+CHP,ORG,865
+Fatal Accident Investigation Team,ORG,865
+Thomas Anthony Savas,PERSON,865
+42,DATE,865
+Anaheim,ORG,865
+Esperanza Road,FAC,865
+Anaheim,GPE,865
+1997,DATE,865
+Honda,ORG,865
+Accord,PRODUCT,865
+Charles Croix,PERSON,865
+Savas,PERSON,865
+Sophie Savas,PERSON,865
+66,DATE,865
+Yorba Linda,PERSON,865
+two,CARDINAL,865
+Croix,PERSON,865
+16-year,DATE,865

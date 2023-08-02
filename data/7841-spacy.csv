@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7841
+Alabama,GPE,7841
+Alaska,GPE,7841
+Arizona,GPE,7841
+Arkansas,GPE,7841
+California,GPE,7841
+Colorado,GPE,7841
+Connecticut,GPE,7841
+Delaware,GPE,7841
+Florida,GPE,7841
+Georgia,GPE,7841
+Hawaii,GPE,7841
+Idaho,GPE,7841
+Indiana,GPE,7841
+Iowa,GPE,7841
+Kansas,GPE,7841
+Kentucky,GPE,7841
+Louisiana,GPE,7841
+Maine,GPE,7841
+Maryland,GPE,7841
+Massachusetts,GPE,7841
+Michigan,GPE,7841
+Minnesota,GPE,7841
+Mississippi,GPE,7841
+Missouri,GPE,7841
+Montana,GPE,7841
+Nebraska,GPE,7841
+Nevada,GPE,7841
+New Hampshire,GPE,7841
+New Jersey,GPE,7841
+Ohio,GPE,7841
+Oklahoma,GPE,7841
+Oregon,GPE,7841
+Pennsylvania,GPE,7841
+Rhode Island,GPE,7841
+Tennessee,GPE,7841
+Texas,GPE,7841
+Utah,GPE,7841
+Vermont,GPE,7841
+Virginia,GPE,7841
+Washington,GPE,7841
+Washington,GPE,7841
+D.C.,GPE,7841
+Wisconsin,GPE,7841
+Wyoming,GPE,7841
+US,GPE,7841
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7841
+Marshall Islands American Samoa Federated States,ORG,7841
+Micronesia Guam,FAC,7841
+Alberta,GPE,7841
+Canada,GPE,7841
+British Columbia,GPE,7841
+Canada Manitoba,GPE,7841
+Canada,GPE,7841
+New Brunswick,GPE,7841
+Canada Newfoundland,PERSON,7841
+Canada,GPE,7841
+Canada,GPE,7841
+Canada Ontario,GPE,7841
+Canada,GPE,7841
+Edward Island,GPE,7841
+Canada Quebec,GPE,7841
+Canada,GPE,7841
+Saskatchewan,GPE,7841
+Canada Yukon Territory,ORG,7841
+Canada,GPE,7841
+Zip Code,PERSON,7841

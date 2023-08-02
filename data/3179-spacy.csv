@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,3179
+Alabama,GPE,3179
+Alaska,GPE,3179
+Arizona,GPE,3179
+Arkansas,GPE,3179
+California,GPE,3179
+Colorado,GPE,3179
+Connecticut,GPE,3179
+Delaware,GPE,3179
+Florida,GPE,3179
+Georgia,GPE,3179
+Hawaii,GPE,3179
+Idaho,GPE,3179
+Indiana,GPE,3179
+Iowa,GPE,3179
+Kansas,GPE,3179
+Kentucky,GPE,3179
+Louisiana,GPE,3179
+Maine,GPE,3179
+Maryland,GPE,3179
+Massachusetts,GPE,3179
+Michigan,GPE,3179
+Minnesota,GPE,3179
+Mississippi,GPE,3179
+Missouri,GPE,3179
+Montana,GPE,3179
+Nebraska,GPE,3179
+Nevada,GPE,3179
+New Hampshire,GPE,3179
+New Jersey,GPE,3179
+Ohio,GPE,3179
+Oklahoma,GPE,3179
+Oregon,GPE,3179
+Pennsylvania,GPE,3179
+Rhode Island,GPE,3179
+Tennessee,GPE,3179
+Texas,GPE,3179
+Utah,GPE,3179
+Vermont,GPE,3179
+Virginia,GPE,3179
+Washington,GPE,3179
+Washington,GPE,3179
+D.C.,GPE,3179
+Wisconsin,GPE,3179
+Wyoming,GPE,3179
+US,GPE,3179
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,3179
+Marshall Islands American Samoa Federated States,ORG,3179
+Micronesia Guam,FAC,3179
+Alberta,GPE,3179
+Canada,GPE,3179
+British Columbia,GPE,3179
+Canada Manitoba,GPE,3179
+Canada,GPE,3179
+New Brunswick,GPE,3179
+Canada Newfoundland,PERSON,3179
+Canada,GPE,3179
+Canada,GPE,3179
+Canada Ontario,GPE,3179
+Canada,GPE,3179
+Edward Island,GPE,3179
+Canada Quebec,GPE,3179
+Canada,GPE,3179
+Saskatchewan,GPE,3179
+Canada Yukon Territory,ORG,3179
+Canada,GPE,3179
+Zip Code,PERSON,3179

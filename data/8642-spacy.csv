@@ -1,0 +1,9 @@
+text,label,fe_id
+Nelson & Rozier,ORG,8642
+this after hours,TIME,8642
+559,CARDINAL,8642
+tomorrow,DATE,8642
+--John Rozier,PERSON,8642
+Fresno,GPE,8642
+Visalia,GPE,8642
+Bakersfield,GPE,8642

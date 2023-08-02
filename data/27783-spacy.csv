@@ -1,0 +1,22 @@
+text,label,fe_id
+Newburgh,ORG,27783
+Friday,DATE,27783
+around 5 p.m.,TIME,27783
+Newburgh,ORG,27783
+40,CARDINAL,27783
+Thursday,DATE,27783
+Benkard Ave,ORG,27783
+William Street,PERSON,27783
+Olivia Leach,PERSON,27783
+"March 27, 2020",DATE,27783
+Newburgh,GPE,27783
+the New York State Police and,ORG,27783
+the Orange County District,LOC,27783
+Newburgh,GPE,27783
+City of Newburgh Police Officers,ORG,27783
+One,CARDINAL,27783
+"shot, City of Newburgh Police Officers",GPE,27783
+CPR,ORG,27783
+St. Luke’s Hospital,ORG,27783
+one,CARDINAL,27783
+David Hoovler,PERSON,27783

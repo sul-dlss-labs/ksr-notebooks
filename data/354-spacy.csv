@@ -1,0 +1,22 @@
+text,label,fe_id
+Chicago,GPE,354
+Wednesday,DATE,354
+two,CARDINAL,354
+one,CARDINAL,354
+seven-hour,TIME,354
+first,ORDINAL,354
+about 7:15 p.m.,TIME,354
+Tuesday,DATE,354
+Samuel Lucas,PERSON,354
+22,DATE,354
+2000,CARDINAL,354
+West Roosevelt Road,LOC,354
+Lucas,GPE,354
+72nd Street,FAC,354
+South Shore Drive,LOC,354
+about 2 a.m.,TIME,354
+Wednesday,DATE,354
+Roger Thompson,PERSON,354
+4800,CARDINAL,354
+South Drexel Boulevard,GPE,354
+47th Place,ORG,354

@@ -1,0 +1,38 @@
+text,label,fe_id
+6,CARDINAL,16021
+Two,CARDINAL,16021
+Thursday,DATE,16021
+morning,TIME,16021
+the Choctaw-McCurtain County,ORG,16021
+The Oklahoma State Bureau of Investigation,ORG,16021
+the Choctaw County Sheriff's Office,ORG,16021
+Rufe,GPE,16021
+about 5:30 a.m.,TIME,16021
+Hugo,EVENT,16021
+180,CARDINAL,16021
+North 4430 Road,LOC,16021
+OSBI,ORG,16021
+OSBI,ORG,16021
+Sheriff,ORG,16021
+Hugo,EVENT,16021
+Steve Babcock,PERSON,16021
+Rufe on Highway 3,ORG,16021
+KXII,ORG,16021
+CBS,ORG,16021
+Sherman,GPE,16021
+Texas,GPE,16021
+Choctaw County Sheriff,PERSON,16021
+Terry Park,PERSON,16021
+Joseph Potts,PERSON,16021
+51,DATE,16021
+two,CARDINAL,16021
+OSBI,ORG,16021
+Potts,ORG,16021
+Potts,PERSON,16021
+at least one,CARDINAL,16021
+Babcock,PERSON,16021
+nine,CARDINAL,16021
+third,ORDINAL,16021
+the Council on Law Enforcement Education,ORG,16021
+one,CARDINAL,16021
+Oklahoma State Bureau of Investigation,ORG,16021

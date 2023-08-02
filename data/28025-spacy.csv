@@ -1,0 +1,19 @@
+text,label,fe_id
+Monday,DATE,28025
+Laguna Niguel,PERSON,28025
+The Orange County Sheriff’s Department,ORG,28025
+40,CARDINAL,28025
+Coral Sea Lane,LOC,28025
+Laguna Heights,GPE,28025
+30s,DATE,28025
+second,ORDINAL,28025
+30s,DATE,28025
+the Orange County Register,ORG,28025
+#,CARDINAL,28025
+40,CARDINAL,28025
+Coral Sea Lane,LOC,28025
+Laguna Niguel,PERSON,28025
+One,CARDINAL,28025
+OC Sheriff,PERSON,28025
+CA,PERSON,28025
+"May 11, 2020",DATE,28025

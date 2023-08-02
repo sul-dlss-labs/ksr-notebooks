@@ -1,0 +1,29 @@
+text,label,fe_id
+two,CARDINAL,20373
+Wednesday,DATE,20373
+evening,TIME,20373
+Compton,ORG,20373
+KTLA,ORG,20373
+two,CARDINAL,20373
+late Wednesday,DATE,20373
+Compton,ORG,20373
+around 11:40 p.m.,TIME,20373
+North Santa Fe Avenue,ORG,20373
+three,CARDINAL,20373
+the Los Angeles County Sheriff’s Department,ORG,20373
+one,CARDINAL,20373
+second,ORDINAL,20373
+first,ORDINAL,20373
+Joe Mendoza,PERSON,20373
+at least three,CARDINAL,20373
+Hispanic,NORP,20373
+Two,CARDINAL,20373
+Hispanic,NORP,20373
+One,CARDINAL,20373
+second,ORDINAL,20373
+One,CARDINAL,20373
+last night,TIME,20373
+LA County,GPE,20373
+@LASDHQ,ORG,20373
+"May 25, 2017",DATE,20373
+33.902009,CARDINAL,20373

@@ -1,0 +1,96 @@
+text,label,fe_id
+4:42 p.m.,TIME,15382
+1,CARDINAL,15382
+State Road 100,FAC,15382
+Florida Highway Patrol,FAC,15382
+marijuana,PERSON,15382
+Chevy,ORG,15382
+Impala,GPE,15382
+30-year-old,DATE,15382
+Ronald Glennlewis Evans,PERSON,15382
+Pinehurst Drive,ORG,15382
+Palm Coast,LOC,15382
+State,ORG,15382
+100,CARDINAL,15382
+Citgo,ORG,15382
+Thomas Andrew Luttenbacher,PERSON,15382
+Pomona Park,FAC,15382
+Warnell Williams,PERSON,15382
+Williams,PERSON,15382
+Bunnell,ORG,15382
+U.S.,GPE,15382
+Impala,GPE,15382
+Chevy,ORG,15382
+half,CARDINAL,15382
+Citgo,ORG,15382
+J&M Stainless Steel Repair,ORG,15382
+Impala,GPE,15382
+Shelby Fawley,PERSON,15382
+Citgo,ORG,15382
+Evans,ORG,15382
+97,CARDINAL,15382
+45,CARDINAL,15382
+moments,TIME,15382
+FHP,ORG,15382
+Dodge Ram,ORG,15382
+State Road 100,FAC,15382
+State Road 11,ORG,15382
+Impala,GPE,15382
+the Dodge Ram,ORG,15382
+Impala,GPE,15382
+Citgo,ORG,15382
+The Dodge Ram,ORG,15382
+State Road 100,FAC,15382
+three,CARDINAL,15382
+FHP,ORG,15382
+Robert Asbill,PERSON,15382
+about 90 minutes,TIME,15382
+About 12:35,CARDINAL,15382
+Bunnell,GPE,15382
+U.S. 1,FAC,15382
+Asbill,PERSON,15382
+Dollar,WORK_OF_ART,15382
+marijuana,PERSON,15382
+Asbill,PERSON,15382
+U.S.,GPE,15382
+Flagler Sheriff’s,ORG,15382
+90 miles,QUANTITY,15382
+Asbill,PERSON,15382
+about 30 seconds,TIME,15382
+Dollar,MONEY,15382
+At least two,CARDINAL,15382
+Impala,GPE,15382
+shortly after 1 p.m.,TIME,15382
+at least seven,CARDINAL,15382
+Florida Highway,FAC,15382
+the Flagler County Sheriff’s Office,ORG,15382
+the Bunnell Police Department,ORG,15382
+12:41 p.m.,TIME,15382
+100,CARDINAL,15382
+Church Street,FAC,15382
+U.S.,GPE,15382
+Bunnell Fire,FAC,15382
+Derek Frasier,PERSON,15382
+Florida Highway Patrol,FAC,15382
+Just before 3:00 p.m.,TIME,15382
+two,CARDINAL,15382
+third,ORDINAL,15382
+Impala,GPE,15382
+One,CARDINAL,15382
+Evans,PERSON,15382
+Volusia County,GPE,15382
+Department of Corrections,ORG,15382
+last November,DATE,15382
+a year and a half,DATE,15382
+four years,DATE,15382
+between 2005 and 2009,DATE,15382
+two years,DATE,15382
+between 2002 and 2004,DATE,15382
+The Florida Highway Patrol,ORG,15382
+10,CARDINAL,15382
+Flagler,PERSON,15382
+Troop G,PERSON,15382
+nine,CARDINAL,15382
+Troop G,PERSON,15382
+DeLand,ORG,15382
+Shelby Fawley,PERSON,15382

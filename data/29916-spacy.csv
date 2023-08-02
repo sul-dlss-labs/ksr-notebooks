@@ -1,0 +1,32 @@
+text,label,fe_id
+Chicago,GPE,29916
+early Monday morning,TIME,29916
+the Chicago Police Department,ORG,29916
+Shot Spotter,PERSON,29916
+2400,CARDINAL,29916
+South Sawyer Avenue,LOC,29916
+Little Village,GPE,29916
+approximately 2:36 a.m.,TIME,29916
+Monday,DATE,29916
+two,CARDINAL,29916
+one,CARDINAL,29916
+2300,CARDINAL,29916
+South Spaulding,LOC,29916
+two,CARDINAL,29916
+one,CARDINAL,29916
+One,CARDINAL,29916
+2nd,CARDINAL,29916
+ChicagoPolice,ORG,29916
+Tom Ahern,PERSON,29916
+@TomAhernCPD,ORG,29916
+"March 29, 2021",DATE,29916
+CPD,ORG,29916
+Tom Ahern,PERSON,29916
+second,ORDINAL,29916
+Ahern,ORG,29916
+the Civilian Office of Police Accountability,ORG,29916
+30 days,DATE,29916
+Matt Masterson,PERSON,29916
+@ByMattMasterson,PERSON,29916
+773,CARDINAL,29916
+509,CARDINAL,29916

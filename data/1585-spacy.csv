@@ -1,0 +1,31 @@
+text,label,fe_id
+Wednesday,DATE,1585
+two,CARDINAL,1585
+Chicago,GPE,1585
+this week,DATE,1585
+17-year-old,DATE,1585
+over 100 feet,QUANTITY,1585
+Billy Kash Smith,PERSON,1585
+Monday,DATE,1585
+third,ORDINAL,1585
+CTA,ORG,1585
+Green Line,ORG,1585
+Cicero Avenue,FAC,1585
+third,ORDINAL,1585
+James Montgomery,PERSON,1585
+Smith,ORG,1585
+Cook County Circuit Court,ORG,1585
+the City of Chicago,GPE,1585
+Cannon Lambert,PERSON,1585
+two,CARDINAL,1585
+Smith,GPE,1585
+Lambert,PERSON,1585
+Smith,ORG,1585
+one,CARDINAL,1585
+Smith,PERSON,1585
+Smith,ORG,1585
+Cicero,ORG,1585
+the Chicago Transit Authority,ORG,1585
+Smith,ORG,1585
+Smith,ORG,1585
+about 100 feet,QUANTITY,1585

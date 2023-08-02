@@ -1,0 +1,46 @@
+text,label,fe_id
+Sunday,DATE,121
+Chicago,GPE,121
+three days earlier,DATE,121
+Addison Street,ORG,121
+Arthur Hutchinson,PERSON,121
+40,DATE,121
+Hutchinson,ORG,121
+Red Line,GPE,121
+3600,CARDINAL,121
+North Sheffield Avenue,FAC,121
+Chicago Transit Authority,ORG,121
+Lauri Sanders,PERSON,121
+The Office of Professional Standards,ORG,121
+about 5:05 p.m.,TIME,121
+Thursday,DATE,121
+Hutchinson,ORG,121
+A few minutes later,TIME,121
+Hutchinson,ORG,121
+Hutchinson,ORG,121
+Hutchinson,ORG,121
+Hutchinson,PERSON,121
+last March,DATE,121
+2 years,DATE,121
+1992,DATE,121
+4 years,DATE,121
+Hutchinson,PERSON,121
+Addison,ORG,121
+Sunday,DATE,121
+about 40,CARDINAL,121
+Kathleen Ahler,PERSON,121
+Residents For Effective Shelter,ORG,121
+REST,ORG,121
+Ahler,ORG,121
+the Cook County Commission on Human Relations,ORG,121
+Sanders,ORG,121
+Chicago Police Department,ORG,121
+John Donahue,PERSON,121
+the Chicago Coalition for the Homeless,ORG,121
+CTA,ORG,121
+Donahue,PRODUCT,121
+CTA,ORG,121
+Noelle Gaffney,PERSON,121
+Hutchinson,ORG,121
+CTA,ORG,121
+Howard,PERSON,121

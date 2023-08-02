@@ -1,0 +1,230 @@
+text,label,fe_id
+late November,DATE,4601
+two months,DATE,4601
+Hurricane Rita,EVENT,4601
+Port Arthur,GPE,4601
+Port Arthur,PERSON,4601
+Louisiana,GPE,4601
+Mississippi,GPE,4601
+Katrina,EVENT,4601
+Southeast Texas,LOC,4601
+more than a dozen,CARDINAL,4601
+Port Arthur,PERSON,4601
+New Orleans,GPE,4601
+New Orleans,GPE,4601
+New Orleans,GPE,4601
+Hilton Kelley,PERSON,4601
+Community In-Power and Development Association,ORG,4601
+Port Arthur,LOC,4601
+Texas,GPE,4601
+Katrina,EVENT,4601
+John Owens,PERSON,4601
+Kelley,PERSON,4601
+Rita,PERSON,4601
+Fox News,ORG,4601
+New Orleans,GPE,4601
+Port Arthur,GPE,4601
+the weeks and months,DATE,4601
+Rita,PERSON,4601
+Port Arthur,PERSON,4601
+more than 43 percent,PERCENT,4601
+13 percent,PERCENT,4601
+Port Arthur,PERSON,4601
+Katrina,EVENT,4601
+New Orleans,GPE,4601
+America,GPE,4601
+Texas,GPE,4601
+Rita,PERSON,4601
+Port Arthur’s,PERSON,4601
+Port Arthur,PERSON,4601
+Westside,PERSON,4601
+1911,DATE,4601
+"3,500-acre",QUANTITY,4601
+Motiva,ORG,4601
+John,PERSON,4601
+Gloria Jones,PERSON,4601
+36-year-old,DATE,4601
+Tyrone Jones,ORG,4601
+October 13,DATE,4601
+the day,DATE,4601
+74th,ORDINAL,4601
+Tyrone,ORG,4601
+John Edward Jones,PERSON,4601
+Tyrone,ORG,4601
+Port Arthur,FAC,4601
+Taser,ORG,4601
+Jones,GPE,4601
+Jones,PERSON,4601
+September 21,DATE,4601
+Port Arthur,GPE,4601
+Hurricane Rita,EVENT,4601
+The same day,DATE,4601
+nighttime,TIME,4601
+the day,DATE,4601
+October 10,DATE,4601
+John Owens,PERSON,4601
+75 percent,PERCENT,4601
+Port Arthur],PERSON,4601
+Owens,PERSON,4601
+SWAT,ORG,4601
+M-16,LOC,4601
+Port Arthur,FAC,4601
+the day,DATE,4601
+Owens,PERSON,4601
+the Holiday Inn,FAC,4601
+FBI,ORG,4601
+DEA,ORG,4601
+"ATF, Coast Guard",ORG,4601
+the National Guard,ORG,4601
+The Houston Police Department,ORG,4601
+at least 26,CARDINAL,4601
+Port Arthur,PERSON,4601
+17 days,DATE,4601
+September 30,DATE,4601
+Houston,GPE,4601
+HPD,ORG,4601
+12-hour,TIME,4601
+Port Arthur,FAC,4601
+the days,DATE,4601
+weeks,DATE,4601
+Rita,PERSON,4601
+Tyrone Jones,ORG,4601
+Katrina,EVENT,4601
+one,CARDINAL,4601
+Jones,PERSON,4601
+30-second,TIME,4601
+Jones,PERSON,4601
+the Port Arthur Town Homes,FAC,4601
+the night of,TIME,4601
+October 13,DATE,4601
+Jones,PERSON,4601
+approximately 9:30 p.m.,TIME,4601
+Jones,PERSON,4601
+Jones,PERSON,4601
+Jones,PERSON,4601
+Tyrone,ORG,4601
+Tyrone,ORG,4601
+just a few hours,TIME,4601
+Tyrone,ORG,4601
+one,CARDINAL,4601
+Tyrone,ORG,4601
+around 10 p.m.,TIME,4601
+first,ORDINAL,4601
+Jones,PERSON,4601
+Taser,GPE,4601
+first,ORDINAL,4601
+Taser,GPE,4601
+Jones,PERSON,4601
+first,ORDINAL,4601
+Steve Thrower,PERSON,4601
+Jefferson County,GPE,4601
+Martin Flood,PERSON,4601
+Tyrone,ORG,4601
+Four,CARDINAL,4601
+five,CARDINAL,4601
+Observer,ORG,4601
+Jones,PERSON,4601
+Patrol Sergeant R.W. Harrison,PRODUCT,4601
+Owens,PERSON,4601
+330,CARDINAL,4601
+month-long,DATE,4601
+Jones,GPE,4601
+Jones,PERSON,4601
+three to four,CARDINAL,4601
+Tasers,ORG,4601
+about 30 minutes,TIME,4601
+Jones,PERSON,4601
+11 p.m.,TIME,4601
+Thrower,ORG,4601
+that night,TIME,4601
+Family,PRODUCT,4601
+Alford,PERSON,4601
+Jones,PERSON,4601
+Allen Lewis,PERSON,4601
+24-year-old,DATE,4601
+Port Arthur,FAC,4601
+Five days,DATE,4601
+Lewis,PERSON,4601
+Broderick Kelley,PERSON,4601
+Billy Kelley,PERSON,4601
+Port Arthur,PERSON,4601
+Dallas,GPE,4601
+three,CARDINAL,4601
+Hilton Kelley,PERSON,4601
+three,CARDINAL,4601
+two,CARDINAL,4601
+Lewis,PERSON,4601
+First,ORDINAL,4601
+Lewis,PERSON,4601
+the Holiday Inn,FAC,4601
+three,CARDINAL,4601
+Billy Kelley,PERSON,4601
+Billy,PERSON,4601
+Lewis,PERSON,4601
+Lewis,PERSON,4601
+Broderick,PERSON,4601
+W. Crain,PERSON,4601
+Lewis,PERSON,4601
+Lewis,PERSON,4601
+Lewis,PERSON,4601
+Broderick,PERSON,4601
+Lewis,PERSON,4601
+Lewis,PERSON,4601
+Broderick,PERSON,4601
+Jeremy Houston,PERSON,4601
+Jones,PERSON,4601
+Lewis,PERSON,4601
+Houston,GPE,4601
+Houston,GPE,4601
+Lewis,PERSON,4601
+Broderick,PERSON,4601
+the Jefferson County Correctional Facility,FAC,4601
+Approximately 50,CARDINAL,4601
+Broderick,PERSON,4601
+Lewis,PERSON,4601
+Billy,PERSON,4601
+20 minutes,TIME,4601
+two,CARDINAL,4601
+10-foot,QUANTITY,4601
+10-foot,QUANTITY,4601
+10,CARDINAL,4601
+New Orleans,GPE,4601
+three,CARDINAL,4601
+that night,TIME,4601
+Beaumont,GPE,4601
+African American,NORP,4601
+Billy Kelley,PERSON,4601
+Port Arthur,PERSON,4601
+Chief Owens,PERSON,4601
+30 days,DATE,4601
+Houston,GPE,4601
+Scott Moore,PERSON,4601
+First Class Restoration,ORG,4601
+Moore,PERSON,4601
+one,CARDINAL,4601
+two,CARDINAL,4601
+at least one,CARDINAL,4601
+as many as 20,CARDINAL,4601
+Port Arthur,PERSON,4601
+Ladana Pressly,PERSON,4601
+several months,DATE,4601
+Herman Jones,PERSON,4601
+Jones,PERSON,4601
+FEMA,ORG,4601
+FEMA,ORG,4601
+FEMA,ORG,4601
+"2,000",MONEY,4601
+Port Arthurians,NORP,4601
+FEMA,ORG,4601
+Frank Mansell,PERSON,4601
+FEMA,ORG,4601
+Jones,PERSON,4601
+nights,TIME,4601
+Port Arthur,GPE,4601
+FEMA,ORG,4601
+Beaumont,GPE,4601
+FEMA,ORG,4601
+FEMA,ORG,4601
+Port Arthur’s,PERSON,4601
+October 28,DATE,4601
+Mansell,PERSON,4601

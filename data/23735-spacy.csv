@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,23735
+Alabama,GPE,23735
+Alaska,GPE,23735
+Arizona,GPE,23735
+Arkansas,GPE,23735
+California,GPE,23735
+Colorado,GPE,23735
+Connecticut,GPE,23735
+Delaware,GPE,23735
+Florida,GPE,23735
+Georgia,GPE,23735
+Hawaii,GPE,23735
+Idaho,GPE,23735
+Indiana,GPE,23735
+Iowa,GPE,23735
+Kansas,GPE,23735
+Kentucky,GPE,23735
+Louisiana,GPE,23735
+Maine,GPE,23735
+Maryland,GPE,23735
+Massachusetts,GPE,23735
+Michigan,GPE,23735
+Minnesota,GPE,23735
+Mississippi,GPE,23735
+Missouri,GPE,23735
+Montana,GPE,23735
+Nebraska,GPE,23735
+Nevada,GPE,23735
+New Hampshire,GPE,23735
+New Jersey,GPE,23735
+Ohio,GPE,23735
+Oklahoma,GPE,23735
+Oregon,GPE,23735
+Pennsylvania,GPE,23735
+Rhode Island,GPE,23735
+Tennessee,GPE,23735
+Texas,GPE,23735
+Utah,GPE,23735
+Vermont,GPE,23735
+Virginia,GPE,23735
+Washington,GPE,23735
+Washington,GPE,23735
+D.C.,GPE,23735
+Wisconsin,GPE,23735
+Wyoming,GPE,23735
+US,GPE,23735
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,23735
+Marshall Islands American Samoa Federated States,ORG,23735
+Micronesia Guam,FAC,23735
+Alberta,GPE,23735
+Canada,GPE,23735
+British Columbia,GPE,23735
+Canada Manitoba,GPE,23735
+Canada,GPE,23735
+New Brunswick,GPE,23735
+Canada Newfoundland,PERSON,23735
+Canada,GPE,23735
+Canada,GPE,23735
+Canada Ontario,GPE,23735
+Canada,GPE,23735
+Edward Island,GPE,23735
+Canada Quebec,GPE,23735
+Canada,GPE,23735
+Saskatchewan,GPE,23735
+Canada Yukon Territory,ORG,23735
+Canada,GPE,23735
+Zip Code,PERSON,23735

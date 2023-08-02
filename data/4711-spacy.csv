@@ -1,0 +1,23 @@
+text,label,fe_id
+Second,ORDINAL,4711
+Oklahoma City,GPE,4711
+6,CARDINAL,4711
+AP,ORG,4711
+second,ORDINAL,4711
+one,CARDINAL,4711
+The Oklahoma Highway Patrol,ORG,4711
+33-year-old,DATE,4711
+Leah Candelaria,FAC,4711
+Saturday,DATE,4711
+second,ORDINAL,4711
+Candelaria,GPE,4711
+29-year-old,DATE,4711
+Michael Hixon,PERSON,4711
+Blanchard,GPE,4711
+two,CARDINAL,4711
+one,CARDINAL,4711
+Hixon,PERSON,4711
+47-year-old,DATE,4711
+Kent Edward Castleberry,PERSON,4711
+Hixon,PERSON,4711
+first,ORDINAL,4711

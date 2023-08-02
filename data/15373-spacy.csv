@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,15373
+Alabama,GPE,15373
+Alaska,GPE,15373
+Arizona,GPE,15373
+Arkansas,GPE,15373
+California,GPE,15373
+Colorado,GPE,15373
+Connecticut,GPE,15373
+Delaware,GPE,15373
+Florida,GPE,15373
+Georgia,GPE,15373
+Hawaii,GPE,15373
+Idaho,GPE,15373
+Indiana,GPE,15373
+Iowa,GPE,15373
+Kansas,GPE,15373
+Kentucky,GPE,15373
+Louisiana,GPE,15373
+Maine,GPE,15373
+Maryland,GPE,15373
+Massachusetts,GPE,15373
+Michigan,GPE,15373
+Minnesota,GPE,15373
+Mississippi,GPE,15373
+Missouri,GPE,15373
+Montana,GPE,15373
+Nebraska,GPE,15373
+Nevada,GPE,15373
+New Hampshire,GPE,15373
+New Jersey,GPE,15373
+Ohio,GPE,15373
+Oklahoma,GPE,15373
+Oregon,GPE,15373
+Pennsylvania,GPE,15373
+Rhode Island,GPE,15373
+Tennessee,GPE,15373
+Texas,GPE,15373
+Utah,GPE,15373
+Vermont,GPE,15373
+Virginia,GPE,15373
+Washington,GPE,15373
+Washington,GPE,15373
+D.C.,GPE,15373
+Wisconsin,GPE,15373
+Wyoming,GPE,15373
+US,GPE,15373
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,15373
+Marshall Islands American Samoa Federated States,ORG,15373
+Micronesia Guam,FAC,15373
+Alberta,GPE,15373
+Canada,GPE,15373
+British Columbia,GPE,15373
+Canada Manitoba,GPE,15373
+Canada,GPE,15373
+New Brunswick,GPE,15373
+Canada Newfoundland,PERSON,15373
+Canada,GPE,15373
+Canada,GPE,15373
+Canada Ontario,GPE,15373
+Canada,GPE,15373
+Edward Island,GPE,15373
+Canada Quebec,GPE,15373
+Canada,GPE,15373
+Saskatchewan,GPE,15373
+Canada Yukon Territory,ORG,15373
+Canada,GPE,15373
+Zip Code,PERSON,15373

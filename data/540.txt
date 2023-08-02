@@ -1,0 +1,51 @@
+Court of Appeals of South Carolina. EVENING POST PUBLISHING CO., d/b/a The Post and Courier, and Ms. Parthinea Snowden, as Personal Representative of the Estate of Edward Snowden, Deceased, Plaintiffs, Of whom Evening Post Publishing Co., d/b/a The Post and Courier, is, Appellant, v. CITY OF NORTH CHARLESTON, Respondent. No. 3693. Decided: November 17, 2003
+
+John J. Kerr, of Charleston, for Appellant. Derk B.K. Van Raalte, IV and J. Brady Hair, both of North Charleston; and Richard W. Lingenfelter, of Charleston, for Respondent.
+
+The Post and Courier filed a Freedom of Information Act request seeking access to 911 tapes the City of North Charleston had in its possession regarding the shooting death of Eric Snowden. The City refused the request because the tapes were to be used in an upcoming lynching trial. The Post and Courier filed a declaratory judgment action seeking access to the tapes and the trial court denied access, finding the Act exempted the tapes from premature disclosure because they were to be used in a prospective law enforcement action. The Post and Courier appeals, and we affirm.
+
+FACTS
+
+On October 21, 2000, four white men attacked a black man, Eric Snowden, in front of a video store in North Charleston. The store owner called 911 and police were dispatched to the video store. When the officers arrived, they found Snowden inside the store, armed with a handgun. The officers shot and killed Snowden. The video store owner remained on the phone with the 911 dispatcher throughout the entire incident, and the 911 call was audio taped. The tapes included conversations between the officers and the dispatcher and contained contemporaneous accounts of the events giving rise to the lynching charges.
+
+The four men who attacked Snowden were arrested and charged with lynching. On June 21, 2001, after reviewing the transcript of the 911 call and listening to the taped recording, the solicitor decided not to press charges against the police officers who shot Snowden. On June 26, 2001, The Post and Courier filed a Freedom of Information Act request with the City asking for production of the audio taped 911 call. The solicitor informed The Post and Courier that he considered the tapes evidence in the upcoming lynching trial of the four men. The solicitor denied the request to immediately produce the tapes, but offered to give the tapes to The Post and Courier after the trial. Based on the solicitor's evidentiary assessment and request for a delayed release, the City refused to turn over the tapes, stating they were exempt from production prior to the lynching trial by S.C.Code Ann. § 30-4-40(a)(3)(B) (Supp.2002) of the Freedom of Information Act.
+
+The Post and Courier filed a declaratory judgment action seeking the production of the 911 tapes. The estate of Eric Snowden intervened in the case also seeking the production of the tapes in a civil action it filed against the City. The trial court denied The Post and Courier's request for immediate production of the tapes, but allowed the production of the tapes to Eric Snowden's estate. The trial court found the tapes fell under the exemption in section 30-4-40(a)(3)(B) and ruled the City did not have to produce the tapes until after the trial. On February 26, 2002, when the solicitor played the 911 tapes in court during the lynching trial, the City released the transcript of the 911 tapes to The Post and Courier. The Post and Courier appeals the denial of its declaratory judgment action.
+
+LAW/ANALYSIS
+
+I. Mootness
+
+The City argues that The Post and Courier's appeal is moot since the City released the tapes to The Post and Courier at the conclusion of the lynching trial. We disagree.
+
+A matter becomes moot “when judgment, if rendered, will have no practical legal effect upon [the] existing controversy. This is true when some event occurs making it impossible for [the] reviewing Court to grant effectual relief.” Curtis v. State, 345 S.C. 557, 567-68, 549 S.E.2d 591, 596 (2001) (alteration in original) (quoting Mathis v. South Carolina State Highway Dep't, 260 S.C. 344, 346, 195 S.E.2d 713, 715 (1973)), cert. denied, 535 U.S. 926, 122 S.Ct. 1295, 152 L.Ed.2d 208 (2002). In civil cases, there are three exceptions to the mootness doctrine: (1) an appellate court can retain jurisdiction if the issue is capable of repetition yet evading review, (2) an appellate court can decide cases of urgency to establish a rule for future conduct in matters of important public interest, and (3) if the decision by the trial court can affect future events or have collateral consequences to the parties, the appellate court can take jurisdiction. Id. at 568, 549 S.E.2d at 596.
+
+In Byrd v. Irmo High School, 321 S.C. 426, 468 S.E.2d 861 (1996), a student challenged the school district's order which suspended him for ten days for coming onto campus after consuming alcohol. The court chose to hear the case because school suspensions are very brief and are usually completed before judicial review can take place. Id. at 432, 468 S.E.2d at 864. Similarly, although we can grant no further relief in the current appeal, we choose to address The Post and Courier's argument because the facts presented here are capable of repetition yet evading review.
+
+II. Application of the Statute
+
+The Post and Courier argues the trial court erred when it denied its request to compel the City to turn the tapes over to it pursuant to the Freedom of Information Act. We disagree.
+
+The legislature exempted certain items from disclosure under the Freedom of Information Act as follows:
+
+Records of law enforcement and public safety agencies not otherwise available by state and federal law that were compiled in the process of detecting and investigating crime [are exempt from disclosure under the provisions of the Freedom of Information Act] if the disclosure of the information would harm the agency by:
+
+․ the premature release of information to be used in a prospective law enforcement action.
+
+S.C.Code Ann. § 30-4-40(a)(3)(B) (Supp.2002).
+
+In Turner v. North Charleston Police Department, 290 S.C. 511, 351 S.E.2d 583 (Ct.App.1986), a husband and wife were involved in a series of violent altercations culminating in the shooting and serious injury of the wife. The wife claimed she made a series of calls to the police prior to the shooting. The wife made a request for access to the police department's tape recordings, written files, and daily activities sheets. The trial court denied her access to the tape recordings and the written files. The police department informed the city that the husband was about to be indicted and tried in the next few weeks for shooting his wife. The trial court found that the exception exempting disclosure of information to be used in criminal proceedings applied. The wife appealed, and we affirmed the trial court's ruling. Id. at 513, 351 S.E.2d at 584.
+
+Additionally, in State v. Robinson, 305 S.C. 469, 476-77, 409 S.E.2d 404, 409 (1991), the supreme court held that “[t]he specific exemption under § 30-4-40(a)(3)(B) for the ‘premature release of information to be used in a prospective law enforcement action’ clearly exempts information regarding pending criminal prosecutions. No specific showing of harm is required by the State if the request involves such material.” [Emphasis added.]
+
+We find that the facts of this case fall squarely within Turner. The 911 tapes were to be used as evidence in the forthcoming lynching trial and therefore fell within the exception listed in section 30-4-40(a)(3)(B).
+
+AFFIRMED.
+
+FOOTNOTES
+
+. Access to the 911 tapes was to be provided to Eric Snowden's Estate upon proper request pursuant to the discovery provisions of the South Carolina Rules of Civil Procedure. The criminal defendants in the lynching trial were provided transcripts of the 911 tapes pursuant to Rule 5 of the South Carolina Rules of Criminal Procedure. The trial court expressly prohibited the attorneys or their clients from disclosing the tapes, copies of the tapes, transcripts, or any other summary or information related thereto, to the media. The court allowed the attorneys to disclose the information to their clients and agents for the limited purposes sanctioned by the applicable Rules of Procedure.
+
+JEFFERSON, Acting J.:
+
+HOWARD and BEATTY, JJ., concur.

@@ -1,0 +1,13 @@
+text,label,fe_id
+Two,CARDINAL,24194
+Friday,DATE,24194
+morning,TIME,24194
+around 6:00 a.m.,TIME,24194
+Northwood,ORG,24194
+Wales Road,FAC,24194
+Lemoyne Road,FAC,24194
+Menards,ORG,24194
+William Burgess,PERSON,24194
+51,DATE,24194
+Kimberly Snavely,PERSON,24194
+50,DATE,24194

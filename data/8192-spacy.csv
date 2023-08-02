@@ -1,0 +1,53 @@
+text,label,fe_id
+ANAHEIM,ORG,8192
+three,CARDINAL,8192
+three,CARDINAL,8192
+Monday,DATE,8192
+night,TIME,8192
+today,DATE,8192
+One,CARDINAL,8192
+7:29 p.m.,TIME,8192
+La Palma Avenue,FAC,8192
+Sgt,PERSON,8192
+Tim Schmidt,PERSON,8192
+two,CARDINAL,8192
+911,CARDINAL,8192
+two,CARDINAL,8192
+The Home Depot,ORG,8192
+Schmidt,PERSON,8192
+two,CARDINAL,8192
+Crescent Avenue,FAC,8192
+80 to 100 mph,QUANTITY,8192
+one-mile,QUANTITY,8192
+Crescent Avenue,FAC,8192
+Valley Street,FAC,8192
+Magnolia,GPE,8192
+Schmidt,PERSON,8192
+About one minute,TIME,8192
+Crescent,GPE,8192
+Magnolia,GPE,8192
+Toyota,ORG,8192
+Camry,PRODUCT,8192
+Toyota,ORG,8192
+Magnolia,GPE,8192
+Sgt,PERSON,8192
+Rick Martinez,PERSON,8192
+two,CARDINAL,8192
+Orlando Botello,PERSON,8192
+49,DATE,8192
+Chino Hills,GPE,8192
+Schmidt,PERSON,8192
+Camry,PRODUCT,8192
+22-year-old,DATE,8192
+Oscar Javier De La,PERSON,8192
+Torre Villalobos,PERSON,8192
+22,DATE,8192
+Menifee,ORG,8192
+UCI Medical Center in Orange,ORG,8192
+Schmidt,PERSON,8192
+Schmidt,PERSON,8192
+two,CARDINAL,8192
+Schmidt,PERSON,8192
+the Anaheim Police Department,ORG,8192
+714,CARDINAL,8192
+714,CARDINAL,8192

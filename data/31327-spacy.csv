@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,31327
+Alabama,GPE,31327
+Alaska,GPE,31327
+Arizona,GPE,31327
+Arkansas,GPE,31327
+California,GPE,31327
+Colorado,GPE,31327
+Connecticut,GPE,31327
+Delaware,GPE,31327
+Florida,GPE,31327
+Georgia,GPE,31327
+Hawaii,GPE,31327
+Idaho,GPE,31327
+Indiana,GPE,31327
+Iowa,GPE,31327
+Kansas,GPE,31327
+Kentucky,GPE,31327
+Louisiana,GPE,31327
+Maine,GPE,31327
+Maryland,GPE,31327
+Massachusetts,GPE,31327
+Michigan,GPE,31327
+Minnesota,GPE,31327
+Mississippi,GPE,31327
+Missouri,GPE,31327
+Montana,GPE,31327
+Nebraska,GPE,31327
+Nevada,GPE,31327
+New Hampshire,GPE,31327
+New Jersey,GPE,31327
+Ohio,GPE,31327
+Oklahoma,GPE,31327
+Oregon,GPE,31327
+Pennsylvania,GPE,31327
+Rhode Island,GPE,31327
+Tennessee,GPE,31327
+Texas,GPE,31327
+Utah,GPE,31327
+Vermont,GPE,31327
+Virginia,GPE,31327
+Washington,GPE,31327
+Washington,GPE,31327
+D.C.,GPE,31327
+Wisconsin,GPE,31327
+Wyoming,GPE,31327
+US,GPE,31327
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,31327
+Marshall Islands American Samoa Federated States,ORG,31327
+Micronesia Guam,FAC,31327
+Alberta,GPE,31327
+Canada,GPE,31327
+British Columbia,GPE,31327
+Canada Manitoba,GPE,31327
+Canada,GPE,31327
+New Brunswick,GPE,31327
+Canada Newfoundland,PERSON,31327
+Canada,GPE,31327
+Canada,GPE,31327
+Canada Ontario,GPE,31327
+Canada,GPE,31327
+Edward Island,GPE,31327
+Canada Quebec,GPE,31327
+Canada,GPE,31327
+Saskatchewan,GPE,31327
+Canada Yukon Territory,ORG,31327
+Canada,GPE,31327
+Zip Code,PERSON,31327

@@ -1,0 +1,22 @@
+text,label,fe_id
+Times,ORG,1095
+Monday,DATE,1095
+Frank Hurtado,PERSON,1095
+22,DATE,1095
+Los Angeles,GPE,1095
+San Bernardino County,GPE,1095
+Tuesday,DATE,1095
+Hurtado three,DATE,1095
+San Bernardino Sgt,EVENT,1095
+Ron Schwenka,PERSON,1095
+Hurtado,PERSON,1095
+4th,ORDINAL,1095
+about 3 p.m.,TIME,1095
+Monday,DATE,1095
+Schwenka,PERSON,1095
+Hurtado,GPE,1095
+Highland,GPE,1095
+Sterling,ORG,1095
+Hurtado,PERSON,1095
+The Police Department’s,ORG,1095
+Schwenka,PERSON,1095

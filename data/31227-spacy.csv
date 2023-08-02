@@ -1,0 +1,55 @@
+text,label,fe_id
+BOSTON,GPE,31227
+CBS,ORG,31227
+Three,CARDINAL,31227
+Dorchester,PRODUCT,31227
+several hours,TIME,31227
+Tuesday,DATE,31227
+at least two,CARDINAL,31227
+One,CARDINAL,31227
+Tuesday night,TIME,31227
+second,ORDINAL,31227
+Wednesday,DATE,31227
+morning,TIME,31227
+Ferndale Street,FAC,31227
+911,CARDINAL,31227
+9:30 a.m.,TIME,31227
+Acting Boston,ORG,31227
+Gregory Long,PERSON,31227
+SWAT,ORG,31227
+five-to-six hours,DATE,31227
+Long,PERSON,31227
+this afternoon,TIME,31227
+three,CARDINAL,31227
+Long,PERSON,31227
+30,DATE,31227
+2001,DATE,31227
+more than a decade,DATE,31227
+Julie Clark,PERSON,31227
+Clark,PERSON,31227
+Boston,GPE,31227
+Michelle Wu,PERSON,31227
+the past week,DATE,31227
+At least two,CARDINAL,31227
+Boston Medical Center,ORG,31227
+Dozens,CARDINAL,31227
+Boston,GPE,31227
+one,CARDINAL,31227
+Tuesday,DATE,31227
+night,TIME,31227
+Ed Davis,PERSON,31227
+Dorchester,PERSON,31227
+Boston Medical Center,ORG,31227
+Charlie Baker,PERSON,31227
+Commonwealth,ORG,31227
+each day,DATE,31227
+Baker,PERSON,31227
+the last three days,DATE,31227
+Boston,GPE,31227
+911,CARDINAL,31227
+Suffolk,GPE,31227
+Rachael Rollins,PERSON,31227
+Rollins,PERSON,31227
+Saturday night,TIME,31227
+Boston,GPE,31227
+Ingleside Street,FAC,31227

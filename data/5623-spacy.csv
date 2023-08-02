@@ -1,0 +1,7 @@
+text,label,fe_id
+Arthur Mike Nava,PERSON,5623
+40-year-old,DATE,5623
+Latino,PERSON,5623
+"Monday, Nov. 6",DATE,5623
+East Los Angeles,GPE,5623
+Los Angeles County,GPE,5623

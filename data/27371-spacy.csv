@@ -1,0 +1,24 @@
+text,label,fe_id
+Two,CARDINAL,27371
+Friday,DATE,27371
+morning,TIME,27371
+U.S. Marshals,ORG,27371
+Atlanta,GPE,27371
+11 a.m.,TIME,27371
+Forrest Park Road,FAC,27371
+the Georgia State Patrol,ORG,27371
+U.S. Marshals,ORG,27371
+3000,CARDINAL,27371
+Forrest Park Road,FAC,27371
+two,CARDINAL,27371
+Nissan Rogue,ORG,27371
+GSP,ORG,27371
+The U.S. Marshals,ORG,27371
+Nissan,ORG,27371
+David Cannimore,PERSON,27371
+Cannimore,PERSON,27371
+Bryce Metts,PERSON,27371
+first,ORDINAL,27371
+GSP,ORG,27371
+Cannimore,ORG,27371
+U.S. Marshals,ORG,27371

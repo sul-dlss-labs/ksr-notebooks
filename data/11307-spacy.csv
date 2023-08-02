@@ -1,0 +1,32 @@
+text,label,fe_id
+Twenty-seven-year-old,DATE,11307
+U.S. Army,ORG,11307
+Mark Lewis Salazar,PERSON,11307
+Cape Fear Valley Medical Center,FAC,11307
+Fayetteville,GPE,11307
+Sunday,DATE,11307
+around 3 a.m.,TIME,11307
+May 5,DATE,11307
+6500,CARDINAL,11307
+Pacific Avenue,FAC,11307
+three,CARDINAL,11307
+Pacific Avenue,FAC,11307
+Cape Fear Valley Medical Center,ORG,11307
+three,CARDINAL,11307
+James Tart,PERSON,11307
+Michael Bohannon,PERSON,11307
+Chase Robinson,ORG,11307
+Tart,ORG,11307
+17 years,DATE,11307
+Bohannon,GPE,11307
+six,CARDINAL,11307
+Robinson,PERSON,11307
+three years,DATE,11307
+The Fayetteville Police,ORG,11307
+Salazar,ORG,11307
+one,CARDINAL,11307
+the U.S. Army Special Operations Command,ORG,11307
+the State Bureau of Investigation,ORG,11307
+Classifieds,NORP,11307
+Get Alerts,PERSON,11307
+Twitter,PRODUCT,11307

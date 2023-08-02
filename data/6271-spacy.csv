@@ -1,0 +1,19 @@
+text,label,fe_id
+Joseph Picciano,PERSON,6271
+21-year-old,DATE,6271
+Bedford,PERSON,6271
+two-hour,TIME,6271
+Wednesday,DATE,6271
+evening,TIME,6271
+three,CARDINAL,6271
+Cuyahoga County,GPE,6271
+Elizabeth Balraj,PERSON,6271
+Bedford,GPE,6271
+about 6:45 p.m.,TIME,6271
+800,CARDINAL,6271
+Lincoln Blvd,ORG,6271
+Picciano,ORG,6271
+two hours earlier,TIME,6271
+Johnson Avenue,FAC,6271
+Lincoln Boulevard,ORG,6271
+the next hour,TIME,6271

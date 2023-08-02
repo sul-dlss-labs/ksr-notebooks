@@ -1,0 +1,61 @@
+text,label,fe_id
+Two,CARDINAL,1664
+first,ORDINAL,1664
+third,ORDINAL,1664
+Friday,DATE,1664
+West Side,NORP,1664
+two,CARDINAL,1664
+"70,000",MONEY,1664
+Jeffrey Smith,PERSON,1664
+22,DATE,1664
+1400,CARDINAL,1664
+North Lotus Avenue,FAC,1664
+about 10 p.m.,TIME,1664
+May 3,DATE,1664
+the Sheriff's Police Gang Unit,ORG,1664
+the Chicago Police Department,ORG,1664
+Smith,PERSON,1664
+three days later,DATE,1664
+Cook County Hospital,FAC,1664
+first,ORDINAL,1664
+John LaVelle,PERSON,1664
+32,DATE,1664
+Orland Hills,GPE,1664
+Esteban Perkins,PERSON,1664
+31,DATE,1664
+Chicago,GPE,1664
+LaVelle,PERSON,1664
+one,CARDINAL,1664
+Smith,GPE,1664
+May 3,DATE,1664
+Smith,ORG,1664
+Smith,ORG,1664
+three,CARDINAL,1664
+LaVelle,PERSON,1664
+Smith,GPE,1664
+Carlos Santos,PERSON,1664
+24,DATE,1664
+3800,CARDINAL,1664
+West Diversey Avenue,FAC,1664
+Chicago,GPE,1664
+Alexander Valencia,PERSON,1664
+30,DATE,1664
+9600,CARDINAL,1664
+South Kedvale Avenue,LOC,1664
+Oak Lawn,GPE,1664
+third,ORDINAL,1664
+Morris Richardson,PERSON,1664
+29,DATE,1664
+Chicago,GPE,1664
+Bill Cunningham,PERSON,1664
+Thursday,DATE,1664
+LaVelle,PERSON,1664
+LaVelle,PERSON,1664
+"8,000",MONEY,1664
+three,CARDINAL,1664
+LaVelle,PERSON,1664
+Richardson,PERSON,1664
+Thursday,DATE,1664
+three,CARDINAL,1664
+Saturday,DATE,1664
+Bond Court,ORG,1664

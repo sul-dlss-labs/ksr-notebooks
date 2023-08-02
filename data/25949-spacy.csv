@@ -1,0 +1,15 @@
+text,label,fe_id
+Phoenix,GPE,25949
+Monday,DATE,25949
+morning,TIME,25949
+Phoenix Sky Harbor International Airport,FAC,25949
+around 9:45 a.m.,TIME,25949
+40th,ORDINAL,25949
+Van Buren,FAC,25949
+32nd Street,FAC,25949
+Roosevelt,LOC,25949
+one,CARDINAL,25949
+26-year-old,DATE,25949
+Alejandro Hernandez,PERSON,25949
+40-year-old,DATE,25949
+11 years,DATE,25949

@@ -1,0 +1,27 @@
+text,label,fe_id
+six-year-old,DATE,30255
+three-year-old,DATE,30255
+Monday,DATE,30255
+Alabama,GPE,30255
+Shelby County,GPE,30255
+three-year-old,DATE,30255
+six-year-old,DATE,30255
+around 10:00 a.m.,TIME,30255
+Helena,ORG,30255
+6,CARDINAL,30255
+Clay Hammac,PERSON,30255
+WVTM,ORG,30255
+13,CARDINAL,30255
+this morning,TIME,30255
+"May 17, 2021",DATE,30255
+Hammac,PERSON,30255
+first,ORDINAL,30255
+11-Year-Old,DATE,30255
+six-year-old,DATE,30255
+WVTM,ORG,30255
+13,CARDINAL,30255
+Shelby County,GPE,30255
+Shelby County Sheriff,PERSON,30255
+John Samaniego,PERSON,30255
+the Alabaster Fire Department,ORG,30255
+Southeast Shelby Rescue,ORG,30255

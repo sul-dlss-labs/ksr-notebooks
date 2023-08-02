@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9756
+Alabama,GPE,9756
+Alaska,GPE,9756
+Arizona,GPE,9756
+Arkansas,GPE,9756
+California,GPE,9756
+Colorado,GPE,9756
+Connecticut,GPE,9756
+Delaware,GPE,9756
+Florida,GPE,9756
+Georgia,GPE,9756
+Hawaii,GPE,9756
+Idaho,GPE,9756
+Indiana,GPE,9756
+Iowa,GPE,9756
+Kansas,GPE,9756
+Kentucky,GPE,9756
+Louisiana,GPE,9756
+Maine,GPE,9756
+Maryland,GPE,9756
+Massachusetts,GPE,9756
+Michigan,GPE,9756
+Minnesota,GPE,9756
+Mississippi,GPE,9756
+Missouri,GPE,9756
+Montana,GPE,9756
+Nebraska,GPE,9756
+Nevada,GPE,9756
+New Hampshire,GPE,9756
+New Jersey,GPE,9756
+Ohio,GPE,9756
+Oklahoma,GPE,9756
+Oregon,GPE,9756
+Pennsylvania,GPE,9756
+Rhode Island,GPE,9756
+Tennessee,GPE,9756
+Texas,GPE,9756
+Utah,GPE,9756
+Vermont,GPE,9756
+Virginia,GPE,9756
+Washington,GPE,9756
+Washington,GPE,9756
+D.C.,GPE,9756
+Wisconsin,GPE,9756
+Wyoming,GPE,9756
+US,GPE,9756
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9756
+Marshall Islands American Samoa Federated States,ORG,9756
+Micronesia Guam,FAC,9756
+Alberta,GPE,9756
+Canada,GPE,9756
+British Columbia,GPE,9756
+Canada Manitoba,GPE,9756
+Canada,GPE,9756
+New Brunswick,GPE,9756
+Canada Newfoundland,PERSON,9756
+Canada,GPE,9756
+Canada,GPE,9756
+Canada Ontario,GPE,9756
+Canada,GPE,9756
+Edward Island,GPE,9756
+Canada Quebec,GPE,9756
+Canada,GPE,9756
+Saskatchewan,GPE,9756
+Canada Yukon Territory,ORG,9756
+Canada,GPE,9756
+Zip Code,PERSON,9756

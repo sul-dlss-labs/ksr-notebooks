@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,23199
+Alabama,GPE,23199
+Alaska,GPE,23199
+Arizona,GPE,23199
+Arkansas,GPE,23199
+California,GPE,23199
+Colorado,GPE,23199
+Connecticut,GPE,23199
+Delaware,GPE,23199
+Florida,GPE,23199
+Georgia,GPE,23199
+Hawaii,GPE,23199
+Idaho,GPE,23199
+Indiana,GPE,23199
+Iowa,GPE,23199
+Kansas,GPE,23199
+Kentucky,GPE,23199
+Louisiana,GPE,23199
+Maine,GPE,23199
+Maryland,GPE,23199
+Massachusetts,GPE,23199
+Michigan,GPE,23199
+Minnesota,GPE,23199
+Mississippi,GPE,23199
+Missouri,GPE,23199
+Montana,GPE,23199
+Nebraska,GPE,23199
+Nevada,GPE,23199
+New Hampshire,GPE,23199
+New Jersey,GPE,23199
+Ohio,GPE,23199
+Oklahoma,GPE,23199
+Oregon,GPE,23199
+Pennsylvania,GPE,23199
+Rhode Island,GPE,23199
+Tennessee,GPE,23199
+Texas,GPE,23199
+Utah,GPE,23199
+Vermont,GPE,23199
+Virginia,GPE,23199
+Washington,GPE,23199
+Washington,GPE,23199
+D.C.,GPE,23199
+Wisconsin,GPE,23199
+Wyoming,GPE,23199
+US,GPE,23199
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,23199
+Marshall Islands American Samoa Federated States,ORG,23199
+Micronesia Guam,FAC,23199
+Alberta,GPE,23199
+Canada,GPE,23199
+British Columbia,GPE,23199
+Canada Manitoba,GPE,23199
+Canada,GPE,23199
+New Brunswick,GPE,23199
+Canada Newfoundland,PERSON,23199
+Canada,GPE,23199
+Canada,GPE,23199
+Canada Ontario,GPE,23199
+Canada,GPE,23199
+Edward Island,GPE,23199
+Canada Quebec,GPE,23199
+Canada,GPE,23199
+Saskatchewan,GPE,23199
+Canada Yukon Territory,ORG,23199
+Canada,GPE,23199
+Zip Code,PERSON,23199

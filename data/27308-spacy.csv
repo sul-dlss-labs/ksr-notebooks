@@ -1,0 +1,31 @@
+text,label,fe_id
+Bismarck,GPE,27308
+Missouri,GPE,27308
+Wednesday,DATE,27308
+night,TIME,27308
+the Missouri Highway Patrol,ORG,27308
+about 7 p.m.,TIME,27308
+North Cedar Street,LOC,27308
+Bismarck,GPE,27308
+about 75 miles,QUANTITY,27308
+St. Louis,GPE,27308
+Cpl,PERSON,27308
+Juston Wheetley,PERSON,27308
+the Missouri Highway Patrol,ORG,27308
+Wheetley,PERSON,27308
+Wheetley,PERSON,27308
+St. Francois County,GPE,27308
+Jim Coplin,PERSON,27308
+34-year-old,DATE,27308
+Dustin Eaton,PERSON,27308
+Steve Poole,PERSON,27308
+the Post-Dispatch,ORG,27308
+Thursday,DATE,27308
+Bismarck,ORG,27308
+"about 1,400",CARDINAL,27308
+Poole,ORG,27308
+about 15,CARDINAL,27308
+Poole,ORG,27308
+Poole,ORG,27308
+Eaton,GPE,27308
+Wheetley,PERSON,27308

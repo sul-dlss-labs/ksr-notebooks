@@ -1,0 +1,102 @@
+text,label,fe_id
+Times,ORG,4040
+Thursday,DATE,4040
+South Los Angeles,NORP,4040
+more than 100,CARDINAL,4040
+one,CARDINAL,4040
+first,ORDINAL,4040
+16,CARDINAL,4040
+18,CARDINAL,4040
+40-minute,TIME,4040
+35,CARDINAL,4040
+Vermont,GPE,4040
+Vernon,FAC,4040
+Los Angeles Times,ORG,4040
+"Wednesday March 16, 2005",DATE,4040
+2,CARDINAL,4040
+54,CARDINAL,4040
+Friday,DATE,4040
+California,GPE,4040
+South Los Angeles,GPE,4040
+Tony Diaz,PERSON,4040
+Nancy Vasquez,PERSON,4040
+Diaz,PERSON,4040
+Rebecca Gallegos,PERSON,4040
+Vasquez,ORG,4040
+Linda English,PERSON,4040
+50 yards,QUANTITY,4040
+Dozens,CARDINAL,4040
+Vermont,GPE,4040
+Thursday,DATE,4040
+three dozen,CARDINAL,4040
+the morning,TIME,4040
+Tony Diaz,PERSON,4040
+23,DATE,4040
+A half-dozen,CARDINAL,4040
+Vermont,GPE,4040
+Diaz,PERSON,4040
+Diaz,PERSON,4040
+Rebecca Gallegos,PERSON,4040
+first,ORDINAL,4040
+second,ORDINAL,4040
+Gallegos,PERSON,4040
+Vermont,GPE,4040
+Diaz,PERSON,4040
+Ryan Vargas,PERSON,4040
+20,DATE,4040
+about 6 a.m.,TIME,4040
+three-hour,TIME,4040
+Diaz,PERSON,4040
+William J. Bratton,PERSON,4040
+500,CARDINAL,4040
+20,CARDINAL,4040
+Vargas,PERSON,4040
+Thursday,DATE,4040
+Bratton,ORG,4040
+Bratton,ORG,4040
+88th Street,FAC,4040
+Vermont,GPE,4040
+At least eight,CARDINAL,4040
+Paul Vernon,PERSON,4040
+39th Street,FAC,4040
+Bratton,ORG,4040
+Vargas,GPE,4040
+3:15 a.m.,TIME,4040
+LAPD,ORG,4040
+SWAT,ORG,4040
+nearly three hours,TIME,4040
+Vernon,ORG,4040
+LAPD,ORG,4040
+Vernon,ORG,4040
+Thursday,DATE,4040
+daily,DATE,4040
+about 3 a.m.,TIME,4040
+one,CARDINAL,4040
+Annie Bogar,PERSON,4040
+62,DATE,4040
+45th Street,FAC,4040
+Vermont,GPE,4040
+37 years,DATE,4040
+about two dozen,CARDINAL,4040
+George Chavez,PERSON,4040
+George’s Custom Upholstery,PERSON,4040
+Foam Enterprises,PERSON,4040
+Patrice Lewis,PERSON,4040
+first,ORDINAL,4040
+the Police Commission,ORG,4040
+13-year-old,DATE,4040
+Devin Brown,PERSON,4040
+South Los Angeles,GPE,4040
+Today,DATE,4040
+Bob Baker,PERSON,4040
+the Los Angeles Police Protective League,ORG,4040
+Tomorrow,DATE,4040
+Baker,PERSON,4040
+Gallegos,PERSON,4040
+Diaz,PERSON,4040
+first,ORDINAL,4040
+Anthony Gonsalez,PERSON,4040
+18,DATE,4040
+Tony,PERSON,4040
+Reina Fujino,PERSON,4040
+Diaz,PERSON,4040

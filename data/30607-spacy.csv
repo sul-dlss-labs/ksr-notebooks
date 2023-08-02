@@ -1,0 +1,27 @@
+text,label,fe_id
+LOS ANGELES,GPE,30607
+Hollywood,GPE,30607
+Thursday,DATE,30607
+morning,TIME,30607
+Hollywood,GPE,30607
+Calif.,GPE,30607
+"July 15, 2021",DATE,30607
+the Los Angeles Police Department,ORG,30607
+6700,CARDINAL,30607
+Hollywood Boulevard,FAC,30607
+Martel Avenue,FAC,30607
+Sunset Boulevard,FAC,30607
+about 11:20 a.m.,TIME,30607
+Det,PERSON,30607
+Meghan Aguilar,PERSON,30607
+Late Thursday,DATE,30607
+evening,TIME,30607
+today,DATE,30607
+Hollywood,GPE,30607
+@LAPDPIO,ORG,30607
+"July 16, 2021",DATE,30607
+William,PERSON,30607
+Hollywood,GPE,30607
+at least 15 minutes,TIME,30607
+LAPD,ORG,30607
+the evening hours,TIME,30607

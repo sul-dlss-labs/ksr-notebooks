@@ -1,0 +1,16 @@
+text,label,fe_id
+At least one,CARDINAL,29356
+Gardena,ORG,29356
+Tuesday,DATE,29356
+night,TIME,29356
+One,CARDINAL,29356
+Gardena,GPE,29356
+Calif.,GPE,29356
+"Dec. 23, 2020",DATE,29356
+around 10:30 p.m.,TIME,29356
+Artesia Boulevard,ORG,29356
+Western Avenue,FAC,29356
+Gardena,ORG,29356
+One,CARDINAL,29356
+Two,CARDINAL,29356
+the Los Angeles County Fire Department,ORG,29356

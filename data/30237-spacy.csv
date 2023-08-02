@@ -1,0 +1,63 @@
+text,label,fe_id
+One,CARDINAL,30237
+Thursday,DATE,30237
+night,TIME,30237
+ALVARADO,ORG,30237
+Texas,GPE,30237
+11:45 a.m.,TIME,30237
+Friday,DATE,30237
+Two,CARDINAL,30237
+Hill County,GPE,30237
+Thursday,DATE,30237
+evening,TIME,30237
+Alvarado,GPE,30237
+Dallas,GPE,30237
+One,CARDINAL,30237
+19-year-old,DATE,30237
+Adrian Murillo,ORG,30237
+overnight,TIME,30237
+Hector Murillo,PERSON,30237
+19,DATE,30237
+Friday,DATE,30237
+morning,TIME,30237
+Adrian,NORP,30237
+Ellis County,GPE,30237
+one,CARDINAL,30237
+one,CARDINAL,30237
+Hill County,GPE,30237
+The Burleson Police Department,ORG,30237
+Kevin Cordell,PERSON,30237
+Facebook Thursday,EVENT,30237
+evening,TIME,30237
+Burleson PD,ORG,30237
+Hill County Constable,GPE,30237
+Kevin Cordell,PERSON,30237
+this afternoon,TIME,30237
+Alvarado,GPE,30237
+Constable Cordell,PERSON,30237
+two,CARDINAL,30237
+Johnson County,GPE,30237
+Chisholm Trail 100,FAC,30237
+Hill County Constable Shooting and Mail,ORG,30237
+Chisholm Trail 100,FAC,30237
+332,CARDINAL,30237
+Burleson,PERSON,30237
+TX,ORG,30237
+76097,DATE,30237
+Cordell,PERSON,30237
+the Texas Department of Public Safety,ORG,30237
+Friday,DATE,30237
+morning,TIME,30237
+Adrian,NORP,30237
+Thursday,DATE,30237
+afternoon,TIME,30237
+County Road 604,FAC,30237
+Adrian,NORP,30237
+Adrian,NORP,30237
+the Dallas Police Department,ORG,30237
+I-35,PRODUCT,30237
+hours,TIME,30237
+the Texas Rangers,ORG,30237
+"The Bureau of Alcohol, Tobacco, Firearms",ORG,30237
+Explosives,ORG,30237
+WFAA,ORG,30237

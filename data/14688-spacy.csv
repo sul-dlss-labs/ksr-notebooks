@@ -1,0 +1,34 @@
+text,label,fe_id
+One,CARDINAL,14688
+early Saturday,DATE,14688
+San Bernardino,GPE,14688
+800,CARDINAL,14688
+North Davidson Avenue,FAC,14688
+around 3:30 a.m.,TIME,14688
+the Fontana Police Department,ORG,14688
+37-year-old,DATE,14688
+the San Bernardino Police Department,ORG,14688
+Four,CARDINAL,14688
+two,CARDINAL,14688
+One,CARDINAL,14688
+22-year-old,DATE,14688
+James Moala Kofu,PERSON,14688
+two,CARDINAL,14688
+Kofu,GPE,14688
+Kofu,PERSON,14688
+second,ORDINAL,14688
+35-year-old,DATE,14688
+Antonio Valentino Ramirez,PERSON,14688
+Two hours later,TIME,14688
+Ramirez,PERSON,14688
+Davidson Avenue,FAC,14688
+Fontana,GPE,14688
+Ramirez,PERSON,14688
+Fontana,GPE,14688
+San Bernardino,GPE,14688
+Ramirez,PERSON,14688
+Sgt,PERSON,14688
+Gary Robertson,PERSON,14688
+909-841-5361,CARDINAL,14688
+John Munoz,PERSON,14688
+909,CARDINAL,14688

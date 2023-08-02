@@ -1,0 +1,10 @@
+text,label,fe_id
+"Bobby Hinton,60",PERSON,24002
+seconds,TIME,24002
+Hinton,ORG,24002
+two,CARDINAL,24002
+One,CARDINAL,24002
+Hinton,GPE,24002
+Byrd Regional Hospital,ORG,24002
+Hinton,PERSON,24002
+Alexandria,GPE,24002

@@ -1,0 +1,55 @@
+text,label,fe_id
+Phoenix,GPE,12570
+24-year-old,DATE,12570
+Tomas G. Ramirez Gonzalez,PERSON,12570
+28-year-old,DATE,12570
+Adrian De La Cruz,PERSON,12570
+Jose Chacon,PERSON,12570
+19,DATE,12570
+first,ORDINAL,12570
+Two,CARDINAL,12570
+Phoenix,GPE,12570
+Hurricane Bay,EVENT,12570
+4100 W. Bell Rd,MONEY,12570
+One,CARDINAL,12570
+about 2 a.m.,TIME,12570
+second,ORDINAL,12570
+Gary Schonfelder,PERSON,12570
+two,CARDINAL,12570
+4 a.m.,TIME,12570
+Schonfelder,PERSON,12570
+20-year,DATE,12570
+Phoenix,GPE,12570
+Sgt,PERSON,12570
+Tommy Thompson,PERSON,12570
+two,CARDINAL,12570
+Schonfelder,PERSON,12570
+Thompson,ORG,12570
+two,CARDINAL,12570
+Thompson,ORG,12570
+two,CARDINAL,12570
+two,CARDINAL,12570
+Thompson,ORG,12570
+Schonfelder,PERSON,12570
+Thompson,ORG,12570
+two,CARDINAL,12570
+Schonfelder,PERSON,12570
+Thompson,ORG,12570
+Fidencio Martinez,PERSON,12570
+Thompson,ORG,12570
+911,CARDINAL,12570
+Gonzalez,PERSON,12570
+two,CARDINAL,12570
+Thompson,ORG,12570
+Chacon,ORG,12570
+Gonzalez,PERSON,12570
+De La Cruz,PERSON,12570
+ATM,ORG,12570
+Chacon,ORG,12570
+Chacon,ORG,12570
+Schonfeld,PERSON,12570
+Martinez,PERSON,12570
+Chacon,ORG,12570
+Gonzalez,PERSON,12570
+http://www.azcentral.com/community/phoenix/articles/20130330phoenix-officer-involved-shooting-fatal-hurricane-bay-brk.html,GPE,12570
+33.448377,CARDINAL,12570

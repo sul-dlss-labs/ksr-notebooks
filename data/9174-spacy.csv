@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9174
+Alabama,GPE,9174
+Alaska,GPE,9174
+Arizona,GPE,9174
+Arkansas,GPE,9174
+California,GPE,9174
+Colorado,GPE,9174
+Connecticut,GPE,9174
+Delaware,GPE,9174
+Florida,GPE,9174
+Georgia,GPE,9174
+Hawaii,GPE,9174
+Idaho,GPE,9174
+Indiana,GPE,9174
+Iowa,GPE,9174
+Kansas,GPE,9174
+Kentucky,GPE,9174
+Louisiana,GPE,9174
+Maine,GPE,9174
+Maryland,GPE,9174
+Massachusetts,GPE,9174
+Michigan,GPE,9174
+Minnesota,GPE,9174
+Mississippi,GPE,9174
+Missouri,GPE,9174
+Montana,GPE,9174
+Nebraska,GPE,9174
+Nevada,GPE,9174
+New Hampshire,GPE,9174
+New Jersey,GPE,9174
+Ohio,GPE,9174
+Oklahoma,GPE,9174
+Oregon,GPE,9174
+Pennsylvania,GPE,9174
+Rhode Island,GPE,9174
+Tennessee,GPE,9174
+Texas,GPE,9174
+Utah,GPE,9174
+Vermont,GPE,9174
+Virginia,GPE,9174
+Washington,GPE,9174
+Washington,GPE,9174
+D.C.,GPE,9174
+Wisconsin,GPE,9174
+Wyoming,GPE,9174
+US,GPE,9174
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9174
+Marshall Islands American Samoa Federated States,ORG,9174
+Micronesia Guam,FAC,9174
+Alberta,GPE,9174
+Canada,GPE,9174
+British Columbia,GPE,9174
+Canada Manitoba,GPE,9174
+Canada,GPE,9174
+New Brunswick,GPE,9174
+Canada Newfoundland,PERSON,9174
+Canada,GPE,9174
+Canada,GPE,9174
+Canada Ontario,GPE,9174
+Canada,GPE,9174
+Edward Island,GPE,9174
+Canada Quebec,GPE,9174
+Canada,GPE,9174
+Saskatchewan,GPE,9174
+Canada Yukon Territory,ORG,9174
+Canada,GPE,9174
+Zip Code,PERSON,9174

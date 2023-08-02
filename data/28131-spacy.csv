@@ -1,0 +1,39 @@
+text,label,fe_id
+Two,CARDINAL,28131
+May,DATE,28131
+May 26,DATE,28131
+Stephen Stroud,PERSON,28131
+John DeHaan,PERSON,28131
+48-year-old,DATE,28131
+Thomas Marquez,PERSON,28131
+the Adams County District,GPE,28131
+Thornton,PERSON,28131
+about 11 p.m.,TIME,28131
+Stroud,PERSON,28131
+Marquez,ORG,28131
+the Thornton Infrastructure Maintenance Center,ORG,28131
+12450,DATE,28131
+Washington St.,GPE,28131
+Stroud,PERSON,28131
+Marquez,ORG,28131
+Stroud,PERSON,28131
+Marquez,ORG,28131
+Stroud,PERSON,28131
+Marquez,ORG,28131
+DeHann,PERSON,28131
+Marquez,ORG,28131
+Marquez,ORG,28131
+Marquez,ORG,28131
+Stroud,PERSON,28131
+DeHann,PERSON,28131
+Marquez,ORG,28131
+Marquez,PERSON,28131
+12,CARDINAL,28131
+Stroud,PERSON,28131
+Marquez,ORG,28131
+Stroud,GPE,28131
+three,CARDINAL,28131
+DeHann,PERSON,28131
+Marquez,PERSON,28131
+.355,CARDINAL,28131
+Colorado,GPE,28131

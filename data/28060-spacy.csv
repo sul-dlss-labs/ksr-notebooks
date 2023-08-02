@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,28060
+Alabama,GPE,28060
+Alaska,GPE,28060
+Arizona,GPE,28060
+Arkansas,GPE,28060
+California,GPE,28060
+Colorado,GPE,28060
+Connecticut,GPE,28060
+Delaware,GPE,28060
+Florida,GPE,28060
+Georgia,GPE,28060
+Hawaii,GPE,28060
+Idaho,GPE,28060
+Indiana,GPE,28060
+Iowa,GPE,28060
+Kansas,GPE,28060
+Kentucky,GPE,28060
+Louisiana,GPE,28060
+Maine,GPE,28060
+Maryland,GPE,28060
+Massachusetts,GPE,28060
+Michigan,GPE,28060
+Minnesota,GPE,28060
+Mississippi,GPE,28060
+Missouri,GPE,28060
+Montana,GPE,28060
+Nebraska,GPE,28060
+Nevada,GPE,28060
+New Hampshire,GPE,28060
+New Jersey,GPE,28060
+Ohio,GPE,28060
+Oklahoma,GPE,28060
+Oregon,GPE,28060
+Pennsylvania,GPE,28060
+Rhode Island,GPE,28060
+Tennessee,GPE,28060
+Texas,GPE,28060
+Utah,GPE,28060
+Vermont,GPE,28060
+Virginia,GPE,28060
+Washington,GPE,28060
+Washington,GPE,28060
+D.C.,GPE,28060
+Wisconsin,GPE,28060
+Wyoming,GPE,28060
+US,GPE,28060
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,28060
+Marshall Islands American Samoa Federated States,ORG,28060
+Micronesia Guam,FAC,28060
+Alberta,GPE,28060
+Canada,GPE,28060
+British Columbia,GPE,28060
+Canada Manitoba,GPE,28060
+Canada,GPE,28060
+New Brunswick,GPE,28060
+Canada Newfoundland,PERSON,28060
+Canada,GPE,28060
+Canada,GPE,28060
+Canada Ontario,GPE,28060
+Canada,GPE,28060
+Edward Island,GPE,28060
+Canada Quebec,GPE,28060
+Canada,GPE,28060
+Saskatchewan,GPE,28060
+Canada Yukon Territory,ORG,28060
+Canada,GPE,28060
+Zip Code,PERSON,28060

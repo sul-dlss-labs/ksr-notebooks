@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,14833
+Alabama,GPE,14833
+Alaska,GPE,14833
+Arizona,GPE,14833
+Arkansas,GPE,14833
+California,GPE,14833
+Colorado,GPE,14833
+Connecticut,GPE,14833
+Delaware,GPE,14833
+Florida,GPE,14833
+Georgia,GPE,14833
+Hawaii,GPE,14833
+Idaho,GPE,14833
+Indiana,GPE,14833
+Iowa,GPE,14833
+Kansas,GPE,14833
+Kentucky,GPE,14833
+Louisiana,GPE,14833
+Maine,GPE,14833
+Maryland,GPE,14833
+Massachusetts,GPE,14833
+Michigan,GPE,14833
+Minnesota,GPE,14833
+Mississippi,GPE,14833
+Missouri,GPE,14833
+Montana,GPE,14833
+Nebraska,GPE,14833
+Nevada,GPE,14833
+New Hampshire,GPE,14833
+New Jersey,GPE,14833
+Ohio,GPE,14833
+Oklahoma,GPE,14833
+Oregon,GPE,14833
+Pennsylvania,GPE,14833
+Rhode Island,GPE,14833
+Tennessee,GPE,14833
+Texas,GPE,14833
+Utah,GPE,14833
+Vermont,GPE,14833
+Virginia,GPE,14833
+Washington,GPE,14833
+Washington,GPE,14833
+D.C.,GPE,14833
+Wisconsin,GPE,14833
+Wyoming,GPE,14833
+US,GPE,14833
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,14833
+Marshall Islands American Samoa Federated States,ORG,14833
+Micronesia Guam,FAC,14833
+Alberta,GPE,14833
+Canada,GPE,14833
+British Columbia,GPE,14833
+Canada Manitoba,GPE,14833
+Canada,GPE,14833
+New Brunswick,GPE,14833
+Canada Newfoundland,PERSON,14833
+Canada,GPE,14833
+Canada,GPE,14833
+Canada Ontario,GPE,14833
+Canada,GPE,14833
+Edward Island,GPE,14833
+Canada Quebec,GPE,14833
+Canada,GPE,14833
+Saskatchewan,GPE,14833
+Canada Yukon Territory,ORG,14833
+Canada,GPE,14833
+Zip Code,PERSON,14833

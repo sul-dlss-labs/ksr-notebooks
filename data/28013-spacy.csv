@@ -1,0 +1,36 @@
+text,label,fe_id
+the 710 Freeway,FAC,28013
+Long Beach,GPE,28013
+California Highway Patrol,FAC,28013
+Friday,DATE,28013
+morning,TIME,28013
+the 710 Freeway,FAC,28013
+several hours,TIME,28013
+just after 11:30 p.m.,TIME,28013
+Thursday,DATE,28013
+Long Beach Police Department,ORG,28013
+the Santa Fe Avenue,ORG,28013
+California Highway Patrol Sgt,FAC,28013
+Robert Ruiz,PERSON,28013
+CHP,ORG,28013
+the 405 Freeway,FAC,28013
+midnight,TIME,28013
+Ruiz,ORG,28013
+About 5 minutes later,TIME,28013
+the 405 Freeway,FAC,28013
+Taser,GPE,28013
+about 30 minutes,TIME,28013
+Ruiz,ORG,28013
+Ruiz,ORG,28013
+two,CARDINAL,28013
+SigAlert,ORG,28013
+the 710 Freeway,FAC,28013
+405,CARDINAL,28013
+710,CARDINAL,28013
+CHP,ORG,28013
+Northbound,ORG,28013
+Willow Street,FAC,28013
+CHP,ORG,28013
+Del Amo Boulevard,FAC,28013
+CHP,ORG,28013
+just after 10:15 a.m.,TIME,28013

@@ -1,0 +1,131 @@
+Majority holding: It was not unreasonable force to shoot a sword-wielding man. The dissent makes much of the fact that no psychologist was called to the scene, although we do note that an ambulance had been called. We think that the fact that no psychologist was on the scene is irrelevant to this case. Mace v. City of Palestine , #02-40335, 333 F.3d 621, 2003 U.S. App. Lexis 12811 (5th Cir. 2003).
+
+UNITED STATES COURT OF APPEALS
+
+FOR THE FIFTH CIRCUIT
+
+Debera Mace,
+
+Individually and as representative of the
+
+Estate of Jacob Vincent Revill, deceased,
+
+Plaintiff-Appellant,
+
+versus
+
+City of Palestine;
+
+Pat Henderson,
+
+Defendants-Appellees.
+
+No. 02-40335
+
+333 F.3d 621
+
+2003 U.S. App. Lexis 12811
+
+June 24, 2003, Filed
+
+Charles R. Fulbruge III, Clerk
+
+Rehearing denied at 2003 U.S. App. Lexis 15385 (5th Cir. Tex., July 24, 2003). Appeal from the U.S. District Court for the Eastern District of Texas, No. 6:01-CV-269, reported at 213 F.Supp.2d 691, 2002 U.S. Dist. Lexis 20397 (E.D. Tex., 2002).
+
+Jolly, Duhe and Wiener, Circuit Judges.
+
+Grady Jolly, Circuit Judge:
+
+After the shooting death of her son in a confrontation with police, Debera Mace brought suit under 42 U.S.C. 1983 against the City of Palestine, Texas and Palestine Police Chief Pat Henderson. Mace alleges that Henderson used excessive force against her son and, after shooting her son, he was deliberately indifferent to her sons need for medical attention - all in violation of the Fourth and Fourteenth Amendments. The district court granted summary judgment for the defendants based on qualified immunity. We find no reason to disturb the ruling and, accordingly, we affirm.
+
+I.
+
+On April 16, 2001, police in the City of Palestine, Texas, responded to complaints of a disturbance involving two intoxicated individuals at a mobile home park. Officers arriving on the scene found Jacob Vincent Revill (Revill) inside a mobile home with the door open, yelling, cursing, brandishing an eighteen to twenty inch sword and breaking windows. Blood was on his hands and on the broken windows. The officers, with weapons drawn, told Revill to drop the sword. Revill told the officers to stay away from him and threatened to kill himself. n1 He claimed to be an expert in martial arts and made several martial arts motions with the sword in an effort to keep the officers at bay. Revill demanded to talk to Chief of Police Pat Henderson. n2 Henderson arrived on the scene and attempted to calm Revill by talking to him. n3 Revill remained agitated, cursing his father and his girlfriend, and continued yelling and brandishing the sword. Henderson told Revill to drop the sword and not to advance on the officers. He offered to take Revill to see a doctor or psychologist. n4 While Henderson was talking to him, Revill exited the mobile home. n5 Revill continued to brandish and make punching motions with the sword. During this time Revill was between eight and ten feet away from the officers. When Revill turned, and raised the sword toward the officers, Henderson shot Revill in his right arm, causing him to drop the sword. n6
+
+Henderson picked up the sword and shouted for a waiting ambulance while the other officers tried to subdue Revill. Revill attempted to flee, disobeyed orders to lie down, and fought off a police dog. The officers finally subdued Revill with pepper spray and pulled him to the ground. Medical personnel from the ambulance began treating Revill as soon as he was subdued. Henderson instructed one of the officers to drive the ambulance so the medical personnel could continue caring for Revill, which apparently caused a slight delay in the departure of the ambulance. Revill died at the hospital.
+
+Mace, Revills mother and representative of his estate, brought this suit against Henderson and the city under 42 U.S.C. 1983, alleging that Henderson used excessive force when he shot Revill and that he was deliberately indifferent to Revills medical needs when he had an officer drive the ambulance. She also alleged that Hendersons actions represented a city policy for responding to emergency situations. Mace did not survive Hendersons motion for summary judgment based on qualified immunity and the City of Palestines motion for summary judgment.
+
+II.
+
+This court reviews a district courts grant of summary judgment de novo. Keenan v. Tejeda, 290 F.3d 252, 258 (5th Cir. 2002). Summary judgment is appropriate when, viewing the evidence in the light most favorable to the non-movant, there is no genuine issue of material fact precluding judgment as a matter of law for the movant. Little v. Liquid Air Corp., 37 F.3d 1069, 1075 (5th Cir. 1994)(en banc).
+
+Qualified immunity protects officers from suit unless their conduct violates a clearly established constitutional right. Harlow v. Fitzgerald, 457 U.S. 800, 818, 73 L. Ed. 2d 396, 102 S. Ct. 2727 (1982). Claims of qualified immunity require a two-step analysis. First we must determine whether the facts alleged, taken in the light most favorable to the party asserting the injury, show that the officers conduct violated a constitutional right. Price v. Roark, 256 F.3d 364, 369 (5th Cir. 2001)(citing Saucier v. Katz, 533 U.S. 194, 200, 150 L. Ed. 2d 272, 121 S. Ct. 2151 (2001)). If there is no constitutional violation, our inquiry ends. However, if the allegations could make out a constitutional violation, we must ask whether the right was clearly established - that is whether it would be clear to a reasonable officer that his conduct was unlawful in the situation he confronted. Id.
+
+III.
+
+Our qualified immunity analysis begins with a determination of whether Henderson violated Revills constitutional right to be free from excessive force. n7 Claims that law enforcement officers used excessive force are analyzed under the Fourth Amendment. Graham v. Connor, 490 U.S. 386, 395, 104 L. Ed. 2d 443, 109 S. Ct. 1865 (1989).A plaintiff must prove injury suffered as a result of force that was objectively unreasonable. Ikerd v. Blair, 101 F.3d 430, 433-34 (5th Cir. 1996). In this case, the only question in our qualified immunity analysis is whether Hendersons use of deadly force was objectively unreasonable.
+
+Applying the Fourth Amendments objective reasonableness standard, we must determine the reasonableness of Hendersons use of deadly force in the light of the facts and circumstances confronting him at the time he acted, without regard to his underlying intent or motivation. n8 Graham, 490 U.S. at 396. In making this determination, we must be mindful that police officers are forced to make split-second judgments - in circumstances that are tense, uncertain, and rapidly evolving - about the amount of force that is necessary in a particular situation. Id. at 396-97.
+
+Use of deadly force is not unreasonable when an officer would have reason to believe that the suspect poses a threat of serious harm to the officer or others. Tennessee v. Garner, 471 U.S. 1, 85 L. Ed. 2d 1, 105 S. Ct. 1694 (1985). It is undisputed that Revill was intoxicated, agitated, breaking windows, shouting, and brandishing an eighteen to twenty inch sword. Revill did not respond to commands to drop his sword or to stop moving toward the officers. He continued to make punching motions with his sword while no more than ten feet away from the officers. The record evidence is uncontradicted that when he was shot, Revill was raising his sword toward the officers. The record further shows that this event took place in the close quarters of a mobile home park, which limited the officers ability to retreat or to keep Revill from harming others in the area. Mace urges us to find that two disputed issues of fact are material to whether Hendersons actions were unreasonable: first, the parties dispute whether Revill verbally threatened the officers and, second, the parties dispute the reason that Revill exited the mobile home. A resolution of these disputed issues in favor of either party would not change our analysis because we have viewed these facts in the light most favorable to Mace as is required for summary judgment. n9
+
+Henderson was faced with an intoxicated, violent and uncooperative individual who was wielding a sword within eight to ten feet of several officers in a relatively confined space. It is not objectively unreasonable for an officer in that situation to believe that there was a serious danger to himself and the other officers present. Although, in retrospect, there may have been alternative courses of action for Henderson to take, we will not use the 20-20 vision of hindsight to judge the reasonableness of Hendersons use of force. Graham, 490 U.S. at 396. Hendersons use of force against Revill was not objectively unreasonable; therefore, it was not in violation of the Constitution. Because Henderson did not violate Revills constitutional right to be free from excessive force, he is entitled to qualified immunity from suit on Maces excessive force claim and the City of Palestine is entitled to summary judgment on this claim. n10 City of Los Angeles v. Heller, 475 U.S. 796, 799, 89 L. Ed. 2d 806, 106 S. Ct. 1571 (1986)(holding that a municipality may not be held liable under 1983 where no constitutional deprivation has occurred).
+
+IV.
+
+We now turn to Maces claim that Henderson showed deliberate indifference to Revills medical needs. The constitutional right of a pretrial detainee to medical care arises from the due process guarantees of the Fourteenth Amendment. Wagner v. Bay City, 227 F.3d 316, 324 (5th Cir. 2000). That right is violated if an officer acts with deliberate indifference to a substantial risk of serious medical harm and resulting injuries. Id. Deliberate indifference requires that the official have subjective knowledge of the risk of harm. Id. Mere negligence or a failure to act reasonably is not enough. The officer must have the subjective intent to cause harm. Id.
+
+Mace does not dispute the basic facts relating to the medical attention received by Revill. There was an ambulance at the scene, which Henderson summoned. The medical personnel present attended Revill immediately after he was subdued by police. Chief Henderson ordered one of the officers to drive the ambulance so that both medical personnel could attend to Revill during the drive. The medical personnel continued to attend to Revill as they transported him to the hospital. He died at the hospital. Mace offers two items of evidence in support of her claim of deliberate indifference: first, testimony that Henderson knew Revills injuries were serious and, second, the ambulance run sheet indicating extended time at the scene waiting for the officer to drive the ambulance. Mace offers no evidence showing that Henderson intended to cause delay by having the officer drive the ambulance or was otherwise indifferent to Revills condition. Furthermore, Mace offers no evidence indicating that the officer intentionally delayed driving the ambulance in order to cause harm. Viewing the facts in the light most favorably to Mace, no reasonable jury could find deliberate indifference; therefore, the district court correctly granted summary judgment for defendants on this claim.
+
+V.
+
+For the foregoing reasons, the judgment of the district court is affirmed.
+
+Notes:
+
+1 The parties dispute whether Revill also threatened to kill the officers.
+
+2 Revill and Henderson apparently knew each other.
+
+3 A trained negotiator, Sergeant Wharton, also tried to talk to Revill, but got no response from him.
+
+4 The dissent makes much of the fact that no psychologist was called to the scene, although we do note that an ambulance had been called. We think that the fact that no psychologist was on the scene is irrelevant to this case.
+
+5 The parties dispute whether Henderson asked Revill to exit the mobile home.
+
+6 There is a dispute regarding whether Revill actually moved his feet while raising the sword.
+
+7 Mace argues that Saucier requires us to make this determination based on the pleadings alone, and urges us to take her conclusory allegations of constitutional violations as definitive on this point. We do not read the Supreme Courts decision in Saucier to have changed the rules governing summary judgment. In ruling on a summary judgment motion of any kind, courts must consider the pleadings, depositions, answers to interrogatories, and admissions on file together with the affidavits, if any. Fed. R. Civ. P. 56(c). To limit a summary judgment inquiry based on qualified immunity to a consideration of the pleadings alone would destroy the central purpose of granting immunity from suit. Saucier, 533 U.S. at 200-01 (noting the nature of immunity and the importance of early rulings on qualified immunity). Finally, it is well established that a nonmovant cannot overcome summary judgment with conclusory allegations and unsubstantiated assertions. Little, 37 F.3d at 1075.
+
+8 The dissent contends that we must consider Hendersons subjective intent -- that he shot to wound Revill and prevent his death. We disagree. As the Supreme Court has noted, an officers evil intentions will not make a Fourth Amendment violation out of an objectively reasonable use of force; nor will an officers good intentions make an objectively unreasonable use of force constitutional. Graham, 490 U.S. at 397. We do not think it is proper, as the dissent suggests, to consider the subjective intent of the officer as evidence of whether an officer could have perceived a threat of danger to himself or others in the circumstances before him.
+
+9 The dissent argues that the opinion testimony of Forest Frix that he thinks that Revill posed no danger to the officers creates a dispute of fact that precludes the grant of qualified immunity on summary judgment. These are statements of opinion and conclusion, not fact, and are therefore irrelevant to our inquiry in this case.
+
+10 Because we find no constitutional violation, we do not need to address the second prong of the qualified immunity analysis. We do note that a determination that the force used by Henderson was excessive and thus violated Revills constitutional rights would not end the qualified immunity inquiry. The Supreme Court has expressly held that the qualified immunity reasonableness inquiry is separate from the Fourth Amendments objective reasonableness inquiry in excessive force cases. Saucier, 533 U.S. at 197. The second prong of the inquiry would require us to determine whether it would be clear to a reasonable officer that his conduct was unlawful in the situation confronted. Saucier, 533 U.S. at 202.
+
+The concern of the immunity inquiry is to acknowledge that reasonable mistakes can be made as to the legal constraints on particular police conduct. It is sometimes difficult for an officer to determine how the relevant legal doctrine, here excessive force, will apply to the factual situation the officer confronts... Qualified immunity operates in this case, then, just as it does in others, to protect officers from the sometimes hazy border between excessive and acceptable force.
+
+Saucier, 533 U.S. at 205-06 (citations omitted). Hendersons use of force in this case was not unreasonable under this standard.
+
+_______________________
+
+Wiener, Circuit Judge, concurring in part and dissenting in part.
+
+I agree that the district court properly granted summary judgment for the defendants on Maces deliberate indifference claim. I also agree with the majoritys explication of the law of qualified immunity in the excessive force context. But, because I conclude, based on the record before us, that myriad material facts in dispute prevent a grant of qualified immunity at this juncture, I respectfully dissent.
+
+First, Chief Henderson testified that he felt he needed to shoot Revill to save his life, but the eyewitness testimony of Revills neighbor, Forrest Frix, contradicts Hendersons version of the events in several significant factual particulars. Frix maintains that Revill was standing still, not advancing; that he never threatened to kill or otherwise harm the police officers; that he did not pose an immediate threat to the officers, who, at the time of the shooting, had at least five or six feet of additional space behind them in which to retreat; and that Revill was continuing to talk with Henderson.
+
+I recognize that in making the qualified immunity determination we look only to the objective reasonableness of the use of deadly force, without regard to [Hendersons] underlying intent or motivation. n1 Here, however, the testimony of the police chief is probative of the objective reasonableness of the need of or justification for the use of lethal force: Quite separate and apart from Chief Hendersons subjective intention to wound Revill to preempt his being fatally shot by one of Hendersons subordinates, his testimony also goes to the objective factual issue of the threat posed. Keeping in mind that Henderson had known Revill since childhood, that Revill had asked for Henderson by name to come and mediate the situation, and that they were still talking (had not broken off negotiations), Hendersons factual testimony of shooting to wound rather than kill is probative of the extent of the threat posed, supporting Frixs observation that the threat was non-immediate and non-lethal. This further supports a conclusion that Henderson was not objectively reasonable when he inflicted lethal force by shooting Revill at point-blank range with a service weapon; conduct that any seasoned police officer, much less a chief, has to know has deadly potential, regardless of the point of aim or impact.
+
+Second, according to the neighbor, Frix, when Henderson fired Revill was not lunging toward the officers or even moving in their direction: Rather, Revill had stepped off to his right and was standing still. n2
+
+In addition, several facts that are not in dispute militate against a finding of objective reasonableness. Revill was alone, intoxicated, and likely unable to see well in the dark trailer park. Although he was armed with an eighteen inch knife, he was facing several officers with guns drawn. Moreover, Revill was speaking with a person he knew, presumably trusted, and had asked for by name. He was contemplating suicide and was asking to speak with a psychologist. And, there is no evidence that Revill had committed a violent crime (or for that matter, any felony) at the time of the stand-off. n3
+
+I do not deny that a jury might conclude, in this very close case, that even a veteran police chief -- one who had known the victim since his childhood, whose mediation efforts had been requested by the victim and were ongoing, and who, like his officers, was armed with and had drawn and aimed a large caliber service weapon at point-blank range against a still-standing intoxicant in possession of nothing more than a long knife or short sword -- could nonetheless forma not-unreasonable belief that he, his officers, or innocent civilians were in such danger that lethal force was justified. That a jury might so find is not the test, however: The determinative objective fact remains that all of this could just as easily add up to objective unreasonableness in the minds of the jurors. Because a jury could go either way on objective reasonableness, depending solely on which version of the genuinely disputed material facts the jury credits, a grant of qualified immunity to Chief Henderson at this step of the summary judgment proceedings is, in my opinion, premature.
+
+In reaching this conclusion, I remain mindful of our duty to avoid second-guessing the split second judgment of Chief Henderson and his officers during this unquestionably tense encounter with an inebriated, deeply disturbed and volatile young man. Given the conflicting eyewitness testimony, however, and viewing the disputed facts, as we must, in the light most favorable to Mace, as the non-movant, I simply cannot accept that, at this liminal stage of litigation, we can hold that Hendersons use of deadly force was objectively reasonable. n4 Several questions, including (1) whether Revill was threatening to harm the officers, (2) whether he was advancing, or retreating, or standing still when he was shot, and (3) whether the overall situation was rapidly deteriorating (as the defendant, Henderson, claims) or steadily improving (as the disinterested witness, Frix, testified) cannot be resolved without weighing the evidence and evaluating the credibility of witnesses -- functions exclusively reserved for the trier of fact. n5 For all of these reasons, I would reverse the district courts grant of Hendersons motion for summary judgment on the question of the objective reasonableness of his use of lethal force and his entitlement, at this first step in the process, to qualified immunity, and thus would remand the case for further proceedings. n6
+
+Notes:
+
+1 Graham, 490 U.S. at 397.
+
+2 In recounting the facts leading up to the shooting, the district court noted that Revill exited the trailer and advanced down the front steps . . . then took another step toward the officers and raised the sword in a threatening manner. The court either overlooked the conflicting testimony on this point or made a finding of fact, impermissibly resolving this disputed material fact in favor of Chief Henderson.
+
+3 See Olsen v. Layton Hills Mall, 312 F.3d 1304, 1314 (10th Cir. 2002) (noting that the Graham reasonableness standard implores the court to consider factors including the alleged crimes severity, the degree of potential threat that the suspect poses to an officers safety . . . and the suspects efforts to resist or evade arrest).
+
+4 I emphasize the narrowness of such a holding. See, e.g., Goodson v. City of Corpus Christi, 202 F.3d 730, 739 (5th Cir. 2000) (Our only holding is that we cannot tell, at the summary judgment stage of the case where we must view the evidence in the light most favorable to [Mace], whether [Henderson] acted in an objectively reasonable manner.).
+
+5 See Reeves v. Sanderson Plumbing Prods., Inc., 530 U.S. 133, 150, 147 L. Ed. 2d 105, 120 S. Ct. 2097 (2000) (The court must draw all reasonable inferences in favor of the nonmoving party, and it may not make credibility determinations or weigh the evidence.).
+
+6 The majority correctly points out that a determination that the force used by Henderson was excessive and thus violated Revills constitutional rights would not end the qualified immunity analysis; the second prong of the Saucier inquiry would require the court to determine whether it would be clear to a reasonable officer that his conduct was unlawful in the situation he confronted. Saucier, 533 U.S. at 202. The district court noted, in dicta within a footnote, that the plaintiff has not shown that Hendersons use of deadly force violated a clearly established constitutional right and that [a] reasonable police officer could properly believe that the use of deadly force . . . would not violate a clearly established constitutional right. This conclusion may ultimately prove correct; however, this issue was not raised or briefed by the defendants on appeal and thus is not before us.

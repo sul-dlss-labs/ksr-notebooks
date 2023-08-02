@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,30944
+Alabama,GPE,30944
+Alaska,GPE,30944
+Arizona,GPE,30944
+Arkansas,GPE,30944
+California,GPE,30944
+Colorado,GPE,30944
+Connecticut,GPE,30944
+Delaware,GPE,30944
+Florida,GPE,30944
+Georgia,GPE,30944
+Hawaii,GPE,30944
+Idaho,GPE,30944
+Indiana,GPE,30944
+Iowa,GPE,30944
+Kansas,GPE,30944
+Kentucky,GPE,30944
+Louisiana,GPE,30944
+Maine,GPE,30944
+Maryland,GPE,30944
+Massachusetts,GPE,30944
+Michigan,GPE,30944
+Minnesota,GPE,30944
+Mississippi,GPE,30944
+Missouri,GPE,30944
+Montana,GPE,30944
+Nebraska,GPE,30944
+Nevada,GPE,30944
+New Hampshire,GPE,30944
+New Jersey,GPE,30944
+Ohio,GPE,30944
+Oklahoma,GPE,30944
+Oregon,GPE,30944
+Pennsylvania,GPE,30944
+Rhode Island,GPE,30944
+Tennessee,GPE,30944
+Texas,GPE,30944
+Utah,GPE,30944
+Vermont,GPE,30944
+Virginia,GPE,30944
+Washington,GPE,30944
+Washington,GPE,30944
+D.C.,GPE,30944
+Wisconsin,GPE,30944
+Wyoming,GPE,30944
+US,GPE,30944
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,30944
+Marshall Islands American Samoa Federated States,ORG,30944
+Micronesia Guam,FAC,30944
+Alberta,GPE,30944
+Canada,GPE,30944
+British Columbia,GPE,30944
+Canada Manitoba,GPE,30944
+Canada,GPE,30944
+New Brunswick,GPE,30944
+Canada Newfoundland,PERSON,30944
+Canada,GPE,30944
+Canada,GPE,30944
+Canada Ontario,GPE,30944
+Canada,GPE,30944
+Edward Island,GPE,30944
+Canada Quebec,GPE,30944
+Canada,GPE,30944
+Saskatchewan,GPE,30944
+Canada Yukon Territory,ORG,30944
+Canada,GPE,30944
+Zip Code,PERSON,30944

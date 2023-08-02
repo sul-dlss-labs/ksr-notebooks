@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7771
+Alabama,GPE,7771
+Alaska,GPE,7771
+Arizona,GPE,7771
+Arkansas,GPE,7771
+California,GPE,7771
+Colorado,GPE,7771
+Connecticut,GPE,7771
+Delaware,GPE,7771
+Florida,GPE,7771
+Georgia,GPE,7771
+Hawaii,GPE,7771
+Idaho,GPE,7771
+Indiana,GPE,7771
+Iowa,GPE,7771
+Kansas,GPE,7771
+Kentucky,GPE,7771
+Louisiana,GPE,7771
+Maine,GPE,7771
+Maryland,GPE,7771
+Massachusetts,GPE,7771
+Michigan,GPE,7771
+Minnesota,GPE,7771
+Mississippi,GPE,7771
+Missouri,GPE,7771
+Montana,GPE,7771
+Nebraska,GPE,7771
+Nevada,GPE,7771
+New Hampshire,GPE,7771
+New Jersey,GPE,7771
+Ohio,GPE,7771
+Oklahoma,GPE,7771
+Oregon,GPE,7771
+Pennsylvania,GPE,7771
+Rhode Island,GPE,7771
+Tennessee,GPE,7771
+Texas,GPE,7771
+Utah,GPE,7771
+Vermont,GPE,7771
+Virginia,GPE,7771
+Washington,GPE,7771
+Washington,GPE,7771
+D.C.,GPE,7771
+Wisconsin,GPE,7771
+Wyoming,GPE,7771
+US,GPE,7771
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7771
+Marshall Islands American Samoa Federated States,ORG,7771
+Micronesia Guam,FAC,7771
+Alberta,GPE,7771
+Canada,GPE,7771
+British Columbia,GPE,7771
+Canada Manitoba,GPE,7771
+Canada,GPE,7771
+New Brunswick,GPE,7771
+Canada Newfoundland,PERSON,7771
+Canada,GPE,7771
+Canada,GPE,7771
+Canada Ontario,GPE,7771
+Canada,GPE,7771
+Edward Island,GPE,7771
+Canada Quebec,GPE,7771
+Canada,GPE,7771
+Saskatchewan,GPE,7771
+Canada Yukon Territory,ORG,7771
+Canada,GPE,7771
+Zip Code,PERSON,7771

@@ -1,0 +1,19 @@
+text,label,fe_id
+Los Angeles County,GPE,7530
+one,CARDINAL,7530
+3200,CARDINAL,7530
+Burton Avenue,FAC,7530
+12:08 a.m.,TIME,7530
+"Wednesday, Oct. 1",DATE,7530
+Sgt,PERSON,7530
+Rich Pena,PERSON,7530
+the Los Angeles County Sheriff's Department,ORG,7530
+Pena,ORG,7530
+one,CARDINAL,7530
+Pena,PERSON,7530
+Pena,WORK_OF_ART,7530
+Pena,PERSON,7530
+Los Angeles County,GPE,7530
+Joshua Stephenson,PERSON,7530
+25-year-old,DATE,7530
+12:32 a.m.,TIME,7530

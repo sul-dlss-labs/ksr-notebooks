@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,10290
+Alabama,GPE,10290
+Alaska,GPE,10290
+Arizona,GPE,10290
+Arkansas,GPE,10290
+California,GPE,10290
+Colorado,GPE,10290
+Connecticut,GPE,10290
+Delaware,GPE,10290
+Florida,GPE,10290
+Georgia,GPE,10290
+Hawaii,GPE,10290
+Idaho,GPE,10290
+Indiana,GPE,10290
+Iowa,GPE,10290
+Kansas,GPE,10290
+Kentucky,GPE,10290
+Louisiana,GPE,10290
+Maine,GPE,10290
+Maryland,GPE,10290
+Massachusetts,GPE,10290
+Michigan,GPE,10290
+Minnesota,GPE,10290
+Mississippi,GPE,10290
+Missouri,GPE,10290
+Montana,GPE,10290
+Nebraska,GPE,10290
+Nevada,GPE,10290
+New Hampshire,GPE,10290
+New Jersey,GPE,10290
+Ohio,GPE,10290
+Oklahoma,GPE,10290
+Oregon,GPE,10290
+Pennsylvania,GPE,10290
+Rhode Island,GPE,10290
+Tennessee,GPE,10290
+Texas,GPE,10290
+Utah,GPE,10290
+Vermont,GPE,10290
+Virginia,GPE,10290
+Washington,GPE,10290
+Washington,GPE,10290
+D.C.,GPE,10290
+Wisconsin,GPE,10290
+Wyoming,GPE,10290
+US,GPE,10290
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,10290
+Marshall Islands American Samoa Federated States,ORG,10290
+Micronesia Guam,FAC,10290
+Alberta,GPE,10290
+Canada,GPE,10290
+British Columbia,GPE,10290
+Canada Manitoba,GPE,10290
+Canada,GPE,10290
+New Brunswick,GPE,10290
+Canada Newfoundland,PERSON,10290
+Canada,GPE,10290
+Canada,GPE,10290
+Canada Ontario,GPE,10290
+Canada,GPE,10290
+Edward Island,GPE,10290
+Canada Quebec,GPE,10290
+Canada,GPE,10290
+Saskatchewan,GPE,10290
+Canada Yukon Territory,ORG,10290
+Canada,GPE,10290
+Zip Code,PERSON,10290

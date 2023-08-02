@@ -1,0 +1,75 @@
+text,label,fe_id
+Tuesday,DATE,15009
+night,TIME,15009
+Omaha,GPE,15009
+Nebraska,GPE,15009
+Bryce Dion,PERSON,15009
+38,DATE,15009
+Wendy,ORG,15009
+three,CARDINAL,15009
+Omaha,GPE,15009
+Todd Schmaderer,PERSON,15009
+Wednesday,DATE,15009
+Dion,ORG,15009
+Schmaderer,ORG,15009
+University of Nebraska Medical Center,ORG,15009
+first,ORDINAL,15009
+25-year-old,DATE,15009
+John Langley,PERSON,15009
+Morgan Langley,ORG,15009
+Boston,GPE,15009
+Massachusetts,GPE,15009
+seven years,DATE,15009
+John Langley,PERSON,15009
+the years,DATE,15009
+Omaha,GPE,15009
+9:20 p.m.,TIME,15009
+Detective Darren Cunningham,PERSON,15009
+15 seconds,TIME,15009
+Brooks Riley,ORG,15009
+Jason Wilhelm,PERSON,15009
+Michael Lee,PERSON,15009
+three,CARDINAL,15009
+Cunningham,ORG,15009
+Riley,PERSON,15009
+Wilhelm,PERSON,15009
+Lee,PERSON,15009
+Cunningham,ORG,15009
+Riley,ORG,15009
+32-year-old,DATE,15009
+Cortez Washington,PERSON,15009
+Schmaderer,ORG,15009
+Bryce Dion Langley Productions,ORG,15009
+Three,CARDINAL,15009
+Wendy's,ORG,15009
+Washington,PERSON,15009
+Cunningham,ORG,15009
+Officer Riley,GPE,15009
+Schmaderer,ORG,15009
+first,ORDINAL,15009
+two,CARDINAL,15009
+Washington,PERSON,15009
+Washington,GPE,15009
+Washington,GPE,15009
+Airsoft,PERSON,15009
+Schmaderer,ORG,15009
+one,CARDINAL,15009
+Schmaderer,ORG,15009
+Schmaderer,ORG,15009
+Lee,PERSON,15009
+Washington,PERSON,15009
+Bryce,PERSON,15009
+Schmaderer,ORG,15009
+Washington,GPE,15009
+Missouri,GPE,15009
+three,CARDINAL,15009
+One,CARDINAL,15009
+the United States,GPE,15009
+Omaha,GPE,15009
+June,DATE,15009
+next week,DATE,15009
+Morgan Langley,ORG,15009
+Schmaderer,WORK_OF_ART,15009
+Riley,ORG,15009
+Wilhelm,PERSON,15009
+one,CARDINAL,15009

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,12234
+Alabama,GPE,12234
+Alaska,GPE,12234
+Arizona,GPE,12234
+Arkansas,GPE,12234
+California,GPE,12234
+Colorado,GPE,12234
+Connecticut,GPE,12234
+Delaware,GPE,12234
+Florida,GPE,12234
+Georgia,GPE,12234
+Hawaii,GPE,12234
+Idaho,GPE,12234
+Indiana,GPE,12234
+Iowa,GPE,12234
+Kansas,GPE,12234
+Kentucky,GPE,12234
+Louisiana,GPE,12234
+Maine,GPE,12234
+Maryland,GPE,12234
+Massachusetts,GPE,12234
+Michigan,GPE,12234
+Minnesota,GPE,12234
+Mississippi,GPE,12234
+Missouri,GPE,12234
+Montana,GPE,12234
+Nebraska,GPE,12234
+Nevada,GPE,12234
+New Hampshire,GPE,12234
+New Jersey,GPE,12234
+Ohio,GPE,12234
+Oklahoma,GPE,12234
+Oregon,GPE,12234
+Pennsylvania,GPE,12234
+Rhode Island,GPE,12234
+Tennessee,GPE,12234
+Texas,GPE,12234
+Utah,GPE,12234
+Vermont,GPE,12234
+Virginia,GPE,12234
+Washington,GPE,12234
+Washington,GPE,12234
+D.C.,GPE,12234
+Wisconsin,GPE,12234
+Wyoming,GPE,12234
+US,GPE,12234
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,12234
+Marshall Islands American Samoa Federated States,ORG,12234
+Micronesia Guam,FAC,12234
+Alberta,GPE,12234
+Canada,GPE,12234
+British Columbia,GPE,12234
+Canada Manitoba,GPE,12234
+Canada,GPE,12234
+New Brunswick,GPE,12234
+Canada Newfoundland,PERSON,12234
+Canada,GPE,12234
+Canada,GPE,12234
+Canada Ontario,GPE,12234
+Canada,GPE,12234
+Edward Island,GPE,12234
+Canada Quebec,GPE,12234
+Canada,GPE,12234
+Saskatchewan,GPE,12234
+Canada Yukon Territory,ORG,12234
+Canada,GPE,12234
+Zip Code,PERSON,12234

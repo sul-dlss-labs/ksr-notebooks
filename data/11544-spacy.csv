@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,11544
+Alabama,GPE,11544
+Alaska,GPE,11544
+Arizona,GPE,11544
+Arkansas,GPE,11544
+California,GPE,11544
+Colorado,GPE,11544
+Connecticut,GPE,11544
+Delaware,GPE,11544
+Florida,GPE,11544
+Georgia,GPE,11544
+Hawaii,GPE,11544
+Idaho,GPE,11544
+Indiana,GPE,11544
+Iowa,GPE,11544
+Kansas,GPE,11544
+Kentucky,GPE,11544
+Louisiana,GPE,11544
+Maine,GPE,11544
+Maryland,GPE,11544
+Massachusetts,GPE,11544
+Michigan,GPE,11544
+Minnesota,GPE,11544
+Mississippi,GPE,11544
+Missouri,GPE,11544
+Montana,GPE,11544
+Nebraska,GPE,11544
+Nevada,GPE,11544
+New Hampshire,GPE,11544
+New Jersey,GPE,11544
+Ohio,GPE,11544
+Oklahoma,GPE,11544
+Oregon,GPE,11544
+Pennsylvania,GPE,11544
+Rhode Island,GPE,11544
+Tennessee,GPE,11544
+Texas,GPE,11544
+Utah,GPE,11544
+Vermont,GPE,11544
+Virginia,GPE,11544
+Washington,GPE,11544
+Washington,GPE,11544
+D.C.,GPE,11544
+Wisconsin,GPE,11544
+Wyoming,GPE,11544
+US,GPE,11544
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,11544
+Marshall Islands American Samoa Federated States,ORG,11544
+Micronesia Guam,FAC,11544
+Alberta,GPE,11544
+Canada,GPE,11544
+British Columbia,GPE,11544
+Canada Manitoba,GPE,11544
+Canada,GPE,11544
+New Brunswick,GPE,11544
+Canada Newfoundland,PERSON,11544
+Canada,GPE,11544
+Canada,GPE,11544
+Canada Ontario,GPE,11544
+Canada,GPE,11544
+Edward Island,GPE,11544
+Canada Quebec,GPE,11544
+Canada,GPE,11544
+Saskatchewan,GPE,11544
+Canada Yukon Territory,ORG,11544
+Canada,GPE,11544
+Zip Code,PERSON,11544

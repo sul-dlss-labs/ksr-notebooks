@@ -1,0 +1,664 @@
+text,label,fe_id
+Mother Jones Daily,ORG,9117
+the morning,TIME,9117
+May 16,DATE,9117
+Lillibridge Street,FAC,9117
+Detroit,GPE,9117
+Charles Jones,PERSON,9117
+25,DATE,9117
+seven-year-old,DATE,9117
+Aiyana Mo’nay Stanley-Jones,ORG,9117
+PDF,ORG,9117
+A half-dozen,CARDINAL,9117
+the Special Response Team,ORG,9117
+Detroit,GPE,9117
+SWAT,ORG,9117
+A&E,ORG,9117
+First,ORDINAL,9117
+48 hours,TIME,9117
+Thirty-four hours earlier,TIME,9117
+Blake Nobles,PERSON,9117
+17,DATE,9117
+Mack Avenue,FAC,9117
+Chauncey Owens,PERSON,9117
+SWAT,ORG,9117
+Aiyana,GPE,9117
+Joseph Weekley,PERSON,9117
+A&E,ORG,9117
+Detroit,GPE,9117
+Aiyana,GPE,9117
+seconds,TIME,9117
+Detroit,GPE,9117
+around midnight,TIME,9117
+the morning,TIME,9117
+SWAT,ORG,9117
+Detroit,GPE,9117
+two weeks earlier,DATE,9117
+first,ORDINAL,9117
+Aiyana,GPE,9117
+Weekley,GPE,9117
+Blake,PERSON,9117
+Chauncey Owens,PERSON,9117
+Charles Jones,PERSON,9117
+Hollywood,GPE,9117
+Detroit,GPE,9117
+all my years,DATE,9117
+SWAT,ORG,9117
+Lillibridge,PERSON,9117
+Owens,PERSON,9117
+minutes,TIME,9117
+Aiyana,GPE,9117
+Je’Rean,NORP,9117
+Je’Rean,NORP,9117
+Jones,PERSON,9117
+Officer Weekley,FAC,9117
+Aiyana,GPE,9117
+Wayne County,GPE,9117
+Carl Schmidt,PERSON,9117
+at least 50,CARDINAL,9117
+Schmidt,PERSON,9117
+Hollywood,GPE,9117
+PDF,ORG,9117
+ABC,ORG,9117
+Detroit,GPE,9117
+Detroit 1-8-7,ORG,9117
+California,GPE,9117
+187,CARDINAL,9117
+Michigan,GPE,9117
+750.316,CARDINAL,9117
+PDF,ORG,9117
+Aiyana,GPE,9117
+Schmidt,PERSON,9117
+Detroit,GPE,9117
+SWAT,ORG,9117
+Detroit,GPE,9117
+two weeks earlier,DATE,9117
+first,ORDINAL,9117
+Aiyana,GPE,9117
+About 350,CARDINAL,9117
+each year,DATE,9117
+Detroit,GPE,9117
+"some 10,000",CARDINAL,9117
+1960,DATE,9117
+Aiyana,GPE,9117
+one,CARDINAL,9117
+Lillibridge Street,FAC,9117
+Detroit,GPE,9117
+days,DATE,9117
+Saturday,DATE,9117
+night,TIME,9117
+Detroit,GPE,9117
+40 years ago,DATE,9117
+The Rust Belt,ORG,9117
+the East Side,LOC,9117
+Aiyana,GPE,9117
+Arab,NORP,9117
+one,CARDINAL,9117
+Arab,NORP,9117
+the Iraq War,EVENT,9117
+Detroit,GPE,9117
+a decade ago,DATE,9117
+weeks,DATE,9117
+Michigan,GPE,9117
+the Detroit News,ORG,9117
+Detroit,GPE,9117
+Dow,ORG,9117
+Washington,GPE,9117
+General Motors,ORG,9117
+years,DATE,9117
+Detroit,GPE,9117
+Detroit,GPE,9117
+Los Angeles,GPE,9117
+London,GPE,9117
+Barcelona,GPE,9117
+Detroit,GPE,9117
+BLAKE NOBLES,PERSON,9117
+one,CARDINAL,9117
+Detroit,GPE,9117
+PDF,ORG,9117
+Southeastern High,ORG,9117
+Chrysler,ORG,9117
+1917,DATE,9117
+Jungaleers,PRODUCT,9117
+Kettering,ORG,9117
+this year,DATE,9117
+Southeastern,ORG,9117
+Age Quod Agis,PERSON,9117
+Je’Rean,NORP,9117
+JROTC,ORG,9117
+Afghanistan,GPE,9117
+Detroit,GPE,9117
+one,CARDINAL,9117
+103,CARDINAL,9117
+between January 2009 and,DATE,9117
+July 2010,DATE,9117
+Chauncey Owens,ORG,9117
+2:40 in the afternoon,TIME,9117
+May 14,DATE,9117
+Motor City,GPE,9117
+McDonald’s,ORG,9117
+About 40,CARDINAL,9117
+Owens,PERSON,9117
+34,DATE,9117
+Owens,PERSON,9117
+Je’Rean,NORP,9117
+One,CARDINAL,9117
+13 years old,DATE,9117
+Owens,PERSON,9117
+Owens,PERSON,9117
+two,CARDINAL,9117
+Lillibridge,PERSON,9117
+Aiyana,GPE,9117
+Charles “C.J.” Jones,PERSON,9117
+’s,NORP,9117
+Theopolis Williams,PERSON,9117
+Owens,PERSON,9117
+Owens,PERSON,9117
+Chevy,ORG,9117
+Blazer,PRODUCT,9117
+two,CARDINAL,9117
+Lil’ James” and “,WORK_OF_ART,9117
+Je’Rean,NORP,9117
+James,PERSON,9117
+.357,CARDINAL,9117
+Jones,GPE,9117
+Detective Williams,PERSON,9117
+Jones,PERSON,9117
+Cartier,PERSON,9117
+Owens,PERSON,9117
+first,ORDINAL,9117
+Je’Rean,NORP,9117
+James,PERSON,9117
+two dollars,MONEY,9117
+Je’Rean,NORP,9117
+Mack Avenue,FAC,9117
+A minute later,TIME,9117
+two dollars,MONEY,9117
+A few minutes,TIME,9117
+Je’Rean,NORP,9117
+Lyvonne Cargill,PERSON,9117
+Owens,PERSON,9117
+first,ORDINAL,9117
+Je’Rean,NORP,9117
+James,PERSON,9117
+Cargill,ORG,9117
+Detroit,GPE,9117
+911,CARDINAL,9117
+12 minutes,TIME,9117
+six miles,QUANTITY,9117
+CHARLIE,PERSON,9117
+Je’Rean,NORP,9117
+Schmidt,PERSON,9117
+Wayne County,GPE,9117
+Lillibridge,PERSON,9117
+Aiyana,GPE,9117
+two weeks,DATE,9117
+at least a dozen,CARDINAL,9117
+Detroit,GPE,9117
+Schoenherr Road,FAC,9117
+3:30 a.m.,TIME,9117
+Brian Huff,PERSON,9117
+12-year,DATE,9117
+two,CARDINAL,9117
+Huff,PERSON,9117
+two,CARDINAL,9117
+Huff,PERSON,9117
+Jason Gibson,PERSON,9117
+25,DATE,9117
+Gibson,PERSON,9117
+Omar,PERSON,9117
+Wire,PERSON,9117
+three,CARDINAL,9117
+Officer Huff,GPE,9117
+Detroit,GPE,9117
+Paul Jameson,PERSON,9117
+911,CARDINAL,9117
+Huff,PERSON,9117
+First,ORDINAL,9117
+six,CARDINAL,9117
+911,CARDINAL,9117
+eight,CARDINAL,9117
+Gibson,PERSON,9117
+Jameson,PERSON,9117
+Huff,PERSON,9117
+the Boys & Girls Club,ORG,9117
+Gibson,PERSON,9117
+Huff,PERSON,9117
+four,CARDINAL,9117
+Huff,PERSON,9117
+first,ORDINAL,9117
+Huff,PERSON,9117
+Gibson,PERSON,9117
+first,ORDINAL,9117
+2007,DATE,9117
+November 2009,DATE,9117
+Ohio,GPE,9117
+Gibson,PERSON,9117
+last January,DATE,9117
+February 17,DATE,9117
+Cynthia Gray Hathaway,PERSON,9117
+"20,000",MONEY,9117
+only 10 percent,PERCENT,9117
+Hathaway,PERSON,9117
+six months,DATE,9117
+the Michigan Supreme Court,ORG,9117
+a decade ago,DATE,9117
+Gibson,PERSON,9117
+The day,DATE,9117
+Huff,PERSON,9117
+Gibson,PERSON,9117
+Hathaway,PERSON,9117
+Gibson,PERSON,9117
+"More than 4,000",CARDINAL,9117
+Officer Huff,PERSON,9117
+the Greater Grace Temple,FAC,9117
+Canada,GPE,9117
+Michigan,GPE,9117
+Dave Bing,PERSON,9117
+Detroit,GPE,9117
+Detroit,GPE,9117
+American,NORP,9117
+the East Side,LOC,9117
+Detroit,GPE,9117
+Aiyana,GPE,9117
+Je’Rean,NORP,9117
+Officer Huff,PERSON,9117
+Henry Ford,PERSON,9117
+first,ORDINAL,9117
+Highland Park,GPE,9117
+1908,DATE,9117
+Woodward Avenue,FAC,9117
+Detroit,GPE,9117
+the next 50 years,DATE,9117
+Detroit,GPE,9117
+East Side,NORP,9117
+1.3 million,CARDINAL,9117
+"300,000",CARDINAL,9117
+Ford,ORG,9117
+the East Side: Packard,LOC,9117
+Studebaker,ORG,9117
+Chrysler,ORG,9117
+Dodge Main,ORG,9117
+the Motor City’s,GPE,9117
+Boston,GPE,9117
+Baltimore,GPE,9117
+East Coast,LOC,9117
+British,NORP,9117
+Ramsay Muir,PERSON,9117
+1927,DATE,9117
+European,NORP,9117
+America,GPE,9117
+Detroit,GPE,9117
+British,NORP,9117
+Ramsay Muir,PERSON,9117
+1927,DATE,9117
+Skyscrapers,PERSON,9117
+overnight,TIME,9117
+Arabs,NORP,9117
+Appalachians,NORP,9117
+Poles,NORP,9117
+African Americans,NORP,9117
+Paradise Valley,LOC,9117
+Woodward Avenue,FAC,9117
+the Detroit River,LOC,9117
+1930,DATE,9117
+Detroit,GPE,9117
+1950,DATE,9117
+the middle of Paradise Valley,DATE,9117
+thousands,CARDINAL,9117
+Negro,ORG,9117
+Thomas Sugrue,PERSON,9117
+The Origins of the Urban Crisis,WORK_OF_ART,9117
+Detroit,GPE,9117
+East Side,LOC,9117
+206,CARDINAL,9117
+1951,DATE,9117
+1952,DATE,9117
+South,LOC,9117
+1967,DATE,9117
+Coleman Young,PERSON,9117
+first,ORDINAL,9117
+Clinton,PERSON,9117
+years,DATE,9117
+American,NORP,9117
+UAW,ORG,9117
+Detroit,GPE,9117
+Henry Ford,PERSON,9117
+Detroit,GPE,9117
+Detroit,GPE,9117
+Detroit,GPE,9117
+the 1950s,DATE,9117
+the United States,GPE,9117
+Detroit,GPE,9117
+Packard,ORG,9117
+1956,DATE,9117
+the East Side,LOC,9117
+1958,DATE,9117
+20 percent,PERCENT,9117
+Detroit,GPE,9117
+decades,DATE,9117
+Lyndon Johnson’s,PERSON,9117
+10,MONEY,9117
+5,MONEY,9117
+South,LOC,9117
+Negros,WORK_OF_ART,9117
+Louis Miriani,PERSON,9117
+Republican,NORP,9117
+Detroit,GPE,9117
+1957 to 1962,DATE,9117
+nearly a quarter,DATE,9117
+"only $25,000",MONEY,9117
+Today—75 years,DATE,9117
+the Detroit River—”Detroitism”,ORG,9117
+1.9 million,CARDINAL,9117
+the 1950s,DATE,9117
+83 percent,PERCENT,9117
+Detroit,GPE,9117
+"fewer than 800,000",CARDINAL,9117
+83 percent,PERCENT,9117
+American,NORP,9117
+million,CARDINAL,9117
+Detroit,GPE,9117
+Tens of thousands,CARDINAL,9117
+hundreds of thousands,CARDINAL,9117
+years,DATE,9117
+Detroit,GPE,9117
+the Gaza Strip,GPE,9117
+hundred,CARDINAL,9117
+DETROIT,ORG,9117
+EAST SIDE,LOC,9117
+quarter,CARDINAL,9117
+America,GPE,9117
+around 50 percent,PERCENT,9117
+Lillibridge Street,FAC,9117
+Mack Avenue,FAC,9117
+a mile,QUANTITY,9117
+Alter Road to Gratiot Avenue,FAC,9117
+34,CARDINAL,9117
+dozen,CARDINAL,9117
+six,CARDINAL,9117
+Chrysler,ORG,9117
+less than half,CARDINAL,9117
+three dollar,MONEY,9117
+Detroit,GPE,9117
+two,CARDINAL,9117
+$363 million,MONEY,9117
+Robert Bobb,PERSON,9117
+2009,DATE,9117
+more than $140 million,MONEY,9117
+$3 million,MONEY,9117
+Otis Mathis,PERSON,9117
+Detroit,GPE,9117
+around 35 percent,PERCENT,9117
+PDF,ORG,9117
+Detroit,GPE,9117
+the National Assessment of Educational Progress,ORG,9117
+nearly 80 percent,PERCENT,9117
+eighth,ORDINAL,9117
+Detroit,GPE,9117
+Education,ORG,9117
+Arne Duncan,PERSON,9117
+last year,DATE,9117
+Duncan,PERSON,9117
+New York,GPE,9117
+St. Louis,GPE,9117
+Los Angeles,GPE,9117
+Detroit,GPE,9117
+day,DATE,9117
+American,NORP,9117
+Detroit,GPE,9117
+half,CARDINAL,9117
+2005,DATE,9117
+two years ago,DATE,9117
+five,CARDINAL,9117
+nine,CARDINAL,9117
+2008,DATE,9117
+Schmidt,PERSON,9117
+That year,DATE,9117
+306,CARDINAL,9117
+375,CARDINAL,9117
+more than 70 percent,PERCENT,9117
+Los Angeles,GPE,9117
+22 percent,PERCENT,9117
+Detroit,GPE,9117
+two years ago,DATE,9117
+the East Side,LOC,9117
+four years,DATE,9117
+Detroit,GPE,9117
+the ’80s,DATE,9117
+pre-Halloween,TIME,9117
+Devil’s Night,ORG,9117
+810,CARDINAL,9117
+three-day,DATE,9117
+Devil’s Night,ORG,9117
+last year,DATE,9117
+Detroit,GPE,9117
+some 500,CARDINAL,9117
+every single month,DATE,9117
+five,CARDINAL,9117
+New York,GPE,9117
+one-tenth,CARDINAL,9117
+the Detroit News,ORG,9117
+One,CARDINAL,9117
+Detroit,GPE,9117
+Ohio,GPE,9117
+2003,DATE,9117
+days,DATE,9117
+Detroit,GPE,9117
+US,GPE,9117
+Kwame Kilpatrick,PERSON,9117
+Kilpatrick,PERSON,9117
+Dave Bing,PERSON,9117
+NBA Hall of Famer,FAC,9117
+James Barrens,PERSON,9117
+last year,DATE,9117
+Warren Evans,PERSON,9117
+Wayne County,GPE,9117
+Barrens,PERSON,9117
+Barrens,ORG,9117
+Evans,PERSON,9117
+Detroit,GPE,9117
+Evans,PERSON,9117
+daily,DATE,9117
+SWAT,ORG,9117
+Evans,PERSON,9117
+20 percent,PERCENT,9117
+perhaps 50 percent,PERCENT,9117
+Detroit,GPE,9117
+one,CARDINAL,9117
+more than 20 percent,PERCENT,9117
+his first year,DATE,9117
+Detroit,GPE,9117
+Evans,PERSON,9117
+last October,DATE,9117
+two,CARDINAL,9117
+the East Side,LOC,9117
+Evans,PERSON,9117
+One,CARDINAL,9117
+Evans,PERSON,9117
+Evans,PERSON,9117
+three,CARDINAL,9117
+daily,DATE,9117
+Huff,PERSON,9117
+Je’Rean,NORP,9117
+Aiyana,GPE,9117
+Evans,PERSON,9117
+Hollywood,GPE,9117
+six-minute,TIME,9117
+Evans,PERSON,9117
+Michigan Central Rail Depot,ORG,9117
+Detroit,GPE,9117
+Aiyana,GPE,9117
+two months later,DATE,9117
+City Hall,FAC,9117
+ABC,ORG,9117
+Evans,PERSON,9117
+Evans,PERSON,9117
+Detroit,GPE,9117
+America,GPE,9117
+two,CARDINAL,9117
+three,CARDINAL,9117
+Time,ORG,9117
+the East Side,LOC,9117
+last year,DATE,9117
+"99,000",MONEY,9117
+the Motor City,GPE,9117
+one year,DATE,9117
+New York,GPE,9117
+Detroit,GPE,9117
+AIYANA,GPE,9117
+FAMILY,ORG,9117
+Geoffrey Fieger,PERSON,9117
+Jack Kevorkian,PERSON,9117
+Death,PERSON,9117
+Evans,PERSON,9117
+Fieger,ORG,9117
+Officer Weekley,ORG,9117
+Fieger,ORG,9117
+Detroit,GPE,9117
+Fieger,PERSON,9117
+Fieger,ORG,9117
+Geoffrey Fieger,PERSON,9117
+Geoffrey Fieger,PERSON,9117
+Geoffrey Fieger,PERSON,9117
+third,ORDINAL,9117
+Geoffrey Fieger,PERSON,9117
+Aiyana,GPE,9117
+New Orleans,GPE,9117
+Oakland,GPE,9117
+Geoffrey Fieger,PERSON,9117
+Geoffrey Fieger,PERSON,9117
+Detroit,GPE,9117
+Aiyana,GPE,9117
+New Orleans,GPE,9117
+Oakland,GPE,9117
+Fieger,PERSON,9117
+Charles Jones,PERSON,9117
+Je’Rean,NORP,9117
+Jones,PERSON,9117
+Je’Rean,NORP,9117
+Geoffrey Fieger,PERSON,9117
+Charles Jones,PERSON,9117
+the following morning,TIME,9117
+Fieger,ORG,9117
+Jones,PERSON,9117
+25,DATE,9117
+11th,ORDINAL,9117
+seven,CARDINAL,9117
+three,CARDINAL,9117
+Aiyana,GPE,9117
+Dominika Stanley,PERSON,9117
+three,CARDINAL,9117
+Jones,PERSON,9117
+the past few years,DATE,9117
+Lillibridge,PERSON,9117
+Aiyana,GPE,9117
+Trix Elementary,PERSON,9117
+every morning,TIME,9117
+five miles,QUANTITY,9117
+Jones,PERSON,9117
+Stanley,ORG,9117
+Stanley,ORG,9117
+Jones,PERSON,9117
+AIYANA,GPE,9117
+six days,DATE,9117
+Second Ebenezer Church,ORG,9117
+Detroit,GPE,9117
+the Chrysler Freeway,FAC,9117
+A thousand,CARDINAL,9117
+Al Sharpton,PERSON,9117
+Detroit,GPE,9117
+America,GPE,9117
+Blake,PERSON,9117
+Officer Huff,PERSON,9117
+Sharpton,PERSON,9117
+today,DATE,9117
+Sharpton,PERSON,9117
+Aiyana,GPE,9117
+Aiyana,GPE,9117
+the Trinity Cemetery,ORG,9117
+five years earlier,DATE,9117
+Rosa Parks,PERSON,9117
+Woodlawn Cemetery,PERSON,9117
+Aiyana,GPE,9117
+Charles Jones,PERSON,9117
+Sharpton,PERSON,9117
+Horace Sheffield,PERSON,9117
+Sharpton,ORG,9117
+"4,000",MONEY,9117
+Aiyana,GPE,9117
+Sharpton,ORG,9117
+Rosa Parks,PERSON,9117
+Sheffield,GPE,9117
+Jones,PERSON,9117
+thousand,CARDINAL,9117
+Aiyana,GPE,9117
+Blake Nobles,PERSON,9117
+700,MONEY,9117
+Sharpton,PERSON,9117
+Je’Rean,NORP,9117
+Lyvonne Cargill,PERSON,9117
+Aiyana,GPE,9117
+Sharpton,PERSON,9117
+Sharpton,ORG,9117
+Cargill,ORG,9117
+39-year-old,DATE,9117
+Target,ORG,9117
+New York,GPE,9117
+Cargill,PERSON,9117
+800,MONEY,9117
+Aiyana,GPE,9117
+Geoffrey Fieger,PERSON,9117
+Aiyana,GPE,9117
+A&E,ORG,9117
+the Michigan State Police,ORG,9117
+Lillibridge Street,FAC,9117
+Lillibridge Street,FAC,9117
+Edward Taylor,PERSON,9117
+Jones,PERSON,9117
+Detroit,GPE,9117
+Hannah Montana,PERSON,9117
+KFC,ORG,9117
+three,CARDINAL,9117
+Chrysler,ORG,9117
+Cargill,ORG,9117
+Je’Rean,NORP,9117
+Chaise Sherrors,PERSON,9117
+17,DATE,9117
+Chaise,PERSON,9117
+Chrysler,ORG,9117
+Southeastern High,ORG,9117
+The morning,TIME,9117
+Chaise,PERSON,9117
+Chaise,PERSON,9117
+the East Warren Crips,LOC,9117
+one-year-old,DATE,9117
+Chaise,PERSON,9117
+Britta McNeal,PERSON,9117
+39,DATE,9117
+14-year-old,DATE,9117
+last year,DATE,9117
+Chaise,PERSON,9117
+McNeal,PERSON,9117
+Detroit,GPE,9117
+McNeal,PERSON,9117
+15,CARDINAL,9117
+America,GPE,9117
+McNeal,ORG,9117
+"3,000",MONEY,9117
+McNeal,ORG,9117
+the Detroit River,LOC,9117
+McNeal,ORG,9117
+NPR,ORG,9117
+Danny Wilcox Frazier,PERSON,9117
+Charlie LeDuff,PERSON,9117
+Aiyana Jones,ORG,9117
+one,CARDINAL,9117
+Detroit,GPE,9117
+Charlie LeDuff,PERSON,9117
+Pulitzer Prize,WORK_OF_ART,9117
+The Detroit News,ORG,9117
+Danny Wilcox Frazier,PERSON,9117
+Mother Jones,PERSON,9117
+"Time, Life",ORG,9117
+Newsweek,ORG,9117

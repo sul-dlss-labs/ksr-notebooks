@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,28114
+Alabama,GPE,28114
+Alaska,GPE,28114
+Arizona,GPE,28114
+Arkansas,GPE,28114
+California,GPE,28114
+Colorado,GPE,28114
+Connecticut,GPE,28114
+Delaware,GPE,28114
+Florida,GPE,28114
+Georgia,GPE,28114
+Hawaii,GPE,28114
+Idaho,GPE,28114
+Indiana,GPE,28114
+Iowa,GPE,28114
+Kansas,GPE,28114
+Kentucky,GPE,28114
+Louisiana,GPE,28114
+Maine,GPE,28114
+Maryland,GPE,28114
+Massachusetts,GPE,28114
+Michigan,GPE,28114
+Minnesota,GPE,28114
+Mississippi,GPE,28114
+Missouri,GPE,28114
+Montana,GPE,28114
+Nebraska,GPE,28114
+Nevada,GPE,28114
+New Hampshire,GPE,28114
+New Jersey,GPE,28114
+Ohio,GPE,28114
+Oklahoma,GPE,28114
+Oregon,GPE,28114
+Pennsylvania,GPE,28114
+Rhode Island,GPE,28114
+Tennessee,GPE,28114
+Texas,GPE,28114
+Utah,GPE,28114
+Vermont,GPE,28114
+Virginia,GPE,28114
+Washington,GPE,28114
+Washington,GPE,28114
+D.C.,GPE,28114
+Wisconsin,GPE,28114
+Wyoming,GPE,28114
+US,GPE,28114
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,28114
+Marshall Islands American Samoa Federated States,ORG,28114
+Micronesia Guam,FAC,28114
+Alberta,GPE,28114
+Canada,GPE,28114
+British Columbia,GPE,28114
+Canada Manitoba,GPE,28114
+Canada,GPE,28114
+New Brunswick,GPE,28114
+Canada Newfoundland,PERSON,28114
+Canada,GPE,28114
+Canada,GPE,28114
+Canada Ontario,GPE,28114
+Canada,GPE,28114
+Edward Island,GPE,28114
+Canada Quebec,GPE,28114
+Canada,GPE,28114
+Saskatchewan,GPE,28114
+Canada Yukon Territory,ORG,28114
+Canada,GPE,28114
+Zip Code,PERSON,28114

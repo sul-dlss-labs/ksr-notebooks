@@ -1,0 +1,25 @@
+text,label,fe_id
+One,CARDINAL,31234
+Los Angeles County,GPE,31234
+Commerce,ORG,31234
+Friday,DATE,31234
+morning,TIME,31234
+Commerce,ORG,31234
+Calif.,GPE,31234
+KABC,ORG,31234
+One,CARDINAL,31234
+Los Angeles County,GPE,31234
+Commerce,ORG,31234
+Friday,DATE,31234
+morning,TIME,31234
+around 4 a.m.,TIME,31234
+Speedway Express,ORG,31234
+Whittier Boulevard,FAC,31234
+Gerhart Avenue,FAC,31234
+the Los Angeles County Sheriff's Department,ORG,31234
+Derrick Alfred,PERSON,31234
+Chevy Tahoe,ORG,31234
+Alfred,PERSON,31234
+second,ORDINAL,31234
+40s,DATE,31234
+about 25 years old,DATE,31234

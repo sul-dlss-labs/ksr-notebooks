@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,12556
+Alabama,GPE,12556
+Alaska,GPE,12556
+Arizona,GPE,12556
+Arkansas,GPE,12556
+California,GPE,12556
+Colorado,GPE,12556
+Connecticut,GPE,12556
+Delaware,GPE,12556
+Florida,GPE,12556
+Georgia,GPE,12556
+Hawaii,GPE,12556
+Idaho,GPE,12556
+Indiana,GPE,12556
+Iowa,GPE,12556
+Kansas,GPE,12556
+Kentucky,GPE,12556
+Louisiana,GPE,12556
+Maine,GPE,12556
+Maryland,GPE,12556
+Massachusetts,GPE,12556
+Michigan,GPE,12556
+Minnesota,GPE,12556
+Mississippi,GPE,12556
+Missouri,GPE,12556
+Montana,GPE,12556
+Nebraska,GPE,12556
+Nevada,GPE,12556
+New Hampshire,GPE,12556
+New Jersey,GPE,12556
+Ohio,GPE,12556
+Oklahoma,GPE,12556
+Oregon,GPE,12556
+Pennsylvania,GPE,12556
+Rhode Island,GPE,12556
+Tennessee,GPE,12556
+Texas,GPE,12556
+Utah,GPE,12556
+Vermont,GPE,12556
+Virginia,GPE,12556
+Washington,GPE,12556
+Washington,GPE,12556
+D.C.,GPE,12556
+Wisconsin,GPE,12556
+Wyoming,GPE,12556
+US,GPE,12556
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,12556
+Marshall Islands American Samoa Federated States,ORG,12556
+Micronesia Guam,FAC,12556
+Alberta,GPE,12556
+Canada,GPE,12556
+British Columbia,GPE,12556
+Canada Manitoba,GPE,12556
+Canada,GPE,12556
+New Brunswick,GPE,12556
+Canada Newfoundland,PERSON,12556
+Canada,GPE,12556
+Canada,GPE,12556
+Canada Ontario,GPE,12556
+Canada,GPE,12556
+Edward Island,GPE,12556
+Canada Quebec,GPE,12556
+Canada,GPE,12556
+Saskatchewan,GPE,12556
+Canada Yukon Territory,ORG,12556
+Canada,GPE,12556
+Zip Code,PERSON,12556

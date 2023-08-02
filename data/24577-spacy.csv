@@ -1,0 +1,15 @@
+text,label,fe_id
+One,CARDINAL,24577
+Big Spring,DATE,24577
+Tuesday,DATE,24577
+night,TIME,24577
+the Big Spring Police Department,ORG,24577
+700,CARDINAL,24577
+S. Goliad,PERSON,24577
+2000,DATE,24577
+3rd Street,FAC,24577
+Austin Ryan Cantu,PERSON,24577
+Ellen Alexandra Vasquez,PERSON,24577
+Scenic Mountain Medical Center,ORG,24577
+University Medical Center,ORG,24577
+Lubbock,GPE,24577

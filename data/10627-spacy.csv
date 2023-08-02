@@ -1,0 +1,30 @@
+text,label,fe_id
+Antonio Tafolla,PERSON,10627
+35-year-old,DATE,10627
+Latino,PERSON,10627
+Glendale,ORG,10627
+"Friday, Sept. 30",DATE,10627
+Glendale Avenue,FAC,10627
+San Fernando Road,FAC,10627
+Glendale,GPE,10627
+Los Angeles County,GPE,10627
+2:30 a.m.,TIME,10627
+Brand Boulevard,FAC,10627
+San Fernando Road,GPE,10627
+Two,CARDINAL,10627
+Brand,ORG,10627
+Glendale,ORG,10627
+Sgt,PERSON,10627
+Tom Lorenz,PERSON,10627
+the Glendale Police Department,ORG,10627
+Tafolla,NORP,10627
+Lorenz,PERSON,10627
+Lorenz,PERSON,10627
+Tafolla,PERSON,10627
+third,ORDINAL,10627
+L.A. County,GPE,10627
+L.A. County,GPE,10627
+Lorenz,PERSON,10627
+Crime Stoppers,PERSON,10627
+222,CARDINAL,10627
+Sam Quinones,PERSON,10627

@@ -1,0 +1,54 @@
+text,label,fe_id
+many years,DATE,1072
+three,CARDINAL,1072
+the Glenn Highway,FAC,1072
+the Hiland Road,FAC,1072
+Fort Richardson,PERSON,1072
+2001,DATE,1072
+two,CARDINAL,1072
+Justin Todd Wollam,PERSON,1072
+Tuesday,DATE,1072
+afternoon,TIME,1072
+Alaska,GPE,1072
+Wollam,ORG,1072
+afternoon,TIME,1072
+More than 50,CARDINAL,1072
+Alaska State Troopers,ORG,1072
+Wollam,PERSON,1072
+28,DATE,1072
+30-minute,TIME,1072
+Mark Mew,PERSON,1072
+Wollam,ORG,1072
+Wollam,PERSON,1072
+Alaska,GPE,1072
+Mew,PERSON,1072
+Mew,PERSON,1072
+Mew,PERSON,1072
+Mew,PERSON,1072
+the day,DATE,1072
+19-year-old,DATE,1072
+Robert Esper,PERSON,1072
+three,CARDINAL,1072
+Esper,PERSON,1072
+1985,DATE,1072
+Chevrolet,ORG,1072
+Blazer,PRODUCT,1072
+Lake Otis Boulevard,FAC,1072
+72nd Avenue,FAC,1072
+Esper,PERSON,1072
+the Glenn Highway,FAC,1072
+Wollam,ORG,1072
+16-year-old,DATE,1072
+Makayla Lewis,ORG,1072
+14-year-old,DATE,1072
+Heidi Weilbacher,PERSON,1072
+Wollam,ORG,1072
+Wollam,ORG,1072
+Bridget Kincaid,PERSON,1072
+Cooper Landing,PERSON,1072
+the Glenn Highway,FAC,1072
+Kincaid,PERSON,1072
+Anchorage,GPE,1072
+"""Amazing Grace",WORK_OF_ART,1072
+Mew,PERSON,1072
+Alaska Dispatch Publishing,ORG,1072

@@ -1,0 +1,12 @@
+text,label,fe_id
+Monday morning,TIME,18668
+"20,000",CARDINAL,18668
+Alvarado Road,FAC,18668
+31-year-old,DATE,18668
+the Virginia State Police,ORG,18668
+Washington County Sheriff Fred Newman,ORG,18668
+late Monday night,TIME,18668
+the Office of the Medical Examiner,ORG,18668
+Roanoke,ORG,18668
+Newman,PERSON,18668
+VSP,ORG,18668

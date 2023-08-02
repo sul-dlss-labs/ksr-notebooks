@@ -1,0 +1,25 @@
+text,label,fe_id
+4pm,TIME,19013
+2,CARDINAL,19013
+two,CARDINAL,19013
+35mph,QUANTITY,19013
+Ranch Park Drive,LOC,19013
+one,CARDINAL,19013
+EMS,ORG,19013
+Dustin Ferguson,PERSON,19013
+age 24,DATE,19013
+Hermann,PERSON,19013
+second,ORDINAL,19013
+2978,DATE,19013
+5,CARDINAL,19013
+5,CARDINAL,19013
+second,ORDINAL,19013
+Jeremy Patrick Kaelin,PERSON,19013
+age 23 of Spring,DATE,19013
+Kaelin,PERSON,19013
+Montgomery County,GPE,19013
+2008,DATE,19013
+the Houston Police Department,ORG,19013
+"80,000",MONEY,19013
+Trooper Alders,ORG,19013
+the Texas Department of Public Safety,ORG,19013

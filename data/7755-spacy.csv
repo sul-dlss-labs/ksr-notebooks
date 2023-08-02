@@ -1,0 +1,64 @@
+text,label,fe_id
+the Southern California Fire Siege,ORG,7755
+2003,DATE,7755
+California,GPE,7755
+the Cedar Fire,FAC,7755
+San Diego County,GPE,7755
+the Cedar Creek Falls,FAC,7755
+Old Fire,FAC,7755
+San Bernardino County,GPE,7755
+California,GPE,7755
+second,ORDINAL,7755
+the United States,GPE,7755
+CDF - CAL FIRE Firefighters,ORG,7755
+"more than 300,000",CARDINAL,7755
+CAL FIRE Firefighters,PERSON,7755
+30,CARDINAL,7755
+58,CARDINAL,7755
+California,GPE,7755
+more than 100,CARDINAL,7755
+California,GPE,7755
+CAL FIRE Firefighters,PERSON,7755
+CAL FIRE,ORG,7755
+CAL FIRE,ORG,7755
+California,GPE,7755
+second,ORDINAL,7755
+the United States,GPE,7755
+CAL,ORG,7755
+33 million acres,QUANTITY,7755
+State Responsibility Area,ORG,7755
+SRA,ORG,7755
+"4,000",CARDINAL,7755
+the Every year,DATE,7755
+California,GPE,7755
+thousands,CARDINAL,7755
+first,ORDINAL,7755
+the Southern California Fire Siege,ORG,7755
+2003,DATE,7755
+California,GPE,7755
+the Cedar Fire,FAC,7755
+San Diego County,GPE,7755
+the Cedar Creek Falls,FAC,7755
+Old Fire,FAC,7755
+San Bernardino County,GPE,7755
+CDF - CAL FIRE Firefighters,ORG,7755
+"more than 300,000",CARDINAL,7755
+CAL FIRE Firefighters,PERSON,7755
+30,CARDINAL,7755
+58,CARDINAL,7755
+California,GPE,7755
+more than 100,CARDINAL,7755
+California,GPE,7755
+CAL FIRE Firefighters,PERSON,7755
+CAL FIRE,ORG,7755
+CAL FIRE,ORG,7755
+33 million acres,QUANTITY,7755
+State Responsibility Area,ORG,7755
+SRA,ORG,7755
+"4,000",CARDINAL,7755
+the California Professional Firefighters CPF,ORG,7755
+the International Association of Firefighters,ORG,7755
+CAL FIRE news,ORG,7755
+Fire & EMS Department News,ORG,7755
+Cal Fire News,PERSON,7755
+Cal Fire News,PERSON,7755

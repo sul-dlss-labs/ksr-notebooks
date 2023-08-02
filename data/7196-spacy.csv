@@ -1,0 +1,17 @@
+text,label,fe_id
+Los Angeles,GPE,7196
+"June 5, 2008",DATE,7196
+around 3:05 p.m.,TIME,7196
+The Narcotics Enforcement Detail,ORG,7196
+2500,CARDINAL,7196
+Malabar Street,FAC,7196
+one,CARDINAL,7196
+SWAT,ORG,7196
+One,CARDINAL,7196
+Andrew Ruiz,PERSON,7196
+23,CARDINAL,7196
+Oscar Felix,PERSON,7196
+19,DATE,7196
+Two,CARDINAL,7196
+The Detective,ORG,7196
+Force Investigation Division,ORG,7196

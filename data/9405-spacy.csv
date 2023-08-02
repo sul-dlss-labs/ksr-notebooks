@@ -1,0 +1,47 @@
+text,label,fe_id
+Two,CARDINAL,9405
+15-year-olds,DATE,9405
+three,CARDINAL,9405
+Calumet City,GPE,9405
+Chicago,GPE,9405
+early Friday,DATE,9405
+Clarence Rounds,LOC,9405
+Brittany Johnson,PERSON,9405
+Blue Island,LOC,9405
+one,CARDINAL,9405
+115th,GPE,9405
+Halsted,FAC,9405
+Cook County,GPE,9405
+Dan Zorzi,PERSON,9405
+1:16 a.m.,TIME,9405
+1900,CARDINAL,9405
+Sibley Boulevard,FAC,9405
+Buick,ORG,9405
+McDonald,ORG,9405
+Calumet City,GPE,9405
+Sibley Boulevard,FAC,9405
+Madison Avenue,FAC,9405
+Sibley Boulevard,FAC,9405
+Dolton,ORG,9405
+Calumet Park,GPE,9405
+Chicago,GPE,9405
+Zorzi,GPE,9405
+115th,GPE,9405
+Halsted,FAC,9405
+Chicago,GPE,9405
+Buick,ORG,9405
+Johnson,PERSON,9405
+Rounds,GPE,9405
+a few hours later,TIME,9405
+Advocate Christ Medical Center,ORG,9405
+Three,CARDINAL,9405
+Zorzi,GPE,9405
+One,CARDINAL,9405
+Advocate Christ,ORG,9405
+two,CARDINAL,9405
+Stroger Hospital,PERSON,9405
+Zorzi,GPE,9405
+Thursday,DATE,9405
+Chicago,GPE,9405
+Chicago,GPE,9405
+Calumet City,GPE,9405

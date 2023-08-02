@@ -1,0 +1,906 @@
+text,label,fe_id
+State,ORG,1852
+the Shooting Death of Anthony Newfield,ORG,1852
+New Britain,GPE,1852
+"July 23, 2002",DATE,1852
+"January 24, 2003",DATE,1852
+Evidence,LOC,1852
+Findings of Fact,ORG,1852
+Anthony Newfield,PERSON,1852
+the Connecticut State Police,ORG,1852
+the Office of the Chief Medical Examiner,ORG,1852
+the State Police Forensic Science Laboratory,ORG,1852
+the New Britain Department,ORG,1852
+the State Police,ORG,1852
+the New Britain State’s,GPE,1852
+Anthony Newfield,PERSON,1852
+"the night of July 23, 2002",TIME,1852
+approximately 8:10 p.m.,TIME,1852
+Michael Conway,PERSON,1852
+the New Britain Police Department,ORG,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+New Britain,GPE,1852
+Connecticut,GPE,1852
+Anthony Newfield,PERSON,1852
+The New Britain State’s,ORG,1852
+Newfield,PERSON,1852
+the Connecticut State,ORG,1852
+Newfield,PERSON,1852
+General Statutes Section,ORG,1852
+State,ORG,1852
+State,ORG,1852
+Section 53a-22,LAW,1852
+Statutes,PERSON,1852
+The New Britain Police Department,ORG,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+the Central District Major Crime Squad,LOC,1852
+the Connecticut State,ORG,1852
+New Britain,GPE,1852
+shortly after 10 p.m.,TIME,1852
+the New Britain Police Department,ORG,1852
+The State Police,ORG,1852
+the night,TIME,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+Newfield,PERSON,1852
+the Office of the Chief Medical Examiner,ORG,1852
+The State Police Forensic Science Laboratory,ORG,1852
+State,ORG,1852
+Section 51-277a(c,LAW,1852
+the General Statutes,ORG,1852
+Anthony Newfield,PERSON,1852
+34 years of age,DATE,1852
+52,DATE,1852
+Farmington Avenue,GPE,1852
+1st,ORDINAL,1852
+New Britain,GPE,1852
+Connecticut,GPE,1852
+Newfield,PERSON,1852
+Priority Contractor Services,ORG,1852
+Burlington,GPE,1852
+Connecticut,GPE,1852
+"July 23, 2002",DATE,1852
+Newfield,PERSON,1852
+approximately 6:30 a.m.,TIME,1852
+approximately 3:00 p.m.,TIME,1852
+Burlington,ORG,1852
+Thunderbird,PRODUCT,1852
+500,CARDINAL,1852
+one half hour later,TIME,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+New Britain,GPE,1852
+only a few minutes,TIME,1852
+Newfield,PERSON,1852
+6:00 p.m.,TIME,1852
+40,DATE,1852
+Dewey Street,ORG,1852
+New Britain,GPE,1852
+Stephen Hayes,PERSON,1852
+Newfield,PERSON,1852
+Newfield,PERSON,1852
+40,CARDINAL,1852
+Dewey Street,ORG,1852
+Plainville,ORG,1852
+Shortly after 7:00 p.m.,TIME,1852
+Newfield,PERSON,1852
+226,CARDINAL,1852
+Commonwealth Avenue,FAC,1852
+New Britain,GPE,1852
+James Hubbard,PERSON,1852
+Nicholas Hubbard,PERSON,1852
+Newfield,PERSON,1852
+James Hubbard,PERSON,1852
+Wendy Gomes,PERSON,1852
+New Britain,GPE,1852
+Newfield,PERSON,1852
+approximately 7:45 p.m.,TIME,1852
+Newfield,PERSON,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+Judith Grundwalski,PERSON,1852
+Richard Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+New Britain,GPE,1852
+A few moments,TIME,1852
+Grundwalski,PERSON,1852
+Michael Conway,PERSON,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+AR-15,PRODUCT,1852
+Grundwalski,PERSON,1852
+Newfield,PERSON,1852
+Officer Conway,ORG,1852
+three,CARDINAL,1852
+Newfield,PERSON,1852
+Newfield,PERSON,1852
+New Britain General Hospital,ORG,1852
+10:13 p.m.,TIME,1852
+the Central District Major Crime Squad,ORG,1852
+the Connecticut State,ORG,1852
+52,CARDINAL,1852
+Farmington Avenue,GPE,1852
+1st,ORDINAL,1852
+"the early morning hours of July 24, 2002",TIME,1852
+Superior Court,ORG,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+three,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Miller Street,FAC,1852
+first,ORDINAL,1852
+two,CARDINAL,1852
+two,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Miller Street,FAC,1852
+second,ORDINAL,1852
+The State Police,ORG,1852
+two,CARDINAL,1852
+Two,CARDINAL,1852
+One,CARDINAL,1852
+the State Police,ORG,1852
+six-inch,QUANTITY,1852
+second,ORDINAL,1852
+eight-inch,QUANTITY,1852
+approximately eight feet,QUANTITY,1852
+five feet,QUANTITY,1852
+Debris,PERSON,1852
+two,CARDINAL,1852
+second,ORDINAL,1852
+second,ORDINAL,1852
+the State Police,ORG,1852
+FC223 REM,PRODUCT,1852
+three,CARDINAL,1852
+five feet,QUANTITY,1852
+five inches,QUANTITY,1852
+second,ORDINAL,1852
+eight feet,QUANTITY,1852
+four inches,QUANTITY,1852
+third,ORDINAL,1852
+eleven feet,QUANTITY,1852
+Miller Street,FAC,1852
+Thunderbird,PRODUCT,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+the State Police,ORG,1852
+Jeffrey LaChance,PERSON,1852
+Jeffrey LaChance,PERSON,1852
+Anthony Newfield,PERSON,1852
+Priority Contractor Services,ORG,1852
+Burlington,GPE,1852
+Connecticut,GPE,1852
+LaChance,PERSON,1852
+the Connecticut State Police,ORG,1852
+"July 25, 2002",DATE,1852
+Anthony Newfield,PERSON,1852
+Priority Contractor Services,ORG,1852
+"June 3, 2002",DATE,1852
+"the morning of July 23, 2002",TIME,1852
+6:30 a.m.,TIME,1852
+Newfield,PERSON,1852
+a full day,DATE,1852
+Burlington,ORG,1852
+approximately 3:00 p.m.,TIME,1852
+Newfield,PERSON,1852
+LaChance,PERSON,1852
+Newfield,ORG,1852
+Thunderbird,PRODUCT,1852
+LaChance,PERSON,1852
+Newfield,ORG,1852
+that day,DATE,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Steven Hayes,PERSON,1852
+Steven Hayes,PERSON,1852
+40,CARDINAL,1852
+Dewey Street,ORG,1852
+New Britain,GPE,1852
+the Connecticut State Police,ORG,1852
+"the early morning hours of July 24, 2002",TIME,1852
+Hayes,PERSON,1852
+approximately 6:00 p.m.,TIME,1852
+"July 23, 2002",DATE,1852
+Newfield,PERSON,1852
+Hayes,PERSON,1852
+40-ounce,QUANTITY,1852
+Hayes,PERSON,1852
+Newfield,ORG,1852
+Robert,PERSON,1852
+Brian Stewart,PERSON,1852
+Approximately one half hour,TIME,1852
+Newfield,PERSON,1852
+Stewart,PERSON,1852
+Newfield,PERSON,1852
+40,CARDINAL,1852
+Dewey Street,ORG,1852
+Hayes,PERSON,1852
+Newfield,PERSON,1852
+Robert,PERSON,1852
+Brian Stewart,PERSON,1852
+two,CARDINAL,1852
+Stewart,PERSON,1852
+the Connecticut State Police,ORG,1852
+"July 24, 2002",DATE,1852
+the evening of July 23,TIME,1852
+Stewart,PERSON,1852
+Anthony Newfield,PERSON,1852
+Steven Hayes,PERSON,1852
+40,CARDINAL,1852
+Dewey Street,ORG,1852
+New Britain,GPE,1852
+Newfield,ORG,1852
+40-ounce,QUANTITY,1852
+Newfield,ORG,1852
+40-ounce,QUANTITY,1852
+Brian Stewart,PERSON,1852
+hose,PERSON,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Stewart,PERSON,1852
+Plainville,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Stewart,PERSON,1852
+6:30 p.m.,TIME,1852
+Newfield,ORG,1852
+James Irwin,PERSON,1852
+Plainville,FAC,1852
+Stewart,PERSON,1852
+Newfield,ORG,1852
+evening,TIME,1852
+Newfield,PERSON,1852
+James Irwin,PERSON,1852
+James Irwin,PERSON,1852
+the Connecticut State Police,ORG,1852
+"July 24, 2002",DATE,1852
+"the evening of July 23, 2002",TIME,1852
+approximately 7:00 p.m.,TIME,1852
+Anthony Newfield,PERSON,1852
+Irwin,PERSON,1852
+Irwin,PERSON,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Irwin,NORP,1852
+about 15-20 minutes,CARDINAL,1852
+Irwin,PERSON,1852
+Newfield,ORG,1852
+James Hubbard,PERSON,1852
+James Hubbard,PERSON,1852
+226 Commonwealth Avenue,FAC,1852
+New Britain,GPE,1852
+"July 23, 2002",DATE,1852
+New Britain,GPE,1852
+the night,TIME,1852
+the early morning hours,TIME,1852
+the Connecticut State Police,ORG,1852
+two,CARDINAL,1852
+"the evening of July 23, 2002",TIME,1852
+James Hubbard,PERSON,1852
+Nicholas,PERSON,1852
+approximately 8:00 p.m.,TIME,1852
+Newfield,PERSON,1852
+Newfield,ORG,1852
+Hubbard,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Hubbard,GPE,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Hubbard,PERSON,1852
+Newfield,PERSON,1852
+Newfield,ORG,1852
+Hubbard,GPE,1852
+Hubbard,PERSON,1852
+Newfield,PERSON,1852
+Hubbard,PERSON,1852
+Wendy Gomes,PERSON,1852
+James Hubbard,PERSON,1852
+Anthony Newfield,PERSON,1852
+about 10 years,DATE,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Nicholas Hubbard,PERSON,1852
+Nicholas Hubbard,PERSON,1852
+James,PERSON,1852
+Commonwealth Avenue,FAC,1852
+New Britain,GPE,1852
+"July 23, 2002",DATE,1852
+New Britain,GPE,1852
+"the night of July 23, 2002",TIME,1852
+later that night,TIME,1852
+the Connecticut State Police,ORG,1852
+two,CARDINAL,1852
+Nicholas Hubbard,PERSON,1852
+James,PERSON,1852
+Commonwealth Avenue,FAC,1852
+approximately two weeks,DATE,1852
+Indiana,GPE,1852
+Anthony Newfield,PERSON,1852
+"July 23, 2002",DATE,1852
+that day,DATE,1852
+about 7:00 p.m.,TIME,1852
+Nicholas,PERSON,1852
+Tony,PERSON,1852
+James,PERSON,1852
+Tony,PERSON,1852
+Nicholas,PERSON,1852
+Nicholas,PERSON,1852
+Nicholas,PERSON,1852
+Anthony Newfield,PERSON,1852
+James Hubbard,PERSON,1852
+James,PERSON,1852
+Thunderbird,PRODUCT,1852
+James,PERSON,1852
+James,PERSON,1852
+a minute,TIME,1852
+Thunderbird,PRODUCT,1852
+Nicholas,PERSON,1852
+Tony,PERSON,1852
+Judith Grundwalski,PERSON,1852
+Judith Grundwalski,PERSON,1852
+Anthony Newfield,PERSON,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+the New Britain Police Department,ORG,1852
+July 23,DATE,1852
+the Connecticut State Police,ORG,1852
+July 23,DATE,1852
+the State Police,ORG,1852
+Grundwalski,PERSON,1852
+Judith Grundwalski,PERSON,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+"July 23, 2002",DATE,1852
+Richard Grundwalski,PERSON,1852
+Anthony Newfield,PERSON,1852
+7:00 p.m.,TIME,1852
+Anthony Newfield,PERSON,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+Grundwalski,PERSON,1852
+Newfield,PERSON,1852
+Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+at least six,CARDINAL,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Rambo,WORK_OF_ART,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+Mom,PERSON,1852
+Newfield,ORG,1852
+second,ORDINAL,1852
+Grundwalski,PERSON,1852
+second,ORDINAL,1852
+two,CARDINAL,1852
+today,DATE,1852
+Grundwalski,PERSON,1852
+New Britain,GPE,1852
+Officer Conway,ORG,1852
+two,CARDINAL,1852
+Grundwalski,PERSON,1852
+four,CARDINAL,1852
+five,CARDINAL,1852
+three,CARDINAL,1852
+Grundwalski,PERSON,1852
+the State Police,ORG,1852
+Richard Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+the New Britain Police Department,ORG,1852
+Grundwalski,PERSON,1852
+Anthony Newfield,PERSON,1852
+approximately 3:30,TIME,1852
+Newfield,PERSON,1852
+Richard J. Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Newfield,ORG,1852
+Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+Grundwalski,ORG,1852
+Newfield,ORG,1852
+Newfield,PERSON,1852
+Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+second,ORDINAL,1852
+Grundwalski,PERSON,1852
+Grundwalski,PERSON,1852
+at least seven,CARDINAL,1852
+eight,CARDINAL,1852
+Grundwalski,PERSON,1852
+three,CARDINAL,1852
+four,CARDINAL,1852
+Newfield,PERSON,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+Grundwalski,PERSON,1852
+Zenon Szul,PERSON,1852
+Szul,PERSON,1852
+the Connecticut State Police,ORG,1852
+"August 12, 2002",DATE,1852
+Szul,PERSON,1852
+Farmington Avenue,FAC,1852
+about 8:00 p.m.,TIME,1852
+"July 23, 2002",DATE,1852
+Farmington Avenue,FAC,1852
+Miller Street,FAC,1852
+Szul,PERSON,1852
+Miller Street,FAC,1852
+about three,CARDINAL,1852
+Szul,PERSON,1852
+Miller Street,FAC,1852
+two,CARDINAL,1852
+three,CARDINAL,1852
+Szul,PERSON,1852
+Judy McCue,PERSON,1852
+McCue,PERSON,1852
+64,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Miller Street,FAC,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+the New Britain Police Department,ORG,1852
+8:00 p.m.,TIME,1852
+McCue,PERSON,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+about eight,CARDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Amelia Schwencke,PERSON,1852
+Schwencke,PERSON,1852
+64,DATE,1852
+Farmington Avenue,FAC,1852
+second,ORDINAL,1852
+the New Britain Police Department,ORG,1852
+Schwencke,PERSON,1852
+Miller Street,FAC,1852
+Farmington Avenue,FAC,1852
+at least three,CARDINAL,1852
+Barbara Jones,PERSON,1852
+Jones,PERSON,1852
+Grundwalski,PERSON,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+second,ORDINAL,1852
+the night,TIME,1852
+the New Britain Police Department,ORG,1852
+the night,TIME,1852
+approximately 7:30 or 7:45 p.m.,TIME,1852
+Jones,PERSON,1852
+About twenty minutes,TIME,1852
+four,CARDINAL,1852
+five,CARDINAL,1852
+Grundwalski,PERSON,1852
+April,CARDINAL,1852
+Garnett,PERSON,1852
+Garnett,PERSON,1852
+third,ORDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+the New Britain Police Department,ORG,1852
+Garnett,PERSON,1852
+Miller Street,FAC,1852
+Clarissa Garnett,PERSON,1852
+Garnett,PERSON,1852
+April Garnett,PERSON,1852
+third,ORDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+the night,TIME,1852
+the night,TIME,1852
+about 8:05 p.m.,TIME,1852
+three or four,CARDINAL,1852
+Grundwalski,PERSON,1852
+three,CARDINAL,1852
+several seconds,TIME,1852
+Robert Newfield,PERSON,1852
+Newfield,PERSON,1852
+Anthony Newfield,PERSON,1852
+the State Police,ORG,1852
+"July 7, 2002",DATE,1852
+Robert Newfield,PERSON,1852
+the State Police,ORG,1852
+Robert,PERSON,1852
+Anthony,PERSON,1852
+Robert,PERSON,1852
+Anthony,PERSON,1852
+Robert,PERSON,1852
+Officer Conway,ORG,1852
+Michael Conway,PERSON,1852
+"July 24, 2002",DATE,1852
+Michael Conway,PERSON,1852
+the Connecticut State Police,ORG,1852
+the State Police,ORG,1852
+"January 9, 2003",DATE,1852
+fourth,ORDINAL,1852
+6:00 p.m.,TIME,1852
+2:00 a.m.,TIME,1852
+"the night of July 23, 2002",TIME,1852
+17,CARDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+approximately 270 pounds,QUANTITY,1852
+CAPSTUN,ORG,1852
+Officer Conway,ORG,1852
+Commonwealth Avenue,FAC,1852
+AR-15,PRODUCT,1852
+Grundwalski,PERSON,1852
+Officer Conway,ORG,1852
+Anthony Newfield,PERSON,1852
+two six inch,QUANTITY,1852
+Conway,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+approximately sixteen feet,QUANTITY,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Conway,ORG,1852
+Newfield,ORG,1852
+Conway,ORG,1852
+Newfield,ORG,1852
+approximately five to eight feet,QUANTITY,1852
+Newfield,ORG,1852
+one,CARDINAL,1852
+second,ORDINAL,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+between four and eight feet,CARDINAL,1852
+Officer Conway,ORG,1852
+three,CARDINAL,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+the State Police,ORG,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+Grundwalski,PERSON,1852
+New Britain Police Department Policies,ORG,1852
+The New Britain Police Department,ORG,1852
+AR-15,PRODUCT,1852
+AR-15,PRODUCT,1852
+AR-15,PRODUCT,1852
+Officers,PRODUCT,1852
+the Glock Firearm,PERSON,1852
+Anthony Newfield,PERSON,1852
+Malka Shah,PERSON,1852
+Associate Medical Examiner,ORG,1852
+the Office of the Chief Medical Examiner,ORG,1852
+"July 24, 2002",DATE,1852
+Shah,PERSON,1852
+Shah,PERSON,1852
+three,CARDINAL,1852
+one,CARDINAL,1852
+first,ORDINAL,1852
+second,ORDINAL,1852
+third,ORDINAL,1852
+second,ORDINAL,1852
+third,ORDINAL,1852
+two,CARDINAL,1852
+One,CARDINAL,1852
+second,ORDINAL,1852
+two,CARDINAL,1852
+second,ORDINAL,1852
+third,ORDINAL,1852
+Sherwood Lewis,PERSON,1852
+Newfield,PERSON,1852
+Ethanol,PERSON,1852
+0.17%,PERCENT,1852
+Ethanol,PERSON,1852
+0.10%,PERCENT,1852
+Shah,PERSON,1852
+"Recorded Telephone Calls
+
+",ORG,1852
+Three,CARDINAL,1852
+the New Britain Police Department,ORG,1852
+three,CARDINAL,1852
+1,CARDINAL,1852
+Wendy Gomes,PERSON,1852
+Dispatcher,PERSON,1852
+Wendy Gomes,PERSON,1852
+Anthony Newfield,PERSON,1852
+Anthony,PERSON,1852
+W-226 Commonwealth Avenue,FAC,1852
+"W-James
+
+D-Last",PERSON,1852
+W-Hubbard,ORG,1852
+East Street,LOC,1852
+911,CARDINAL,1852
+Ford,ORG,1852
+Thunderbird,PRODUCT,1852
+Thunderbird,PRODUCT,1852
+W-Ya,PERSON,1852
+911,CARDINAL,1852
+2,CARDINAL,1852
+Judith Grundwalski,PERSON,1852
+Judith Grundwalski,PERSON,1852
+Richard Grundwalski,PERSON,1852
+52,DATE,1852
+Farmington Avenue,GPE,1852
+1st,ORDINAL,1852
+33,DATE,1852
+J-Anthony Newfield,PRODUCT,1852
+J-Ya,PRODUCT,1852
+Richard Grundwalski,PERSON,1852
+3,CARDINAL,1852
+Judith Grundwalski,PERSON,1852
+Anthony Newfield,PERSON,1852
+J. Well,PERSON,1852
+second,ORDINAL,1852
+second,ORDINAL,1852
+second,ORDINAL,1852
+second,ORDINAL,1852
+second,ORDINAL,1852
+four,CARDINAL,1852
+four,CARDINAL,1852
+second,ORDINAL,1852
+Judith Grundwalski,PERSON,1852
+second,ORDINAL,1852
+Anthony Newfield,PERSON,1852
+Tony,PERSON,1852
+Tony,PERSON,1852
+second,ORDINAL,1852
+two,CARDINAL,1852
+Judith Grundwalski,PERSON,1852
+Officer Conway,ORG,1852
+Three,CARDINAL,1852
+Robert Newfield,PERSON,1852
+Eric Court,ORG,1852
+Eric Court,PERSON,1852
+223-6137,DATE,1852
+D-6137,DATE,1852
+AMR,ORG,1852
+Richard Grundwalski,PERSON,1852
+Robert,PERSON,1852
+Judith Grundwalski,PERSON,1852
+Recorded Radio Transmission,ORG,1852
+New Britain,GPE,1852
+Officer Conway,ORG,1852
+the New Britain Police Department,ORG,1852
+226 Commonwealth Avenue,FAC,1852
+Anthony Newfield,PERSON,1852
+New Britain,GPE,1852
+6,CARDINAL,1852
+14,CARDINAL,1852
+U-Unit,ORG,1852
+14,DATE,1852
+D-6,ORG,1852
+14,CARDINAL,1852
+226,CARDINAL,1852
+Commonwealth,ORG,1852
+226,CARDINAL,1852
+Commonwealth,ORG,1852
+James Hubbard,PERSON,1852
+Anthony Newfield,PERSON,1852
+120,CARDINAL,1852
+17,CARDINAL,1852
+C-17,PRODUCT,1852
+D-17,PRODUCT,1852
+10,CARDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Ward,PERSON,1852
+Miller,PERSON,1852
+Judith Grundwalski,PERSON,1852
+32 year old,DATE,1852
+Anthony Newfield,PERSON,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+the 1st,DATE,1852
+Commonwealth,ORG,1852
+Anthony,PERSON,1852
+U-21,PRODUCT,1852
+D-52 Farmington Avenue,PRODUCT,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+U-12,PRODUCT,1852
+106,CARDINAL,1852
+CAPSTUN,ORG,1852
+C-17,PRODUCT,1852
+U-Unit 2,ORG,1852
+Farmington Avenue,FAC,1852
+13,CARDINAL,1852
+101,CARDINAL,1852
+10,DATE,1852
+Farmington,GPE,1852
+D-52,PRODUCT,1852
+Ward,PERSON,1852
+Miller,PERSON,1852
+U-21,PRODUCT,1852
+Farmington,GPE,1852
+Farmington,ORG,1852
+U-101,WORK_OF_ART,1852
+First,ORDINAL,1852
+U-101,WORK_OF_ART,1852
+U-Medic,ORG,1852
+D-21,PRODUCT,1852
+U-21,PRODUCT,1852
+22,CARDINAL,1852
+3,CARDINAL,1852
+Farmington,GPE,1852
+Ward,ORG,1852
+U-21,PRODUCT,1852
+101,CARDINAL,1852
+"Forensic Testing
+
+The State Police Forensic Laboratory",WORK_OF_ART,1852
+1,CARDINAL,1852
+two,CARDINAL,1852
+Officer Conway,ORG,1852
+Colt Ar-15,ORG,1852
+Glock,PERSON,1852
+Model 17,PRODUCT,1852
+Caliber 9MM Luger,ORG,1852
+three,CARDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+four,CARDINAL,1852
+three,CARDINAL,1852
+four,CARDINAL,1852
+three,CARDINAL,1852
+fourth,ORDINAL,1852
+2,CARDINAL,1852
+Forensic Laboratory,ORG,1852
+approximately 7 feet,QUANTITY,1852
+1 inch,QUANTITY,1852
+7 feet,QUANTITY,1852
+6 inches,QUANTITY,1852
+3,CARDINAL,1852
+Criminalistic,NORP,1852
+AR-15,PRODUCT,1852
+two,CARDINAL,1852
+Anthony Newfield,PERSON,1852
+AR-15,PRODUCT,1852
+4,CARDINAL,1852
+Criminalistic,NORP,1852
+ten,CARDINAL,1852
+the State Police,ORG,1852
+Five,CARDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+two,CARDINAL,1852
+two,CARDINAL,1852
+five,CARDINAL,1852
+Anthony Newfield,PERSON,1852
+five,CARDINAL,1852
+the General Statutes,ORG,1852
+third,ORDINAL,1852
+First,ORDINAL,1852
+Second,ORDINAL,1852
+State,ORG,1852
+Smith,GPE,1852
+73,CARDINAL,1852
+173,CARDINAL,1852
+262,CARDINAL,1852
+Conn.,GPE,1852
+923,CARDINAL,1852
+2002,DATE,1852
+State,ORG,1852
+Silveira 198 Conn.,PERSON,1852
+454,PRODUCT,1852
+1986,DATE,1852
+State,ORG,1852
+643,CARDINAL,1852
+1999,DATE,1852
+The United States Supreme Court,ORG,1852
+The ‘,WORK_OF_ART,1852
+20/20,CARDINAL,1852
+second,ORDINAL,1852
+Graham v. Connor 490,PERSON,1852
+1989,DATE,1852
+"Findings of Fact
+
+Based on a review",WORK_OF_ART,1852
+Anthony Newfield,PERSON,1852
+first,ORDINAL,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+New Britain,GPE,1852
+Connecticut,GPE,1852
+Judith Grundwalski,PERSON,1852
+Richard Grundwalski,PERSON,1852
+Priority Contractor Services,ORG,1852
+Newfield,PERSON,1852
+Connecticut,GPE,1852
+1985,DATE,1852
+"July 23, 2002",DATE,1852
+Anthony Newfield,PERSON,1852
+Officer Conway,ORG,1852
+226,CARDINAL,1852
+Commonwealth Avenue,FAC,1852
+New Britain,GPE,1852
+second,ORDINAL,1852
+second,ORDINAL,1852
+Newfield,PERSON,1852
+Newfield,PERSON,1852
+two,CARDINAL,1852
+Michael Conway,PERSON,1852
+the New Britain Police Department,ORG,1852
+the evening,TIME,1852
+"July 23, 2002",DATE,1852
+52,CARDINAL,1852
+Farmington Avenue,FAC,1852
+Anthony Newfield,PERSON,1852
+minutes earlier,TIME,1852
+226 Commonwealth Avenue,FAC,1852
+Newfield,ORG,1852
+CAPSTUN,ORG,1852
+Newfield,ORG,1852
+Grundwalski,PERSON,1852
+Newfield,ORG,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+Officer Conway,ORG,1852
+AR-15,PRODUCT,1852
+Grundwalski,PERSON,1852
+Officer Conway,ORG,1852
+two,CARDINAL,1852
+Anthony Newfield,PERSON,1852
+two,CARDINAL,1852
+Newfield,PERSON,1852
+226 Commonwealth Avenue,FAC,1852
+52,DATE,1852
+Farmington Avenue,FAC,1852
+two,CARDINAL,1852
+today,DATE,1852
+second,ORDINAL,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Newfield,ORG,1852
+Conway,ORG,1852
+three,CARDINAL,1852
+three,CARDINAL,1852
+Newfield,ORG,1852
+Anthony Newfield,PERSON,1852
+Grundwalski,PERSON,1852
+first,ORDINAL,1852
+Newfield,PERSON,1852
+Grundwalski,PERSON,1852
+Newfield,PERSON,1852
+Officer Conway,ORG,1852
+Grundwalski,PERSON,1852
+Newfield,PERSON,1852
+three,CARDINAL,1852
+Officer Conway,ORG,1852
+several feet,QUANTITY,1852
+Newfield,PERSON,1852
+two,CARDINAL,1852
+four to eight feet,QUANTITY,1852
+Officer Conway,ORG,1852
+two,CARDINAL,1852
+Newfield,PERSON,1852
+"the night of July 23, 2002",TIME,1852
+Newfield,PERSON,1852
+two,CARDINAL,1852
+Anthony Newfields,PERSON,1852
+Anthony Newfield,PERSON,1852
+Anthony Newfield,PERSON,1852
+July 23,DATE,1852
+Newfield,PERSON,1852
+that night,TIME,1852
+the Division of Criminal Justice,ORG,1852
+Scott J. Murphy,PERSON,1852
+State,ORG,1852

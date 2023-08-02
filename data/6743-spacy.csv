@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6743
+Alabama,GPE,6743
+Alaska,GPE,6743
+Arizona,GPE,6743
+Arkansas,GPE,6743
+California,GPE,6743
+Colorado,GPE,6743
+Connecticut,GPE,6743
+Delaware,GPE,6743
+Florida,GPE,6743
+Georgia,GPE,6743
+Hawaii,GPE,6743
+Idaho,GPE,6743
+Indiana,GPE,6743
+Iowa,GPE,6743
+Kansas,GPE,6743
+Kentucky,GPE,6743
+Louisiana,GPE,6743
+Maine,GPE,6743
+Maryland,GPE,6743
+Massachusetts,GPE,6743
+Michigan,GPE,6743
+Minnesota,GPE,6743
+Mississippi,GPE,6743
+Missouri,GPE,6743
+Montana,GPE,6743
+Nebraska,GPE,6743
+Nevada,GPE,6743
+New Hampshire,GPE,6743
+New Jersey,GPE,6743
+Ohio,GPE,6743
+Oklahoma,GPE,6743
+Oregon,GPE,6743
+Pennsylvania,GPE,6743
+Rhode Island,GPE,6743
+Tennessee,GPE,6743
+Texas,GPE,6743
+Utah,GPE,6743
+Vermont,GPE,6743
+Virginia,GPE,6743
+Washington,GPE,6743
+Washington,GPE,6743
+D.C.,GPE,6743
+Wisconsin,GPE,6743
+Wyoming,GPE,6743
+US,GPE,6743
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6743
+Marshall Islands American Samoa Federated States,ORG,6743
+Micronesia Guam,FAC,6743
+Alberta,GPE,6743
+Canada,GPE,6743
+British Columbia,GPE,6743
+Canada Manitoba,GPE,6743
+Canada,GPE,6743
+New Brunswick,GPE,6743
+Canada Newfoundland,PERSON,6743
+Canada,GPE,6743
+Canada,GPE,6743
+Canada Ontario,GPE,6743
+Canada,GPE,6743
+Edward Island,GPE,6743
+Canada Quebec,GPE,6743
+Canada,GPE,6743
+Saskatchewan,GPE,6743
+Canada Yukon Territory,ORG,6743
+Canada,GPE,6743
+Zip Code,PERSON,6743

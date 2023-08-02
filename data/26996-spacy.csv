@@ -1,0 +1,22 @@
+text,label,fe_id
+Mobile Police,ORG,26996
+Mobile,ORG,26996
+Christopher McCorvey,PERSON,26996
+36,DATE,26996
+Wednesday,DATE,26996
+morning,TIME,26996
+Monday,DATE,26996
+afternoon,TIME,26996
+Pascagoula Road,PERSON,26996
+Johnston Road,PERSON,26996
+Monday afternoon,TIME,26996
+McCorvey,ORG,26996
+McCorvey,PERSON,26996
+McCorvey,PERSON,26996
+MPD,ORG,26996
+second,ORDINAL,26996
+two,CARDINAL,26996
+Mobile County,GPE,26996
+McCorvey,ORG,26996
+McCorvey,PERSON,26996
+less than 48 hours,TIME,26996

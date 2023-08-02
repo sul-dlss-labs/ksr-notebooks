@@ -1,0 +1,144 @@
+text,label,fe_id
+Arturo Ibarra,PERSON,9908
+a few years ago,DATE,9908
+Sonia,PERSON,9908
+as many as 60 hours,CARDINAL,9908
+the weekends,DATE,9908
+Ibarra,ORG,9908
+last weekend,DATE,9908
+Chicago,GPE,9908
+two,CARDINAL,9908
+two,CARDINAL,9908
+third,ORDINAL,9908
+the Far North Side,LOC,9908
+Ibarra,ORG,9908
+three,CARDINAL,9908
+the last year,DATE,9908
+10,CARDINAL,9908
+Sonia Ibarra,PERSON,9908
+11 years,DATE,9908
+Southwest Side,NORP,9908
+Ibarra,GPE,9908
+37,DATE,9908
+Raul Segura,PERSON,9908
+36,DATE,9908
+West Side,NORP,9908
+Segura,PERSON,9908
+more than two decades,DATE,9908
+15,DATE,9908
+Randy Kuhn,PERSON,9908
+Kuhn,ORG,9908
+Segura,ORG,9908
+Geronimo,PERSON,9908
+Little Village,GPE,9908
+two,CARDINAL,9908
+Geronimo Segura,PERSON,9908
+third,ORDINAL,9908
+Augustin Toscano,PERSON,9908
+29,DATE,9908
+Sonia Ibarra's,PERSON,9908
+two,CARDINAL,9908
+Ibarra,GPE,9908
+Segura,GPE,9908
+Toscano,PERSON,9908
+Feb. 26,DATE,9908
+Edgewater,PERSON,9908
+Ibarra,ORG,9908
+at least last summer,DATE,9908
+two,CARDINAL,9908
+Gang,PERSON,9908
+Ibarra,GPE,9908
+two,CARDINAL,9908
+5800,CARDINAL,9908
+North Winthrop Avenue,GPE,9908
+about 5:30 p.m.,TIME,9908
+three,CARDINAL,9908
+tens of thousands,CARDINAL,9908
+Ibarra,GPE,9908
+two,CARDINAL,9908
+911,CARDINAL,9908
+two,CARDINAL,9908
+Ibarra,ORG,9908
+Ford,ORG,9908
+F-150,PRODUCT,9908
+Thorndale Avenue,FAC,9908
+Broadway,FAC,9908
+one,CARDINAL,9908
+Ibarra,ORG,9908
+Ibarra,ORG,9908
+one,CARDINAL,9908
+Chicago,GPE,9908
+about a mile,QUANTITY,9908
+Devon,ORG,9908
+Greenview,ORG,9908
+One,CARDINAL,9908
+Ibarra,ORG,9908
+two,CARDINAL,9908
+two,CARDINAL,9908
+half-foot,QUANTITY,9908
+six,CARDINAL,9908
+Ibarra,ORG,9908
+Ibarra,ORG,9908
+Brighton Park,GPE,9908
+about a dozen,CARDINAL,9908
+two,CARDINAL,9908
+Sonia Ibarra,PERSON,9908
+Toscano,ORG,9908
+about 3 a.m.,TIME,9908
+the next day,DATE,9908
+Segura,PERSON,9908
+Toscano,PERSON,9908
+last week,DATE,9908
+three,CARDINAL,9908
+2010,DATE,9908
+three,CARDINAL,9908
+McKinley Park,FAC,9908
+April,DATE,9908
+three,CARDINAL,9908
+Brighton Park,GPE,9908
+May,DATE,9908
+four,CARDINAL,9908
+West Lawn,LOC,9908
+September,DATE,9908
+Segura,PERSON,9908
+Toscano,PERSON,9908
+Windward Roofing and Construction,ORG,9908
+919,CARDINAL,9908
+Ibarra,GPE,9908
+Segura,PERSON,9908
+Ibarra,ORG,9908
+2008,DATE,9908
+Segura,PERSON,9908
+two,CARDINAL,9908
+Kuhn,ORG,9908
+Kuhn,PERSON,9908
+"$60,000 to $70,000",MONEY,9908
+50 to 60 hours,TIME,9908
+Ibarra,ORG,9908
+Brownsville,GPE,9908
+Texas,GPE,9908
+Mexico,GPE,9908
+Chicago,GPE,9908
+1996,DATE,9908
+three years,DATE,9908
+2002,DATE,9908
+2 kilograms,QUANTITY,9908
+Drug Enforcement Administration,ORG,9908
+Ibarra,ORG,9908
+one,CARDINAL,9908
+seven years,DATE,9908
+Ibarra,ORG,9908
+two,CARDINAL,9908
+third,ORDINAL,9908
+last year,DATE,9908
+Ibarra,ORG,9908
+Santa Muerte,GPE,9908
+"""Holy Death",WORK_OF_ART,9908
+Saint Death,WORK_OF_ART,9908
+Mexico City,GPE,9908
+Mexico,GPE,9908
+the Catholic Church,ORG,9908
+Santa Muerte,GPE,9908
+Ibarra,ORG,9908
+Catholic,NORP,9908
+the Virgin Mary,FAC,9908

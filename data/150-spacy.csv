@@ -1,0 +1,68 @@
+text,label,fe_id
+TIMES,ORG,150
+26-year-old,DATE,150
+three,CARDINAL,150
+Los Angeles Police Department,ORG,150
+Los Amigos,GPE,150
+Friday,DATE,150
+afternoon,TIME,150
+Six hours later,TIME,150
+12:20 p.m.,TIME,150
+300,CARDINAL,150
+East Jefferson Boulevard,LOC,150
+Sharyn Buck,PERSON,150
+three,CARDINAL,150
+two,CARDINAL,150
+Felix Chagolla,PERSON,150
+East Los Angeles,GPE,150
+six,CARDINAL,150
+Helen Chagolla,PERSON,150
+Two,CARDINAL,150
+Buck,PERSON,150
+Buck,PERSON,150
+Buck,PERSON,150
+Guzman,PERSON,150
+Between 60 and 100,DATE,150
+Buck,PERSON,150
+Bonifacio Santana Aguirre,PERSON,150
+72,DATE,150
+West Covina,GPE,150
+Las Marias,GPE,150
+Aguirre,PERSON,150
+Chagolla,ORG,150
+Ramon Ramirez,PERSON,150
+Chagolla,ORG,150
+Ramirez,PERSON,150
+Chagolla,ORG,150
+Danielle Hyde,PERSON,150
+26,DATE,150
+the night,TIME,150
+Chagolla,ORG,150
+two,CARDINAL,150
+three,CARDINAL,150
+Hyde,PERSON,150
+Chagolla,ORG,150
+two,CARDINAL,150
+Friday,DATE,150
+Chagolla,ORG,150
+Las Marias,ORG,150
+Guzman,PERSON,150
+Buck,PERSON,150
+Brenda Rosas,PERSON,150
+18,DATE,150
+Minutes later,DATE,150
+Rosas,GPE,150
+about 10,CARDINAL,150
+Six hours later,TIME,150
+Chevy,ORG,150
+Nova,PRODUCT,150
+Maple Street,FAC,150
+Jefferson Boulevard,FAC,150
+Nova,ORG,150
+about five,CARDINAL,150
+One,CARDINAL,150
+20,CARDINAL,150
+PCP,ORG,150
+Nova,LOC,150
+Soraya,PERSON,150
+Sarhaddi Nelson,PERSON,150

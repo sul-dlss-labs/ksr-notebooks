@@ -1,0 +1,10 @@
+text,label,fe_id
+Hemet,GPE,30525
+"Monday, June 28",DATE,30525
+about 2 p.m.,TIME,30525
+two,CARDINAL,30525
+800,CARDINAL,30525
+West Florida Avenue,LOC,30525
+second,ORDINAL,30525
+the Riverside County Force Investigation Detail,ORG,30525
+the Hemet Police Department,ORG,30525

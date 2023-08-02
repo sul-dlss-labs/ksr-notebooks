@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,17191
+Alabama,GPE,17191
+Alaska,GPE,17191
+Arizona,GPE,17191
+Arkansas,GPE,17191
+California,GPE,17191
+Colorado,GPE,17191
+Connecticut,GPE,17191
+Delaware,GPE,17191
+Florida,GPE,17191
+Georgia,GPE,17191
+Hawaii,GPE,17191
+Idaho,GPE,17191
+Indiana,GPE,17191
+Iowa,GPE,17191
+Kansas,GPE,17191
+Kentucky,GPE,17191
+Louisiana,GPE,17191
+Maine,GPE,17191
+Maryland,GPE,17191
+Massachusetts,GPE,17191
+Michigan,GPE,17191
+Minnesota,GPE,17191
+Mississippi,GPE,17191
+Missouri,GPE,17191
+Montana,GPE,17191
+Nebraska,GPE,17191
+Nevada,GPE,17191
+New Hampshire,GPE,17191
+New Jersey,GPE,17191
+Ohio,GPE,17191
+Oklahoma,GPE,17191
+Oregon,GPE,17191
+Pennsylvania,GPE,17191
+Rhode Island,GPE,17191
+Tennessee,GPE,17191
+Texas,GPE,17191
+Utah,GPE,17191
+Vermont,GPE,17191
+Virginia,GPE,17191
+Washington,GPE,17191
+Washington,GPE,17191
+D.C.,GPE,17191
+Wisconsin,GPE,17191
+Wyoming,GPE,17191
+US,GPE,17191
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,17191
+Marshall Islands American Samoa Federated States,ORG,17191
+Micronesia Guam,FAC,17191
+Alberta,GPE,17191
+Canada,GPE,17191
+British Columbia,GPE,17191
+Canada Manitoba,GPE,17191
+Canada,GPE,17191
+New Brunswick,GPE,17191
+Canada Newfoundland,PERSON,17191
+Canada,GPE,17191
+Canada,GPE,17191
+Canada Ontario,GPE,17191
+Canada,GPE,17191
+Edward Island,GPE,17191
+Canada Quebec,GPE,17191
+Canada,GPE,17191
+Saskatchewan,GPE,17191
+Canada Yukon Territory,ORG,17191
+Canada,GPE,17191
+Zip Code,PERSON,17191

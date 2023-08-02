@@ -1,0 +1,19 @@
+text,label,fe_id
+yesterday,DATE,7785
+afternoon,TIME,7785
+Centereach,ORG,7785
+Francis Cole,PERSON,7785
+48,DATE,7785
+19-year,DATE,7785
+68th,ORDINAL,7785
+first,ORDINAL,7785
+Elena,PERSON,7785
+46,DATE,7785
+18-year-old,DATE,7785
+Newsday,ORG,7785
+911,CARDINAL,7785
+Cole,PRODUCT,7785
+Suffolk County,GPE,7785
+Det,PERSON,7785
+Jack Fitzpatrick,PERSON,7785
+Post,ORG,7785

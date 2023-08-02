@@ -1,0 +1,199 @@
+text,label,fe_id
+"August 19, 2001",DATE,1099
+30,CARDINAL,1099
+40,CARDINAL,1099
+July 21,DATE,1099
+25-year-old,DATE,1099
+Julian “Boo Boo” Celaya,PERSON,1099
+two,CARDINAL,1099
+12,CARDINAL,1099
+Fresno,GPE,1099
+California,GPE,1099
+as many as 45,CARDINAL,1099
+Three days earlier,DATE,1099
+July 18,DATE,1099
+Rene LaCentra,PERSON,1099
+45-year-old,DATE,1099
+three,CARDINAL,1099
+Fresno,GPE,1099
+LaCentra,ORG,1099
+"July 16, two days",DATE,1099
+LaCentra,ORG,1099
+Roderick Lee Bartolette,PERSON,1099
+Fresno,GPE,1099
+Bartolette,ORG,1099
+Six days,DATE,1099
+three,CARDINAL,1099
+two,CARDINAL,1099
+Fresno,GPE,1099
+Fresno,GPE,1099
+Proletarians,NORP,1099
+Agricultural Heartland,LOC,1099
+Fresno,GPE,1099
+"427,000",CARDINAL,1099
+California,GPE,1099
+sixth,ORDINAL,1099
+U.S.—the Central Valley,LOC,1099
+the San Francisco Bay Area,LOC,1099
+Los Angeles,GPE,1099
+Fresno,GPE,1099
+one,CARDINAL,1099
+the U.S.—nearly 40%,PERCENT,1099
+Latinos,ORG,1099
+30%,PERCENT,1099
+a decade ago,DATE,1099
+37 percent,PERCENT,1099
+11%,PERCENT,1099
+Asian/Pacific Islanders,ORG,1099
+8%,PERCENT,1099
+African-American,NORP,1099
+85,CARDINAL,1099
+Fresno,GPE,1099
+Over 200,CARDINAL,1099
+$3 plus billion,MONEY,1099
+U.S.,GPE,1099
+today,DATE,1099
+Tens of thousands,CARDINAL,1099
+Fresno,GPE,1099
+Mexico,GPE,1099
+proletarians,NORP,1099
+Today,DATE,1099
+Fresno,GPE,1099
+U.S.,GPE,1099
+50,CARDINAL,1099
+U.S.,GPE,1099
+Fresno,GPE,1099
+1,CARDINAL,1099
+12.8%,PERCENT,1099
+June of this year,DATE,1099
+nearly three,CARDINAL,1099
+Fresno,GPE,1099
+proletarians,NORP,1099
+Fresno,GPE,1099
+L.A. Confidential,WORK_OF_ART,1099
+recent years,DATE,1099
+Fresno,GPE,1099
+Violent Crime Suppression,ORG,1099
+SWAT,ORG,1099
+Fresno,GPE,1099
+The Murder of Julian Celaya,WORK_OF_ART,1099
+the Fresno Bee,ORG,1099
+"Saturday, July 21",DATE,1099
+Julian Celaya,PERSON,1099
+two,CARDINAL,1099
+12,CARDINAL,1099
+Celaya,PERSON,1099
+four,CARDINAL,1099
+Three,CARDINAL,1099
+Julian,NORP,1099
+two,CARDINAL,1099
+first,ORDINAL,1099
+Celaya,PERSON,1099
+as many as 50,CARDINAL,1099
+Celaya,PERSON,1099
+One,CARDINAL,1099
+first,ORDINAL,1099
+10 to 15,CARDINAL,1099
+15 to 20,CARDINAL,1099
+the Fresno Bee,ORG,1099
+Julian,NORP,1099
+the Fresno Bee,ORG,1099
+Julian,NORP,1099
+Celaya,PERSON,1099
+two days,DATE,1099
+the Fresno Bee,ORG,1099
+Monday,DATE,1099
+Julian,NORP,1099
+Julian,NORP,1099
+100th,ORDINAL,1099
+the Fresno Police Department,ORG,1099
+that day,DATE,1099
+SWAT,ORG,1099
+the Fresno Convention Center,ORG,1099
+More than one,CARDINAL,1099
+RW,ORG,1099
+Hofbrau,ORG,1099
+"Monday, July 23",DATE,1099
+50,CARDINAL,1099
+Julian,NORP,1099
+Julian,NORP,1099
+Roderick Bartolette,PERSON,1099
+Bartolette,ORG,1099
+Fresno,GPE,1099
+Fresno,GPE,1099
+Rene LaCentra,PERSON,1099
+Rene LaCentra,PERSON,1099
+the afternoon of,TIME,1099
+July 18,DATE,1099
+LaCentra,ORG,1099
+Fresno Bee,PERSON,1099
+Fresno,GPE,1099
+SWAT,ORG,1099
+SWAT,ORG,1099
+bang,GPE,1099
+bang,GPE,1099
+bang,GPE,1099
+bang,GPE,1099
+City Hall,FAC,1099
+LaCentra,ORG,1099
+three,CARDINAL,1099
+LaCentra,ORG,1099
+LaCentra,ORG,1099
+LaCentra,ORG,1099
+LaCentra,ORG,1099
+"Protest and Outrage
+
+People in Fresno",WORK_OF_ART,1099
+Fresno,GPE,1099
+Julian Celaya,PERSON,1099
+four,CARDINAL,1099
+age six,DATE,1099
+Luis,PERSON,1099
+David,PERSON,1099
+David,PERSON,1099
+Fresno,GPE,1099
+Chief Dyer,PERSON,1099
+six feet,QUANTITY,1099
+"Thursday, July 26",DATE,1099
+the Central California Criminal Justice Committee,ORG,1099
+Chicano,ORG,1099
+African Americans,NORP,1099
+Julian Celaya’s,PERSON,1099
+Julian,NORP,1099
+two,CARDINAL,1099
+One,CARDINAL,1099
+Asian,NORP,1099
+one,CARDINAL,1099
+One,CARDINAL,1099
+RW,ORG,1099
+about every two months,DATE,1099
+one,CARDINAL,1099
+Delfino Guerrero,PERSON,1099
+10,CARDINAL,1099
+Fresno,GPE,1099
+"September 11, 2000",DATE,1099
+Last October 22,DATE,1099
+Fresno,GPE,1099
+Delfino,ORG,1099
+Anger,ORG,1099
+Fresno,GPE,1099
+One,CARDINAL,1099
+RW,ORG,1099
+Fresno,GPE,1099
+The Fresno Bee,ORG,1099
+Fresno,GPE,1099
+Fresno,GPE,1099
+Chief Dyer,PERSON,1099
+Julian Celaya’s,PERSON,1099
+three,CARDINAL,1099
+20 years,DATE,1099
+one,CARDINAL,1099
+August 5,DATE,1099
+Hanford,GPE,1099
+32-year-old,DATE,1099
+Michael Correa,PERSON,1099
+one,CARDINAL,1099
+Michael,PERSON,1099
+RW,ORG,1099
+Fresno,GPE,1099
+Fresno,GPE,1099

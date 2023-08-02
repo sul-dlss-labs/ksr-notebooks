@@ -1,0 +1,16 @@
+text,label,fe_id
+Anthony Lee Adams,PERSON,26221
+56-year-old,DATE,26221
+Tuesday morning,TIME,26221
+9 a.m.,TIME,26221
+3400,CARDINAL,26221
+39th,ORDINAL,26221
+East Lake Boulevard,LOC,26221
+Birmingham,GPE,26221
+East Precinct,NORP,26221
+Sgt,PERSON,26221
+Johnny Williams,PERSON,26221
+More than 50,CARDINAL,26221
+Williams,PERSON,26221
+Jefferson County,GPE,26221
+Bill Yates,PERSON,26221

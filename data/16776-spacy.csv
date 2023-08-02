@@ -1,0 +1,24 @@
+text,label,fe_id
+Los Angeles County,GPE,16776
+early Friday,DATE,16776
+around 1:15 a.m.,TIME,16776
+Friday,DATE,16776
+800,CARDINAL,16776
+Ashcomb Drive,ORG,16776
+La Puente,GPE,16776
+a Sheriff’s Department,ORG,16776
+911,CARDINAL,16776
+California,GPE,16776
+Essential,GPE,16776
+California,GPE,16776
+L.A. County,GPE,16776
+Homicide Bureau,ORG,16776
+the Internal Affairs Bureau,ORG,16776
+Twitter,PRODUCT,16776
+1,CARDINAL,16776
+3,CARDINAL,16776
+L.A.,GPE,16776
+El Niño,ORG,16776
+Northern California,LOC,16776
+Kardashian,NORP,16776
+Lamar Odom,LOC,16776

@@ -1,0 +1,31 @@
+text,label,fe_id
+Glendale,GPE,31201
+early Wednesday,DATE,31201
+26-year-old,DATE,31201
+Jose Enrique Cortez,PERSON,31201
+Maryland,GPE,31201
+62nd,ORDINAL,31201
+the Glendale Police Department,ORG,31201
+around midnight,TIME,31201
+Cortez,ORG,31201
+Cortez,ORG,31201
+Cortez,ORG,31201
+62nd Avenue,FAC,31201
+Ocotillo Road,ORG,31201
+Cortez,ORG,31201
+second,ORDINAL,31201
+Cortez,ORG,31201
+first,ORDINAL,31201
+second,ORDINAL,31201
+Cortez,ORG,31201
+Cortez,ORG,31201
+Cortez,ORG,31201
+seventh,ORDINAL,31201
+the year,DATE,31201
+Glendale,ORG,31201
+45th,ORDINAL,31201
+Valley,LOC,31201
+KTAR News,ORG,31201
+92.3,CARDINAL,31201
+Follow,PERSON,31201
+KTAR News,ORG,31201

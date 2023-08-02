@@ -1,0 +1,28 @@
+text,label,fe_id
+Bronx,GPE,25901
+late Sunday,DATE,25901
+Grand Avenue,FAC,25901
+Morris Heights,GPE,25901
+later Monday,DATE,25901
+Bronx,GPE,25901
+late Sunday,DATE,25901
+32-year-old,DATE,25901
+fourth,ORDINAL,25901
+Grand Avenue,FAC,25901
+Morris Heights,GPE,25901
+4,CARDINAL,25901
+one,CARDINAL,25901
+around 10:45 p.m.,TIME,25901
+Terence Monahan,PERSON,25901
+Monday,DATE,25901
+one,CARDINAL,25901
+four,CARDINAL,25901
+Two,CARDINAL,25901
+4,CARDINAL,25901
+Monahan,PERSON,25901
+32-year-old,DATE,25901
+shortly before 11 p.m.,TIME,25901
+NYPD,ORG,25901
+two 911,CARDINAL,25901
+Monahan,GPE,25901
+Atlanta,GPE,25901

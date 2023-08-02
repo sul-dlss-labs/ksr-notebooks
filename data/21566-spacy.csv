@@ -1,0 +1,11 @@
+text,label,fe_id
+Monday,DATE,21566
+Saturday,DATE,21566
+six-day,DATE,21566
+daily,DATE,21566
+up to four,CARDINAL,21566
+every 30 days,DATE,21566
+19.99,MONEY,21566
+News-Post,ORG,21566
+same-day,DATE,21566
+the US Postal Service,ORG,21566

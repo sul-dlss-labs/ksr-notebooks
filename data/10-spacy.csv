@@ -1,0 +1,24 @@
+text,label,fe_id
+first,ORDINAL,10
+Sunday,DATE,10
+Downey,ORG,10
+Joseph Gumpert,PERSON,10
+28,DATE,10
+early Friday,DATE,10
+morning,TIME,10
+Downey,ORG,10
+5:45 a.m.,TIME,10
+Downey Regional Medical Center,ORG,10
+4:50 a.m.,TIME,10
+Friday,DATE,10
+9600,CARDINAL,10
+Cheddar Street,FAC,10
+Gumpert,PERSON,10
+Gumpert’s,WORK_OF_ART,10
+6-year-old,DATE,10
+three,CARDINAL,10
+Gumpert,PERSON,10
+Gumpert,PERSON,10
+Los Angeles County,GPE,10
+Sunday,DATE,10
+two to three months,DATE,10

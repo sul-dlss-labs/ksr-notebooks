@@ -1,0 +1,26 @@
+text,label,fe_id
+One,CARDINAL,11519
+Orange Cove,EVENT,11519
+Tuesday,DATE,11519
+afternoon,TIME,11519
+Orange Cove,ORG,11519
+just after 4 p.m.,TIME,11519
+July 3,DATE,11519
+Fourth,GPE,11519
+Detective Leo Lopez,PERSON,11519
+the Fresno County Sheriff’s Department,ORG,11519
+Two,CARDINAL,11519
+Family,PRODUCT,11519
+48-year-old,DATE,11519
+Alex Ayala,PERSON,11519
+Ayala,PERSON,11519
+five to eight,CARDINAL,11519
+first,ORDINAL,11519
+the Orange Cove Police Department,ORG,11519
+December of 2009,DATE,11519
+two,CARDINAL,11519
+"Read More:
+
+ABC Local: Police in Orange Cove Confirm Fatal Officer-Involved Shooting
+
+Fresno Bee: Orange Cove Man Killed in Officer Involved Shooting",WORK_OF_ART,11519

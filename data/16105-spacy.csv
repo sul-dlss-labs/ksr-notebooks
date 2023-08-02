@@ -1,0 +1,28 @@
+text,label,fe_id
+one,CARDINAL,16105
+Thursday,DATE,16105
+afternoon,TIME,16105
+Dale Hinz,PERSON,16105
+the Michigan State Police,ORG,16105
+about 1:10 p.m.,TIME,16105
+Anna's Vineyard Apartments,ORG,16105
+Milham Avenue,FAC,16105
+U.S.,GPE,16105
+131,CARDINAL,16105
+Hinz,PERSON,16105
+Kalamazoo County,GPE,16105
+One,CARDINAL,16105
+Kalamazoo Public Safety and Portage Public Safety,ORG,16105
+one,CARDINAL,16105
+Hinz,PERSON,16105
+Kalamazoo Public Safety,ORG,16105
+Hinz,PERSON,16105
+Bronson Methodist Hospital,ORG,16105
+two,CARDINAL,16105
+Kalamazoo,GPE,16105
+Hinz,PERSON,16105
+Kalamazoo,GPE,16105
+Loy Norrix High School,PERSON,16105
+Alex Lee,PERSON,16105
+Portage Public Schools,ORG,16105
+afternoon,TIME,16105

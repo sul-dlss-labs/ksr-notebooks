@@ -1,0 +1,70 @@
+text,label,fe_id
+FRANKLIN,ORG,30883
+31-year-old,DATE,30883
+Milwaukee,GPE,30883
+Friday,DATE,30883
+morning,TIME,30883
+around 8 a.m.,TIME,30883
+at least three,CARDINAL,30883
+South 27th Street,LOC,30883
+Milwaukee,GPE,30883
+Franklin,ORG,30883
+one,CARDINAL,30883
+Oak Creek,GPE,30883
+Franklin,ORG,30883
+the Milwaukee County Sheriff's Office,ORG,30883
+second,ORDINAL,30883
+Walmart,ORG,30883
+6700,CARDINAL,30883
+27th,DATE,30883
+Franklin,ORG,30883
+Friday,DATE,30883
+morning,TIME,30883
+Oak Creek,GPE,30883
+Franklin,ORG,30883
+Milwaukee,GPE,30883
+Walmart,ORG,30883
+second,ORDINAL,30883
+I-94,FAC,30883
+110 miles per hour,QUANTITY,30883
+West Elm Road,FAC,30883
+27th,DATE,30883
+27th,DATE,30883
+West Ryan Road,FAC,30883
+Franklin,ORG,30883
+third,ORDINAL,30883
+Franklin Walmart,ORG,30883
+Oak Creek,GPE,30883
+27th,DATE,30883
+Sycamore,PERSON,30883
+four,CARDINAL,30883
+Milwaukee,GPE,30883
+County Sheriff's Office,ORG,30883
+one,CARDINAL,30883
+Franklin,ORG,30883
+four,CARDINAL,30883
+Oak Creek,GPE,30883
+31-year-old,DATE,30883
+Milwaukee,GPE,30883
+The West Allis Police Department,ORG,30883
+WIS 241,LAW,30883
+Rawson Avenue,ORG,30883
+College Avenue,FAC,30883
+Athanasios Almouti,PERSON,30883
+Melrose,NORP,30883
+Athanasios,ORG,30883
+Hobby Lobby,PERSON,30883
+Wendy’s,ORG,30883
+Menards,ORG,30883
+Franklin,ORG,30883
+the Wisconsin Professional Police Association,ORG,30883
+14,CARDINAL,30883
+Wisconsin,GPE,30883
+this year,DATE,30883
+7,CARDINAL,30883
+TMJ4 News,ORG,30883
+2020,DATE,30883
+15,CARDINAL,30883
+two,CARDINAL,30883
+last year,DATE,30883
+WPPA,PRODUCT,30883

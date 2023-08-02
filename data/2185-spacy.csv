@@ -1,0 +1,37 @@
+text,label,fe_id
+AP,ORG,2185
+Two,CARDINAL,2185
+Friday,DATE,2185
+Bob Jones,PERSON,2185
+Eric Baumann,PERSON,2185
+Jesse Slaughter,PERSON,2185
+Judd Edward Daniels,PERSON,2185
+31,DATE,2185
+Cascade County,GPE,2185
+Lewis,PERSON,2185
+Clark County,GPE,2185
+Jones,PERSON,2185
+Baumann,PERSON,2185
+Slaughter,PERSON,2185
+Friday morning,TIME,2185
+second,ORDINAL,2185
+Jones,PERSON,2185
+Daniels,PERSON,2185
+Jones,PERSON,2185
+Daniels,PERSON,2185
+Fifth Avenue,FAC,2185
+John Strandell,PERSON,2185
+Friday,DATE,2185
+afternoon,TIME,2185
+Daniels,ORG,2185
+one,CARDINAL,2185
+Strandell,ORG,2185
+Daniels,ORG,2185
+three,CARDINAL,2185
+Court,ORG,2185
+Daniels,PERSON,2185
+the last four years,DATE,2185
+Baumann,PERSON,2185
+six-year,DATE,2185
+Slaughter,PERSON,2185
+2 1/2 years,DATE,2185

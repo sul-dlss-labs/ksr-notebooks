@@ -1,0 +1,32 @@
+text,label,fe_id
+Nice,GPE,23720
+Calif.,GPE,23720
+"Monday, February 5, 2018",DATE,23720
+John Jensen,PERSON,23720
+NICE,GPE,23720
+Calif.,GPE,23720
+Monday,DATE,23720
+Nice,GPE,23720
+Corey Paulich,PERSON,23720
+first,ORDINAL,23720
+11:40 a.m.,TIME,23720
+Monday,DATE,23720
+6000,CARDINAL,23720
+Marin Street,FAC,23720
+11:55 a.m.,TIME,23720
+second,ORDINAL,23720
+4000,CARDINAL,23720
+Nice Road,FAC,23720
+Paulich,PERSON,23720
+Paulich,PERSON,23720
+Burpee Drive,ORG,23720
+Lakeview Drive,FAC,23720
+Paulich,PERSON,23720
+Paulich,PERSON,23720
+Paulich,PERSON,23720
+Paulich,PERSON,23720
+the Lake County District,GPE,23720
+the Sheriff’s Major Crimes Unit,ORG,23720
+Paulich,PERSON,23720
+California Highway Patrol,FAC,23720
+Lake County News,FAC,23720

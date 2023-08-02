@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,20597
+Alabama,GPE,20597
+Alaska,GPE,20597
+Arizona,GPE,20597
+Arkansas,GPE,20597
+California,GPE,20597
+Colorado,GPE,20597
+Connecticut,GPE,20597
+Delaware,GPE,20597
+Florida,GPE,20597
+Georgia,GPE,20597
+Hawaii,GPE,20597
+Idaho,GPE,20597
+Indiana,GPE,20597
+Iowa,GPE,20597
+Kansas,GPE,20597
+Kentucky,GPE,20597
+Louisiana,GPE,20597
+Maine,GPE,20597
+Maryland,GPE,20597
+Massachusetts,GPE,20597
+Michigan,GPE,20597
+Minnesota,GPE,20597
+Mississippi,GPE,20597
+Missouri,GPE,20597
+Montana,GPE,20597
+Nebraska,GPE,20597
+Nevada,GPE,20597
+New Hampshire,GPE,20597
+New Jersey,GPE,20597
+Ohio,GPE,20597
+Oklahoma,GPE,20597
+Oregon,GPE,20597
+Pennsylvania,GPE,20597
+Rhode Island,GPE,20597
+Tennessee,GPE,20597
+Texas,GPE,20597
+Utah,GPE,20597
+Vermont,GPE,20597
+Virginia,GPE,20597
+Washington,GPE,20597
+Washington,GPE,20597
+D.C.,GPE,20597
+Wisconsin,GPE,20597
+Wyoming,GPE,20597
+US,GPE,20597
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,20597
+Marshall Islands American Samoa Federated States,ORG,20597
+Micronesia Guam,FAC,20597
+Alberta,GPE,20597
+Canada,GPE,20597
+British Columbia,GPE,20597
+Canada Manitoba,GPE,20597
+Canada,GPE,20597
+New Brunswick,GPE,20597
+Canada Newfoundland,PERSON,20597
+Canada,GPE,20597
+Canada,GPE,20597
+Canada Ontario,GPE,20597
+Canada,GPE,20597
+Edward Island,GPE,20597
+Canada Quebec,GPE,20597
+Canada,GPE,20597
+Saskatchewan,GPE,20597
+Canada Yukon Territory,ORG,20597
+Canada,GPE,20597
+Zip Code,PERSON,20597

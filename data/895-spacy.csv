@@ -1,0 +1,36 @@
+text,label,fe_id
+Orange County,GPE,895
+six,CARDINAL,895
+Anaheim,ORG,895
+two,CARDINAL,895
+this year,DATE,895
+Garden Grove,GPE,895
+April 20,DATE,895
+Anaheim,ORG,895
+Sergio Perez,PERSON,895
+29,DATE,895
+Claro Hernandez,PERSON,895
+24,DATE,895
+more than 20,CARDINAL,895
+El Pollo Loco,LOC,895
+"2,100",MONEY,895
+Harbor Town & Country Center,ORG,895
+Anaheim,ORG,895
+Claro Hernandez,PERSON,895
+Sergio Perez,PERSON,895
+Dist,PERSON,895
+Mary Anne McCauley,PERSON,895
+the Anaheim Police Department,ORG,895
+Tuesday,DATE,895
+Hernandez,ORG,895
+Perez,PERSON,895
+three,CARDINAL,895
+about 9 p.m.,TIME,895
+Orange County,GPE,895
+Tori Richards,PERSON,895
+Richards,ORG,895
+two,CARDINAL,895
+Anaheim,ORG,895
+Rick Martinez,PERSON,895
+Wednesday,DATE,895
+Martinez,PERSON,895

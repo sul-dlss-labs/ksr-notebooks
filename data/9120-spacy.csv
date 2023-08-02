@@ -1,0 +1,19 @@
+text,label,fe_id
+today,DATE,9120
+San Bernardino,GPE,9120
+May,DATE,9120
+Brad Grantz,PERSON,9120
+100,CARDINAL,9120
+South L Street,GPE,9120
+May 18,DATE,9120
+Fernando Melgoza,PERSON,9120
+Grantz,PERSON,9120
+Melgoza,GPE,9120
+San Bernardino County,GPE,9120
+Grantz,PERSON,9120
+three,CARDINAL,9120
+four,CARDINAL,9120
+Melgoza,GPE,9120
+Coroner,ORG,9120
+Melgoza,ORG,9120
+Officer Grantz,PERSON,9120

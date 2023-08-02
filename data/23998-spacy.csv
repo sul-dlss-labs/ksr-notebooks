@@ -1,0 +1,23 @@
+text,label,fe_id
+58-year-old,DATE,23998
+Sunday,DATE,23998
+morning,TIME,23998
+Phoenix,GPE,23998
+Monte Vista Road,LOC,23998
+32nd Street,FAC,23998
+8 a.m.,TIME,23998
+Sunday,DATE,23998
+Sgt,PERSON,23998
+Alan Pfohl,PERSON,23998
+Phoenix,GPE,23998
+Pfohl,PERSON,23998
+Taser,ORG,23998
+Taser,ORG,23998
+Sunday,DATE,23998
+evening,TIME,23998
+Detectives,ORG,23998
+Pfohl,PERSON,23998
+22nd,ORDINAL,23998
+Maricopa County,GPE,23998
+2018,DATE,23998
+Navajo,PERSON,23998

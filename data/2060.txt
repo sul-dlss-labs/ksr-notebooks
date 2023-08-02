@@ -1,0 +1,5 @@
+× Browser Compatibility
+
+Your browser is out of date and potentially vulnerable to security risks.
+
+We recommend switching to one of the following browsers:

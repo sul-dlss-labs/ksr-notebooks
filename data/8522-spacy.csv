@@ -1,0 +1,85 @@
+text,label,fe_id
+Jim Smith,PERSON,8522
+more than two years ago,DATE,8522
+Devin Petelski,PERSON,8522
+78 mph,QUANTITY,8522
+James Eldridge,PERSON,8522
+Ramon Vasquez,GPE,8522
+third,ORDINAL,8522
+$5 million,MONEY,8522
+Petelski,PERSON,8522
+"April 27, 2011",DATE,8522
+the Los Angeles City Council,ORG,8522
+$5 million,MONEY,8522
+"October 15, 2009",DATE,8522
+the Free Dictionary,ORG,8522
+Devin Petelski,PERSON,8522
+25-year-old,DATE,8522
+just two,CARDINAL,8522
+Glyndon Avenue,FAC,8522
+Venice Blvd,FAC,8522
+two years later,DATE,8522
+"Nov. 19, 2009 dozens",DATE,8522
+two miles,QUANTITY,8522
+the Pacific Division Police Station,ORG,8522
+Joseph Hiltner,PERSON,8522
+two,CARDINAL,8522
+the California Highway Patrol,ORG,8522
+1,CARDINAL,8522
+Petelski,PERSON,8522
+2,CARDINAL,8522
+between 40,CARDINAL,8522
+45 mph,QUANTITY,8522
+Petelski,PERSON,8522
+78 mph,QUANTITY,8522
+3,CARDINAL,8522
+Petelski,PERSON,8522
+4,CARDINAL,8522
+"Nov. 25, 2009",DATE,8522
+Charlie Beck,PERSON,8522
+KPCC,ORG,8522
+Officer Eldridge,ORG,8522
+Venice Blvd,FAC,8522
+Lincoln Blvd,ORG,8522
+17 seconds,TIME,8522
+all night,TIME,8522
+5,CARDINAL,8522
+up to 25 seconds,TIME,8522
+Petelski,ORG,8522
+three,CARDINAL,8522
+78 mph,QUANTITY,8522
+three seconds,TIME,8522
+6,CARDINAL,8522
+Eldridge,LOC,8522
+7,CARDINAL,8522
+Hiltner,PERSON,8522
+Chief Beck,PERSON,8522
+Beachhead,PERSON,8522
+Venice,GPE,8522
+The L.A. Times Joins,ORG,8522
+L.A. Times,ORG,8522
+"Nov. 20, 2009",DATE,8522
+Times,ORG,8522
+"Jan. 17, 2012",DATE,8522
+Joel Rubin,PERSON,8522
+Times,ORG,8522
+the City Council,ORG,8522
+$5 million,MONEY,8522
+"The Aftermath
+
+Devin’s",WORK_OF_ART,8522
+Michael,PERSON,8522
+Michael,PERSON,8522
+last July 14,DATE,8522
+Shaunnah Godfrey,PERSON,8522
+Ronald Petelski,PERSON,8522
+two,CARDINAL,8522
+Justice,ORG,8522
+Devin Petelski,PERSON,8522
+the Los Angeles Times,ORG,8522
+Devin Petelski,PERSON,8522
+Nov. 2009,DATE,8522
+2,CARDINAL,8522
+Dec. 2009,DATE,8522
+June 2010,DATE,8522
+Reddit,NORP,8522

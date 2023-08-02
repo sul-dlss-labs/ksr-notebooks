@@ -1,0 +1,48 @@
+text,label,fe_id
+Sunday,DATE,1007
+evening,TIME,1007
+19-year-old,DATE,1007
+Wisconsin,GPE,1007
+Monday,DATE,1007
+Doug Malcolm,PERSON,1007
+29th Street,FAC,1007
+Sheridan Road,FAC,1007
+Scott Hamm,PERSON,1007
+Silver Lake,GPE,1007
+Wis.,GPE,1007
+Lutheran General Hospital,ORG,1007
+Park Ridge,GPE,1007
+Sunday,DATE,1007
+Monday,DATE,1007
+Zion,ORG,1007
+1200,CARDINAL,1007
+33rd Street,FAC,1007
+first,ORDINAL,1007
+Richard J. Zoephel,PERSON,1007
+34,DATE,1007
+3000,CARDINAL,1007
+Elim Street,FAC,1007
+Zoephel,PERSON,1007
+Lake County,GPE,1007
+Malcolm,PERSON,1007
+3 a.m.,TIME,1007
+Crimes Taskforce,ORG,1007
+Norman Roberts,PERSON,1007
+67,DATE,1007
+Pleasant Prairie,ORG,1007
+Wis.,GPE,1007
+St. Therese Medical Center,ORG,1007
+Waukegan,GPE,1007
+Monday,DATE,1007
+second,ORDINAL,1007
+Mark Wenzel,PERSON,1007
+19,DATE,1007
+Wilmot,GPE,1007
+Wis.,GPE,1007
+Sunday night,TIME,1007
+Victory Memorial Hospital,ORG,1007
+Waukegan,GPE,1007
+Malcolm,PERSON,1007
+Sheridan,GPE,1007
+the van east,LOC,1007
+29th,DATE,1007

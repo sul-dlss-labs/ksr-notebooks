@@ -1,0 +1,32 @@
+text,label,fe_id
+the Department of Public Safety,ORG,18682
+Interstate 10,FAC,18682
+last week,DATE,18682
+DPS,ORG,18682
+Frank Milstead,PERSON,18682
+last week,DATE,18682
+Edward Andersson,PERSON,18682
+Anderson,PERSON,18682
+Interstate 10,FAC,18682
+first,ORDINAL,18682
+one,CARDINAL,18682
+Trooper Andersson,PERSON,18682
+37-year-old,DATE,18682
+Leonard Pennales-Escobar,PERSON,18682
+Mexican,NORP,18682
+Escobar,ORG,18682
+23-year-old,DATE,18682
+"Milstead, Escobar",ORG,18682
+Trooper Andersson,PERSON,18682
+The Good Samaritan,PERSON,18682
+Escobar,ORG,18682
+first,ORDINAL,18682
+this Good Sam to Andersson,PERSON,18682
+second,ORDINAL,18682
+Milstead,ORG,18682
+Escobar,ORG,18682
+the United States,GPE,18682
+DPS,ORG,18682
+Escobar,ORG,18682
+U.s.,GPE,18682
+Shoplifting,ORG,18682

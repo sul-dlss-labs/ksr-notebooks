@@ -1,0 +1,48 @@
+text,label,fe_id
+7-Eleven,EVENT,26454
+West Colfax Avenue,FAC,26454
+Perry Street,FAC,26454
+Denver,GPE,26454
+11:40 p.m. Aug. 15,TIME,26454
+7-Eleven,EVENT,26454
+West Colfax Avenue,FAC,26454
+Perry Street,FAC,26454
+Clark,PERSON,26454
+first,ORDINAL,26454
+Matt Clark,PERSON,26454
+the Denver Police Department’s,ORG,26454
+Major Crimes Division,ORG,26454
+two,CARDINAL,26454
+Clark,PERSON,26454
+two,CARDINAL,26454
+Clark,PERSON,26454
+Denver Health Medical Center,ORG,26454
+Clark,PERSON,26454
+Tuesday,DATE,26454
+the Denver Office of the Medical Examiner,ORG,26454
+Jamie Fernandez,PERSON,26454
+31,DATE,26454
+Lucero,ORG,26454
+Fernandez,PERSON,26454
+31-year-old,DATE,26454
+Justin Lucero,PERSON,26454
+Clark,PERSON,26454
+Friday,DATE,26454
+afternoon,TIME,26454
+the Downtown Detention Center,ORG,26454
+Saturday,DATE,26454
+morning,TIME,26454
+DPD,ORG,26454
+Friday,DATE,26454
+afternoon,TIME,26454
+Lucero,ORG,26454
+Clark,PERSON,26454
+One,CARDINAL,26454
+DPD,ORG,26454
+four years,DATE,26454
+DPD,ORG,26454
+six years,DATE,26454
+Clark,PERSON,26454
+DPD,ORG,26454
+the Aurora Police Department,ORG,26454
+Denver,GPE,26454

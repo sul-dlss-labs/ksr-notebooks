@@ -1,0 +1,7 @@
+text,label,fe_id
+Victor Sandoval,PERSON,30211
+41-year-old,DATE,30211
+Latino,PERSON,30211
+"Monday, April 16",DATE,30211
+La Puente,GPE,30211
+Los Angeles County Medical Examiner-Coroner's,ORG,30211

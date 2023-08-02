@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,19853
+United States,GPE,19853
+Canada Mexico,GPE,19853
+United Mexican,GPE,19853
+Bahamas,GPE,19853
+Commonwealth,GPE,19853
+Cuba,GPE,19853
+"Republic of Dominican Republic Haiti,",GPE,19853
+Republic of Jamaica,GPE,19853
+Afghanistan,GPE,19853
+Albania,GPE,19853
+People's Socialist Republic,ORG,19853
+Algeria,GPE,19853
+People's Democratic Republic of American,GPE,19853
+Angola,GPE,19853
+Republic of Anguilla Antarctica,ORG,19853
+South,LOC,19853
+Barbuda Argentina,PERSON,19853
+Argentine Republic,GPE,19853
+Armenia Aruba,PERSON,19853
+Australia,GPE,19853
+Commonwealth,GPE,19853
+Austria,GPE,19853
+Republic of Bahrain,ORG,19853
+Belgium,GPE,19853
+Kingdom of Belize Benin,ORG,19853
+People's Republic of Bermuda Bhutan,GPE,19853
+Kingdom of Bolivia,GPE,19853
+Republic of Bosnia,GPE,19853
+Botswana,GPE,19853
+Republic of Bouvet Island,ORG,19853
+Bouvetoya,GPE,19853
+Brazil,GPE,19853
+Federative Republic,GPE,19853
+British Virgin,GPE,19853
+Bulgaria,GPE,19853
+People's Republic of Burkina Faso Burundi,GPE,19853
+Republic of Cambodia,GPE,19853
+Kingdom of Cameroon,GPE,19853
+United Republic of Cape Verde,GPE,19853
+"Republic of Cayman Islands Central African Republic Chad,",ORG,19853
+Republic of Chile,ORG,19853
+Republic of China,ORG,19853
+People's Republic of Christmas Island,GPE,19853
+Colombia,GPE,19853
+Union of the Congo,ORG,19853
+Democratic Republic of Congo,GPE,19853
+People's Republic of Cook,GPE,19853
+Costa Rica,GPE,19853
+Ivory Coast,GPE,19853
+Republic Denmark,GPE,19853
+Kingdom of Djibouti,GPE,19853
+Republic of Dominica,GPE,19853
+Commonwealth,GPE,19853
+Ecuador,GPE,19853
+Republic of Egypt,GPE,19853
+Arab Republic,GPE,19853
+El Salvador,GPE,19853
+Republic of Equatorial Guinea,GPE,19853
+Republic of Eritrea,GPE,19853
+Estonia,GPE,19853
+Ethiopia,GPE,19853
+Malvinas,GPE,19853
+Fiji,GPE,19853
+Republic of the Fiji Islands Finland,ORG,19853
+Republic of France,GPE,19853
+French,NORP,19853
+French,NORP,19853
+Guiana,PERSON,19853
+French,NORP,19853
+Polynesia,GPE,19853
+Southern Territories Gabon,PRODUCT,19853
+Gabonese Republic Gambia,GPE,19853
+Georgia,GPE,19853
+Germany,GPE,19853
+Ghana,GPE,19853
+Republic of Gibraltar Greece,ORG,19853
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,19853
+Republic of Guinea,GPE,19853
+Revolutionary People's Rep'c,ORG,19853
+Guinea-Bissau,ORG,19853
+Republic of Heard,ORG,19853
+McDonald Islands Holy See,ORG,19853
+Vatican City State,GPE,19853
+Honduras,GPE,19853
+Republic of Hong Kong,GPE,19853
+Special Administrative Region of China,ORG,19853
+Hrvatska,PERSON,19853
+Croatia,GPE,19853
+Hungary,GPE,19853
+Hungarian People's Republic Iceland,PERSON,19853
+Republic of India,GPE,19853
+Republic of Indonesia,GPE,19853
+Republic of Iran,GPE,19853
+Islamic Republic of Iraq,GPE,19853
+Republic of Ireland,GPE,19853
+Israel,GPE,19853
+State of Italy,GPE,19853
+Italian,NORP,19853
+Japan,GPE,19853
+Jordan,GPE,19853
+Hashemite Kingdom of Kazakhstan,GPE,19853
+Republic of Kiribati,GPE,19853
+Republic of Korea,GPE,19853
+Democratic,NORP,19853
+Republic of Kuwait,ORG,19853
+Lao People's,PERSON,19853
+Latvia,GPE,19853
+Lebanon,GPE,19853
+Lebanese Republic Lesotho,GPE,19853
+Kingdom of Liberia,GPE,19853
+Lithuania Luxembourg,GPE,19853
+Special Administrative Region of China Macedonia,ORG,19853
+Yugoslav Republic of Madagascar,GPE,19853
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,19853
+Islamic Republic,GPE,19853
+Mayotte Micronesia,PERSON,19853
+Federated States,GPE,19853
+Moldova,GPE,19853
+Republic of Monaco,ORG,19853
+Principality,NORP,19853
+Morocco,GPE,19853
+Kingdom of Mozambique,ORG,19853
+Republic of Nepal,GPE,19853
+Netherlands,GPE,19853
+Kingdom,GPE,19853
+the New Caledonia New Zealand,ORG,19853
+Nicaragua,GPE,19853
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,19853
+Norway,GPE,19853
+Kingdom of Oman,GPE,19853
+Pakistan,GPE,19853
+Islamic Republic of,GPE,19853
+Occupied Panama,GPE,19853
+Republic of Peru,GPE,19853
+Republic of Philippines,GPE,19853
+Republic of the Pitcairn Island Poland,ORG,19853
+Polish,NORP,19853
+Republic Portugal,GPE,19853
+Portuguese Republic,GPE,19853
+Puerto Rico Qatar,GPE,19853
+State of Reunion Romania,ORG,19853
+Socialist Republic,GPE,19853
+Rwanda,GPE,19853
+Rwandese Republic Samoa,GPE,19853
+Independent State of San Marino,ORG,19853
+Republic of Sao Tome,ORG,19853
+Principe,GPE,19853
+Democratic Republic of Saudi Arabia,GPE,19853
+"Kingdom of Senegal, Republic of Serbia",GPE,19853
+Montenegro Seychelles,PERSON,19853
+Republic of Sierra Leone,ORG,19853
+Republic of Singapore,ORG,19853
+Republic of Slovakia,ORG,19853
+Slovak Republic,GPE,19853
+Slovenia Solomon Islands,GPE,19853
+Somalia,GPE,19853
+Somali Republic South Africa,GPE,19853
+Republic of South Georgia,GPE,19853
+Spain,GPE,19853
+Spanish,NORP,19853
+Sri Lanka,GPE,19853
+Democratic,NORP,19853
+Miquelon St. Vincent,PERSON,19853
+Democratic Republic,GPE,19853
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,19853
+Kingdom of Sweden,GPE,19853
+Kingdom of Switzerland,GPE,19853
+Swiss Confederation Syrian Arab Republic,ORG,19853
+Taiwan,GPE,19853
+China,GPE,19853
+Tanzania,GPE,19853
+United Republic of Thailand,GPE,19853
+Kingdom of Timor-Leste,GPE,19853
+Democratic Republic of Togo,GPE,19853
+Togolese Republic Tokelau,ORG,19853
+Tokelau,GPE,19853
+Tonga,GPE,19853
+Kingdom of Trinidad,ORG,19853
+Tobago,GPE,19853
+Republic of Tunisia,ORG,19853
+Republic of Turkey,GPE,19853
+Republic of Turkmenistan Turks,ORG,19853
+Uganda,GPE,19853
+Republic of Ukraine United Arab Emirates,GPE,19853
+United Kingdom of Great,GPE,19853
+Eastern Republic,GPE,19853
+Venezuela,GPE,19853
+Bolivarian Republic,GPE,19853
+Viet Nam,GPE,19853
+Socialist Republic,GPE,19853
+Yemen,GPE,19853
+Zambia,GPE,19853
+Republic of Zimbabwe,GPE,19853

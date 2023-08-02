@@ -1,0 +1,53 @@
+text,label,fe_id
+Bronx,GPE,1245
+yesterday,DATE,1245
+Clayton Bullock,PERSON,1245
+40,DATE,1245
+second,ORDINAL,1245
+45-year-old,DATE,1245
+Donna Towe,PERSON,1245
+Charles Powell,PERSON,1245
+Bullock,ORG,1245
+17-year,DATE,1245
+Towe,ORG,1245
+"Oct. 8, 2001",DATE,1245
+Mosholu Parkway,FAC,1245
+Bullock,ORG,1245
+Bullock,ORG,1245
+Richard Murray,PERSON,1245
+Bullock,PERSON,1245
+one year,DATE,1245
+last October,DATE,1245
+Towe,ORG,1245
+Murray,ORG,1245
+Bullock,ORG,1245
+Towe,ORG,1245
+Powell,PERSON,1245
+Clayton Bullock,PERSON,1245
+Donna Towe,PERSON,1245
+Murray,PERSON,1245
+Donna,PERSON,1245
+Charles Powell,PERSON,1245
+the night,TIME,1245
+Powell,PERSON,1245
+that night,TIME,1245
+Charles Powell,PERSON,1245
+Donna Towe,PERSON,1245
+Towe,ORG,1245
+Charles Powell,PERSON,1245
+day,DATE,1245
+two,CARDINAL,1245
+Powell,PERSON,1245
+Towe,ORG,1245
+nine months later,DATE,1245
+Bullock,ORG,1245
+David Birnbaum,PERSON,1245
+Charles Powell,PERSON,1245
+today,DATE,1245
+Donna Towe,PERSON,1245
+Birnbaum,GPE,1245
+Bullock's,ORG,1245
+911,CARDINAL,1245
+Bullock,ORG,1245
+Birnbaum,ORG,1245
+Towe,PERSON,1245

@@ -1,0 +1,113 @@
+Court of Appeal of Louisiana, Third Circuit.
+
+PICKETT, Judge.
+
+FACTS
+
+This suit arises out of an automobile collision that occurred on October 1, 2000. On that date, Lieutenant Mark Guidry (Lt.Guidry) of the Opelousas Police Department was conducting night patrol near Blanchard and Academy streets in Opelousas, Louisiana. Lt. Guidry was driving a white Ford Crown Victoria unmarked police unit equipped only with a revolving dash light. As Lt. Guidry approached the stop sign at Blanchard street, he observed a white male drive by in a red Taurus. Lt. Guidry turned around behind the Taurus and began proceeding in the same direction. The driver of the Taurus failed to stop at a stop sign at the intersection of Blanchard and Foster streets, which Lt. Guidry observed. He tried to conduct a traffic stop on the driver but the driver sped off driving an estimate of fifty (50) miles per hour in a twenty-five (25) mile per hour area. Lt. Guidry called in a description of the vehicle, requested back up, and continued to trail the vehicle with the dash light in his unit flashing. Because he did not have a siren, Lt. Guidry stopped at each stop sign that he encountered while in pursuit of Miller. He remained at least six blocks behind Miller as a result.
+
+On that same night, Robert Troy Richard was a guest passenger in a vehicle being driven by his brother, Jared Lane Richard. They were proceeding in a westerly direction on Landry Street in Opelousas, Louisiana, when their vehicle was struck by the Taurus which was being driven by Karl M. Miller. Jared Richard died and Robert Richard sustained serious bodily injuries as a result of the collision. Richard brought an action for damages against Miller, the liability insurer of the vehicle that Miller was operating, Safeway Insurance Company of Louisiana, the Opelousas Police Department, Larry Caillier, who is the Chief of Police of the Opelousas Police Department, Lt. Guidry, the liability insurer of his brother's automobile, American Colonial Insurance Company and ABC Insurance Company of Louisiana, the public liability insurer of the Opelousas Police Department.
+
+The Opelousas Police Department, the Chief of Police, Larry Caillier, and Lt. Mark Guidry filed a motion for summary judgment on the issue of liability. The motion was heard on June 30, 2003. On July 18, 2003, the trial court issued a judgment granting the motion for summary judgment in favor of the defendants and dismissing the plaintiff's action with prejudice.
+
+It is from this judgment that the plaintiff appeals.
+
+DISCUSSION
+
+In his sole assignment of error, the plaintiff asserts that the trial court committed legal or manifest error in granting summary judgment in favor of the defendants.
+
+STANDARD OF REVIEW
+
+Appellate courts review summary judgments de novo, under the same criteria which governs the district court's consideration of the appropriateness of summary judgment. Schroeder v. Board of Sup'rs of Louisiana State University, 591 So.2d 342 (La.1991).
+
+Summary Judgment
+
+Louisiana Code of Civil Procedure Article 966 provides the standard for considering motions for summary judgment. That article provides, in pertinent part:
+
+(2) The summary judgment procedure is designed to secure the just, speedy, and inexpensive determination of every action, except those disallowed by Article 969. The procedure is now favored and shall be construed to accomplish these ends.
+
+B. The judgment sought shall be rendered forthwith if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to material fact, and that mover is entitled to judgment as a matter of law.
+
+C. (1) After adequate discovery or after a case is set for trial, a motion which shows that there is no genuine issue as to material fact and that the mover is entitled to judgment as a matter of law shall be granted.
+
+(2) The burden of proof remains with the movant. However, if the movant will not bear the burden of proof at trial on the matter that is before the court on the motion for summary judgment, the movant's burden on the motion does not require him to negate all essential elements of the adverse party's claim, action, or defense, but rather to point out to the court that there is an absence of factual support for one or more elements essential to the adverse party's claim, action, or defense. Thereafter, if the adverse party fails to produce factual support sufficient to establish that he will be able to satisfy his evidentiary burden of proof at trial, there is no genuine issue of material fact.
+
+The plaintiff submits that summary judgment was not proper in this case because there are questions of fact as to the issue of whether or not there was a pursuit (by Lt. Guidry) and, if so, whether he was reckless and disregarded the safety of others.
+
+Duty of Care for Emergency Vehicles
+
+La.R.S. 32:24 prescribes the privileges and duties of the driver of an emergency vehicle, and provides, in pertinent part, as follows:
+
+A. The driver of an authorized emergency vehicle, when responding to an emergency call, or when in the pursuit of an actual or suspected violator of the law, or when responding to, but not upon returning from, a fire alarm, may exercise the privileges set forth in this Section, but subject to the conditions herein stated.
+
+B. The driver of an authorized emergency vehicle may:
+
+(1) Park or stand, irrespective of the provisions of this Chapter;
+
+(2) Proceed past a red or stop signal or stop sign, but only after slowing down or stopping as may be necessary for safe operation;
+
+(3) Exceed the maximum speed limits so long as he does not endanger life or property;
+
+(4) Disregard regulations governing the direction of movement or turning in specified directions.
+
+C. The exceptions herein granted to an authorized emergency vehicle shall apply only when such vehicle is making use of audible or visual signals sufficient to warn motorists of their approach, except that a police vehicle need not be equipped with or display a red light visible from in front of the vehicle.
+
+D. The foregoing provisions shall not relieve the driver of an authorized vehicle from the duty to drive with due regard for the safety of all persons, nor shall such provisions protect the driver from the consequences of his reckless disregard for the safety of others.
+
+In Lenard v. Dilley, 01-1522 (La.1/15/02), 805 So.2d 175, the supreme court addressed the standard of care set forth in subsection D of Louisiana's emergency vehicle statute stating that:
+
+La.Rev.Stat. 32:24(D) sets out two standards of care for an emergency vehicle drivers depending on the circumstances of the case. If, and only if, an emergency vehicle driver's actions fit into subsections A, B and C of La.Rev. Stat. 32:24, will an emergency vehicle driver be held liable only for actions which constitute reckless disregard for the safety of others. On the other hand, if the emergency vehicle driver's conduct does not fit subsections A, B and C of La.Rev.Stat. 32:24, such driver's actions will be gauged by a standard of "due care."
+
+"Due care" is synonymous with ordinary negligence. "Reckless disregard," however, connotes conduct more severe than negligent behavior. "Reckless disregard" is, in effect, "gross negligence." Gross negligence has been defined by this court as "the want of even slight care and diligence. It is the want of that diligence which even careless men are accustomed to exercise." State v. Vinzant, 200 La. 301, 7 So.2d 917 (1942). "Reckless disregard" or "gross negligence" is the standard to be applied if the emergency vehicle driver's actions fit La.Rev.Stat. 32:24(A) through La. Rev.Stat. 32:24(c). Otherwise, the standard is ordinary negligence.
+
+(emphasis ours)
+
+Thus, if the provisions of subsections A, B and C of La.Rev.Stat. 32:24 apply to the accident or incident in question, then the driver will be held liable only for his conduct which constitutes reckless disregard for the safety of others. For example, for the actions of a driver in circumstances like that involved in this case to be scrutinized under the reckless disregard standard of care, the following must be met:
+
+The emergency vehicle must be authorized and the driver must be:
+
+Responding to an emergency call; (or in pursuit of an actual or suspected violator of the law; or returning from a fire alarm)
+
+and the accident or incident in question must arise out of the emergency vehicle driver's parking or standing; (or proceeding past a red or stop signal or stop sign; or exceeding the maximum speed limits; or moving or turning against the normal flow of traffic)
+
+and the driver must make use of audible or visual signals sufficient to warn motorists of their approach. (A police vehicle, however, need not be equipped with or display a red light visible from in front of the vehicle.)
+
+In the instant case, upon reviewing the depositions of Karl Miller, Lt. Guidry, the law, and evidence, the trial court found that Lt. Guidry was, in fact, in pursuit of Miller and, therefore, La.R.S. 32:24 was invoked. We disagree.
+
+As previously noted in Lenard, 805 So.2d 175, the supreme court found that the standard of care relative to emergency vehicle drivers is set forth in subsection D. It determined that if the provisions of subsections A, B and C of the statute apply to the accident or incident in question, then the driver will be held liable only for his conduct which constitutes reckless disregard for the safety of others. On the other hand, if the emergency vehicle driver's conduct does not fit subsections A, B and C of La.Rev.Stat. 32:24, such driver's actions will be gauged by a standard of "due care." "Due care" is synonymous with ordinary negligence. Id. at 180.
+
+The trial court found that La.R.S. 32:24 was invoked because the facts clearly show that Lt. Guidry was in pursuit of Miller. Therefore, we must determine whether the trial court was reasonable in finding that Lt. Guidry's actions fit into subsections A, B and C of La.R.S. 32:24.
+
+Upon reviewing the record in its entirety, we find that Lt. Guidry's actions fit subsection A of La.R.S. 32:24, because on the night of the incident in question, Lt. Guidry was operating his unmarked police patrol unit in pursuit of an actual or suspected violator of the law. We find, however, that his actions do not fit subsection B. Although he was in pursuit of an actual violator of the law, the incident in question did not arise out of the emergency vehicle driver's parking or standing; or proceeding past a red or stop signal or stop sign; or exceeding the maximum speed limits; or moving or turning against the normal flow of traffic.
+
+In order to be subjected to one of the standards of care set forth in La.R.S. 32:24, the emergency vehicle driver's actions must fit into subsections A, B and C of the statute. Because Lt. Guidry's actions do not fit into subsection B, our analysis ends here and La.R.S. 32:24 is not applicable to the instant case. As set forth by the supreme court in Lenard, the applicable standard in this case is ordinary negligence.
+
+A trial court's findings of fact are subject to the "manifest error" or "clearly wrong" standard of review. Rosell v. ESCO, 549 So.2d 840 (La.1989). However, when the issue is a question of law, the appellate court simply determines whether the trial court's decision is legally correct or incorrect. Scobee v. Brame, 98-564 (La.App. 3 Cir. 10/28/98), 721 So.2d 977, writ denied, 98-2952 (La.1/29/99), 736 So.2d 833.
+
+In this instance, we find that the trial court held Lt. Guidry to the standard of gross negligence, thus, it applied the wrong standard of care in determining that he did not breach the duty he owed to Richard. The proper standard to apply in this instance was ordinary negligence. We must conduct a de novo review of the record and determine whether summary judgment is appropriate.
+
+Negligence
+
+In Syrie v. Schilhab, 96-1027, pp. 4-5 (La.5/20/97), 693 So.2d 1173, 1176-77, the supreme court set out the duty-risk analysis used to determine whether liability exists:
+
+Under this analysis, plaintiff must prove that the conduct in question was a cause-in-fact of the resulting harm, the defendant owed a duty of care to the plaintiff, the requisite duty was breached by the defendant and the risk of harm was within the scope of the protection afforded by the duty breached. Berry v. State, Through Dept. of Health and Human Resources, 93-2748, p. 4 (La.5/23/94), 637 So.2d 412, 414; Mundy v. Dept. of Health and Human Resources, 620 So.2d 811, 813 (La.1993). Under the duty-risk analysis, all four inquires must be affirmatively answered for plaintiff to recover. Mathieu v. Imperial Toy Corp., 94-0952, p. 4 (La.11/30/94), 646 So.2d 318, 322.
+
+In addressing the duty owed by the state trooper in that case to the plaintiffs, the Supreme Court stated:
+
+We stated in Blair v. Tynes, 621 So.2d 591, 596 (La.1993), that the legislature has given law enforcement officers the exclusive power to regulate traffic and the public has a corresponding obligation to follow traffic regulations. Law enforcement officers are duty bound to exercise this power reasonably to protect life and limb and to refrain from causing injury or harm. When a law enforcement officer becomes aware of a dangerous traffic situation, he has the affirmative duty to see that motorists are not subjected to unreasonable risks of harm. Monceaux v. Jennings Rice Drier, Inc., 590 So.2d 672, 675 (La.App. 3 Cir.1991). In Mathieu, 94-0952 at 10, 646 So.2d at 325, this court stated that the scope of an officer's duty is to choose a course of action which is reasonable under the circumstances. In other words, the scope of an officer's duty to act reasonably under the circumstances does not extend so far as to require that the officer always choose the "best" or even a "better" method of approach.
+
+Dorty v. City of Pineville, 01-1470 (La. App. 3 Cir. 4/3/02), 815 So.2d 393, writ denied, 02-1271 (La.8/30/02), 823 So.2d 950.
+
+In the instant case, as a law enforcement officer, Lt. Guidry had a duty to choose a course of action during his pursuit of Miller that did not subject other motorists to unreasonable risks of harm. We find that by coming to a complete stop at each stop sign that he encountered, Lt. Guidry did not breach the duty owed to motorists such as Richard to act reasonably under the circumstances. We further find that Lt. Guidry's actions were not a cause-in-fact of the collision that occurred, but rather, Miller's failure to obey the traffic laws by not stopping at the stop signs and by driving at a rate of speed that was in excess of the posted speed limit in the area was the cause-in-fact of the collision.
+
+DECREE
+
+There are no genuine issues of material fact. The question before the court is purely legal. We find no negligent behavior or actions on the part of Lt. Guidry, and find Guidry's actions were not a cause-in-fact of the collision. Therefore, the mover is entitled to judgment as a matter of law. We affirm the judgment of the trial court. The costs of this appeal are assessed to the plaintiff-appellant, Robert T. Richard.
+
+AFFIRMED.
+
+AMY, J., concurs in the result.
+
+COOKS, J., concurs.
+
+I agree with the trial judge that La.R.S. 32:24 is applicable, but even using ordinary negligence as the applicable standard, the grant of summary judgment is appropriate.

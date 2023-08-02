@@ -1,0 +1,24 @@
+text,label,fe_id
+Chicago,GPE,12024
+South Chicago,LOC,12024
+first,ORDINAL,12024
+Taser,GPE,12024
+7900,CARDINAL,12024
+South Shore Drive,LOC,12024
+around 11:45 p.m.,TIME,12024
+Taser,ORG,12024
+More than 30,CARDINAL,12024
+South Shore Food & Liquors,ORG,12024
+Cook County,GPE,12024
+Michael Wilson,PERSON,12024
+20,DATE,12024
+10000,CARDINAL,12024
+South Oglesby,GPE,12024
+Cook County,GPE,12024
+today,DATE,12024
+Wilson,ORG,12024
+Advocate Trinity Hospital,ORG,12024
+Chicago,GPE,12024
+Garry McCarthy,PERSON,12024
+Northwestern Memorial Hospital,ORG,12024
+Twitter,PERSON,12024

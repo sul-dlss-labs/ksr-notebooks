@@ -1,0 +1,20 @@
+text,label,fe_id
+Cook County,GPE,1006
+24-year-old,DATE,1006
+Saturday,DATE,1006
+the West Side,LOC,1006
+six-year,DATE,1006
+4 a.m.,TIME,1006
+two,CARDINAL,1006
+3900,CARDINAL,1006
+West Lake Street,GPE,1006
+Bill Cunningham,PERSON,1006
+One,CARDINAL,1006
+Cunningham,ORG,1006
+Samuel Jackson,PERSON,1006
+6:40 a.m.,TIME,1006
+Cook County Hospital,FAC,1006
+Cook County,GPE,1006
+Cook County Hospital,FAC,1006
+Cunningham,ORG,1006
+Cunningham,ORG,1006

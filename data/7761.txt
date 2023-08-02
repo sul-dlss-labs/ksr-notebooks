@@ -1,0 +1,55 @@
+[Your Business Name]
+
+<Your business address>
+
+Contact Info
+
+Phone: <Your business phone number>
+
+Fax: <Your business fax number>
+
+Email: <Your business e-mail address>
+
+Web: THENEWORLEANSADVOCATE.COM
+
+<Your Business Headline>
+
+Business Overview
+
+<Your business description>
+
+Geographic Area
+
+<Your service area>
+
+Line of Business
+
+<The type of business you are in>
+
+Brands We Carry
+
+<Your list of brands>
+
+Products and Services
+
+<Products and/or services you provide>
+
+Discounts Offered
+
+<Coupons and other discount information you offer>
+
+Additional Information
+
+<Any other information about your business>
+
+Business Hours
+
+<Your hours of operation>
+
+Timezone
+
+<Your timezone>
+
+We Accept
+
+<Methods of payment you accept>

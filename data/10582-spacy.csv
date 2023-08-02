@@ -1,0 +1,42 @@
+text,label,fe_id
+20-year-old,DATE,10582
+two,CARDINAL,10582
+today,DATE,10582
+one,CARDINAL,10582
+two,CARDINAL,10582
+minutes,TIME,10582
+the Northwest Side,LOC,10582
+Miguel Ruiz,PERSON,10582
+4600,CARDINAL,10582
+North Central Park Avenue,LOC,10582
+Saturday,DATE,10582
+25-year-old,DATE,10582
+Alfredo Carranza,PERSON,10582
+19-year-old,DATE,10582
+Andre Ephrame,PERSON,10582
+Andy Conklin,PERSON,10582
+Cook County,GPE,10582
+Ephrame,PERSON,10582
+6400,CARDINAL,10582
+North Hamilton Avenue,LOC,10582
+about 10:30 p.m.,TIME,10582
+Thursday,DATE,10582
+4900,CARDINAL,10582
+North Troy Street,LOC,10582
+Pat Camden,PERSON,10582
+the Fraternal Order of Police,ORG,10582
+Chicago,GPE,10582
+Camden,GPE,10582
+5300,CARDINAL,10582
+North Kedzie Avenue,LOC,10582
+about five,CARDINAL,10582
+first,ORDINAL,10582
+Camden,PERSON,10582
+Camden,GPE,10582
+Carranza,ORG,10582
+2600,CARDINAL,10582
+West Rascher Avenue,LOC,10582
+first,ORDINAL,10582
+Ephrame,PERSON,10582
+Carranza,ORG,10582
+25-year-old,DATE,10582

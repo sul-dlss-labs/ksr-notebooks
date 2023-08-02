@@ -1,0 +1,78 @@
+text,label,fe_id
+One,CARDINAL,23262
+Beltway,LOC,23262
+Inner Loop,ORG,23262
+College Park,GPE,23262
+Friday,DATE,23262
+evening rush hour,TIME,23262
+Friday,DATE,23262
+afternoon,TIME,23262
+Courtesy,NORP,23262
+NBC,ORG,23262
+Washington,GPE,23262
+NBC,ORG,23262
+Washington,GPE,23262
+four,CARDINAL,23262
+Courtesy,NORP,23262
+Montgomery County,GPE,23262
+Courtesy,NORP,23262
+Montgomery County,GPE,23262
+Inner Loop,ORG,23262
+Maryland State Highway Administration,ORG,23262
+around 2:20 p.m.,TIME,23262
+Courtesy Maryland State Highway Administration,ORG,23262
+Courtesy Maryland State Highway Administration,ORG,23262
+Beltway,LOC,23262
+Inner Loop,ORG,23262
+Route 1,FAC,23262
+Courtesy,NORP,23262
+NBC,ORG,23262
+Washington,GPE,23262
+NBC,ORG,23262
+Washington,GPE,23262
+1,CARDINAL,23262
+Twitter,PRODUCT,23262
+WASHINGTON,GPE,23262
+One,CARDINAL,23262
+Beltway,LOC,23262
+Inner Loop,ORG,23262
+College Park,GPE,23262
+Friday,DATE,23262
+evening rush hour,TIME,23262
+Montgomery County,GPE,23262
+11200,CARDINAL,23262
+Georgia Avenue,FAC,23262
+Silver Spring,GPE,23262
+about 12:35 p.m.,TIME,23262
+Chevy,ORG,23262
+Montgomery County Police Department,ORG,23262
+Paul Starks,PERSON,23262
+Montgomery County,GPE,23262
+the Inner Loop,ORG,23262
+Prince George’s County,GPE,23262
+Starks,GPE,23262
+Beltway,LOC,23262
+Friday,DATE,23262
+two,CARDINAL,23262
+the Inner Loop,ORG,23262
+One,CARDINAL,23262
+Starks,PERSON,23262
+Maryland State Police,ORG,23262
+Montgomery County,GPE,23262
+Starks,PERSON,23262
+four,CARDINAL,23262
+Starks,PERSON,23262
+Sept. 1,DATE,23262
+Sept. 22,DATE,23262
+Wheaton,ORG,23262
+Randolph,GPE,23262
+Veirs Mill,PERSON,23262
+Starks,PERSON,23262
+Inner Loop,ORG,23262
+Route 1,FAC,23262
+College Park,GPE,23262
+around 6:30 p.m.,TIME,23262
+almost five hours,TIME,23262
+@WTOP,ORG,23262
+Twitter,PRODUCT,23262
+2017,DATE,23262

@@ -1,0 +1,25 @@
+text,label,fe_id
+Sunday,DATE,8105
+William Smith,PERSON,8105
+42,DATE,8105
+3300,CARDINAL,8105
+South Compton Avenue,FAC,8105
+4000,CARDINAL,8105
+Pennsylvania Avenue,FAC,8105
+Erica Van Ross,PERSON,8105
+19-year,DATE,8105
+3300,CARDINAL,8105
+South Compton,LOC,8105
+around 4:40 p.m.,TIME,8105
+Sunday,DATE,8105
+Smith,PERSON,8105
+Lawanda Smith,PERSON,8105
+37,DATE,8105
+3300,CARDINAL,8105
+South Compton Avenue,FAC,8105
+Smith,PERSON,8105
+Around 6:15 p.m.,TIME,8105
+four,CARDINAL,8105
+4000,CARDINAL,8105
+Pennsylvania,GPE,8105
+Smith,GPE,8105

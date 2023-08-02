@@ -1,0 +1,101 @@
+ORDER DENYING PLAINTIFF'S REQUEST FOR A SECOND RULE 30(b)(6) DEPOSITION
+
+JENNIFER L. THURSTON, Magistrate Judge.
+
+Plaintiffs seek to re-open discovery to take a second Rule 30(b)(6) deposition, arguing that the individual Defendants produced for the deposition "lacked sufficient knowledge" on the issues identified in the deposition notice. (Doc. 49 at 3.)
+
+Because Plaintiffs fail to demonstrate the deponent lacked knowledge of the topics identified in the deposition notice, Plaintiffs' request for a second deposition is DENIED.
+
+I. Background
+
+On January 1, 3013, "in celebration of the New Year," Abel Gurrola and two companions "fired several rounds from a .22 caliber rifle into the ground of the open field located to the south east of the 720 Terrace Way apartment complex." (Doc. 13 at 2.) At approximately 12:19 a.m., Bakersfield Police Officers Woessner and Aleman were dispatched to the apartment complex "to investigate a report of shots fired." (Doc. 1 at 14, ¶ 25.) Plaintiffs allege the officers observed Gurrola, who "ran in the opposite direction and into the well lit courtyard of the apartment complex." (Id., ¶¶ 26-27.) Plaintiffs assert Woessner and Aleman "fired their service weapons multiple times," striking Gurrola "in the back of the head." (Id., ¶ 28.)
+
+Plaintiffs initiated this action in Kern County Superior Court by filing a complaint against the City of Bakersfield; Greg Williamson, individually and in his capacity as Chief of Police of the Bakersfield Police Department; Officer Woessner; and Officer Aleman by filing a complaint on September 20, 2013. (Doc. 1.) Plaintiffs assert Defendants are liable for: assault; battery; negligence; excessive force; a breach of the right of familial association; failure to train, supervise, and discipline; a violation of Cal. Civ. Code § 52.1; and negligent infliction of emotional distress. (See generally Doc. 1 at 8-30.) Defendants filed a Notice of Removal on December 17, 2013, thereby initiating the action in this Court. (Doc. 1.)
+
+The Court held a Scheduling Conference with the parties on June 9, 2014. (Doc. 18.) The Court ordered the parties to complete all non-expert discovery no later than March 17, 2015, and all expert discovery no later than May 11, 2015. (Id. at 1, 3.) In addition, the Court informed the parties: "A party with a discovery dispute must first confer with the opposing party in a good faith effort to resolve by agreement the issues in dispute. If that good faith effort is unsuccessful, the moving party promptly shall seek a telephonic hearing with all involved parties and the Magistrate Judge." (Id. at 4.)
+
+Plaintiffs noticed a deposition pursuant to Fed. R. Civ. P. 30(b)(6) on March 10, 2015, setting a deposition on March 12, 2015. (Doc. 49-5.) The Notice of Deposition identified the following issues:
+
+(A) THE LOCATION OF THE WEAPON FOUND AT THE SCENE WHERE ABEL GURROLA WAS SHOT ON JANUARY 1, 2013 MARKED AS ITEM 23 AS PER JONATHAN BERUMAN'S REPORT DATED 1/8/2013 (HEREINAFTER, THE "WEAOPON." [sic]), (B) THE CONDITION OF THE WEAPON AT THE TIME IT WAS IDENTIFED [sic] BY BAKERSFIELD POLICE DEPARTMENT PERSONNEL, (C) THE CONDITION OF THE WEAPON TODAY . . .
+
+(Doc. 49-5 at 3.) Defendants served written objections to the Notice of Deposition on March 11, 2015. (Doc. 49 at 6; Doc. 50 at 16-21.) Specifically, Defendants objected that because the word condition was undefined, it was "unknown what is meant by "condition." (Doc. 50 at 18.) Further, Defendants asserted that the Plaintiffs were seeking improperly seeking "expert analysis opinion" related to the condition at the time it was identified by the Bakersfield Police Department. (Id.) There is no showing that after this objection was lodged, Plaintiffs clarified the meaning of the word.
+
+Defendants produced Charles Sherman to testify in response to the deposition notice. Plaintiffs believed that Sherman lacked personal knowledge of much of the information about which he testified," and contacted the Court seeking permission to take a second deposition. (See Doc. 46.) Because the parties were unable to resolve the issue during the telephonic conference, Plaintiffs were authorized "to file a motion to compel the further deposition of the entity." (Id. at 3.) The Court directed Plaintiffs to address "the specific deposition questions at issue," as well as "why they believe the deponent previously produced was inadequate under applicable federal authority." (Id.)
+
+II. Legal Standards
+
+Pursuant to the Federal Rules of Civil Procedure, "[a] party may, by oral questions, depose any person, including a party, without leave of court." Fed. R. Civ. P. 30(a)(1). In addition, parties may take the deposition of an entity, as provided in Rule 30(b)(6):
+
+In its notice or subpoena, a party may name as the deponent a public or private corporation, a partnership, an association, a governmental agency, or other entity and must describe with reasonable particularity the matters for examination. The named organization must then designate one or more officers, directors, or managing agents, or designate other persons who consent to testify on its behalf; and it may set out the matters on which each person designated will testify.
+
+Fed. R. Civ. P. 30(b)(6). Thus, parties noticing a deposition pursuant to Rule 30(b)(6) must identify in the notice of deposition, the topics upon which the examination will occur "with reasonable particularity." Id. The entity then has an obligation "to provide a witness who can answer questions regarding the subject matter listed in the notice." Detoy v. City & County of San Francisco, 196 F.R.D. 362, 366 (N.D. Cal. 2000) (quoting King v. Pratt & Whitney, a Div. of United Technologies Corp., 161 F.R.D. 475, 476 (S.D. Fla. 1995)).
+
+A corporate designee is not required to have personal knowledge of the topics at issue, but must be sufficiently prepared on the topics such to be able to provide knowledgeable and binding testimony. United States v. Taylor, 166 F.R.D. 356, 361, aff'd, 166 F.R.D. 367 (M.D. N.C. 1996); Great Am. Ins. Co. of New York v. Vegas Const. Co., Inc., 251 F.R.D. 534, 539 (D. Nev. 2008). "The corporation has a duty to educate its witnesses so they are prepared to fully answer the questions posed at the deposition." Bowoto v. ChevronTexaco Corp., 2006 WL 294799 at *1 (N.D.Cal. Feb. 7, 2006) (citing In re Vitamins Antitrust Litig., 216 F.R.D. 168, 172 (Dist. D.C. 2003)). If an entity designates a witness it believes would be able to provide knowledgeable responsive testimony, and it becomes apparent during the deposition that the witness is unable to respond to relevant areas of inquiry, the entity has a duty to immediately designate another knowledgeable deponent. Marker v. Union Fidelity Life Ins., 125 F.R.D. 121, 126 (M.D.N.C. 1989).
+
+III. Discussion and Analysis
+
+A. The Meet and Confer Requirement
+
+As an initial matter, Defendants assert Plaintiffs failed to comply with this Court's requirement to meet and confer to seeking Court intervention with a discovery dispute. Defendants argue that the questions identified by Plaintiffs below were not "specifically addressed with the Court at the informal conference." (Doc. 49 at 3.) Further, Defendants assert that "one of the issues was not set forth in the Plaintiffs' meet and confer letter either." (Id.)
+
+Notably, in the meet and confer letter dated April 14, 2015, Plaintiffs asserted that Sherman "was not qualified to testify as he had almost no firsthand knowledge." (Doc. 49-4 at 8.) In support of this argument, Plaintiffs quoted several portions of the deposition. (See id. at 8-9.) Plaintiffs noted that Sherman testified he "based his knowledge on what he was told by Jonathan Beruman," and argued "Beruman, or another individual with sufficient information," should have been produced by Defendants. (Id. at 9.)
+
+At the informal telephonic conference, the Court reminded Plaintiffs that a Rule 30(b)(6) deponent "need not have personal knowledge or have been witness to the events addressed at the deposition." (Doc. 46 at 2, citations omitted.) However, the Court was unable to resolve the dispute, and authorized Plaintiffs to file a motion. (Id. at 3.) Plaintiffs' arguments were to be "limited to the issues actually raised in meet and confer efforts with opposing counsel and actually discussed at the informal conference." (Id.) Despite this limitation, Plaintiffs altered their argument from Sherman not being a proper deponent due to lack of personal knowledge to Sherman not being a proper deponent because he was unable to testify as to issues identified in the Notice of Deposition served by Plaintiffs.
+
+Given the shift in arguments, Plaintiffs failed to comply with the meet and confer obligations, and failed to comply with the Court's order.
+
+B. Sherman's Deposition Testimony
+
+Plaintiffs assert Charles Sherman was not a proper deponent under Rule 30(b)(6) because he lacked knowledge related to issues identified in the Notice of Deposition. According to Plaintiffs, Sherman "was unable to testify as to the condition of the weapon," which Plaintiffs assert is shown in the following excerpts of the deposition:
+
+1. Sherman Deposition, 11:14-24
+
+Q. Okay. And the shell casings that you brought, were those the ones that were found in that area at the northeast section of the property which was behind the shed of the— before you get to the parking lot that divided the north complex from the south?
+
+MR. MARDEROSIAN: Now only— only if you know actually where those shell casings that you brought here were found.
+
+THE WITNESS: All I know is how they were labeled, and that's where they stated they were from. I don't know them firsthand knowledge, specific.
+
+2. Sherman Deposition, 12:2-8
+
+Q. And do you know how many shell casings are in that— you have them in a sealed envelope; correct?
+
+A. Correct. No, I do not know exactly how many shell casings there are.
+
+Q. Okay. Does it indicate on the envelope how many are in there?
+
+A. No.
+
+3. Sherman Deposition, 13:7-9
+
+Q. Do you know whether or not anybody has removed the tube from the — the weapon that you brought today?
+
+A. No, I do not know.
+
+(See Doc. 49 at 5-8.)
+
+In the Joint Statement, Plaintiffs argued that "[t]he `condition' of the weapon is broad enough to encompass information regarding the shell casings that the Police Department attributes to the weapon itself." (Doc. 49 at 5, 7.) Also, Plaintiffs argue information regarding "the tube and the number of spent or unspent rounds . . . goes directly to the `condition' of the weapon as per the notice." (Id. at 8.) Plaintiffs report that Sherman "was not aware of whether the tube was removed [from the weapon], and therefore unaware of if or how the unspent bullet was lodged in the tube." (Id.) Due to Sherman's lack of knowledge on regarding the shell casings and the tube, Plaintiffs assert Sherman was not a proper Rule 30(b)(6) deponent.
+
+On the other hand, Defendants argue that "Sherman was an appropriate Fed. R. Civ. P. 30(b)(6) witness." (Doc. 49 at 10, emphasis omitted.) According to Defendants, "Sherman was fully qualified and capable of testifying regarding the subject matters designated by the Plaintiffs," and "answered all of the questions that were reasonably within the categories the Plaintiffs identified in their notice." (Id. at 10-11.) Defendants argue the questions and responses identified above show that Plaintiffs sought information during the deposition that was "well beyond the scope of the Fed. R. Civ. P 30(b)(6) notice." (Id. at 11.)
+
+Notably, at the hearing, Plaintiffs conceded that issues of the location of shell casings and the number of shell casings were not encompassed in the topics set forth in the deposition notice. Further, Plaintiffs failed to establish that whether the tube had been removed related to the condition of the weapon at the time it was identified or at the time of the depositions. To the contrary, Plaintiffs' counsel admitted that he was seeking information regarding the forensic analysis done on the weapon, and whether the weapon had been altered from its earlier condition when processed. Such information exceeds the scope of the Notice of Deposition. As a result, Sherman was not obligated to have knowledge on these topics for the Rule 30(b)(6) deposition. 1
+
+Because Plaintiffs fail to show that Sherman was not able to testify as to the issues identified in the Notice of Deposition, the request to compel Defendants to produce a second deponent is DENIED.
+
+C. Sanctions
+
+Both Plaintiffs and Defendants seek an award of sanctions. (Doc. 49 at 13-14.) Plaintiffs assert that "sanctions are appropriate for the failure to produce a witness with sufficient knowledge." (Id. at 13.) Because Plaintiffs fail to establish that Sherman was not a proper deponent, the request for sanctions is DENIED.
+
+Defendants seek an award of sanctions, arguing Plaintiffs filed a "frivolous motion, which [was] in blatant disregard of the Court's Order raising testimony that was not actually discussed at the informal conference, and which seeks a second deposition despite the fact that the Fed. R. Civ. P. 30(b)(6) witness fulfilled his obligations under the deposition notice." (Doc. 49 at 14.) Therefore, Defendants seek an award of fees and costs related to having defend the propriety of the Rule 30(b)(6) deponent. (Id. at 15.)
+
+Pursuant to Rule 37 of the Federal Rules of Civil Procedure, the Court may issue sanctions to "penalize some forms of discovery abuse," such as where a party "`fails to obey an order to provide or permit discovery.'" Fjelstad v. American Honda Motor Co., 762 F.2d 1334, 1338-39 (quoting Fed. R. Civ. P. 37(b)(2)(C). Though the motion here is not well-taken, it does not rise to the level of abusive tactics. Moreover, Defendants have not provided any evidence demonstrating the costs imposed on their clients associated with defending against this motion. Accordingly, Defendants' request for sanctions is DENIED.
+
+IV. Conclusion and Order
+
+Based upon the foregoing, IT IS HEREBY ORDERED:
+
+1. Plaintiffs' motion to compel Defendants to identify another Rule 30(b)(6) deponent is DENIED;
+
+2. Plaintiffs' request for sanctions is DENIED; and
+
+3. Defendants' request for sanctions under Rule 37 is DENIED.

@@ -1,0 +1,549 @@
+United States District Court, E.D. California.
+
+MEMORANDUM DECISION GRANTING IN PART AND DENYING IN PART DEFENDANTS' MOTION FOR SUMMARY JUDGMENT (Doc. 34)
+
+OLIVER W. WANGER, District Judge.
+
+On November 21, 2006, Plaintiff Estate of Stephen O. Esquivel (Decedent), represented by Kevin Little, filed a Complaint for Damages and Wrongful Death pursuant to 42 U.S.C. § 1983 and 1985 against City of Sanger Police Officers Manuel Chavez and Eric Grijalva, City of Sanger Police Sergeant Fred Sanders, and the City of Sanger. 1 The individual defendants are sued in their personal and official capacities. It is alleged that Defendants Chavez and Grijalva used deadly force on Decedent and that Defendant Sanders "was the supervisor on scene who condoned and failed to prevent their actions." The Complaint alleges:
+
+7. On January 29, 2005, Magdalena Granados, along with her friend, Stephanie Aguayo, picked up decedent from his residence at 11850 E. American, Del Rey, California ....
+
+8. Decedent and Granados went to a Shell station in Sanger, California. An argument ensured between decedent and Granados. Granados called 911 twice, hanging up the first time and then falsely reporting that decedent was abusing her.
+
+9. The defendant officers responded to the 911 call. As the defendant officers approached Granados' vehicle, decedent ran to a parked vehicle at a nearby residence. Olga Perez, the owner of the vehicle, was near said vehicle at the time decedent arrived there. Said vehicle was blocked by another car in a driveway. There was no place for the vehicle to go.
+
+10. Although there was no threat of imminent death or serious bodily injury to either the defendant officers or third parties at the time, CHAVEZ and GRIJALVA shot and killed decedent. At the time of the shooting, SANDERS was in proximity and condoned and failed to intervene to prevent the unnecessary deadly force of the two officers. The defendant officers also fabricated a false version of the incident to justify the unreasonable use of deadly force. Nor has the autopsy report demonstrating the falsity of the defendant officers' version been disclosed, despite the passage of nearly two years.
+
+11. SANGER's liability under federal law stems from its unconstitutional customs and policies, which will be specified at a later point in this proceeding, as permitted by applicable law. Plaintiffs [sic] are informed and believe that, through these unconstitutional customs and policies, SANGER encouraged both the overt misconduct of the individual defendant officers, by which the decedent was victimized, as well as the substantial acts and omissions of the defendant officers to conceal their overt misconduct.
+
+Defendants move for summary judgment on the claims alleged against them. At the hearing, Plaintiff conceded summary judgment in favor of Defendant Sergeant Fred Sanders.
+
+A. Defendants' Objection to Plaintiff's Evidence and Request to Strike .
+
+In opposing Defendants' motion for summary judgment, Plaintiff submitted the Declaration of Ivan Hurd:
+
+1. In January 2007, I acted as an investigator for attorney Kevin Little in interviewing Olga Perez and Robert Perez at their residence in Sanger, California.
+
+2. An audio recording of that interview is Exhibit A to this declaration. Photographs I took of the interview subjects and their residence are Exhibit C to this declaration. All of these copies are true and correct versions of the originals. What follows is my recollection of said interviews, which comports with the information cited from the actual transcripts in the accompanying memorandum of points and authorities.
+
+3. Both Mrs. Perez and Mr. Perez indicated that the two shots fired were not contemporaneous or in rapid succession. Instead, there was a lapse of time between the shots sufficient for Mrs. Perez to reach a point out of harm's way, outside of the garage, and for Mr. Perez to get from a bedroom inside the residence to the area of the garage door. The shooting incident occurred in the Perezes' garage.
+
+4. Neither Mrs. nor Mr. Perez indicated being at risk of death or imminent bodily harm at the time of the second shot.
+
+5. Mr. Perez stated he opened the door to his garage mere moments after the second shot and saw an officer on the right side of the garage as he was facing outward, i.e., at the driver's side of the subject vehicle. This officer was no more than two feet from the decedent when Mr. Perez first observed him, and he still had his firearm drawn and pointed at the decedent.
+
+6. Mr. Perez stated he first observed the decedent alive and then saw his eyes roll back and his body slump over.
+
+7. Mr. Perez stated he observed a second officer on the other side of the garage, i.e., the passenger side, to the rear when he first opened the garage door. Mr. Perez permitted me to photograph him in the position where he first recalled seeing this second officer, and that photograph is included in Exhibit C.
+
+8. Mrs. Perez stated she did not see, but instead only heard, the first and second shots fired. Mrs. Perez heard the second shot fired after she had already reached a point of safety outside the garage. Mrs. Perez permitted me to photograph her at the location she recalls reaching, and that photograph is included in Exhibit C.
+
+9. The photographs contained in Exhibit C reflect Mr. Perez' observation of the second officer, of the positioning of the subject vehicle and the vehicle immediately behind it during the incident. These photographs also reflect Mrs. Perez stated positioning outside the garage, where she recalled being at the time the second shot was fired.
+
+10. Both Mrs. and Mr. Perez recalled that the decedent was unarmed and had no viable means of escape, since there was a pickup truck parked directly behind the subject vehicle and two other cars, belonging to their son and another relative, parked in the vicinity of the driveway at that time.
+
+11. If called as a witness, I could truthfully testify as to the foregoing
+
+Attached to Mr. Hurd's declaration is what purports to be a transcript of his interview with Mr. and Mrs. Perez in January 2007. Plaintiff lodged a copy of Mr. Hurd's interview of the Perezes on September 2, 2008 (Doc. 42). There is no indication who transcribed the interview, there is nothing from which it may be inferred that the Perezes were under oath, and there is no authentication of the purported transcript from the Perezes.
+
+Defendants contend that this evidence is provided in contradiction to a Court Order and the rules of discovery.
+
+By Order filed on October 20, 2007, Defendants' motion to compel discovery responses was granted and monetary sanctions imposed. (Doc. 23). The Order provided:
+
+1. Defendants' Motion to Compel Responses to outstanding discovery is GRANTED and Plaintiffs shall have forty-five (45) days from October 12, 2007, to serve verified responses to all current Requests for Admissions, Production Requests and Interrogatories served by Defendants.
+
+2. Both Plaintiffs and Defendants shall have thirty (30) days from October 12, 2007, to serve each other with initial disclosures required by F.R.Civ.P., Rule 26(a).
+
+3. Plaintiffs' counsel, Kevin G. Little, has represented to the Court that he fully understands his obligations to timely respond to all communications and notices from Defendants and the Court and that he will do so henceforth. Mr. Little further understands that his failure to do so in the future or his failure to comply with the federal rules, this or any Order of this Court may result in sanctions, including, but not limited to monetary, exclusionary or terminating.
+
+4. All parties are encouraged to timely communicate with each other or directly with the Court if circumstances arise in the future which might affect any party's ability to abide by this Order.
+
+5. Defendants' request for monetary sanctions in the amount of $1,110.00 as costs for having brought this Motion to Compel is deemed reasonable and appropriate. However, Defendants have offered and the Court agrees to stay the imposition of such sanctions until the final disposition of this matter by way of settlement, dispositive motion or trial, as deemed appropriate at such time.
+
+Defendants refer to their First Set of Interrogatories:
+
+INTERROGATORY NO. 14 :
+
+Please state in complete detail each and every fact (including the source of such fact) upon which you base your contention in paragraph 10 of your Complaint that there was no threat of imminent death or serious bodily injury to either the defendant officers or third parties at the time of this incident.
+
+INTERROGATORY NO. 15 :
+
+Please state in complete detail each and every fact (including the source of each such fact) upon which you base your contention in paragraph 10 of your Complaint that officers fabricated a false version of the incident. INTERROGATORY NO. 16 :
+
+Please state in complete detail each and every fact (including the source of each such fact) upon which you base your contention in paragraph 11 of your Complaint that the City of Sanger had any unconstitutional customs and policies at the time of this incident.
+
+Plaintiff's Responses to All Discovery Propounded by Defendants, signed by Mr. Little on January 29, 2008, i.e., well after the time prescribed in the Order granting the motion to compel, states: 2
+
+FIRST SET OF INTERROGATORIES...
+
+14. Plaintiffs have received reports from unidentified third parties that the decedent should not have been shot and killed by the officers and the reported version of the incident is intentionally false. They believe this information is substantiated by the failure of the defendants and the County of Fresno to provide the autopsy report and the odd handling of the public records requests.
+
+15. Plaintiffs have received reports from unidentified third parties that the decedent should not have been shot and killed by the officers and the reported version of the incident is intentionally false. They believe this information is substantiated by the failure to the defendants and the County of Fresno to provide the autopsy report and the odd handling of the public records requests.
+
+16. Plaintiffs have received reports from unidentified third parties that the decedent should not have been shot and killed by the officers and the reported version of the incident is intentionally false. They believe this information is substantiated by the failure of the defendants and the County of Fresno to provide the autopsy report and the odd handling of their public records requests. The City of Sanger's role in covering up this incident, specifically, shows ratification of the officers' acts that rises to the level of policy for purposes of section 1983 and the state civil rights laws [sic].
+
+Defendants refer to their First Request for Production:
+
+REQUEST FOR PRODUCTION NO. 12:
+
+Please provide any and all documents or other materials you have to support your allegation in paragraph 10 of your complaint that officers purportedly fabricated any version of this incident.
+
+REQUEST FOR PRODUCTION NO. 13 :
+
+Please provide any and all documents or other materials you have to support your allegation in paragraph 11 of your complaint that any of the defendant officers purportedly `conspired to hide the truth.'
+
+REQUEST FOR PRODUCTION NO. 14 :
+
+Please provide any and all documents or other materials you have to support your allegation in paragraph 11 of your complaint that any of these defendants had `unconstitutional customs and policies.'
+
+Plaintiff's Responses to Discovery Propounded by All Defendants signed by Mr. Little on January 29, 2008, stated in response to these specific requests for production of documents:
+
+Plaintiffs believe the documents primarily responsive to this interrogatory are in the possession of the defendants, their attorneys, and as yet undisclosed third parties. Plaintiffs believe that the defendants are continuing to conceal the responsive statements and the autopsy report, specifically.
+
+Defendants complain that Mr. Hurd's declaration makes clear that Plaintiff and Plaintiff's counsel, Mr. Little, knew in January 2007 that the "unidentified third parties" referred to in their January 29, 2008 discovery responses were Mr. and Mrs. Perez but failed to disclose their identities to Defendants. Defendants contend that they took the deposition of Sylvia Esquivel, legal representative of the estate of Decedent, on July 18, 2008, the date of discovery cut-off, and there was no disclosure of the recorded Perez interviews approximately 18 months previously. On August 13, 2008, Defendants filed their motion for summary judgment, relying on the original recorded interviews of Mr. and Mrs. Perez. Defendants assert that, because the originally recorded interviews were supportive of and consistent with the versions of the reporting officers, Defendants did not see a need to depose them. On August 25, 2008, Mr. Little sent an e-mail to Defendants' counsel, Mr. Praet, in which Mr. Little stated:
+
+Mr. Praet, please find enclosed a draft transcript I have prepared of interviews my former investigator, Ivan Hurd, did of Mr. and Mrs. Perez, as well as photographs of he Perez residence taken by Mr. Hurd. The interview recording and photos were recently obtained from Mr. Hurd, whom I learned had kept copies of these documents when I contacted him about a summary judgment opposition declaration. I had never been able to locate my copies of these documents, and, indeed, I still cannot.
+
+A copy of the sound recording of these interviews will be sent out today.
+
+Defendants complain that Plaintiff's opposition to the motion for summary judgment relies almost entirely on the previously undisclosed hearsay interviews of the Perezes by Mr. Hurd.
+
+Defendants contend that, by withholding the recorded interview of the Perezes for over 18 months "in spite of clearly delineated Rule 26 obligations and outright false representations in untimely discovery responses, Plaintiff conveniently allowed the discovery cut-off date to pass knowing that Defendants would believe that these two witnesses had provided contemporaneous, recorded interviews to Sheriff's investigators in 2005." Defendants complain that Plaintiff's "flagrant violations of the federal rules and this Court's unequivocal Order have resulted in extreme prejudice to Defendants." Defendants argue that Plaintiff should not be allowed to suggest that Defendants be permitted to depose the Perezes:
+
+Plaintiff cannot be permitted to make a mockery of this Court's Orders and the obligations imposed by the federal rules in order to postpone or attempt to defeat a summary judgment motion filed by Defendants who have consistently followed such Orders and rules. This is especially true when Plaintiff and her counsel were previously warned that exclusionary and/or termination sanctions could result with further violations after monetary sanctions had already been imposed.
+
+Mr. Little filed a Declaration in response to Defendants' objection to this evidence and request to strike it. Mr. Little avers:
+
+2. The defense neglects to advise the Court that the Perezes were listed as defense witnesses in the Rule 26 initial disclosures, yet the defense apparently never even had contacted or spoken with these witnesses. There [sic] Perezes were both also included in the plaintiff's initial disclosures, which incorporated the defense disclosures by reference.
+
+3. The defense further neglects to advise the Court that it was specifically advised during discovery, on July 18, 2008, that Olga and Richard Perez were witnesses on behalf of the plaintiff. On that date, the deposition of plaintiff representative Sylvia Esquivel was taken, and she informed counsel for the defendants that the Perezes had reached out and contacted her because they did not abide the official account of the shooting incident. See Deposition of Sylvia Esquivel, pp. 36-38. Defense counsel was also given details regarding the Perezes' account of the incident during that same deposition, including all of the details upon which plaintiff relies in opposing summary judgment in this case. See Deposition of Sylvia Esquivel, p. 38-41. Thus, the defense learned during discovery all of the information that plaintiff relies upon in opposing the pending summary judgment motion. Yet the defense never sought to depose or statementize the Perezes before going forward and filing for summary judgment.
+
+In the cited portions of Sylvia Esquivel's deposition, Ms. Esquivel testified that she had spoken to Olga Perez on the telephone a couple of days after the incident after Mrs. Perez had called her:
+
+Q. And what did she say?
+
+A. She as a mother just wanted me to know that, what happened, she didn't know who my son was but as a mother she just wanted me to know that there was—she wasn't in any danger.
+
+Q. She wasn't in any danger, what do you mean?
+
+A. That she wasn't. She said that she—it just happened so fast that she really wasn't in any danger. In order words, for the second shot to be fired.
+
+...
+
+Q. Did she tell you she felt she was in danger when the first shot was fired?
+
+A. She said that she—when—when she was knocked down from the vehicle, when it moved she couldn't remember at that time because it happened so fast where her feet were or where she was. But that's only because she wasn't even in the car, it's just that when he moved it, it knocked her down. And that was where she was—became afraid but didn't feel that it was necessary, according to her.
+
+Q. Was she emotional on the phone?
+
+A. No.
+
+Q. But she told you—well, tell me what she told you happened.
+
+A. Just basically that she was getting ready for a funeral. The car was in the garage, the garage door was opened. He—she got out of the driver's side, was going around to the passenger side when she saw someone in the vehicle, meaning my son. She said she didn't feel like she was in any danger, she was just worried and concerned about some tickets that she had in the car. So she was not in the car but she went in to reach for those tickets and told him please don't take my car. But he didn't look at her, he didn't say anything to her, he was just looking through the rearview mirror. [¶] And so then it escalated when the police came so that's when she tried to get herself out of the car and she did. However, when he reversed the door knocked her down and that's where it all began.
+
+Q. You say in your words that it escalated when the police came; is that something she said?
+
+A. She—well, you know what, I don't know if that was her words or not.
+
+Q. Okay. But she said when Stephen put the car in reverse the door was opened and that's what knocked her to the ground?
+
+A. That's correct.
+
+Q. And that's when the first shot was fired or somewhere in there?
+
+A. She said because she was knocked to the ground all she could hear was the one shot. She didn't know which side—she knew it had to be on the opposite side because there was no one on her side. And so then when all that—when they were making the commands then she stepped—she actually was very upset because she's the one that got away from the vehicle. And when the second shot came through she was already at the, you know, outside of her garage, nowhere in danger.
+
+Q. So she told you that she was already up on her feet by the garage when the second shot was fired?
+
+A. That's correct.
+
+Q. Did she tell you how long it had taken her from the time she had been knocked down to the time when the second shot was fired?
+
+A. She said it happened so fast.
+
+Q. Is that the only time you've talked to Mrs. Perez?
+
+A. She —there has been two phone calls. The first time was what she told me, the second time was just something her husband needed to tell me. So I had a conversation, not a long conversation but a conversation with the husband just to tell me that from what he could see they—he thought—what he said was maybe I watch too many movies, he says, but he saw him pulled out of the patrol car and just dragged on the cement, tore his shirt off, he thought they were going to give him CPR but then they just laughed.
+
+Q. Dragged out of the patrol car?
+
+A. No, I'm sorry, dragged out of the car.
+
+Q. And you said the officers dragged him out of the car and removed his shirt?
+
+A. Yes, removed his shirt—well, actually tore his shirt and laughed.
+
+...
+
+Q. When did he call you?
+
+A. I would say about a week after the first initial phone call.
+
+Q. Did he tell you why he was calling?
+
+A. Well, actually she called me just to see how I was doing and if, you know, she was needed for anything, just that was it basically.
+
+Defendants assert that Mr. Little's averments that the Perezes were listed as Plaintiff's witnesses in Plaintiff's Rule 26 initial disclosures and that his Rule 26 disclosure obligations were met by incorporating defense disclosures by reference is false and inappropriate. Defendants contend that, while Olga Perez was listed by Defendants in their initial disclosure, Mr. Perez was not. Defendants argue:
+
+[I]f the federal rules [e.g. F.R.Civ.P., Rule 26(a)(1)(A)(i) ] and the rules of this Court are to have any effect, Plaintiffs simply cannot be permitted to `incorporate' one of Defendants' disclosed witnesses (without even naming her) and then completely fail to even identify the other witness (i.e. Richard Perez). This would result in nothing less that impermissible trial by ambush and completely undermine the general practice of the federal courts to engage in open discovery.
+
+Defendants argue that Sylvia Esquivel's deposition testimony, taken approximately two weeks before the discovery cut-off, does not excuse Mr. Little's failure to timely disclose Mr. Hurd's interview of the Perezes or to correct Mr. Little's discovery responses referring to "unidentified" or "undisclosed" third parties. Defendants assert:
+
+[H]aving had no reason to ever suspect that Olga Perez would be persuaded to seemingly contradict her contemporaneously recorded interview, Defendants moved forward with a timely summary judgment motion raising the single material issue of the objectively reasonable belief of the involved officers.
+
+Mr. Little further avers in his opposition declaration:
+
+4. The defense also learned during that same deposition that the Perezes were not specifically disclosed as witnesses earlier because they themselves did not want to be identified. See Deposition of Sylvia Esquivel, p. 50-54. I was not going to override the Perezes wishes and make a premature specific disclosure of reluctant witnesses with such important information, based on my past unfortunate experiences in that regard:
+
+a. An early disclosure of a witnesses [sic] Butch Schultz and Cathy Williams in a prior case before Your Honor, Hurd v. Richardson , No. CV-F-96-6109 OWW DLB, resulted in their being harassed to the point where Mr. Schultz relapsed into alcoholism and died, and Ms. Williams lost her cattle ranch and was falsely charged with a felony that had to go to trial for her to be exonerated. These incidents were aired in the Hurd trial, where a supplemental witness tampering complaint was filed, as well as in the trial held in the related action, Williams v. Richardson , No. CV-F-98-5194 AWI DLB. In both of those cases, juries found that Fresno Sheriff's Department officers and certain private individuals engaged in a witness tampering conspiracy, the targets of which were Mr. Schultz and Ms. Williams. The record of those actions also shows that I was the target of false charges as part of an attempt to get a search warrant for my office and retrieve a surreptitious audiotape evidencing the witness tampering conspiracy.
+
+b. The disclosure of Julia and Terry Doan as witnesses in Doan v. Taft Police Officer Sanders , No. CV-F-98-5103 LJO, a case which settled after an appellate reversal of a defense verdict, resulted in their being falsely arrested seven times by the same police agency[.] Mrs. Doan was suing for sexual assault, as well as their being unsuccessfully prosecuted based on each of those arrests in the Taft-Lamont Municipal Court. Despite the outcome of her case, the stress of this harassment led to the Doans' divorce and Mrs. Doan's lapse into drug abuse. I was also personally held in contempt, fined, and sentenced to jail for defending the Doans in those criminal cases, a matter which had to be appealed all the way through the state court system and to the Ninth Circuit before being finally resolved in my favor. See Little v. Kern Superior Court , 294 F.3d 1075 (9 th Cir.2002).
+
+c. In addition to these two most prominent examples, I have had witnesses in my civil cases receive bogus traffic tickets (Diane Meikle in Louen v. Twedt , No. CV-F-04-6556 OWW SMS), frivolously sued in state court (Holly and Michael Louen, again Case No. CV-F-04-6556 OWW SMS), and contacted and harassed by law enforcement officers shortly after filing suit or giving their depositions (Kathryn Hogan [Case No. CV-F-03-6308 LJO GSA], Randy DeShazier [Case No. CV-F-06-0591 AWI SMS], Tommy Jones [Case No. CV-F-00-6328 REC SMS], and Shaun Fanucchi [Case No. CV-S-07-608 FCD GGH]).
+
+d. All of these experiences have led me to conclude that witnesses against law enforcement in civil rights cases, particularly `smoking gun' witnesses such as the Perezes are at real risk for retaliatory action. My experience also has taught me that I myself am at risk of witness tampering allegations, or worse, in these same cases, and the aforementioned episodes have taken a considerable toll on me personally, financially and health-wise. The court system unfortunately has a very limited ability to take effective preemptive action against law enforcement officers who might engage in such retaliatory conduct, because their actions are presumed legitimate until proven otherwise.
+
+e. Other case specific factors contributed to the course of action I decided to take in this instance. The Perezes statements to my investigator essentially make then witnesses to an unlawful killing, and that information is far more sensitive than what even Williams, Schultz, or the Doans possessed. I am also informed and believe that the Perezes contacted the Sanger Police Department in spring 2005 and attempted to provide them with the same information provided to plaintiff's investigator months later. However, the information was never memorialized in any report that has been provided in discovery. I am also aware that the autopsy report 1 was withheld from disclosure, despite Ms. Esquivel's repeated requests and the requests of her counsel under the California Public Records Act, for more than two years after the incident. I relied on this information in assessing the risk to the Perezes as a result, since it showed in my view that someone associated with the law enforcement or the defense displayed a willingness to manipulate and conceal evidence. Given my experience, I was not going to take unnecessary steps that might endanger the Perezes, who live in Sanger and have a son, any more than their disclosure as plaintiff's witnesses minimally required. Nor was I going to put myself at any risk unnecessarily. I therefore decided to balance the Perezes and my own safety concerns against the duty to disclose witnesses, making the decision to disclose the Perezes during discovery, but not to highlight their disclosure unduly or make their disclosure prematurely. This is the only way I saw to comply with my discovery obligations but not create an unnecessary risk to the Perezes or myself. the one fired when Olga Perez was no longer in danger—was the sole fatal shot ... Because the Perezes' testimony will be so important in establishing the defendants' liability, causation, and plaintiff's damages, the perceived risk to them as a result of their disclosure was even greater. In light of the autopsy report, the defense attempt in its reply papers to downplay the importance of the sequence of shots and the interval of seconds between the first and second shots is patently misleading.
+
+The portion of Sylvia Esquivel's deposition on which Mr. Little relies states as follows:
+
+Q. ... So in your interrogatory responses when you state unidentified third parties you're referring to Olga Perez and her husband?
+
+A. Yes.
+
+Q. Have you spoken to anyone else who has suggested to you that this shooting should not have occurred?
+
+A. No, I don't recall.
+
+Q. You spoke to Mr. and Mrs. Perez within a week or so after the incident, right?
+
+A. With Mrs. Perez a week after.
+
+Q. Okay. And then Mr. Perez?
+
+A. Was a couple, at least a couple of weeks after that.
+
+Q. Okay. Is there some reason when you responded to these interrogatories that you listed them as unidentified third parties?
+
+A. I guess at the time I didn't know like Mr. Perez, I didn't know—I considered him a third party.
+
+Q. Okay. But you knew his identity, right?
+
+...
+
+A. Yes.
+
+Q. Okay. Is there any reason you put unidentified?
+
+...
+
+Q. Okay. You had a chance to talk to your attorney, do you now know why you put unidentified third parties in your interrogatory response?
+
+A. Yes, because at the time they did not want to be identified.
+
+Q. They told you that, the Perez family did?
+
+A. Yes. You have to understand it was painful for her as well but she was willing to—she was more concerned about me because I wasn't there and that she couldn't give me answers. So she just wanted to, I guess, settle my mind, my thoughts. It was just a compassionate thing.
+
+Q. Okay. Did she ever provide you with a written statement or a recorded statement?
+
+A. No.
+
+Mr. Little's averment that he was not going to override the Perezes' wishes not only makes Mr. Little a witness but continues to beg the question why sworn affidavits have not been obtained from the Perezes. Mr. Little's averment that he failed to disclose the Perezes as witnesses in order to uphold their wish not to be identified is belied by Mr. Little's actions. As Defendants contend:
+
+[W]hen Mr. Little conveniently provided the Perez interviews (curiously without objection or request for any sort of protective order or even a hint of concern) after the discovery cut-off date and after having received Defendants' timely summary judgment motion, he offered the following single excuse for the delay:
+
+`I had never been able to locate my copies of these documents, and, indeed, I still cannot.'....
+
+Mr. Little's August 25, 2008 email to Mr. Praet contradicts his "current excuse of fears of witness tampering and harassment." that Mr. Little's alleged fears of witness tampering and harassment is also belied by his averment in Paragraph 4(e) of his declaration that he is "informed and believe that the Perezes contacted the Sanger Police Department in spring 2005 and attempted to provide them with the same information provided to plaintiff's investigator months later." Mr. Little's unverified statement negates his claim that the Perezes harbored any fear of intimidation, witness tampering or harassment from the Sanger Police Department. As Defendants assert:
+
+On the contrary, they have apparently been anxious to hear from the police and the pretextual fears exist only in the mind of Mr. Little as a sad excuse for his failure to timely provide recorded statements he had improperly withheld for over 18 months.
+
+Mr. Little's averments that the non-release of the autopsy report reinforced his concern about witness tampering and harassment and his own safety is incomprehensible. Defendants had no copy of or control over the autopsy report, which was prepared by the coroner of the County of Fresno. Defendants provided the autopsy report to Plaintiff immediately upon receipt in a Supplemental Rule 26 Disclosure on January 31, 2008. As Defendants argue:
+
+Mr. Little cannot be permitted to have his cake and eat it too—i.e. once he received the autopsy report in January 2008, his completely unfounded fear of manipulation and retaliation were dispelled and he no longer had any reason or excuse to improperly withhold the Perez interviews obtained more than a year earlier.
+
+In his opposition declaration to Defendants' request to strike the Hurd Declaration and the transcript of the Perez interviews by Mr. Hurd, Mr. Little maintains:
+
+5. It is further important to note that, despite the foregoing legitimate concerns, the plaintiff generally identified the Perezes as witnesses in its January 2008 initial disclosures, by incorporating the defense's own initial disclosures by reference. While the defense also had every opportunity to seeking more witness identification information by propounding interrogatories on this subject, it did not propound a single witness identification interrogatory , not even to follow up on the plaintiff's initial discovery answers identifying undisclosed third parties in response to the defense's various contention interrogatories. Indeed, the first point during discovery where plaintiff was requested to further identify its witnesses was during the deposition of Sylvia Esquivel, and it did so to defense counsel's apparent satisfaction at that time.
+
+6. Despite receiving the information it did at Ms. Esquivel's deposition, the defense did not see fit even to propose taking the Perezes' depositions and instead went ahead with filing the pending summary judgment motion in August 2008. Apparently, the defense also made a strategic choice not to enlist the assistance of an investigator to statementize the Perezes during this same time period as well. Clearly, the defense has not done everything it could and should have, either as a matter of discovery or investigation, to obtain the witness information it now wrongly contends was withheld.
+
+7. Despite the defense's belated and unfounded defense accusations, the plaintiff has not in any way manipulated the Perezes. As made clear above, the Perezes initiated contact with the plaintiff, not vice versa. Also, the plaintiff obtained statements from the Perezes in January 2006, nearly two years before the defense provided the statements it claims plaintiff's counsel manipulated the Perezes into contradicting. Moreover, it is clear from the provided interview transcripts that both Olga and Richard Perez were permitted at the outset of their interviews to provide their accounts of the incident virtually without interruption, only thereafter to be questioned regarding the information they provided. The plaintiff's investigator also questioned the Perezes far more extensively and carefully than did the internal affairs investigator from the Fresno Sheriff's Department, leaving little doubt as to what their actual accounts of the incident are. Any objective comparison of the interviews performed by plaintiff's investigator with that of the Fresno County Sheriff's Department internal affairs investigator shows the former to be much less leading and much more detailed.
+
+8. Further, while the defense points to snippets of the Fresno Sheriff's Department interviews of the Perezes, particularly a small portion of Olga Perez' internal affairs interview, the totality of that interview shows her internal affairs statement was neither as clear nor as contradictory as the defense now claims. As an example, even after making the statement relied upon by the defense, Ms. Perez stated that `once when he [one of the officers] fired; then the car stopped,' and she was able to `go crawling and then actually get up.' After making this statement, Mrs. Perez was asked, on page 10 of her interview transcript, `So you left, you crawled out of the area after the shots went off?' Mrs. Perez response, if there was any, is not audible on the actual recording of her interview , which the defense has not provided to the Court.
+
+9. I have listened to the full recording of Mrs. Perez internal affairs statement, and it shows someone who is still under the emotional effects of a traumatic incident, and interview statements which in writing might seem to reflect clear, sequential thoughts are revealed to be far less so on the actual audio recording, again which the defense did not see fit to provide. (I am lodging a recording in connection with my present declaration.) For example, at another point during her internal affairs interview, on page 6 of her statement, Mrs. Perez states that she was on the floor when she heard the first shot. Mrs. Perez also told the internal affairs investigator on page 11 that she knew the decedent was shot one time while she was on the ground. These portions of Mrs. Perez' interview are corroborated by Mr. Perez' internal affairs interview, where he states that he believes he saw the second shot, at which time his wife was not in the vicinity of the subject vehicle but outside the garage. See Transcript of Mr. Perez' IA interview, pp. 2-3.
+
+Mr. Little's references to the transcripts of Mr. and Mrs. Perezes Fresno County Sheriff's Department Internal Affairs interviews are in response to copies of those interviews attached to Defendants' reply brief in support of the motion for summary judgment. This aspect of Mr. Little's declaration is an improper sur-reply brief.
+
+The Court has reviewed the copies of the transcripts of Fresno County Internal Affairs interviews of the Perezes on November 29, 2005 and a copy of the transcript purporting to be Mr. Hurd's interview of the Perezes in January 2007. The only critical differences between the two is that Mrs. Perez stated in the Internal Affairs interview that she thought Esquivel was going to run over her after she was knocked down by the car and that, when she heard the second shot, "that's when I started crawling and I went to the other side of the, of the garage", that "for the first one was when I was on the ground and then I heard the second one ... [a]nd then that's when you know I started, I was crawling out of there," and that she was afraid that the car was going run over her after she fell.
+
+Defendants object to Mr. Hurd's Declaration and the purported transcript of Mr. Hurd's interview of the Perezes on the ground that this evidence is inadmissible hearsay. Defendants contend that, while Plaintiff had every opportunity during discovery to properly obtain affidavits from Olga and Richard Perez as permitted by Rule 56(f), "no such effort was made and there has been zero showing as to why such affidavits could not have been obtained as otherwise required by Rule 56(e)(2).
+
+Mr. Little responds that he "saw fit to present the authenticated transcript and recording of the Perezes' interviews, as well as the photographs documenting their statements, because it is well established that Rule 56 does not require a party to submit material evidence `in a form that would be admissible at trial in order to avoid summary judgment. Mr. Little asserts that he has demonstrated that the Perezes could testify at trial, and Mr. Hurd's transcript and recording could also be admissible at trial pursuant to Federal Rule of Evidence 801(d)(1)(B) as a prior consistent statement. 3 Mr. Little avers:
+
+There was nothing insidious or misleading about counsel's election; to the contrary, counsel saw fit to present a recording in part to ensure the genuineness of the evidence proffered. If plaintiff's investigator had not fortunately retained his copy of the interview recording, then I certainly then could and would have obtained declarations from the Perezes.
+
+After oral argument and without first obtaining leave of court, Mr. Little filed a "List of Authorities Referred to During Oral Argument." (Doc. 57). Mr. Little asserts that "[t]his issue was first broached by the Court's questioning, and counsel did not have specific authorities available to substantiate his assertion that FRCP 56(e) permits certain unsworn evidence to be considered in connection with a summary judgment motion."
+
+Defendants object to Mr. Little's List of Authorities as untimely and improper. Defendants correctly note that the Court took the motion under submission at the conclusion of the hearing and required Defendants to choose between deposing the Perezes or submitting the motion without further input.
+
+The Court agrees with Defendants and will not consider Mr. Little's untimely List of Authorities.
+
+Mr. Little has acted unilaterally in effect by taking the law into his own hands to decide when and under what conditions he will provide discovery and disclose witnesses. His various excuses and especially his excuse for failing to identify the Perezes in the discovery responses are unpersuasive to justify his failure to forthrightly respond to a legitimate defense discovery request. Mr. Little misrepresented to defense counsel in the discovery responses when he spoke of "unidentified" or "undisclosed" third parties, creating impression that Mr. Little did not know who they were. His averments concerning fears of witness tampering and harassment and for his own safety appear overstated and, as Defendants contend, self-created. Mr. Little presents no evidence whatsoever of any bona fide risks to witnesses in this action and, as Defendants note, these alleged concerns are largely negated by his own declaration. To carry Mr. Little's position to its logical end, he will never be required to disclose witnesses in a civil rights action until trial because of his concerns about witness tampering and risks in other cases not involving these defendants. If Mr. Little had valid concerns about the safety of the Perezes, he should have moved for a protective order. Mr. Little's unilateral actions Mr. Little have created the potential for "trial by ambush."
+
+Ms. Esquivel's deposition suggests that Mrs. Perez may have changed her statements from those she gave during the Internal Affairs investigation. Arguably, Defendants should have been more alert and they offer no explanation why they did not depose or interview the Perezes before discovery cut-off on July 30, 2008 or seek an extension of the discovery cut-off date. At the hearing Defendants rejected the opportunity to depose the Perezes.
+
+With regard to Mr. Little's contention that Mr. Hurd's declaration, the purported transcript and the audio recording are considerable in opposition to the motion for summary judgment notwithstanding that they are hearsay, Rule 56(e)(2) provides:
+
+When a motion for summary judgment is properly made and supported, an opposing party may not rely merely on allegations or denials in its own pleading; rather, its response must—by affidavits or as otherwise provided in this rule—set out specific facts showing a genuine issue for trial. If the opposing party does not so respond, summary judgment should, if appropriate, be entered against that party.
+
+In Orr v. Bank of America, 285 F.3d 764, 773-774 (9 th Cir.2002), the Ninth Circuit held:
+
+A trial court can only consider admissible evidence in ruling on a motion for summary judgment ... Authentication is a `condition precedent to admissibility,' and this condition is satisfied by `evidence sufficient to support a finding that the matter in question is what its proponent claims.' ... We have repeatedly held that unauthenticated documents cannot be considered in a motion for summary judgment. In a summary judgment motion, documents authenticated through personal knowledge must be `attached to an affidavit that meets the requirements of [Fed.R.Civ.P.] 56(e) and the affiant must be a person through whom the exhibits could be admitted into evidence ... However, a proper foundation need not be established through personal knowledge but can rest on any manner permitted by Federal Rule of Evidence 901(b) or 902.
+
+Here, Mr. Hurd's declaration avers that he conducted the interview of Mr. and Mrs. Perez and that the copy of the transcript of that interview is a true and correct version of the original. Mr. Hurd makes the same averment with regard to the photographs taken by him at the time of the interview. Although Mr. Hurd cannot testify at trial as to what Mr. and Mrs. Perez told him absent an exception to the hearsay rule, Mr. Hurd's declaration satisfies the Ninth Circuit's requirements because Mr. Hurd has personal knowledge of what was said at the interview. Mr. Little should have provided declarations from Mr. and Mrs. Perez to oppose the motion for summary judgment and his excuses for the failure to do so are baseless. Nonetheless, Mr. Hurd's declaration is sufficient to support admission of the transcript of the Perezes' interview by him and the photographs for the purpose of opposing summary judgment.
+
+Defendants' request to strike Mr. Hurd's declaration and attached exhibits is DENIED. 4
+
+B. Governing Standards .
+
+Summary judgment is proper when it is shown that there exists "no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law." Fed.R.Civ.P. 56. A fact is "material" if it is relevant to an element of a claim or a defense, the existence of which may affect the outcome of the suit. T.W. Elec. Serv., Inc. v. Pacific Elec. Contractors Ass'n, 809 F.2d 626, 630 (9 th Cir.1987). Materiality is determined by the substantive law governing a claim or a defense. Id. The evidence and all inferences drawn from it must be construed in the light most favorable to the nonmoving party. Id.
+
+The initial burden in a motion for summary judgment is on the moving party. The moving party satisfies this initial burden by identifying the parts of the materials on file it believes demonstrate an "absence of evidence to support the non-moving party's case." Celotex Corp. v. Catrett, 477 U.S. 317, 325 (1986). The burden then shifts to the nonmoving party to defeat summary judgment. T.W. Elec., 809 F.2d at 630. The nonmoving party "may not rely on the mere allegations in the pleadings in order to preclude summary judgment," but must set forth by affidavit or other appropriate evidence "specific facts showing there is a genuine issue for trial." Id. The nonmoving party may not simply state that it will discredit the moving party's evidence at trial; it must produce at least some "significant probative evidence tending to support the complaint." Id. The question to be resolved is not whether the "evidence unmistakably favors one side or the other, but whether a fair-minded jury could return a verdict for the plaintiff on the evidence presented." United States ex rel. Anderson v. N. Telecom, Inc., 52 F.3d 810, 815 (9 th Cir.1995). This requires more than the "mere existence of a scintilla of evidence in support of the plaintiff's position"; there must be "evidence on which the jury could reasonably find for the plaintiff." Id. The more implausible the claim or defense asserted by the nonmoving party, the more persuasive its evidence must be to avoid summary judgment." Id. In Scott v. Harris, ___ U.S. ___, 127 S.Ct. 1769, 1776 (2007), the Supreme Court held:
+
+When opposing parties tell different stories, one of which is blatantly contradicted by the record, so that no reasonable jury could believe it, a court should not adopt that version of the facts for purposes of ruling on a motion for summary judgment.
+
+As explained in Nissan Fire & Marine Ins. Co. v. Fritz Companies, 210 F.3d 1099 (9 th Cir.2000):
+
+The vocabulary used for discussing summary judgments is somewhat abstract. Because either a plaintiff or a defendant can move for summary judgment, we customarily refer to the moving and nonmoving party rather than to plaintiff and defendant. Further, because either plaintiff or defendant can have the ultimate burden of persuasion at trial, we refer to the party with and without the ultimate burden of persuasion at trial rather than to plaintiff and defendant. Finally, we distinguish among the initial burden of production and two kinds of ultimate burdens of persuasion: The initial burden of production refers to the burden of producing evidence, or showing the absence of evidence, on the motion for summary judgment; the ultimate burden of persuasion can refer either to the burden of persuasion on the motion or to the burden of persuasion at trial.
+
+A moving party without the ultimate burden of persuasion at trial—usually, but not always, a defendant—has both the initial burden of production and the ultimate burden of persuasion on a motion for summary judgment ... In order to carry its burden of production, the moving party must either produce evidence negating an essential element of the nonmoving party's claim or defense or show that the nonmoving party does not have enough evidence of an essential element to carry its ultimate burden of persuasion at trial ... In order to carry its ultimate burden of persuasion on the motion, the moving party must persuade the court that there is no genuine issue of material fact
+
+....
+
+If a moving party fails to carry its initial burden of production, the nonmoving party has no obligation to produce anything, even if the nonmoving party would have the ultimate burden of persuasion at trial ... In such a case, the nonmoving party may defeat the motion for summary judgment without producing anything ... If, however, a moving party carries its burden of production, the nonmoving party must produce evidence to support its claim or defense ... If the nonmoving party fails to produce enough evidence to create a genuine issue of material fact, the moving party wins the motion for summary judgment ... But if the nonmoving party produces enough evidence to create a genuine issue of material fact, the nonmoving party defeats the motion.
+
+210 F.3d at 1102-1103.
+
+C. Defendants' Statement of Undisputed Facts .
+
+DUF 1 : On January 29, 2005, Magdalena Granados twice called Sanger 911 to report that Stephen Esquivel (decedent) was abusing her.
+
+Defendants's Supporting Evidence: Paragraph 8 of Complaint.
+
+Plaintiff's Response: Plaintiff disputes the materiality of this asserted fact, since it makes the use of deadly force on the decedent no more or less justifiable. Plaintiff also disputes the accuracy of this asserted fact since the cited portion of the Complaint reads as follows: "Decedent and Granados went to a Shell station in Sanger, California. An argument ensued between decedent and Granados. Granados called 911 twice, hanging up the first time and then falsely reporting that decedent was abusing her." Complaint ¶ 8.
+
+Ruling: This fact is material. The events leading to the deadly force incident are important and Plaintiff included this background in the Complaint. Plaintiff presents no evidence that Granados' 911 report was false and, even if it was, there is no evidence that the responding officers were aware that the 911 report was false. DUF 1 is UNDISPUTED.
+
+DUF 2 : Ms. Granados informed Officer Chavez that Esquivel was refusing to return her vehicle.
+
+Defendants' Supporting Evidence: Chavez Declaration.
+
+Plaintiff's Response: Plaintiff disputes the materiality of this asserted fact, since it makes the use of deadly force on the decedent no more or less justifiable. Plaintiff does not dispute its accuracy for purposes of this motion.
+
+Ruling: This fact is material because provides background to the events leading to the use of deadly force incident. DUF 2 is UNDISPUTED.
+
+DUF 3 : Esquivel appeared nervous and ran from Officer Chavez while the vehicle license was being checked.
+
+Defendants' Supporting Evidence: Chavez Declaration.
+
+Plaintiff's Response: Plaintiff disputes the materiality of this asserted fact, since it makes the use of deadly force on the decedent no more or less justifiable. Plaintiff does not dispute its accuracy for purposes of this motion.
+
+Ruling: This fact is material because it places the deadly force incident in context. DUF 3 is UNDISPUTED.
+
+DUF 4 : Officer Grijalva recognized the vehicle license as having been previously pursued no less than twice by Fresno PD.
+
+Defendants' Supporting Evidence: Declaration of Grijalva.
+
+Plaintiff's Response: Plaintiff disputes the materiality of this asserted fact, since it makes the use of deadly force on the decedent no more or less justifiable. Plaintiff does not dispute its accuracy for purposes of this motion.
+
+Ruling: This fact is material because it places the deadly force incident in context. DUF 5 is UNDISPUTED.
+
+DUF 5 : Esquivel entered the driver's door of a vehicle parked in a driveway in the 1600 block of James Street with its engine running.
+
+Defendants' Supporting Evidence: Declaration of Chavez.
+
+Plaintiff's Response: UNDISPUTED.
+
+DUF 6 : Despite multiple orders from two uniformed police officers to stop and hysterical pleas from the vehicle owner, Esquivel continued to accelerate back and forth in the vehicle.
+
+Defendants' Supporting Evidence: Declarations of Chavez and Grijalva.
+
+Plaintiff's Response: Disputed. Plaintiff contends this asserted fact is false, incomplete and misleading. According to Ms. Perez, she was not in fear from Mr. Esquivel's activities, but instead became fearful when she saw one of the officer's weapons drawn. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mrs. Perez' Interview Statement, pp. 6-7, 8, 10, 11. Mrs. Perez stumbled and fell inside the garage as she was then trying to get out of harm's way. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mrs. Perez' Interview Statement, pp. 7-8, 11. Mrs. Perez was on the floor of the garage near the vehicle when she heard the first shot, but she was "safe," i.e., concealed outside of the garage at the time the second shot was fired. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mrs. Perez' Interview Statement, pp. 2, 8, 10, 11. She was not in danger at that time from the decedent. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mrs. Perez' Interview Statement, pp. 8, 10. Moreover, there was a vehicle, Mr. Perez' pickup truck, directly behind the car the decedent was in, as well as two other relatives' cars in the vicinity of the Perez house, so there was no escape route for the decedent. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mrs. Perez' interview Statement, pp. 10-11. Mrs. Perez does not recall any repeated acceleration of the vehicle back and forth; instead, she recalls that the decedent put the subject vehicle in gear when an officer pointed the gun at him and that the vehicle rolled back once, causing her to fall to the cement, and struck some lawnmowers and the pickup truck parked behind it. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mrs. Perez' Interview Statement, pp. 6-7, 10. Mr. Perez also confirms that his wife was not in the vicinity of the vehicle when he opened the garage door just about the time the second shot was fired. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mr. Perez' Interview Statement, pp. 13-14, 15, 16. When he first opened the garage door, Mr. Perez saw an officer on the driver's side of the vehicle, the position claimed by Officer Chavez in the Sanger reports (see Exhibit D, Sanger Police Report No. 05-0301, p. 0004), with his gun drawn at most two feet from the decedent, who at that time was beginning to slump over and expire. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mr. Perez' interview Statement, pp. 14-15, 16-17. Mr. Perez saw another officer to the rear of the vehicle on the passenger side. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mr. Perez' interview Statement, pp. 14-15. No one appeared to be in imminent danger of death or bodily harm from the decedent at that time. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mr. Perez' Interview Statement, pp. 18-19. Mr. Perez remembers repeatedly asking where his wife was upon arriving at the scene, so he clearly recalls that she was not in the vicinity of the vehicle. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mr. Perez' Interview Statement, pp. 15-16. No efforts were being made to extricate or render first aid to the decedent immediately after the shooting; those efforts did not begin until after Mr. Perez was permitted to go to his wife's location outside the garage, at least a minute or so later. See Declaration of Ivan Hurd, ¶¶ 3-8, 10; Exhibit B to Ivan Hurd Declaration, Mr. Perez' Interview Statement, pp. 18-19, 20-21. The Perezes' accounts of the incident are detailed in the declaration of Investigator Ivan Hurd, as well as Exhibits A-C thereto, the audio recording and transcript of said interviews, and photographs documenting crucial aspects of the Perezes' interview statements. Officer Chavez' report is part of the complete Sanger Police Report attached as Exhibit D.
+
+Defendant's Reply: There is zero evidence to dispute DUF 6.
+
+Ruling: While most of Plaintiff's response to DUF 6 is irrelevant to the stated fact, Plaintiff does point to Mrs. Perez's statement in the interview with Mr. Hurd that she does not recall any repeated acceleration of the vehicle back and forth; instead, she recalls that the decedent put the subject vehicle in gear when an officer pointed the gun at him and that the vehicle rolled back once, causing her to fall to the cement, and struck some lawnmowers and the pickup truck parked behind it. To this extent, DUF 6 is DISPUTED.
+
+DUF 7 : Esquivel struck both a parked pickup truck and Officer Grijalva with the vehicle he was attempting to steal.
+
+Defendants' Supporting Evidence: Declarations of Chavez and Grijalva.
+
+Plaintiff's Response: Plaintiff disputes DUF 7 on the identical grounds stated in response to DUF 6.
+
+Ruling: Nothing in Plaintiff's response contradicts or disputes DUF 7 as to Officer Grijalva. DUF 7 is UNDISPUTED.
+
+DUF 8 : Both Officers Chavez and Grijalva observed a woman (owner of the car) with the lower half of her body under the car Esquivel was accelerating.
+
+Defendants' Supporting Evidence: Declarations of Chavez and Grijalva.
+
+Plaintiff's Response: Plaintiff disputes DUF 8 on the identical grounds stated in response to DUF 6.
+
+Defendant's Reply: Nothing in Plaintiff's response actually disputes that the officers saw Mrs. Perez with the lower half of her body under the car Esquivel was accelerating and point to her interview statement as per Mr. Hurd's audio tape that "I was being dragged with the car as I hit the ground, that's when I heard the first shot."
+
+Ruling: While most of Plaintiff's response to DUF 6 is irrelevant to the stated fact, Plaintiff does point to Mrs. Perez's statement in the interview with Mr. Hurd that she does not recall any repeated acceleration of the vehicle back and forth. To this extent, DUF 6 is DISPUTED.
+
+DUF 9 : Esquivel continued to ignore orders of officers, Officer Chavez smashing the car window and the guns of both officers pointed at him.
+
+Defendants' Supporting Evidence: Declarations of Chavez and Grijalva.
+
+Plaintiff's Response: Plaintiff disputes DUF 8 on the identical grounds stated in response to DUF 6.
+
+Ruling: Nothing in Plaintiff's response disputes DUF 9. DUF 9 is UNDISPUTED.
+
+DUF 10 : When both Officers Chavez and Grijalva perceived that Esquivel would run over the woman under the vehicle, they each independently, but almost simultaneously fired a single shot from their guns.
+
+Defendants' Supporting Evidence: Declarations of Chavez and Grijalva.
+
+Plaintiff's Response: Plaintiff disputes DUF 8 on the identical grounds stated in response to DUF 6.
+
+Defendant's Reply: Plaintiff has at most suggested that the perceptions of Mr. and Mrs. Perez is now that Mrs. Perez had somehow crawled out from under the car "seven seconds" before the second shot. Defendants assert that "[a]s mildly interesting and certainly questionable as this changed perception might be, it is not the perception of the Perezes, but the objective beliefs of the officers in split second, tense and rapidly developing circumstances which is solely material to this motion."
+
+Ruling: Defendants' reply is argument. For whatever reason and contrary to their statements to the Fresno County Internal Affairs officers on the date of the shooting, the Perezes now testify that Mrs. Perez was away from the car not in danger and in the garage when the second shot was fired approximately seven seconds after the first shot. DUF 10 is DISPUTED.
+
+DUF 11 : The vehicle stopped immediately after officers fired and the woman escaped with only minor injuries.
+
+Defendants' Supporting Evidence: Declarations of Chavez and Grijalva.
+
+Plaintiff's Response: Plaintiff disputes DUF 8 on the identical grounds stated in response to DUF 6.
+
+Ruling: Nothing in Plaintiff's response actually contradicts DUF 11. DUF 11 is UNDISPUTED. 5
+
+D. Excessive Force/Qualified Immunity .
+
+All claims of excessive force are analyzed under the objective reasonableness standard of the Fourth Amendment set forth in Graham v. Connor, 490 U.S. 386 (1989) and Tennessee v. Garner, 471 U.S. 1 (1985). "Determining whether the force used to effectuate a particular seizure is reasonable under the Fourth Amendment requires a careful balancing of the nature and quality of the intrusion on the individual's Fourth Amendment interests against the countervailing governmental interests at stake." Graham, 490 U.S at 396. This balancing test entails consideration of the totality of the facts and circumstances in the particular case, including "the severity of the crime at issue, whether the suspect poses an immediate threat to the safety of the officers or others, and whether he is actively resisting arrest or attempting to evade arrest by flight." Id. The most important of these factors is the threat posed by the suspect. Smith v. City of Hemet, 394 F.3d 689, 702 (9 th Cir. 2005). In Garner, the Supreme Court explained that, while it is unreasonable to apprehend an unarmed, nondangerous suspect by killing him, "[w]here the officer has probable cause to believe that the suspect poses a threat of serious physical harm, either to the officers or to others, it is not constitutionally unreasonable to prevent escape by using deadly force [and] if the suspect threatens the officer with a weapon or there is probable cause to believe that he has committed a crime involving the infliction or threatened infliction of serious physical harm, deadly force may be used if necessary to prevent escape, and, if, where feasible, some warning has been given." Garner, 471 U.S. at 11-12.
+
+In Price v. Sery, 513 F.3d 962 (9 th Cir. 2008), the Ninth Circuit, citing Scott v. Harris, ___ U.S. ___, 127 S.Ct. 1769 (2007), held:
+
+[W]hat an officer has probable cause to believe dictates the level of force he may justifiably use in a given scenario. In other words a law enforcement officer's use of force will be justified, or not, by what the officer reasonably believed about the circumstances confronting him. The Supreme Court very recently confirmed and clarified this analysis of the relationship between Garner, Graham, and the Fourth Amendment's reasonableness requirement in Scott v. Harris... In considering the reasonableness of a police officer's use of likely deadly force to end a high-speed car chase, the Court noted that `Graham did not establish a magical on/off switch that triggers rigid preconditions whenever an officer's actions constitute `deadly force.' Garner was simply an application of the Fourth Amendment's `reasonableness' test to the use of a particular force in a particular type of situation.' Id. at 1777 ... The Court went on to state that `[w]hether or not [the police officer's] actions constituted application of "deadly force," all that matters is whether [the officer's] actions were reasonable.' Id. at 1778 ....
+
+In Harris v. Roderick, 126 F.3d 1189, 1201 (9 th Cir.1997), cert. denied, 522 U.S. 1115 (1998), the Ninth Circuit held:
+
+Certain principles are clearly established under the cases described above and others that implement the fundamental rules regarding the use of deadly force. Law enforcement officers may not shoot to kill unless, at a minimum, the suspect presents an immediate threat to the officer or others, or is fleeing and his escape will result in a serious threat of injury to persons ... Moreover, whenever practicable, a warning must be given before deadly force is employed.
+
+The "broad discretion that must be afforded to police officers who face a tense situation," must be extended to mistakes of fact concerning "the existence of probable cause" as well as to mistakes as to what the law requires under particular circumstances. Jeffers v. Gomez, 267 F.3d 895, 909 (9 th Cir. 2001). "The reasonableness of a particular use of force must be judged from the perspective of a reasonable officer on the scene, rather than with the 20/20 vision of hindsight." Graham, 490 U.S. at 396. The "question is whether the officers' actions are `objectively reasonable' in light of the facts and circumstances confronting them, without regard to their underlying intent or motivation." Id. at 397. The Ninth Circuit has admonished courts to use caution in cases involving the use of deadly force:
+
+Deadly force cases pose a particularly difficult problem under this regime because the officer defendant is often the only surviving eyewitness. Therefore, the judge must ensure that the officer is not taking advantage of the fact that the witness most likely to contradict his story—the person shot dead—is unable to testify. The judge must carefully examine all the evidence in the record, such as medical reports, contemporaneous statements by the officer and the available physical evidence, as well as any expert testimony proffered by the plaintiff, to determine whether the officer's story is internally consistent and consistent with other known facts. In other words, the court may not simply accept what may be a self-serving account by the police officer. It must also look at the circumstantial evidence that, if believed, would tend to discredit the police officer's story, and consider whether this evidence could convince a rational fact-finder that the officer acted unreasonably.
+
+Scott v. Henrich, 39 F.3d 912, 915 (9 th Cir. 1994).
+
+Qualified immunity serves to shield government officials "from liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known." Harlow v. Fitzgerald, 457 U.S. 800, 818 (1982). The Supreme Court has set forth a two-pronged inquiry to resolve all qualified immunity claims. First, "taken in the light most favorable to the party asserting the injury, do the facts alleged show the officers' conduct violated a constitutional right?" Saucier v. Katz, 533 U.S. 194, 201 (2001). If the court determines that the conduct did not violate a constitutional right, the inquiry is over and the officer is entitled to qualified immunity. However, if the court determines that the conduct did violate a constitutional right,Saucier `s second prong requires the court to determine whether, at the time of the violation, the constitutional right was "clearly established." Id. "The relevant, dispositive inquiry in determining whether a right is clearly established is whether it would be clear to a reasonable officer that his conduct was unlawful in the situation he confronted." Id. at 202. This inquiry is wholly objective and is undertaken in light of the specific factual circumstances of the case. Id. at 201. Even if the violated right is clearly established, Saucier recognized that, in certain situations, it may be difficult for a police officer to determine how to apply the relevant legal doctrine to the particular circumstances he faces. If an officer makes a mistake in applying the relevant legal doctrine, he is not precluded from claiming qualified immunity so long as the mistake is reasonable. If "the officer's mistake as to what the law requires is reasonable, ... the officer is entitled to the immunity defense." Id. at 205. In Brosseau v. Haugan, 543 U.S. 194 (2004), the Supreme Court reiterated:
+
+Qualified immunity shields an officer from suit when she makes a decision that, even if constitutionally deficient, reasonably misapprehends the law governing the circumstances she confronted. Saucier v. Katz, 533 U.S., at 206 (qualified immunity operates `to protect officers from the sometimes "hazy border between excessive and acceptable force"'). Because the focus is on whether the officer had fair notice that her conduct was unlawful, reasonableness is judged against the backdrop of the law at the time of the conduct. If the law at that time did not clearly establish that the officer's conduct would violate the Constitution, the officer should not be subject to liability or, indeed, even the burdens of litigation.
+
+It is important to emphasize that this inquiry `must be undertaken in light of the specific context of the case, not as a broad general proposition.' Id., at 201. As we previously said in this very context:
+
+`[T]here is no doubt that Graham v. Connor, supra, clearly establishes the general proposition that use of force is contrary to the Fourth Amendment if it is excessive under objective standards of reasonableness. Yet, that is not enough. Rather, we emphasized in Anderson [v. Creighton ] "that the right the official is alleged to have violated must have been `clearly established' in a more particularized, and hence more relevant, sense: The contours of the right must be sufficiently clear that a reasonable officer would understand that what he is doing violates that right.' ... The relevant, dispositive inquiry in determining whether a right is clearly established is whether it would be clear to a reasonable officer that his conduct was unlawful in the situation he confronted.' ...
+
+The Court of Appeals acknowledged this statement of law, but then proceeded to find fair warning in the general tests set out in Graham and Garner... In so doing, it was mistaken. Graham and Garner, following the lead of the Fourth Amendment's text, are cast at a high level of generality. See Graham v. Connor, supra, at 396 ('"[T]he test of reasonableness under the Fourth Amendment is not capable of precise definition or mechanical application"'). Of course, in an obvious case, these standards can `clearly establish' the answer, even without a body of relevant case law.'
+
+543 U.S. at 198-199. However, as explained in Wilkins v. City of Oakland, 350 F.3d 949, 956 (9 th Cir.2003), cert. denied sub nom. Scarrot v. Wilkins, 543 U.S. 811 (2004):
+
+Where the officers' entitlement to qualified immunity depends on the resolution of disputed issues of fact in their favor, and against the non-moving party, summary judgment is not appropriate. See Saucier, 533 U.S. at 216 ... (Ginsberg, J., concurring)('Of course, if an excessive force claim turns on which of two conflicting stories best captures what happened on the street, Graham will not permit summary judgment in favor of the defendant official.').
+
+Defendants argue that consideration of the totality of the circumstances, including the four factors identified in Graham v. Connor, supra, establish that the officers did not use deadly force in violation of Decedent's Fourth Amendment rights.
+
+1. Severity of the Crime(s) At Issue .
+
+Defendants refer to evidence that the original 911 calls provided the responding officers with a belief that Granados was being abused by Esquivel and that, when Officer Chavez began his investigation, Granados told him that Esquivel refused to give her back her car. Esquivel fled the gas station while the vehicle license was being checked and Officer Grijalva recognized the vehicle license to a vehicle which had been pursued twice by the Fresno Police Department. Esquivel then attempted to carjack the Perezes' car and accelerated the car so as to strike both Mrs. Perez and Officer Grijalva with the passenger door, knocking Mrs. Perez to the ground with part of her body underneath the vehicle. Defendants refer to evidence that Esquivel continued to accelerate the car in reverse even though Mrs. Perez was still on the ground partially underneath the vehicle.
+
+The evidence is disputed whether Esquivel was accelerating the car in reverse. There is no dispute, however, that Esquivel was attempting to steal the Perezes' vehicle in order to continue his flight from the officers and that the reversing of the vehicle struck Officer Grijalva and knocked Mrs. Perez partially underneath the car.
+
+2. Immediate Threat to Safety of Officers and Others .
+
+Defendants refer to evidence that Esquivel, in attempting to steal Mrs. Perez' vehicle, knocked down Mrs. Perez and hit Officer Grijalva with the car door and, ignoring repeated commands of the police officers to stop, continued to reverse the car into the parked truck behind it even though Mrs. Perez was partially underneath the car. Defendants contend that this evidence establishes that Esquivel "had zero regard for the safety of others and that his desperation to escape would be at any cost to innocent life (e.g. at least two other known prior high speed chases). Defendants cite Scott v. Harris, supra, 127 S.Ct. at 1778, as authority that, had Esquivel been permitted to steal the Perezes' vehicle and flee recklessly onto public streets, the potential danger to innocent lives was extreme.
+
+In Scott, a police officer, Scott, terminated a high-speed pursuit of Harris's vehicle by applying his push bumper to the rear of the vehicle, causing it to leave the road and crash. Harris, rendered a quadriplegic, filed suit under Section 1983, alleging the use of excessive force in violation of the Fourth Amendment. The Supreme Court held that, because the car chase Harris initiated posed a substantial and immediate risk of serious physical injury to others, Scott's attempt to terminate the chase by forcing Harris off the road was reasonable under the Fourth Amendment. In so holding, the Supreme Court stated:
+
+Scott defends his actions by pointing to the paramount governmental interest in ensuring public safety, and respondent nowhere suggests this was not the purpose motivating Scott's behavior. Thus, in judging whether Scott's actions were reasonable, we must consider this risk of bodily harm that Scott's actions posed to respondent in light of the threat to public safety that Scott was trying to eliminate. Although there is no obvious way to quantify the risks on either side, it is clear from the videotape that respondent posed an actual and imminent threat to the lives of any pedestrians who might have been present, to other civilian motorists, and to the officers involved in the chase ... It is equally clear that Scott's actions posed a high likelihood of serious injury or death to respondent— though not the near certainty of death posed by, say, shooting a fleeing felon in the back of the head, see Garner... or pulling alongside a fleeing motorist's car and shooting the motorist ... So how does a court go about weighing the perhaps lesser probability of injuring or killing numerous bystanders against the perhaps larger probability of injuring or killing a single person? We think it appropriate in this process to take into account not only the number of lives at risk, but also their relative culpability. It was respondent, after all, who intentionally placed himself and the public in danger by unlawfully engaging in the reckless, high-speed flight that ultimately produced the choice between two evils that Scott confronted. Multiple police cars, with blue lights flashing and sirens blaring, had been chasing respondent for nearly 10 miles, but he ignored their warning to stop. By contrast those who might have been harmed had Scott not taken the action he did were entirely innocent. We have little difficult in concluding it was reasonable for Scott to take the action that he did.
+
+127 S.Ct. at 1778.
+
+There is no question that Esquivel was attempting to steal the Perezes' vehicle and further flee from the officers, that Mrs. Perez was knocked down and dragged by the car while Esquivel was attempting to reverse out of the driveway, and that he hit and moved the pickup parked behind the car. Nonetheless, there was a pickup truck parked behind the car, police and police cars at the scene or arriving at the scene. It is questionable that Esquivel could have actually gotten the car out of the driveway to continue his flight under these circumstances. However, it is not disputed that Mrs. Perez was knocked down by the car door when the car was reversing (although her statement to the Internal Affairs Officers and to Mr. Hurd was that the car was reversing slowly). At issue is whether Mrs. Perez was still in danger from the vehicle at the time the second, fatal, shot was fired. The Perezes have given contradictory statements as to this issue. Plaintiff presents no evidence that Officer Chavez, who was on the driver's side of the vehicle, observed, if it occurred, that Mrs. Perez had moved away from the vehicle and into the garage, out of immediate danger, seconds before he fired the second, fatal shot. 6 Because of the Perezes' subsequent, contradictory statements, there is a question of fact whether Esquivel's attempt to steal the Perezes' vehicle posed an immediate threat to the safety of the officers or Mrs. Perez at the time of the second shot and whether or not Officer Chavez observed this, if it occurred, before he fired the second shot.
+
+3. Suspect Actively Resisting Arrest or Attempting to Evade Arrest by Flight .
+
+The evidence is undisputed that Esquivel fled on foot while Officer Chavez was running the license check on Granados' vehicle. It is undisputable that Esquivel was attempting to continue his flight by stealing the Perezes car.
+
+A fleeing felon may or may not present a risk of deadly force to justify a deadly response by law enforcement. The seizure of the Perezes' vehicle and risk to Mrs. Perez has the potential to threaten deadly force to Mrs. Perez. Her additional description of events where she claims to have moved to a position of safety, if this occurred, may or may not have been observable to Officer Chavez, who was on the driver's side of the vehicle. Because what occurred when the second shot was fired, i.e., whether or not Mrs. Perez had moved to a position of safety in the garage seconds before the second shot was fired and whether or not Officer Chavez was aware that she had done so if she did, summary judgment on the claim of excessive force and the issue of qualified immunity is DENIED.
+
+E. 42 U.S.C. § 1985 .
+
+The Complaint alleges it is brought pursuant to Section 1985 as well as Section 1983. The Complaint does not specify which subparagraph of Section 1985 is involved.
+
+Section 1985(2) makes unlawful a conspiracy to deter any party or witness from attending federal court or testifying in federal court or a conspiracy to obstruct justice in any state court with the intent of depriving any citizen of the equal protection of the laws. Section 1985(2) contains two clauses that give rise to separate causes of action. To state a claim under the first clause of Section 1985(2), plaintiffs must allege the following elements: (1) a conspiracy by the defendants; (2) to injure a party or witness in his person or property; (3) because he attended federal court or testified in any matter pending in federal court; (4) resulting in injury or damages to the plaintiff. There is no requirement of class-based animus to state a claim under the first clause of Section 1985(2). See Portman v. County of Santa Clara, 995 F.2d 898, 909 (9 th Cir. 1993). To state a claim under the second clause of Section 1985(2), the plaintiff must allege (1) a conspiracy by the defendants; (2) to impede, hinder, obstruct, or defeat the due course of justice in a state court; intending to deprive any citizen of the equal protection of the laws, i.e., that defendants acted with class-based animus. Portman, id.; Bretz v. Kelman, 773 F.2d 1026, 1029 (9 th Cir. 1985).
+
+"To prove a violation of § 1985(3), [Plaintiff] must show `some racial, or perhaps otherwise class-based, invidiously discriminatory animus behind the conspirators' action. The conspiracy, in other words, must aim at a deprivation of the equal enjoyment of rights secured by the law to all.'" Orin v. Barclay, 272 F.3d 1207, 1217 (9 th Cir.2001), quoting Griffin v. Breckenridge, 403 U.S. 88, 102 (1971).
+
+Defendants, in a footnote at the conclusion of their opening brief, argue that a conspiracy claim will not survive "where, as here, the officers' conduct was done in the open and there is no evidence of any requisite racial animus."
+
+Plaintiff has not opposed summary judgment for Defendants on her Section 1985 claim. From this lack of response it is concluded that Plaintiff concedes summary judgment for Defendants on the Section 1985 claim. Defendants motion for summary judgment on the Section 1985 claim is GRANTED.
+
+F. Liability of City of Sanger .
+
+Defendants move for summary judgment in favor of the City of Sanger on the ground that, if the individual officers are entitled to qualified immunity, the City of Sanger cannot be held liable for any alleged constitutional violation.
+
+Defendants cite Los Angeles v. Heller, 475 U.S. 796 (1986). Heller does not support Defendants' position. In Heller, the Supreme Court held: "If a person has suffered no constitutional injury at the hands of the individual police officer, the fact that the departmental regulations might have authorized the use of constitutionally excessive force is quite beside the point." 475 U.S. at 799. As explained in Sunn v. City & County of Honolulu, 852 F.Supp. 903, 907 (D.Hawaii 1994):
+
+In the present case, the officer defendants were not exonerated from liability. Rather, the officer defendants successfully asserted qualified immunity ....
+
+There is no Ninth Circuit case law on the applicability of Heller to this particular situation. However, the circuits which have considered the issue have held that Heller is inapplicable to cases where police officers are exempt from suit on qualified immunity grounds. Doe v. Sullivan County, Tenn., 956 F.2d 545, 554 (6 th Cir.1992); Barber v. City of Salem, Ohio, 953 F.2d 232 (6 th Cir.1992); Parrish v. Luckie, 963 F.2d 201, 207 (8 th Cir.1992); Medina v. Denver, 960 F.2d 1493, 1499-1500 (10 th Cir.1992).
+
+In Doe, the Sixth Circuit reasoned that dismissal of claims based on qualified immunity did not necessarily imply that the plaintiff had suffered no constitutional deprivation and only implied that officers could reasonably have believed that their conduct did not violate clearly established law. Doe, 956 F.2d at 554. Accordingly, dismissal of a claim against an officer asserting qualified immunity in no way logically entails that the plaintiff suffered no constitutional deprivation, nor correspondingly, that a municipality—which is not entitled to qualified immunity—may not be liable for that deprivation. Id.; Medina, 960 F.2d at 1499; see also Todd, 963 F.2d at 207 (Heller inapplicable if plaintiff's constitutional rights were violated). At most, it means that an officer in the defendant's position could reasonably have believed that the conduct in question did not violate the law that was clearly established at that time. Id. A municipality may nonetheless be liable if the actions complained of rises to the level of a constitutional violation in light of present law ... Absent any Ninth Circuit case law on point, the court will follow the well reasoned decisions of other circuits in holding that Heller is inapplicable to cases where police officers are exempt from liability on the basis of qualified immunity.
+
+See also Gibson v. County of Washoe, Nev., 290 F.3d 1175, 1186 n. 7 (9 th Cir.2002), cert denied, 537 U.S. 1106 (2003):
+
+The municipal defendants ... assert that if we conclude, as we do ..., that the individual deputy defendants are not liable for violating Gibson's constitutional rights, then they are correspondingly absolved of liability. Although there are certainly circumstances in which this proposition is correct ..., a municipality may be liable if an individual officer is exonerated on the basis of the defense of qualified immunity, because even if the officer is entitled to immunity a constitutional violation might still have occurred. See, e.g., Chew v. Gates, 27 F.3d 1432, 1438-39 (9 th Cir.1994)
+
+....
+
+Defendants also move for summary judgment in favor of the City of Sanger on the ground that "Plaintiff has zero evidence to support any so-called Monell claim against the City." 7
+
+The Complaint alleges that the City of Sanger's
+
+liability under federal law stems from its unconstitutional customs and policies, which will be specified at a later point in this proceeding, as permitted by applicable law. Plaintiffs [sic] are informed and believe that, through these unconstitutional customs and policies, SANGER encouraged both the overt misconduct of the individual defendant officers, by which the decedent was victimized, as well as the substantial acts and omissions of the defendant officers to conceal their overt misconduct.
+
+Local government entities and local government officials acting in their official capacity can be sued for monetary, declaratory, or injunctive relief, but only if the allegedly unconstitutional actions took place pursuant to some "policy statement, ordinance, or decision officially adopted and promulgated by that body's officers...." Monell v. Dep't of Soc. Servs., 436 U.S. 658, 690-91 (1978). Alternatively, if no formal policy exists, plaintiffs may point to "customs and usages" of the local government entity. Id. A local government entity cannot be held liable simply because it employs someone who has acted unlawfully. Id. at 694. See also Haugen, 351 F.3d at 393 ("Municipalities cannot be held liable under a traditional respondeat superior theory. Rather, they may be held liable only when "action pursuant to official municipal policy of some nature caused a constitutional tort.... [T]o establish municipal liability, a plaintiff must prove the existence of an unconstitutional municipal policy.").
+
+To prevail in a civil rights claim against a local government under Monell, a plaintiff must satisfy a three-part test:
+
+(1) The local government official(s) must have intentionally violated the plaintiff's constitutional rights;
+
+(2) The violation must be a part of policy or custom and may not be an isolated incident; and
+
+(3) There must be a link between the specific policy or custom to the plaintiff's injury.
+
+Id. at 690-92. There are a number of ways to prove a policy or custom of a municipality. A plaintiff may show (1) "a longstanding practice or custom which constitutes the `standard operating procedure' of the local government entity;" (2) "the decision-making official was, as a matter of state law, a final policymaking authority whose edicts or acts may fairly be said to represent official policy in the area of decision;" or (3) "the official with final policymaking authority either delegated that authority to, or ratified the decision of, a subordinate." Menotti v. City of Seattle, 409 F.3d 1113, 1147 (9th Cir. 2005). The Ninth Circuit has held that a municipal policy "may be inferred from widespread practices or evidence of repeated constitutional violations for which the errant municipal officers were not discharged or reprimanded." Id.
+
+A municipality may still be liable under Monell for a single incident where: (1) the person causing the violation has "final policymaking authority;" (2) the "final policymaker" "ratified" a subordinate's actions; or (3) the "final policymaker" acted with deliberate indifference to a subordinate's constitutional violations. Christie v. Iopa, 176 F.3d 1231 (9th Cir. 1999).
+
+Plaintiff presents no evidence whatsoever from which it may be inferred that any of these standards have been violated. Summary judgment for the City of Sanger is GRANTED
+
+CONCLUSION
+
+For the reasons stated:
+
+1. Defendants' motion for summary judgment is GRANTED IN PART AND DENIED IN PART:
+
+a. Summary judgment is GRANTED for Defendants City of Sanger Police Officer Eric Grijalva, City of Sanger Police Sergeant Fred Sanders, and the City of Sanger;
+
+b. Summary judgment is GRANTED for Defendants on Plaintiff's claim for violation of 42 U.S.C. § 1985;
+
+c. Summary judgment is DENIED for Defendant City of Sanger Police Officer Manuel Chavez for the use of deadly force in violation of 42 U.S.C. § 1983 and for qualified immunity from liability based on his use of deadly force.
+
+2. Counsel for Defendants shall prepare and lodge a form of order reflecting the rulings set forth in this Memorandum Decision immediately following the date of service of this Memorandum Decision.
+
+IT IS SO ORDERED.

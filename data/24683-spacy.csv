@@ -1,0 +1,39 @@
+text,label,fe_id
+Las Vegas,GPE,24683
+Monday,DATE,24683
+Las Vegas,GPE,24683
+2018,DATE,24683
+around 1 p.m.,TIME,24683
+2200,CARDINAL,24683
+West Bonanza Road,LOC,24683
+Tonopah Drive,PERSON,24683
+Kensington,PERSON,24683
+Earlier in the day,TIME,24683
+Spurgeon Daniels,ORG,24683
+Daniels,PERSON,24683
+Taser,ORG,24683
+@KTNV — Bryan Callahan,PERSON,24683
+"August 6, 2018",DATE,24683
+one,CARDINAL,24683
+Suspect,LOC,24683
+first,ORDINAL,24683
+one,CARDINAL,24683
+@KTNV — Bryan Callahan,PERSON,24683
+"August 6, 2018",DATE,24683
+Taser,ORG,24683
+two,CARDINAL,24683
+UMC Trauma,FAC,24683
+@KTNV — Bryan Callahan,PERSON,24683
+"August 6, 2018",DATE,24683
+third,ORDINAL,24683
+Las Vegas,GPE,24683
+Saturday,DATE,24683
+the 13th this year,DATE,24683
+44-year-old,DATE,24683
+David Stockton,PERSON,24683
+May 2007,DATE,24683
+the next few days,DATE,24683
+Kelly McMahill,PERSON,24683
+the past two days,DATE,24683
+Thursday,DATE,24683
+Las Vegas,GPE,24683

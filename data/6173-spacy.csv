@@ -1,0 +1,40 @@
+text,label,fe_id
+Weather Alert,PERSON,6173
+11 PM,TIME,6173
+CDT,ORG,6173
+Missouri,GPE,6173
+Missouri,GPE,6173
+Audrain MO,FAC,6173
+Boone MO,ORG,6173
+Callaway MO,FAC,6173
+Cole,PRODUCT,6173
+MO,GPE,6173
+Moniteau,GPE,6173
+Missouri,GPE,6173
+Crawford,GPE,6173
+Franklin MO,PERSON,6173
+Gasconade MO,FAC,6173
+Montgomery MO,ORG,6173
+Warren,GPE,6173
+Washington,GPE,6173
+Missouri,GPE,6173
+Knox MO,PERSON,6173
+Lewis MO,PERSON,6173
+Marion MO,PERSON,6173
+Monroe MO,PERSON,6173
+Ralls MO,ORG,6173
+Shelby MO,PERSON,6173
+Missouri,GPE,6173
+Iron MO,PERSON,6173
+Madison MO,PERSON,6173
+Reynolds MO,FAC,6173
+Saint Francois,GPE,6173
+11 PM,TIME,6173
+CDT,ORG,6173
+this evening,TIME,6173
+Wednesday,DATE,6173
+morning,TIME,6173
+5 inches,QUANTITY,6173
+PRECAUTIONARY,ORG,6173
+Flash Flood Warnings,PERSON,6173
+&&,ORG,6173

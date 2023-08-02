@@ -1,0 +1,66 @@
+text,label,fe_id
+Vancouver,GPE,12295
+16-year-old,DATE,12295
+Friday,DATE,12295
+night,TIME,12295
+Clark County Sheriff's Office,ORG,12295
+one,CARDINAL,12295
+two,CARDINAL,12295
+Douglas E. Combs,PERSON,12295
+16-year-old,DATE,12295
+East 19th Street,GPE,12295
+Vancouver,GPE,12295
+three,CARDINAL,12295
+two,CARDINAL,12295
+16-year-olds,DATE,12295
+Vancouver,GPE,12295
+Vancouver,GPE,12295
+Kim Kapp,PERSON,12295
+second,ORDINAL,12295
+16-year-old,DATE,12295
+the Clark County Juvenile Detention Center,FAC,12295
+Combs,ORG,12295
+Pop Culture,WORK_OF_ART,12295
+Joey LeBard,PERSON,12295
+Combs,GPE,12295
+three,CARDINAL,12295
+LeBard,ORG,12295
+Katie Cutright,PERSON,12295
+16-year-old,DATE,12295
+Cutright,ORG,12295
+Cutright,ORG,12295
+Cutright,WORK_OF_ART,12295
+Cutright,PERSON,12295
+next week,DATE,12295
+Cutright,WORK_OF_ART,12295
+LeBard,PERSON,12295
+LeBard,ORG,12295
+Combs,ORG,12295
+Pop Culture,WORK_OF_ART,12295
+LeBard,ORG,12295
+LeBard,ORG,12295
+LeBard,PERSON,12295
+three,CARDINAL,12295
+Jan. 25,DATE,12295
+1 a.m.,TIME,12295
+1100,DATE,12295
+Northeast Minnehaha Street,LOC,12295
+5:30 a.m.,TIME,12295
+armed,PERSON,12295
+7-11,QUANTITY,12295
+4500,CARDINAL,12295
+Northeast St. Johns Boulevard,ORG,12295
+6:30 p.m.,TIME,12295
+Shell,ORG,12295
+Andresen,GPE,12295
+Fourth Plain,LOC,12295
+The Clark County's,GPE,12295
+Sheriff Office,ORG,12295
+Vancouver,GPE,12295
+Kapp,ORG,12295
+Kapp,PERSON,12295
+early next week,DATE,12295
+Camas,PERSON,12295
+"Nicole Dungca
+
+Follow",PERSON,12295

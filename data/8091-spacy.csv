@@ -1,0 +1,22 @@
+text,label,fe_id
+Des Moines,GPE,8091
+West Des Moines,GPE,8091
+Tuesday,DATE,8091
+night,TIME,8091
+at least three,CARDINAL,8091
+West Des Moines,GPE,8091
+Waukee,GPE,8091
+the past several months,DATE,8091
+Jeff Miller,PERSON,8091
+Glen Oaks,GPE,8091
+Miller,PERSON,8091
+Miller,PERSON,8091
+December,DATE,8091
+Miller,PERSON,8091
+West Des Moines,GPE,8091
+one,CARDINAL,8091
+Miller,PERSON,8091
+six,CARDINAL,8091
+eight,CARDINAL,8091
+three,CARDINAL,8091
+The Iowa Division of Criminal Investigation,ORG,8091

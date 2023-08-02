@@ -1,0 +1,30 @@
+text,label,fe_id
+Chicago,GPE,6287
+29-year-old,DATE,6287
+Thursday,DATE,6287
+night,TIME,6287
+Hubert Burgs,PERSON,6287
+Cook County,GPE,6287
+Gang,PERSON,6287
+114th Street,FAC,6287
+Stewart Avenue,PERSON,6287
+two,CARDINAL,6287
+Pat Camden,PERSON,6287
+Chicago Police Department,ORG,6287
+Burgs,PERSON,6287
+Camden,PERSON,6287
+two,CARDINAL,6287
+Burgs,ORG,6287
+Camden,GPE,6287
+Camden,GPE,6287
+second,ORDINAL,6287
+two,CARDINAL,6287
+Burgs,PERSON,6287
+40-caliber,QUANTITY,6287
+Camden,PERSON,6287
+Burgs,ORG,6287
+Camden,GPE,6287
+Cook County,GPE,6287
+Riverdale,PRODUCT,6287
+Camden,GPE,6287
+The Office of Professional Standards,ORG,6287

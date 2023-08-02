@@ -1,0 +1,50 @@
+text,label,fe_id
+La Quinta,FAC,29567
+Friday,DATE,29567
+afternoon,TIME,29567
+the Riverside County Sheriff's Department,ORG,29567
+dozens,CARDINAL,29567
+the Indio Police Department,ORG,29567
+the California Highway Patrol,ORG,29567
+Friday,DATE,29567
+Riverside County,GPE,29567
+Avenue 48,FAC,29567
+Jefferson Street,FAC,29567
+5 p.m.,TIME,29567
+Friday,DATE,29567
+second,ORDINAL,29567
+Riverside County,GPE,29567
+this week,DATE,29567
+this year,DATE,29567
+first,ORDINAL,29567
+Tuesday,DATE,29567
+26000,CARDINAL,29567
+Steinhoff Avenue,FAC,29567
+Homeland,GPE,29567
+The Desert Sun,ORG,29567
+Perris,GPE,29567
+first,ORDINAL,29567
+about 1:30 p.m.,TIME,29567
+Friday,DATE,29567
+the Indio Police Department,ORG,29567
+Jefferson,PERSON,29567
+48,CARDINAL,29567
+the Riverside County Sheriff's Dept,FAC,29567
+La Quinta,GPE,29567
+about 20,CARDINAL,29567
+Indio,NORP,29567
+CHP,ORG,29567
+Ave,PERSON,29567
+48,CARDINAL,29567
+Jefferson,GPE,29567
+Jefferson,PERSON,29567
+about 10 feet,QUANTITY,29567
+Northbound,ORG,29567
+Jefferson,PERSON,29567
+Avenue 49,FAC,29567
+Madison Street,FAC,29567
+Indio,GPE,29567
+Southbound,CARDINAL,29567
+Jefferson,GPE,29567
+Avenue 50,FAC,29567
+48,CARDINAL,29567

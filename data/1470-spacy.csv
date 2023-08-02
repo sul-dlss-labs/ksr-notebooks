@@ -1,0 +1,30 @@
+text,label,fe_id
+Chicago,GPE,1470
+Friday,DATE,1470
+30-year-old,DATE,1470
+Southwest Side,NORP,1470
+Thursday,DATE,1470
+night,TIME,1470
+Robert Winters,PERSON,1470
+6600,CARDINAL,1470
+South Knox Avenue,LOC,1470
+50-year-old,DATE,1470
+about 10:15 p.m.,TIME,1470
+Garfield Ridge,PERSON,1470
+Winters,ORG,1470
+Pat Camden,PERSON,1470
+Winters,LOC,1470
+Camden,GPE,1470
+Winters,PERSON,1470
+Camden,PERSON,1470
+Camden,PERSON,1470
+Winters,ORG,1470
+.357,CARDINAL,1470
+Winters,ORG,1470
+Cook County,GPE,1470
+Winters,ORG,1470
+1975,DATE,1470
+Gary Szparkowski,PERSON,1470
+May 1975,DATE,1470
+second,ORDINAL,1470
+Winters,ORG,1470

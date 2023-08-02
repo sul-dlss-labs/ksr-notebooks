@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,13961
+Alabama,GPE,13961
+Alaska,GPE,13961
+Arizona,GPE,13961
+Arkansas,GPE,13961
+California,GPE,13961
+Colorado,GPE,13961
+Connecticut,GPE,13961
+Delaware,GPE,13961
+Florida,GPE,13961
+Georgia,GPE,13961
+Hawaii,GPE,13961
+Idaho,GPE,13961
+Indiana,GPE,13961
+Iowa,GPE,13961
+Kansas,GPE,13961
+Kentucky,GPE,13961
+Louisiana,GPE,13961
+Maine,GPE,13961
+Maryland,GPE,13961
+Massachusetts,GPE,13961
+Michigan,GPE,13961
+Minnesota,GPE,13961
+Mississippi,GPE,13961
+Missouri,GPE,13961
+Montana,GPE,13961
+Nebraska,GPE,13961
+Nevada,GPE,13961
+New Hampshire,GPE,13961
+New Jersey,GPE,13961
+Ohio,GPE,13961
+Oklahoma,GPE,13961
+Oregon,GPE,13961
+Pennsylvania,GPE,13961
+Rhode Island,GPE,13961
+Tennessee,GPE,13961
+Texas,GPE,13961
+Utah,GPE,13961
+Vermont,GPE,13961
+Virginia,GPE,13961
+Washington,GPE,13961
+Washington,GPE,13961
+D.C.,GPE,13961
+Wisconsin,GPE,13961
+Wyoming,GPE,13961
+US,GPE,13961
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,13961
+Marshall Islands American Samoa Federated States,ORG,13961
+Micronesia Guam,FAC,13961
+Alberta,GPE,13961
+Canada,GPE,13961
+British Columbia,GPE,13961
+Canada Manitoba,GPE,13961
+Canada,GPE,13961
+New Brunswick,GPE,13961
+Canada Newfoundland,PERSON,13961
+Canada,GPE,13961
+Canada,GPE,13961
+Canada Ontario,GPE,13961
+Canada,GPE,13961
+Edward Island,GPE,13961
+Canada Quebec,GPE,13961
+Canada,GPE,13961
+Saskatchewan,GPE,13961
+Canada Yukon Territory,ORG,13961
+Canada,GPE,13961
+Zip Code,PERSON,13961

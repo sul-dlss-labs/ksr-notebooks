@@ -1,0 +1,117 @@
+P. v. Lee
+
+P. v. Lee
+
+Filed 4/17/09 P. v. Lee CA4/1
+
+NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+COURT OF APPEAL, FOURTH APPELLATE DISTRICT
+
+DIVISION ONE
+
+STATE OF CALIFORNIA
+
+
+
+
+
+THE PEOPLE,
+
+
+
+Plaintiff and Respondent,
+
+
+
+v.
+
+
+
+TOMMY LEE,
+
+
+
+Defendant and Appellant.
+
+
+
+D052388
+
+
+
+(Super. Ct. No. SCD150605)
+
+APPEAL from a judgment of the Superior Court of San Diego County, John S. Einhorn, Judge. Affirmed.
+
+BACKGROUND
+
+On January 30, 2000, San Diego County Sheriff's Deputies pursued appellant, who was driving a stolen vehicle. As they followed, appellant's vehicle reached speeds of 70 to 90 miles per hour and he drove through red lights. Approximately seven miles from where the chase started, appellant's vehicle ran a red light and crashed into a silver car. A passenger in the silver car, Leonila Guerrero, was ejected and was crushed by her vehicle when it rolled onto her. Guerrero died from her injuries. Appellant and the passenger in his car were arrested.
+
+Following his arrest, appellant admitted being the driver. He also admitted he was fleeing from the deputies because he knew the car he was driving was stolen and he did not want to be caught. In a pretrial statement, appellant's passenger Leonard Loehr said he and appellant ingested methamphetamine before driving. He said appellant was the person who decided to flee from the deputies and it was appellant who made the plans to evade the officers. Appellant and Loehr were aware the light was red before going through the intersection, immediately before the crash.
+
+In May 2000 appellant was convicted of second degree murder in violation of Penal Code[1] section 187, subdivision (a). On December 1, 2005, that conviction was reversed, pursuant to a petition for habeas corpus relief. His convictions for evading an officer, causing great bodily injury and unlawfully driving a vehicle were allowed to stand. The reversal was based on People v. Howard (2005) 34 Cal.4th 1129, which held a violation of Vehicle Code section 2800.2, fleeing from an officer with reckless disregard for others, is not an inherently dangerous felony for purposes of the second degree felony-murder rule.
+
+On January 22, 2007, a jury convicted appellant of second degree murder. Appellant was sentenced to state prison for a term of 21 years 4 months to life computed as follows: 15 years to life for second degree murder, plus 16 months for unlawfully driving a vehicle in violation of Vehicle Code section 10851and section 667, subdivisions (b) through (i). Other convictions and special findings were stayed pursuant to section 654.
+
+This court allowed appellant to file a constructive notice of appeal on February 6, 2008.
+
+DISCUSSION
+
+The sole question presented is whether, in appellant's retrial, the court erred in declaring Loehr unavailable and allowing his testimony from the first trial to be read to the jury. We find no error.
+
+At appellant's first trial, Loehr testified that he was then serving a prison sentence for auto theft, and admitted he received immunity in exchange for testifying against appellant. He testified further that he and appellant stole vehicles and drove around until they were spotted by deputies. Appellant, the driver, sped away when the deputies tried to stop them. The prosecution subpoenaed Loehr to appear at the retrial and made an offer of proof to the trial court. The prosecutor expected Loehr to admit participating in theft of the vehicle that crashed into the silver car in which Guerrero was riding.
+
+At the time of appellant's second trial, Loehr was serving a prison sentence in Arizona. Loehr indicated he would refuse to testify for fear he would be labeled a "snitch." He feared fellow prisoners might retaliate against him by stabbing him on his return to the Arizona prison.
+
+In light of the representation he would not testify at the second trial, the trial court appointed counsel to represent Loehr. When informed Loehr still would not testify, the trial court tentatively ruled Loehr an unavailable witness under Evidence Code section 240.
+
+The trial court spoke with Loehr outside the jury's presence. With counsel for appellant present, the trial court informed Loehr that he could be held in contempt of court for refusing to testify. Loehr responded that he understood, but still refused to answer any question asked of him. The court held he was in contempt of its order that he testify, and further ordered that he be held by the sheriff. The court ruled Loehr was unavailable as a witness under Evidence Code section 240 and further, that his testimony from the first trial could be introduced by the prosecution.
+
+Again, outside the jury's presence, Loehr was brought to the courtroom during the prosecution's case-in-chief. He had not changed his mind about testifying. The trial court found he was unavailable as a witness.
+
+Before Loehr's prior testimony was read to the jury, the court explained to the jury that Loehr was unavailable as a witness and it was to evaluate his testimony as read, the same as any other witness. The testimony was then read to the jury.
+
+The jury returned its verdict and the court then dismissed Loehr's contempt citation and ordered him released to the district attorney's office so he could be transported back to prison in Arizona.
+
+Appellant argues the court committed reversible error when it found Loehr to be an unavailable witness, and failed to take reasonable steps to compel his testimony.
+
+The availability or unavailability of a witness is a preliminary fact to be established by the proponent of the evidence and determined to the satisfaction of the trial judge. On appeal, we independently review the issue of a witness's unavailability. (People v. Cromer (2001) 24 Cal.4th 889, 901, fn. 3.)
+
+The People argue that appellant forfeited raising the issues he argues because he failed to object below. Appellant argues the procedural posture of the case required the People to make the initial factual showing Loehr's fears were correct. He also responds that the rationale of bringing the matter to the court's attention, so it can be corrected, does not apply because the matter was fully litigated. He argues this court should, in any event, consider the matter in order to forestall any future ineffective assistance of counsel charge, and because the matter is "close and difficult."
+
+We conclude the issue regarding the basis of Loehr's fears could and should have been raised at trial. On January 10, 2007, before jury selection, Loehr's unwillingness to testify was known to the court, appellant and all counsel. Counsel was appointed for him. On January 11, 2007, during jury selection, Loehr was produced and the court spoke with him in the presence of his appointed counsel, appellant and appellant's counsel and the prosecutor. Loehr made clear he would answer no question asked of him. On January 16, 2007, Loehr was again called to the stand outside the jury's presence, during the prosecution's case-in-chief. The court asked if he reconsidered about testifying. He had not. At each stage, defense counsel was present and could have requested further factual inquiry. Nothing in the procedural posture of the case prevented defense counsel from requesting an additional factual foundation for Loehr's fears. The matter was not "fully litigated" such that an objection would have been useless.
+
+In any event, we conclude the record and case law support the trial judge's finding Loehr was unavailable due to his fear of inmate retaliation. As the parties recognize, the leading case is People v. Rojas (1975) 15 Cal.3d 540. There, the court held a witness's refusal to testify for fear of being labeled a snitch and having retaliatory acts performed created a mental condition that provided a sufficient basis for finding the witness unavailable pursuant to Evidence Code section 240. As the court in Rojas noted: "No [] [sufficient] reason appears to us why the former testimony of a witness who is present in court but refuses to testify because he is in fear of his safety or that of his family should not be used when that of a witness, who claims privilege or who is absent from the hearing and his attendance cannot be compelled or procured, can be used." (People v. Rojas, supra, 15 Cal.3d at p. 551, fn. omitted.)
+
+The result here is the same. Loehr testified and was cross-examined in the first trial. He was in prison in another state facing a lengthy prison term. He told the court and counsel he feared for his safety in his particular prison environment, something he would be personally able to understand and express. There was no further fact-specific testimony pertaining to individual threats or actions by others. As appellant notes, there are cases that point out such existing facts. These cases however do not set forth specificity requirements. Indeed, People v. Quaintance (1978) 86 Cal.App.3d 594, holds a sufficient factual basis for a witness's fear of testifying if the witness who is incarcerated can express that fear based on observations within his surroundings. (Id. at p. 600.) That is what occurred here. As in Quaintance, the trial court was entitled to judge the credibility of the witness's fear. Again, we note that defense counsel could have, but did not, inquire into additional facts.
+
+Nor do we agree with appellant that the trial court should have, sua sponte, taken steps to compel Loehr to testify. He suggests the court could have held Loehr on a misdemeanor contempt charge and continued the trial until Loehr agreed to testify. However, as appellant acknowledges, Loehr was already in custody. It is unlikely the threat of custody would have had much effect. To have requested a delay under such circumstances, as trial was progressing, would have been unnecessarily disruptive and would have required a time waiver from appellant. There is no suggestion defense counsel wanted a delay of trial, and the trial court could not, on its own, compel such a result.
+
+Appellant offers a brief argument that reading Loehr's prior testimony violated his right of confrontation under Crawford v. Washington (2004) 541 U.S. 36 [124 S.Ct. 1354]. We reject his claim, which was not raised at trial. Loehr testified at the first trial and appellant had the opportunity to cross-examine him then. The rationale underlying Crawford is not applicable here. (People v. Harris (2005) 37 Cal.4th 310, 332-333.)
+
+We conclude the trial court acted within its discretion when it ruled Loehr was an unavailable witness.
+
+Moreover, while it is undisputed that confrontation of witnesses is a fundamental constitutional concept, the testimony of the officers who observed appellant's driving and saw the accident established the prosecution's case against him. Even assuming the trial court erred in failing to take additional steps to compel Loehr's testimony, the error was harmless under either the Chapman v. State of California (1967) 386 U.S. 18 [87 S.Ct. 824] or People v. Watson (1956) 46 Cal.2d 818 standards. Sheriff's deputies who engaged in the approximately six-mile chase watched as appellant ignored traffic laws and drove at speeds reaching 70 to 90 miles per hour, through red lights, and without regard for the safety of others. They saw his car smash into the victim's car at approximately 50 miles an hour. An accident reconstruction expert corroborated the officers' testimony. Appellant admitted driving. He admitted attempting to evade the police. These facts substantiate appellant acted with malice. Appellant cannot show he would have received a more favorable verdict if Loehr's testimony was not read to the jury. (People v. Watson, supra, 46 Cal.2d at p. 836.) Moreover, the facts support the jury's conclusion that, beyond a reasonable doubt, appellant acted with implied malice. (Chapman v. State of California, supra, 386 U.S. at p. 24.)
+
+DISPOSITION
+
+The judgment is affirmed.
+
+BENKE, Acting P. J.
+
+WE CONCUR:
+
+O'ROURKE, J.
+
+AARON, J.
+
+Publication courtesy of San Diego pro bono legal advice.
+
+Analysis and review provided by Poway Property line attorney.
+
+San Diego Case Information provided by www.fearnotlaw.com
+
+[1] All further statutory references are to the unless otherwise specified.

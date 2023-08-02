@@ -1,0 +1,42 @@
+text,label,fe_id
+Kenny Clinton Walker,PERSON,14151
+23-year-old,DATE,14151
+Los Angeles,GPE,14151
+March 6,DATE,14151
+9600,CARDINAL,14151
+South San Pedro Street,GPE,14151
+Broadway-Manchester,FAC,14151
+the Los Angeles County,ORG,14151
+5 p.m.,TIME,14151
+the Los Angeles Police Department’s Southeast Division,ORG,14151
+East 97th,LOC,14151
+South San Pedro,LOC,14151
+two,CARDINAL,14151
+one,CARDINAL,14151
+Douglas Henry Wooley,PERSON,14151
+27-year-old,DATE,14151
+97th,ORDINAL,14151
+South Main,LOC,14151
+that morning,TIME,14151
+Wooley,PERSON,14151
+9600,CARDINAL,14151
+San Pedro Street,GPE,14151
+Det,PERSON,14151
+Frank Alvelais,PERSON,14151
+Force Investigation Division,ORG,14151
+Alvelais,GPE,14151
+one,CARDINAL,14151
+Walker,PERSON,14151
+6:25 p.m.,TIME,14151
+LAPD,ORG,14151
+Alvelais,GPE,14151
+Walker,PERSON,14151
+Jonathan Vander Lee,PERSON,14151
+Alvelais,GPE,14151
+Vander Lee,PERSON,14151
+the Force Investigation Division,ORG,14151
+213,CARDINAL,14151
+486-5230,CARDINAL,14151
+Crime Stoppers,PERSON,14151
+222,CARDINAL,14151
+James Queally,PERSON,14151

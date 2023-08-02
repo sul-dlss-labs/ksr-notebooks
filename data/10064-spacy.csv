@@ -1,0 +1,19 @@
+text,label,fe_id
+Frank Johnson,PERSON,10064
+59-year-old,DATE,10064
+"Wednesday, April 13",DATE,10064
+2400,CARDINAL,10064
+Ocean Park Boulevard,FAC,10064
+Santa Monica,GPE,10064
+Los Angeles County,GPE,10064
+6.45 p.m.,TIME,10064
+Jay Trisler,PERSON,10064
+Trisler,ORG,10064
+Johnson,PERSON,10064
+Trisler,ORG,10064
+Johnson,PERSON,10064
+Two,CARDINAL,10064
+four,CARDINAL,10064
+Johnson,PERSON,10064
+Trisler,ORG,10064
+Alexandra Zavis,PERSON,10064

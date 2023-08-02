@@ -1,0 +1,36 @@
+text,label,fe_id
+Wednesday,DATE,8080
+BB,GPE,8080
+Chicago,GPE,8080
+Thursday,DATE,8080
+Ernesto Garcia,PERSON,8080
+34,DATE,8080
+BB,GPE,8080
+4.5 mm,QUANTITY,8080
+6600,CARDINAL,8080
+West Montrose Avenue,PERSON,8080
+Harwood Heights,GPE,8080
+Roderick Drew,PERSON,8080
+Garcia,PERSON,8080
+Drew,PERSON,8080
+Tribune,ORG,8080
+Thursday,DATE,8080
+Garcia,PERSON,8080
+eight,CARDINAL,8080
+Garcia,PERSON,8080
+Garcia,PERSON,8080
+a Grim Reaper,PRODUCT,8080
+Drew,PERSON,8080
+Garcia,PERSON,8080
+25,CARDINAL,8080
+North,LOC,8080
+Wednesday,DATE,8080
+recent days,DATE,8080
+dozens,CARDINAL,8080
+Chicago,GPE,8080
+the Violent Crimes Task Force,ORG,8080
+the Northwest Side,ORG,8080
+Garcia,PERSON,8080
+second,ORDINAL,8080
+Thursday,DATE,8080
+evening,TIME,8080

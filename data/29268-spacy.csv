@@ -1,0 +1,34 @@
+text,label,fe_id
+28-year-old,DATE,29268
+Mark Brewer,PERSON,29268
+"St. Louis
+
+Example",GPE,29268
+St. Louis,GPE,29268
+south city,GPE,29268
+Sunday morning,TIME,29268
+28-year-old,DATE,29268
+Mark Brewer,PERSON,29268
+St. Louis,GPE,29268
+6 a.m.,TIME,29268
+4400,CARDINAL,29268
+Gravois Avenue,FAC,29268
+Bevo Mill,PERSON,29268
+Monday,DATE,29268
+the St. Louis Metropolitan Police Department,ORG,29268
+two,CARDINAL,29268
+first,ORDINAL,29268
+Brewer,PRODUCT,29268
+St. Louis Metropolitan,ORG,29268
+John Hayden,PERSON,29268
+Sunday,DATE,29268
+Brewer,LOC,29268
+second,ORDINAL,29268
+one,CARDINAL,29268
+Hayden,PERSON,29268
+Monday,DATE,29268
+morning,TIME,29268
+41 years old,DATE,29268
+just under 13 years,DATE,29268
+Hayden,PERSON,29268
+Force Investigation Unit,ORG,29268

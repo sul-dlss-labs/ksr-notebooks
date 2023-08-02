@@ -1,0 +1,26 @@
+text,label,fe_id
+20-year-old,DATE,30481
+one,CARDINAL,30481
+Texas Tech,ORG,30481
+Lubbock,NORP,30481
+Isaiah Green,PERSON,30481
+early Wednesday,DATE,30481
+University Medical Center,ORG,30481
+about 2 a.m.,TIME,30481
+Wednesday,DATE,30481
+4800,CARDINAL,30481
+4th Street,FAC,30481
+Lubbock,GPE,30481
+LPD,ORG,30481
+the Texas Tech Police Department,ORG,30481
+Saturn,PRODUCT,30481
+2 a.m.,TIME,30481
+4th,ORDINAL,30481
+Lubbock,GPE,30481
+LPD,ORG,30481
+4800,CARDINAL,30481
+4th,ORDINAL,30481
+Green,ORG,30481
+Green,PERSON,30481
+4th Street,FAC,30481
+Toledo Avenue,FAC,30481

@@ -1,0 +1,12 @@
+text,label,fe_id
+FOX,ORG,13369
+the New Orleans Police Dept,ORG,13369
+Friday night,TIME,13369
+600,CARDINAL,13369
+City Park Avenue,FAC,13369
+27-year-old,DATE,13369
+one,CARDINAL,13369
+third,ORDINAL,13369
+the Public Integrity Bureau,ORG,13369
+the Fatality Division,ORG,13369
+Saturday,DATE,13369

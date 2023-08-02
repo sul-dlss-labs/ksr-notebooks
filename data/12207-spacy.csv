@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,12207
+Alabama,GPE,12207
+Alaska,GPE,12207
+Arizona,GPE,12207
+Arkansas,GPE,12207
+California,GPE,12207
+Colorado,GPE,12207
+Connecticut,GPE,12207
+Delaware,GPE,12207
+Florida,GPE,12207
+Georgia,GPE,12207
+Hawaii,GPE,12207
+Idaho,GPE,12207
+Indiana,GPE,12207
+Iowa,GPE,12207
+Kansas,GPE,12207
+Kentucky,GPE,12207
+Louisiana,GPE,12207
+Maine,GPE,12207
+Maryland,GPE,12207
+Massachusetts,GPE,12207
+Michigan,GPE,12207
+Minnesota,GPE,12207
+Mississippi,GPE,12207
+Missouri,GPE,12207
+Montana,GPE,12207
+Nebraska,GPE,12207
+Nevada,GPE,12207
+New Hampshire,GPE,12207
+New Jersey,GPE,12207
+Ohio,GPE,12207
+Oklahoma,GPE,12207
+Oregon,GPE,12207
+Pennsylvania,GPE,12207
+Rhode Island,GPE,12207
+Tennessee,GPE,12207
+Texas,GPE,12207
+Utah,GPE,12207
+Vermont,GPE,12207
+Virginia,GPE,12207
+Washington,GPE,12207
+Washington,GPE,12207
+D.C.,GPE,12207
+Wisconsin,GPE,12207
+Wyoming,GPE,12207
+US,GPE,12207
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,12207
+Marshall Islands American Samoa Federated States,ORG,12207
+Micronesia Guam,FAC,12207
+Alberta,GPE,12207
+Canada,GPE,12207
+British Columbia,GPE,12207
+Canada Manitoba,GPE,12207
+Canada,GPE,12207
+New Brunswick,GPE,12207
+Canada Newfoundland,PERSON,12207
+Canada,GPE,12207
+Canada,GPE,12207
+Canada Ontario,GPE,12207
+Canada,GPE,12207
+Edward Island,GPE,12207
+Canada Quebec,GPE,12207
+Canada,GPE,12207
+Saskatchewan,GPE,12207
+Canada Yukon Territory,ORG,12207
+Canada,GPE,12207
+Zip Code,PERSON,12207

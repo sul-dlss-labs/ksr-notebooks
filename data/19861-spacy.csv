@@ -1,0 +1,17 @@
+text,label,fe_id
+Monday,DATE,19861
+At least 13,CARDINAL,19861
+William Henkle,PERSON,19861
+Henkle,PERSON,19861
+40,DATE,19861
+Trooper Michael Hartzel,ORG,19861
+Henkle,PERSON,19861
+911,CARDINAL,19861
+early Monday,DATE,19861
+Kenneth Hill,PERSON,19861
+Wyoming,GPE,19861
+About 10,CARDINAL,19861
+Henkle,ORG,19861
+Hill,PERSON,19861
+Henkle,PERSON,19861
+Hartzel,ORG,19861

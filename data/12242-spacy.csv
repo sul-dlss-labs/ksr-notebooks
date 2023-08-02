@@ -1,0 +1,37 @@
+text,label,fe_id
+Fact,ORG,12242
+two cents,MONEY,12242
+Houston,GPE,12242
+Last week,DATE,12242
+14-year-olds,DATE,12242
+Skyla Nuncio,ORG,12242
+Justin Henry,PERSON,12242
+Nuncio,PERSON,12242
+Monica Vickous,PERSON,12242
+January 10,DATE,12242
+Henry,GPE,12242
+Henry,PERSON,12242
+Vickous,ORG,12242
+Vickous,ORG,12242
+Just 15 minutes,TIME,12242
+Henry,GPE,12242
+Vickous,ORG,12242
+Nuncio,PERSON,12242
+Nuncio,PERSON,12242
+Henry,PERSON,12242
+"Monday, January 14",DATE,12242
+one,CARDINAL,12242
+Henry,PERSON,12242
+Nuncio,PERSON,12242
+first,ORDINAL,12242
+Highway 225,FAC,12242
+Impala,GPE,12242
+Nuncio,PERSON,12242
+Henry,PERSON,12242
+Nuncio,PERSON,12242
+9th,ORDINAL,12242
+Cy-Fair High School,ORG,12242
+Henry,PERSON,12242
+8th,ORDINAL,12242
+Campbell Middle School,ORG,12242
+Latino Daily News,ORG,12242

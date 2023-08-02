@@ -1,0 +1,38 @@
+text,label,fe_id
+$1 million,MONEY,6
+19-year-old,DATE,6
+last January,DATE,6
+Kyle Dillon,PERSON,6
+Jason Bargstadt,PERSON,6
+Jan. 6,DATE,6
+York,GPE,6
+O'Neill,ORG,6
+Dillon,ORG,6
+first,ORDINAL,6
+Bargstadt,PERSON,6
+O'Neill,ORG,6
+Dillon,PERSON,6
+O'Neill,ORG,6
+several hours,TIME,6
+York,ORG,6
+O'Neill,ORG,6
+Dillon,ORG,6
+York City,GPE,6
+Charles Campbell,PERSON,6
+Dillon,ORG,6
+Willa M. Dillon,PERSON,6
+February,DATE,6
+Bargstadt,PERSON,6
+Dillon,PRODUCT,6
+Sean Brennan,PERSON,6
+Dillon,ORG,6
+Bardstadt,ORG,6
+Dillon,PRODUCT,6
+Bargstadt,PERSON,6
+Brennan,PERSON,6
+three,CARDINAL,6
+two,CARDINAL,6
+Dillon,PRODUCT,6
+Dillon,ORG,6
+six months,DATE,6
+The Associated Press,ORG,6

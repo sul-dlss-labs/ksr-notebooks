@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9741
+Alabama,GPE,9741
+Alaska,GPE,9741
+Arizona,GPE,9741
+Arkansas,GPE,9741
+California,GPE,9741
+Colorado,GPE,9741
+Connecticut,GPE,9741
+Delaware,GPE,9741
+Florida,GPE,9741
+Georgia,GPE,9741
+Hawaii,GPE,9741
+Idaho,GPE,9741
+Indiana,GPE,9741
+Iowa,GPE,9741
+Kansas,GPE,9741
+Kentucky,GPE,9741
+Louisiana,GPE,9741
+Maine,GPE,9741
+Maryland,GPE,9741
+Massachusetts,GPE,9741
+Michigan,GPE,9741
+Minnesota,GPE,9741
+Mississippi,GPE,9741
+Missouri,GPE,9741
+Montana,GPE,9741
+Nebraska,GPE,9741
+Nevada,GPE,9741
+New Hampshire,GPE,9741
+New Jersey,GPE,9741
+Ohio,GPE,9741
+Oklahoma,GPE,9741
+Oregon,GPE,9741
+Pennsylvania,GPE,9741
+Rhode Island,GPE,9741
+Tennessee,GPE,9741
+Texas,GPE,9741
+Utah,GPE,9741
+Vermont,GPE,9741
+Virginia,GPE,9741
+Washington,GPE,9741
+Washington,GPE,9741
+D.C.,GPE,9741
+Wisconsin,GPE,9741
+Wyoming,GPE,9741
+US,GPE,9741
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9741
+Marshall Islands American Samoa Federated States,ORG,9741
+Micronesia Guam,FAC,9741
+Alberta,GPE,9741
+Canada,GPE,9741
+British Columbia,GPE,9741
+Canada Manitoba,GPE,9741
+Canada,GPE,9741
+New Brunswick,GPE,9741
+Canada Newfoundland,PERSON,9741
+Canada,GPE,9741
+Canada,GPE,9741
+Canada Ontario,GPE,9741
+Canada,GPE,9741
+Edward Island,GPE,9741
+Canada Quebec,GPE,9741
+Canada,GPE,9741
+Saskatchewan,GPE,9741
+Canada Yukon Territory,ORG,9741
+Canada,GPE,9741
+Zip Code,PERSON,9741

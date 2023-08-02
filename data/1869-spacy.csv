@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,1869
+Alabama,GPE,1869
+Alaska,GPE,1869
+Arizona,GPE,1869
+Arkansas,GPE,1869
+California,GPE,1869
+Colorado,GPE,1869
+Connecticut,GPE,1869
+Delaware,GPE,1869
+Florida,GPE,1869
+Georgia,GPE,1869
+Hawaii,GPE,1869
+Idaho,GPE,1869
+Indiana,GPE,1869
+Iowa,GPE,1869
+Kansas,GPE,1869
+Kentucky,GPE,1869
+Louisiana,GPE,1869
+Maine,GPE,1869
+Maryland,GPE,1869
+Massachusetts,GPE,1869
+Michigan,GPE,1869
+Minnesota,GPE,1869
+Mississippi,GPE,1869
+Missouri,GPE,1869
+Montana,GPE,1869
+Nebraska,GPE,1869
+Nevada,GPE,1869
+New Hampshire,GPE,1869
+New Jersey,GPE,1869
+Ohio,GPE,1869
+Oklahoma,GPE,1869
+Oregon,GPE,1869
+Pennsylvania,GPE,1869
+Rhode Island,GPE,1869
+Tennessee,GPE,1869
+Texas,GPE,1869
+Utah,GPE,1869
+Vermont,GPE,1869
+Virginia,GPE,1869
+Washington,GPE,1869
+Washington,GPE,1869
+D.C.,GPE,1869
+Wisconsin,GPE,1869
+Wyoming,GPE,1869
+US,GPE,1869
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,1869
+Marshall Islands American Samoa Federated States,ORG,1869
+Micronesia Guam,FAC,1869
+Alberta,GPE,1869
+Canada,GPE,1869
+British Columbia,GPE,1869
+Canada Manitoba,GPE,1869
+Canada,GPE,1869
+New Brunswick,GPE,1869
+Canada Newfoundland,PERSON,1869
+Canada,GPE,1869
+Canada,GPE,1869
+Canada Ontario,GPE,1869
+Canada,GPE,1869
+Edward Island,GPE,1869
+Canada Quebec,GPE,1869
+Canada,GPE,1869
+Saskatchewan,GPE,1869
+Canada Yukon Territory,ORG,1869
+Canada,GPE,1869
+Zip Code,PERSON,1869

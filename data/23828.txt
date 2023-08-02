@@ -1,0 +1,67 @@
+Police fatally shot an armed man who came into a downtown Orlando Wahlburgers restaurant Wednesday morning, the Orlando Police Department said.
+
+Officers identified him as Qawi A. Muhammad, 48. A person in the Wahlburgers had a domestic violence injunction against him, Orlando Police Deputy Chief Eric Smith said.
+
+“To have a person downtown armed with a gun is a very dangerous situation,” he said.
+
+Muhammad came into Wahlburgers at 200 S. Orange Ave. just after the restaurant opened at 11 a.m., Smith said. Patrons called 911, and employees called police as they followed Muhammad out of the restaurant. Several officers surrounded him at Hughey Avenue and told him to drop his weapon.
+
+He did not, and officers fired at him, he said.
+
+Muhammad was taken to Orlando Regional Medical Center, where he died. Police declined to say how he knew the person who had an injunction against him. No other injuries were reported.
+
+“This is an example of the community reaching out to law enforcement and helping the community,” Smith said. “We were able to keep the community safe.”
+
+He said the man showed he had a handgun at the restaurant, but did not reveal any other details about his interaction with employees at the store. It is unclear if the man fired any shots before being struck by police.
+
+Investigators cordoned off the Wahlburgers restaurant as well as a block of Church Street just north of the Amway Center, between Division and Hughey avenues. The roads were reopened close to 5:30 p.m., OPD said.
+
+The shooting is now under investigation by the Florida Department of Law Enforcement, Smith said, and no other details were immediately released.
+
+Kimberly Simeone, director of Marketing and Communications for Wahlburgers, said about 10 or 15 employees were inside the restaurant close to the time of the incident, when the man came inside the restaurant “potentially” looking for an employee.
+
+“Obviously, it’s terrifying. We are so proud of our staff, they reacted immediately. They gave details, they gave specifics, location,” she said, and added that some employees scattered in the store while others called authorities.
+
+Simeone clarified that during the brief incident, no guests where inside the restaurant and shots were never fired in the building. Wahlburgers was closed for the rest of the day and the company provided counselors for employees who might need them, she added.
+
+Although employees at the restaurant are not trained to respond to encounters involving weapons, she said that in light of the recent shooting in a South Florida school, the restaurant could consider additional preparation for such events.
+
+“We will definitely have more discussions of potential training for situations like this.” Simeone said.
+
+Florida Department of Corrections records show Muhammad, a registered sex offender, has been in and out of prison since the mid-1980s. He’s on the sex offender list for sexual battery of a person physically unable to resist and kidnapping a minor for ransom, along with a false imprisonment charge, records show.
+
+He’s listed as a sex offender absconder, according to records.
+
+glotan@orlandosentinel.com or 407-420-5774 ; bpadro@orlandosentinel.com or 407-420-5735
+
+Staff writer David Harris contributed to this report.
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #dd1300;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Central Florida Crime Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

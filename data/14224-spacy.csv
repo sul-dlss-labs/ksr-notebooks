@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,14224
+Alabama,GPE,14224
+Alaska,GPE,14224
+Arizona,GPE,14224
+Arkansas,GPE,14224
+California,GPE,14224
+Colorado,GPE,14224
+Connecticut,GPE,14224
+Delaware,GPE,14224
+Florida,GPE,14224
+Georgia,GPE,14224
+Hawaii,GPE,14224
+Idaho,GPE,14224
+Indiana,GPE,14224
+Iowa,GPE,14224
+Kansas,GPE,14224
+Kentucky,GPE,14224
+Louisiana,GPE,14224
+Maine,GPE,14224
+Maryland,GPE,14224
+Massachusetts,GPE,14224
+Michigan,GPE,14224
+Minnesota,GPE,14224
+Mississippi,GPE,14224
+Missouri,GPE,14224
+Montana,GPE,14224
+Nebraska,GPE,14224
+Nevada,GPE,14224
+New Hampshire,GPE,14224
+New Jersey,GPE,14224
+Ohio,GPE,14224
+Oklahoma,GPE,14224
+Oregon,GPE,14224
+Pennsylvania,GPE,14224
+Rhode Island,GPE,14224
+Tennessee,GPE,14224
+Texas,GPE,14224
+Utah,GPE,14224
+Vermont,GPE,14224
+Virginia,GPE,14224
+Washington,GPE,14224
+Washington,GPE,14224
+D.C.,GPE,14224
+Wisconsin,GPE,14224
+Wyoming,GPE,14224
+US,GPE,14224
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,14224
+Marshall Islands American Samoa Federated States,ORG,14224
+Micronesia Guam,FAC,14224
+Alberta,GPE,14224
+Canada,GPE,14224
+British Columbia,GPE,14224
+Canada Manitoba,GPE,14224
+Canada,GPE,14224
+New Brunswick,GPE,14224
+Canada Newfoundland,PERSON,14224
+Canada,GPE,14224
+Canada,GPE,14224
+Canada Ontario,GPE,14224
+Canada,GPE,14224
+Edward Island,GPE,14224
+Canada Quebec,GPE,14224
+Canada,GPE,14224
+Saskatchewan,GPE,14224
+Canada Yukon Territory,ORG,14224
+Canada,GPE,14224
+Zip Code,PERSON,14224

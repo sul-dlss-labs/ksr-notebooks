@@ -1,0 +1,25 @@
+text,label,fe_id
+the Georgia Tech's,ORG,30846
+Sunday afternoon,TIME,30846
+Georgia Tech,ORG,30846
+10th Street,FAC,30846
+Georgia State Patrol,ORG,30846
+the Georgia Bureau of Investigation,ORG,30846
+Georgia State Patrol,ORG,30846
+GBI,ORG,30846
+Authorities,ORG,30846
+40,DATE,30846
+Sunday,DATE,30846
+second,ORDINAL,30846
+Sunday,DATE,30846
+Atlanta,GPE,30846
+Midtown,GPE,30846
+Sunday,DATE,30846
+morning,TIME,30846
+FOX,ORG,30846
+5,CARDINAL,30846
+Atlanta,GPE,30846
+FOX,ORG,30846
+5,CARDINAL,30846
+Download the FOX 5,WORK_OF_ART,30846
+Atlanta,GPE,30846

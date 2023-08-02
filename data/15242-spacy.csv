@@ -1,0 +1,19 @@
+text,label,fe_id
+Corboy & Demetrio,ORG,15242
+the City of Chicago,GPE,15242
+Chicago,GPE,15242
+79th St.,ORG,15242
+Lafayette Ave,PERSON,15242
+Chicago,GPE,15242
+around 6p.m.,TIME,15242
+"May 10, 2018",DATE,15242
+Defendant Curtis Pugh,ORG,15242
+Chicago,GPE,15242
+first,ORDINAL,15242
+second,ORDINAL,15242
+the Chicago Police Department Order G03-03-03,ORG,15242
+third,ORDINAL,15242
+76th,CARDINAL,15242
+Lafayette Ave,PERSON,15242
+State St.,ORG,15242
+the General Order,ORG,15242

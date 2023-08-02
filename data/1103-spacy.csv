@@ -1,0 +1,52 @@
+text,label,fe_id
+Brooklyn,GPE,1103
+Flatbush,GPE,1103
+Thursday,DATE,1103
+first,ORDINAL,1103
+yesterday,DATE,1103
+Carlos Rodas',PERSON,1103
+9-mm,TIME,1103
+Charmene Pickering,PERSON,1103
+27,DATE,1103
+Kings County Hospital,FAC,1103
+last night,TIME,1103
+Rodas,PERSON,1103
+late yesterday,DATE,1103
+NYPD,ORG,1103
+Drug Enforcement Administration,ORG,1103
+New York City,GPE,1103
+one,CARDINAL,1103
+Cheryl,PERSON,1103
+54,DATE,1103
+Last night,TIME,1103
+Mary Pickering,PERSON,1103
+69,DATE,1103
+years,DATE,1103
+21-month-old,DATE,1103
+Yarvion,ORG,1103
+Mary Pickering,PERSON,1103
+last night,TIME,1103
+Charmene Pickering,PERSON,1103
+Toyota,ORG,1103
+Camry,PRODUCT,1103
+Rodas,PERSON,1103
+Brooklyn College,ORG,1103
+Samuel Mercado,PERSON,1103
+year-long,DATE,1103
+Joseph Loszynski,PERSON,1103
+Toyota,ORG,1103
+Camry,PRODUCT,1103
+Charmene Pickering,PERSON,1103
+Cheryl Pickering's,PERSON,1103
+Mercado,PERSON,1103
+Rodas,PERSON,1103
+Rodas,PERSON,1103
+Loszynski,PERSON,1103
+Rodas,PERSON,1103
+Two ounces,QUANTITY,1103
+Rodas,PERSON,1103
+Cheryl Pickering,PERSON,1103
+Rodas,PERSON,1103
+third,ORDINAL,1103
+John Alston,PERSON,1103
+yesterday,DATE,1103

@@ -1,0 +1,35 @@
+text,label,fe_id
+Jack Schlesinger,PERSON,9501
+25-year-old,DATE,9501
+LAPD,ORG,9501
+"Tuesday, Sept. 28",DATE,9501
+1600,CARDINAL,9501
+West Temple Street,FAC,9501
+Los Angeles County,GPE,9501
+Shortly after 4:30 p.m.,TIME,9501
+three,CARDINAL,9501
+Echo Park,GPE,9501
+Chief Earl Paysinger,PERSON,9501
+Schlesinger,PERSON,9501
+AK-47,PRODUCT,9501
+Paysinger,PERSON,9501
+Two,CARDINAL,9501
+Schlesinger,PERSON,9501
+Paysinger,PERSON,9501
+Schlesinger,PERSON,9501
+Schlesinger,PERSON,9501
+Paysinger,PERSON,9501
+Schlesinger,PERSON,9501
+Westlake,PERSON,9501
+40th,ORDINAL,9501
+"10,000",CARDINAL,9501
+211,CARDINAL,9501
+LAPD,ORG,9501
+Los Angeles County Sheriff's Department,GPE,9501
+Times,ORG,9501
+January 2007,DATE,9501
+at least 140,CARDINAL,9501
+Los Angeles County,GPE,9501
+the Homicide Report,ORG,9501
+Joel Rubin,PERSON,9501
+Megan Garvey,ORG,9501

@@ -1,0 +1,43 @@
+text,label,fe_id
+Time Staff Writer,ORG,3252
+Fontana,GPE,3252
+Wednesday,DATE,3252
+second,ORDINAL,3252
+Fontana,ORG,3252
+this year,DATE,3252
+about 4:30 p.m.,TIME,3252
+Tuesday,DATE,3252
+Walter Lee Trevino,PERSON,3252
+34,DATE,3252
+Jeep,ORG,3252
+Cherokee,PRODUCT,3252
+Kmart,ORG,3252
+Valley Boulevard,FAC,3252
+Fontana,GPE,3252
+Kmart,ORG,3252
+only minutes,TIME,3252
+Trevino,PERSON,3252
+less than a mile,QUANTITY,3252
+two,CARDINAL,3252
+Trevino,PERSON,3252
+Jeep,ORG,3252
+Jeep,ORG,3252
+Sgt,PERSON,3252
+Mark Weissman,PERSON,3252
+Fontana,GPE,3252
+Trevino,PERSON,3252
+Jeep,ORG,3252
+Weissman,PERSON,3252
+Jeep,ORG,3252
+Weissman,PERSON,3252
+fewer than 10,CARDINAL,3252
+Weissman,ORG,3252
+Trevino,PERSON,3252
+Perris,LANGUAGE,3252
+the San Bernardino County Sheriff’s Department,GPE,3252
+Trevino,PERSON,3252
+Fontana,GPE,3252
+Weissman,ORG,3252
+the California Highway Patrol,ORG,3252
+Los Angeles Police Department,ORG,3252
+CHP,ORG,3252

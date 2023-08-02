@@ -1,0 +1,55 @@
+text,label,fe_id
+two,CARDINAL,27341
+Gary,PERSON,27341
+Monday,DATE,27341
+night,TIME,27341
+Merrillville,ORG,27341
+Monday afternoon,TIME,27341
+Gary,PERSON,27341
+2500,CARDINAL,27341
+Westbrook Apartment,ORG,27341
+the Merrillville Police Dept,ORG,27341
+Keenan McCain,PERSON,27341
+29,DATE,27341
+45-year-old,DATE,27341
+Betty Claudio,PERSON,27341
+two,CARDINAL,27341
+approximately a month,DATE,27341
+Claudio,PERSON,27341
+Sunday,DATE,27341
+afternoon,TIME,27341
+the Hampton Inn,FAC,27341
+Merrillville,GPE,27341
+McCain,PERSON,27341
+Gary,GPE,27341
+Gary SWAT,PERSON,27341
+Merrillville Police Detective,WORK_OF_ART,27341
+Aaron Ridgway,PERSON,27341
+two hours,TIME,27341
+SWAT,ORG,27341
+two,CARDINAL,27341
+SWAT,ORG,27341
+Gary,PERSON,27341
+Monday,DATE,27341
+evening,TIME,27341
+Mike Lorber,PERSON,27341
+Sky 5,LAW,27341
+Cpl,PERSON,27341
+James Nielsen,PERSON,27341
+17-year,DATE,27341
+Cpl,ORG,27341
+John Artibey,PERSON,27341
+14-year,DATE,27341
+Cpl,PERSON,27341
+Nielsen,PERSON,27341
+second,ORDINAL,27341
+Artibey,FAC,27341
+McCain,PERSON,27341
+Monday,DATE,27341
+night,TIME,27341
+McCain,PERSON,27341
+McCain,PERSON,27341
+McCain,PERSON,27341
+Marion County,GPE,27341
+Marion County,GPE,27341
+The Lake County Sheriff's Dept,ORG,27341

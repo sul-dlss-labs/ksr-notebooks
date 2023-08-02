@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6940
+Alabama,GPE,6940
+Alaska,GPE,6940
+Arizona,GPE,6940
+Arkansas,GPE,6940
+California,GPE,6940
+Colorado,GPE,6940
+Connecticut,GPE,6940
+Delaware,GPE,6940
+Florida,GPE,6940
+Georgia,GPE,6940
+Hawaii,GPE,6940
+Idaho,GPE,6940
+Indiana,GPE,6940
+Iowa,GPE,6940
+Kansas,GPE,6940
+Kentucky,GPE,6940
+Louisiana,GPE,6940
+Maine,GPE,6940
+Maryland,GPE,6940
+Massachusetts,GPE,6940
+Michigan,GPE,6940
+Minnesota,GPE,6940
+Mississippi,GPE,6940
+Missouri,GPE,6940
+Montana,GPE,6940
+Nebraska,GPE,6940
+Nevada,GPE,6940
+New Hampshire,GPE,6940
+New Jersey,GPE,6940
+Ohio,GPE,6940
+Oklahoma,GPE,6940
+Oregon,GPE,6940
+Pennsylvania,GPE,6940
+Rhode Island,GPE,6940
+Tennessee,GPE,6940
+Texas,GPE,6940
+Utah,GPE,6940
+Vermont,GPE,6940
+Virginia,GPE,6940
+Washington,GPE,6940
+Washington,GPE,6940
+D.C.,GPE,6940
+Wisconsin,GPE,6940
+Wyoming,GPE,6940
+US,GPE,6940
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6940
+Marshall Islands American Samoa Federated States,ORG,6940
+Micronesia Guam,FAC,6940
+Alberta,GPE,6940
+Canada,GPE,6940
+British Columbia,GPE,6940
+Canada Manitoba,GPE,6940
+Canada,GPE,6940
+New Brunswick,GPE,6940
+Canada Newfoundland,PERSON,6940
+Canada,GPE,6940
+Canada,GPE,6940
+Canada Ontario,GPE,6940
+Canada,GPE,6940
+Edward Island,GPE,6940
+Canada Quebec,GPE,6940
+Canada,GPE,6940
+Saskatchewan,GPE,6940
+Canada Yukon Territory,ORG,6940
+Canada,GPE,6940
+Zip Code,PERSON,6940

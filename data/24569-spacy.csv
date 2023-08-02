@@ -1,0 +1,23 @@
+text,label,fe_id
+AURORA,GPE,24569
+Colo.,GPE,24569
+Monday,DATE,24569
+afternoon,TIME,24569
+early Monday,TIME,24569
+morning,TIME,24569
+minutes earlier,TIME,24569
+around 1:30 a.m.,TIME,24569
+E. Montview Boulevard and Iola Street,ORG,24569
+Aurora,PERSON,24569
+Nick Metz,PERSON,24569
+Monday afternoon,TIME,24569
+Metz,PERSON,24569
+Metz,PERSON,24569
+the Adams County Coroner’s Office,ORG,24569
+Metz,PERSON,24569
+The Aurora Police Major Crimes Unit,ORG,24569
+the Denver Police Department,ORG,24569
+the 17th,DATE,24569
+Randy Hansen,PERSON,24569
+303,CARDINAL,24569
+Metz,PERSON,24569

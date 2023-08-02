@@ -1,0 +1,39 @@
+text,label,fe_id
+Wichita Falls,PERSON,14800
+Scott Poole,PERSON,14800
+WFPD,ORG,14800
+Poole,ORG,14800
+North Scott Street,LOC,14800
+Poole,ORG,14800
+34 year old,DATE,14800
+Armando Aleman,PERSON,14800
+one,CARDINAL,14800
+Aleman,ORG,14800
+Officer Poole,WORK_OF_ART,14800
+second,ORDINAL,14800
+Officer Poole,FAC,14800
+one,CARDINAL,14800
+Jeff Hughes,PERSON,14800
+CPR,ORG,14800
+Aleman,ORG,14800
+First Responders,ORG,14800
+Aleman,ORG,14800
+2:37 a.m.,TIME,14800
+third,ORDINAL,14800
+WFPD,ORG,14800
+2014,DATE,14800
+Sargent Spragins,PERSON,14800
+first,ORDINAL,14800
+WFPD,ORG,14800
+four,CARDINAL,14800
+six months,DATE,14800
+third,ORDINAL,14800
+four,CARDINAL,14800
+Sergeant Spragins,PERSON,14800
+WFPD,NORP,14800
+the last month,DATE,14800
+Spragins,PERSON,14800
+The Criminal Investigation Section,ORG,14800
+the Office of Professional Conduct,ORG,14800
+Wichita County,GPE,14800
+Newschannel6,PRODUCT,14800

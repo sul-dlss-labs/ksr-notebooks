@@ -1,0 +1,17 @@
+text,label,fe_id
+Indianapolis Metropolitan Police Department,ORG,12833
+Thursday,DATE,12833
+night,TIME,12833
+IMPD,ORG,12833
+49-year-old,DATE,12833
+Richard Moore,PERSON,12833
+Jason Rauch,PERSON,12833
+Emerson Avenue,FAC,12833
+42nd Street,FAC,12833
+Moore,ORG,12833
+around 9:30 p.m.,TIME,12833
+Moore,ORG,12833
+Rauch,ORG,12833
+.000,CARDINAL,12833
+IMPD,ORG,12833
+2008,DATE,12833

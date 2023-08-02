@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6381
+Alabama,GPE,6381
+Alaska,GPE,6381
+Arizona,GPE,6381
+Arkansas,GPE,6381
+California,GPE,6381
+Colorado,GPE,6381
+Connecticut,GPE,6381
+Delaware,GPE,6381
+Florida,GPE,6381
+Georgia,GPE,6381
+Hawaii,GPE,6381
+Idaho,GPE,6381
+Indiana,GPE,6381
+Iowa,GPE,6381
+Kansas,GPE,6381
+Kentucky,GPE,6381
+Louisiana,GPE,6381
+Maine,GPE,6381
+Maryland,GPE,6381
+Massachusetts,GPE,6381
+Michigan,GPE,6381
+Minnesota,GPE,6381
+Mississippi,GPE,6381
+Missouri,GPE,6381
+Montana,GPE,6381
+Nebraska,GPE,6381
+Nevada,GPE,6381
+New Hampshire,GPE,6381
+New Jersey,GPE,6381
+Ohio,GPE,6381
+Oklahoma,GPE,6381
+Oregon,GPE,6381
+Pennsylvania,GPE,6381
+Rhode Island,GPE,6381
+Tennessee,GPE,6381
+Texas,GPE,6381
+Utah,GPE,6381
+Vermont,GPE,6381
+Virginia,GPE,6381
+Washington,GPE,6381
+Washington,GPE,6381
+D.C.,GPE,6381
+Wisconsin,GPE,6381
+Wyoming,GPE,6381
+US,GPE,6381
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6381
+Marshall Islands American Samoa Federated States,ORG,6381
+Micronesia Guam,FAC,6381
+Alberta,GPE,6381
+Canada,GPE,6381
+British Columbia,GPE,6381
+Canada Manitoba,GPE,6381
+Canada,GPE,6381
+New Brunswick,GPE,6381
+Canada Newfoundland,PERSON,6381
+Canada,GPE,6381
+Canada,GPE,6381
+Canada Ontario,GPE,6381
+Canada,GPE,6381
+Edward Island,GPE,6381
+Canada Quebec,GPE,6381
+Canada,GPE,6381
+Saskatchewan,GPE,6381
+Canada Yukon Territory,ORG,6381
+Canada,GPE,6381
+Zip Code,PERSON,6381

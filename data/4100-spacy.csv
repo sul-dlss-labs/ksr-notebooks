@@ -1,0 +1,36 @@
+text,label,fe_id
+Times,ORG,4100
+Anaheim,ORG,4100
+this week,DATE,4100
+Wednesday,DATE,4100
+Sgt,PERSON,4100
+Rick Martinez,PERSON,4100
+Frank Carillo,PERSON,4100
+28,DATE,4100
+Santa Ana,GPE,4100
+Anaheim Memorial Medical Center,FAC,4100
+Monday,DATE,4100
+Edward Ruiz,PERSON,4100
+11-year,DATE,4100
+Oscar Mendez,PERSON,4100
+25,DATE,4100
+Santa Ana,GPE,4100
+Martinez,PERSON,4100
+La Palma,FAC,4100
+Onondaga,ORG,4100
+today,DATE,4100
+Martinez,PERSON,4100
+Ruiz,FAC,4100
+Carillo,GPE,4100
+Mendez,GPE,4100
+Martinez,PERSON,4100
+Carillo,PERSON,4100
+about two,CARDINAL,4100
+Martinez,PERSON,4100
+Carillo,PERSON,4100
+Ruiz,FAC,4100
+at least two,CARDINAL,4100
+Martinez,PERSON,4100
+Orange County,GPE,4100
+Times,ORG,4100
+David Haldane,PERSON,4100

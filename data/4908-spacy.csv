@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,4908
+Alabama,GPE,4908
+Alaska,GPE,4908
+Arizona,GPE,4908
+Arkansas,GPE,4908
+California,GPE,4908
+Colorado,GPE,4908
+Connecticut,GPE,4908
+Delaware,GPE,4908
+Florida,GPE,4908
+Georgia,GPE,4908
+Hawaii,GPE,4908
+Idaho,GPE,4908
+Indiana,GPE,4908
+Iowa,GPE,4908
+Kansas,GPE,4908
+Kentucky,GPE,4908
+Louisiana,GPE,4908
+Maine,GPE,4908
+Maryland,GPE,4908
+Massachusetts,GPE,4908
+Michigan,GPE,4908
+Minnesota,GPE,4908
+Mississippi,GPE,4908
+Missouri,GPE,4908
+Montana,GPE,4908
+Nebraska,GPE,4908
+Nevada,GPE,4908
+New Hampshire,GPE,4908
+New Jersey,GPE,4908
+Ohio,GPE,4908
+Oklahoma,GPE,4908
+Oregon,GPE,4908
+Pennsylvania,GPE,4908
+Rhode Island,GPE,4908
+Tennessee,GPE,4908
+Texas,GPE,4908
+Utah,GPE,4908
+Vermont,GPE,4908
+Virginia,GPE,4908
+Washington,GPE,4908
+Washington,GPE,4908
+D.C.,GPE,4908
+Wisconsin,GPE,4908
+Wyoming,GPE,4908
+US,GPE,4908
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,4908
+Marshall Islands American Samoa Federated States,ORG,4908
+Micronesia Guam,FAC,4908
+Alberta,GPE,4908
+Canada,GPE,4908
+British Columbia,GPE,4908
+Canada Manitoba,GPE,4908
+Canada,GPE,4908
+New Brunswick,GPE,4908
+Canada Newfoundland,PERSON,4908
+Canada,GPE,4908
+Canada,GPE,4908
+Canada Ontario,GPE,4908
+Canada,GPE,4908
+Edward Island,GPE,4908
+Canada Quebec,GPE,4908
+Canada,GPE,4908
+Saskatchewan,GPE,4908
+Canada Yukon Territory,ORG,4908
+Canada,GPE,4908
+Zip Code,PERSON,4908

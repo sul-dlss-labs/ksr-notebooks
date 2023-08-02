@@ -1,0 +1,18 @@
+text,label,fe_id
+Jorge Ocon,PERSON,10803
+29-year-old,DATE,10803
+Latino,PERSON,10803
+"Friday, Nov. 25",DATE,10803
+800,CARDINAL,10803
+East Jefferson Avenue,FAC,10803
+Historic South-Central,GPE,10803
+Los Angeles County,GPE,10803
+Ocon,ORG,10803
+Los Angeles Police Department,ORG,10803
+Ocon,ORG,10803
+Coroner,ORG,10803
+Ocon,ORG,10803
+Crime Stoppers,PERSON,10803
+222,CARDINAL,10803
+222,CARDINAL,10803
+Rick Rojas,PERSON,10803

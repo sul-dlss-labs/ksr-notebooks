@@ -1,0 +1,42 @@
+text,label,fe_id
+West 1st,DATE,30240
+Perry Street,FAC,30240
+Denver,GPE,30240
+Barnum,PERSON,30240
+Denver,GPE,30240
+Barnum,PERSON,30240
+Friday,DATE,30240
+afternoon,TIME,30240
+The Denver Police Department,ORG,30240
+West 1st,DATE,30240
+Perry Street,FAC,30240
+about 4:15 p.m.,TIME,30240
+Morrison Road,FAC,30240
+West Ohio Avenue,FAC,30240
+DPD Division,ORG,30240
+Ron Thomas,PERSON,30240
+Thomas,PERSON,30240
+Denver,GPE,30240
+Lakewood,GPE,30240
+West 1st,DATE,30240
+Perry Street,FAC,30240
+Thomas,PERSON,30240
+Thomas,PERSON,30240
+Thomas,PERSON,30240
+W 1st,DATE,30240
+Denver,GPE,30240
+@DenverPolice,ORG,30240
+"May 14, 2021
+
+",DATE,30240
+9NEWS,CARDINAL,30240
+daily,DATE,30240
+Next,ORG,30240
+Broncos,PRODUCT,30240
+Metro Denver Crime,ORG,30240
+Crime Stoppers,PERSON,30240
+720-913-7867,CARDINAL,30240
+"up to $2,000",MONEY,30240
+Metro Denver Crime,ORG,30240
+Crime Stoppers,PERSON,30240
+Metro Denver Crime,ORG,30240

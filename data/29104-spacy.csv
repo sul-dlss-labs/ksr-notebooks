@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,29104
+Alabama,GPE,29104
+Alaska,GPE,29104
+Arizona,GPE,29104
+Arkansas,GPE,29104
+California,GPE,29104
+Colorado,GPE,29104
+Connecticut,GPE,29104
+Delaware,GPE,29104
+Florida,GPE,29104
+Georgia,GPE,29104
+Hawaii,GPE,29104
+Idaho,GPE,29104
+Indiana,GPE,29104
+Iowa,GPE,29104
+Kansas,GPE,29104
+Kentucky,GPE,29104
+Louisiana,GPE,29104
+Maine,GPE,29104
+Maryland,GPE,29104
+Massachusetts,GPE,29104
+Michigan,GPE,29104
+Minnesota,GPE,29104
+Mississippi,GPE,29104
+Missouri,GPE,29104
+Montana,GPE,29104
+Nebraska,GPE,29104
+Nevada,GPE,29104
+New Hampshire,GPE,29104
+New Jersey,GPE,29104
+Ohio,GPE,29104
+Oklahoma,GPE,29104
+Oregon,GPE,29104
+Pennsylvania,GPE,29104
+Rhode Island,GPE,29104
+Tennessee,GPE,29104
+Texas,GPE,29104
+Utah,GPE,29104
+Vermont,GPE,29104
+Virginia,GPE,29104
+Washington,GPE,29104
+Washington,GPE,29104
+D.C.,GPE,29104
+Wisconsin,GPE,29104
+Wyoming,GPE,29104
+US,GPE,29104
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,29104
+Marshall Islands American Samoa Federated States,ORG,29104
+Micronesia Guam,FAC,29104
+Alberta,GPE,29104
+Canada,GPE,29104
+British Columbia,GPE,29104
+Canada Manitoba,GPE,29104
+Canada,GPE,29104
+New Brunswick,GPE,29104
+Canada Newfoundland,PERSON,29104
+Canada,GPE,29104
+Canada,GPE,29104
+Canada Ontario,GPE,29104
+Canada,GPE,29104
+Edward Island,GPE,29104
+Canada Quebec,GPE,29104
+Canada,GPE,29104
+Saskatchewan,GPE,29104
+Canada Yukon Territory,ORG,29104
+Canada,GPE,29104
+Zip Code,PERSON,29104

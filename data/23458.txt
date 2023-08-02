@@ -1,0 +1,197 @@
+1 Date NumberOfSubjects Fatal SubjectArmed SubjectRace SubjectGender SubjectAge NatureOfStop NumberOfShots NumberOfOfficers OfficerRace OfficerGender Department FullNarrative City Notes
+
+2 1/1/2010 1 N N W M 19 Stolen car; traffic stop; car chase 8 2 W; H M; M Phoenix Police Department Subjects in stolen vehicle, ofcs high risk stop, subject veh stopped between vehicles, drove towards ofc, both ofcs discharged weapons. A passenger in the subject's vehicle was also wounded in the OIS. Phoenix Vehicle
+
+3 1/26/2010 1 F Y U M 52 Call for Service 11 2 W; W M; M Phoenix Police Department Ofc's contacted subject at intersection. When exited vehicle to contact suspect removed gun from back of pants and fired one round. Ofcs discharged weapons. Subject of kidnapping call walked away from location of call as officers were approaching the location. Officers located subject down the street and made contact. Phoenix
+
+4 2/2/2010 1 N N B M 32 Firearm 1 1 W M Phoenix Police Department Suspect on foot in the area of 2800 E Southern pointing B gun at citizens, cars, and dogs. Officers arrive on scene. No compliance. Suspect points weapon at Officer. Ofc returns fire, one round, misses suspect flees on foot. After short foot pursuit, multiple officer pile-up, tasing, suspect taken into custody. Gun was a BB gun. Phoenix BB Gun
+
+5 2/12/2010 1 N N L M 16 Drugs 5 1 W M Phoenix Police Department NET squad doing UC drug buys. SP produced gun, officer shot SP. Officer yelled "Phoenix Police," but did not have an opportunity to show his badge before shooting the suspect. Officer thought subject produced a gun. Subject said he simulated a gun and said he was going to kill the officer. No gun found at scene. Phoenix undercover
+
+6 3/10/2010 1 N N L M 28 Assault 1 1 W M Phoenix Police Department Suspect committed aggravated assault earlier in the day. Officers conducted follow-up at a known location where the suspect frequented. Officers contacted suspect, who was armed with a firearm concealed in his pants. Suspect reached for his gun and was shot one time ending the threat.NOTE:OIS officer stated he was surprised and startled by the subject. Ofc could not explain why he discharged his weapon. Ofc did not see a gun. Unintentional discharge. Phoenix
+
+7 4/16/2010 1 N Y W M 35 Stolen car 4 1 W M Phoenix Police Department 211 Circle K. SP took clerks veh. Off obs vehicle, pursuit 961, SP pointed revolver at officer. Two separate officers in pursuit with subject. First officer on scene of 961 involved in OIS. 2nd officer saw subject point weapon at officer and heard shots. Did not have opportunity for a response. Phoenix
+
+8 4/22/2010 1 F Y L M 28 Burglary 1 1 W M Phoenix Police Department Barricade of 2 burglary susps. One SP posed as hostage during escape plan. Officer shot "hostage taker". Subject set house on fire and held gun to head of "hostage". Ofc fired to protect "hostage" and officers.Subject was found to have meth, amphetamine, and ecstacy in his system. Phoenix
+
+9 5/7/2010 1 F Y L M 36 Homicide 23 4 B; W; H; W M; M; M; M Phoenix Police Department Suspect shot and killed a family member. Officers located suspect vehicle and stopped on the freeway. Suspect exited vehicle and began shooting at officers. Suspect was shot and killed. Injured officer was injured from glass shards. Equipment failure was a handgun malfunction during OIS. Phoenix
+
+10 5/26/2010 1 N Y L M 31 Call for Service 2 1 W M Phoenix Police Department 961H/647V radio calls. 2 ofc unit resp. 1 officer checked veh, Ofc 2 looked for SP. SP ambushed Ofc 2. Ofc 2 pronounced.First unit on scene (725M) not assigned to CFS. No record of arrival time in CAD. Estimate listed as 0135 hrs based on interviews and available data. Phoenix
+
+11 6/30/2010 1 N Y A M 18 Domestic violence; shots fired 12 2 W; W M; M Phoenix Police Department Ofcs responded to a domestic violence - shots fired call. Upon arrival the ofcrs heard additional shots inside the residence. Shortly thereafter, the subject walked outside and pointed the gun at ofcrs. 2 ofcrs shot and wounded the subj, who was later booked. Phoenix
+
+12 7/10/2010 1 F Y L M 31 Call for Service 13 2 H; H M; M Phoenix Police Department SP ran from ofcrs in vehcle - bailed out - confronted ofcrs with a handgun - shot at ofcrs who returned fire. Threat ended. 13 rounds fired between both officers. Subject sustained 6 gunshot wounds (Per ME). PSB summary of investigation states "six [rounds] are unaccounted for. Phoenix
+
+13 7/13/2010 1 N N L M 24 Stolen car 2 2 W; W M; M Phoenix Police Department AZ Auto Theft Task Force attempted to take several subjects into custody for 2 stolen vehicles. One subject ran and officers followed on foot. Subject jumped into another vehicle and the driver (another subject) drove at an ofcr. That ofcr and another ofcr both fired one round at the driver. Both rounds missed. Phoenix Vehicle
+
+14 8/6/2010 1 N Y L M 29 Traffic Stop 2 1 H M Phoenix Police Department Suspect fled during traffic stop. Ofc contacted at location of occurrence. Suspect "carjacked" vehicle and held driver at gunpoint. As drove away, suspect pointed gun at ofc who was wearing a balistic vest with POLICE Placards- discharged weapon.Tactical surveillance between initial C-6 attempt (1535 hrs) and bail-out at OIS location (1614 hrs) Phoenix
+
+15 9/19/2010 1 F Y B M 22 Firearm 4 1 W M Phoenix Police Department DOU ofcr observed a subject who had just left a bar point a gun at him, other officers and patrons. The ofcr shot the subject who died. Phoenix
+
+16 10/5/2010 1 F U L M 30 Call for Service 2 1 U M Phoenix Police Department Officer 1 Charged- Two officers on scene, stories were different the true nature of this incident is U.Subject had substances in his system (drugs - methamphetamine and amphetamine) Phoenix
+
+17 10/17/2010 1 F Y L M 30 Traffic Stop 8 2 W; H M; M Phoenix Police Department Subj fled in a veh, refusing to stop for ofcrs attempting a traffic stop. Subj then fled on foot after he crashed. Subj then raised his handgun at an officer and officers fired at him. Subject died. Phoenix
+
+18 12/16/2010 1 F N W M 40 Weapons posession 14 2 W; W M; M Phoenix Police Department Ofcrs responded to a subj with a knife call. Upon arrival the subject pulled a BB gun out and pointed it at the officers. The ofcrs believed the gun to be a lethal instrument and shot the subject who later died. Phoenix BB Gun
+
+19 1/22/2011 1 N N W M 49 Suicide 3 1 W M Phoenix Police Department Police responded to a call of a suicidal subject. Subject was on phone with 911 when officers made contact at the front door. The subject did not heed verbal commands and walked at officers with a knife. Subject was tased, but it was ineffective. Subject advanced on officers until he was shot.901X subj called 9-11 and told disp he was trying to get off of Xanex and "needed mental health treatment". Subj also called crisis line and Magellen. Phoenix Knife/ Sword
+
+20 3/2/2011 6 N; F; N; N; N; N Y L;L;L;L;L;L M;M;M;M;M;M 20 Burglary; home invasion 72 5 H; W; W; W; W M; M; M; M; M Phoenix Police Department Ofcs responded to a residential burglary that was really a home invasion. Ofcrs met the (6) subjects at the door as they tried to flee. Subjects shot a rifle and handguns at the ofcrs, who returned fire. One subject was killed and one wounded. Phoenix
+
+21 3/9/2011 1 F Y L M 26 Robbery 37 3 W; W; W M; M; M Phoenix Police Department Ofcrs responded to an armed robbery at a 7-Eleven. Subject drew his weapon when confronted by officers. Officers fired and subject fired. Subject fled in a car and succumbed to his wounds. #17 Setting anomoly - shots fired inside business, in the parking lot and at the moving vehicle Phoenix
+
+22 4/5/2011 1 F N L M 49 Traffic stop; suspicious person 24 3 W; W; W M; M; M Phoenix Police Department Suspicious subject in vehicle driving through neighborhood. Sgt attempted veh stop. Subject accelerated in reverse, ramming sgt's vehicle. Sgt performed pit manuever. Subj got out of veh and pointed perceived weapon at sgt from 6 feet away (metal stock, pocket knife, and flashlight found in subject's vehicle). Two-man unit arrived. Sgt and 2 ofcs fired at subj. Subj's drove away and collided into nearby business. Subj deceased. Phoenix
+
+23 4/6/2011 1 F N W M 49 Investigation 2 2 W; W M; M Phoenix Police Department Subj refused to pull his veh over for Patrol. MOU started tac-surveillance and boxed subj in his veh. Subj tried to ram his way out of the area and struck an officer. Two officers shot and struck the driver, who died. Phoenix Vehicle
+
+24 4/18/2011 1 F N L M 41 Suicide 14 3 W; W; W M; M; M Phoenix Police Department Shooting on overpass - suicidal subject who said he had a gun. Suspect had one hand wrapped and it was believed to have been a gun. The suspect ran towards ofcs with wrapped hand extended as if shooting a gun. The object that was in the subject's hand was the front stock of a shotgun. Family indicated using U drugs. Phoenix Simulated Gun
+
+25 5/6/2011 1 F Y W M 32 Homicide 4 2 A/W; H M; M Phoenix Police Department Subject was wanted for homicide and pointed a handgun at officers on the perimeter. Both officers fired their rifles at the subject killing him. Phoenix
+
+26 6/14/2011 1 N Y L F 26 Warrant 1 1 W M Phoenix Police Department SAU officers responded to a barricade where SP had a hostage. During the negotiations, hostage changed clothes and hairstyle to resemble SP. SAU sniper shot hostage (friend of SP) by mistake.Subject Data in matrix form reflects actual SP (not V - hostage). Phoenix
+
+27 7/6/2011 1 N Y L M U Home invasion 16 1 W M Phoenix Police Department Ofc's responded to 459/home invasion. Followed suspect as pulled into residence. Suspect exited veh with AK-47 and began shooting. Ofc discharged weapon.3 subjects identified by Homicide Dets. PSB investigative report states "unable to determine which one fired at Ofc". Phoenix
+
+28 7/17/2011 1 N Y L M 26 Shooting 3 1 H M Phoenix Police Department Subj shooting a handgun in a residential neighborhood. Upon police arrival, the subj pointed his gun at an officer, who shot 3 shots at the subj and missed. Subj was later found and arrested. No injuries. Phoenix
+
+29 8/4/2011 1 N Y L M 36 Traffic stop 25 2 W; W M; M Phoenix Police Department Officers attempted to stop a subject on a bike, who refused to stop. Subj crashed on the bike and as officer approached, he rolled over and shot both officers. Both officers returned fire. Subject went into a house and came out. Another exchange occurred. Subject jumped into the driver's seat in the police Tahoe and pointed the gun at officers and was shot. Subject injured and later booked.Incorrect location of occurrence listed in PACE DR: Phoenix bike
+
+30 8/20/2011 1 F N L M 22 Call for Service 9 1 W M Phoenix Police Department Subj located by victim driving his 487V. Vict followed. PD followed, subj committed car jacking and ran into ofc. Ofc shot at suspect (SH11-0027), but SP fled. SAU ofcs completed pit manuever. Subj tried to ram SAU ofcs. SAU ofc shot subj. Subj deceased at scene. Phoenix Vehicle
+
+31 8/20/2011 1 N N L M 22 Stolen car 1 1 H M Phoenix Police Department Officers responded to a stolen vehicle, strong armed robberies occurred and subject drove at and hit an officer with a vehicle, officer fired 1 round at the subject and struck the roof of the vehicle. Subj was later shot and killed by police in SH11-0026 Phoenix Vehicle
+
+32 10/9/2011 2 N; N Y L;L M;M 20; 19 Investigation; teen drinking 21 2 H; W M; M Phoenix Police Department Targeted Enforcement Squad working undercover at an underage drinking party. Obseved two groups shoot at each other. One shooter started shooting at unarmed citizens so Ofc shot and wounded him. Another subject pointed a gun at Sgt and may have shot at him. Sgt shot and wounded the second subject. Both Officer and Sergeant did not get the opportunity to identify themselves as officers prior to the shootings.Investigation does not definitively indicate whether or not the suspects were struck by officer rounds or if suspects hit each other during initial volley of shots. Phoenix undercover
+
+33 10/15/2011 1 F Y L M 24 Shooting 3 2 A; H M; M Phoenix Police Department Subject firing off weapon in the streets around 1st Ave / Van Buren. Upon arrival - officers made contact with suspect who refused to put down weapon, raised it at officers. Officers fired 3 rounds in response to threat. Substance (alcohol) may have played role. Phoenix
+
+34 10/18/2011 1 N Y W M 31 Call for Service 6 1 W M Phoenix Police Department Subject completed three 211's and pointed a gun at a Patrol Lieutenant while trying to flee. LT shot and wounded the subject in the legs. Phoenix
+
+35 11/7/2011 1 N Y B M 33 Domestic violence 18 5 W; W; H; H; W M; M; M; M; M Phoenix Police Department Officers respond to an unrelated DV call at apt complex hear gunshot. During the investigation, subject raises gun toward officer leading to the first police shooting. Responding officers later confront the suspect who raises his weapon which leads to the second police shooting.Substance (drugs) likely a factor. All officers describe "zombie" like behavior of suspect. It was determined by hospital staff subject had PCP on board. Phoenix
+
+36 12/23/2011 1 N Y W M 59 Call for Service 13 2 W; H M; M Phoenix Police Department Officer resp to trailer park. Contact subj who pointed shot gun at them, possibly firing one round. Officers shot subject. Investigation did not definitively conclude whether subject got round off.Substance (alcohol) on issue. Investigation indicates subject BAC was .245 per hospital staff. Phoenix
+
+37 12/27/2011 1 N Y U M U Burglary 1 1 B M Phoenix Police Department Officer was home and off duty when he confronted a burglary suspect who forced entry into his home. Suspect raised an U weapon at the officer. The officer, who feared he would be shot, fired one round at the suspect who fled and remains U. Off-duty officer was not wearing any police identification.Division Assignment Other - not on-duty or working off-duty Phoenix
+
+38 12/31/2011 1 F Y L M 20 Traffic Stop 2 1 W M Phoenix Police Department Subject passed out behind the wheel blocking traffic, upon PD making contact, subject pulled out a gun and was shot by the officer. Phoenix
+
+39 1/18/2012 1 N Y L M 29 Traffic Stop 15 3 W; W; W M; M; M Phoenix Police Department Officer attemped a traffic stop. Suspect refused to stop and pointed a gun at officers. This resulted in a vehicle pursuit. Suspect crashed and as he was getting out of his vehicle he pointed his gun at officers. Three officers shot at him 15 times, striking him 4 times. He was wounded. Phoenix
+
+40 2/7/2012 1 F Y W M 55 Hostage; firearm 4 1 NA/W M Phoenix Police Department Subject took his estranged wife and her boyfriend hostage with a revolver. Subject took percocet and alcohol and fell asleep allowing victims to escape. PD arrived and after a foot pursuit subject pointed a gun at an officer. Officer shot and killed subject.Substance (alcohol and drugs). Ex-wife gave suspect alcohol and percocet during incident. Phoenix
+
+41 2/12/2012 1 N N W M 27 Arson; traffic stop 1 1 W M Phoenix Police Department Phoenix Fire investigator asked PD for a back up while contacting an arson subject (traffic stop). Subject ingested mouthful of acetaminophen and then threatened suicide with a shard of glass (broken glass). Shortly thereafter he charged officers threatening with the glass. Officer shot subj in abdomen. Subject survived. Mental illness may have contributed as subject's sister indicated he was "mentally unstable" Phoenix Knife/ Sword
+
+42 3/7/2012 1 N N B F 31 Sexual predator 2 1 B M Phoenix Police Department Ofc resp to radio call of prowler. Cont subj - seemed legitimate. Cont complainant who had knife - advanced on officer with knife.Substance (drugs) an issue, medical records showed presence of cocaine, methamphetamine, and marijuana. Phoenix Knife/ Sword
+
+43 3/17/2012 1 N N L M 33 Shoplifting 1 1 W M Phoenix Police Department Ofc chased shoplifter. SP struck officer, jumped in veh. Grabbed officer who jumped inside to keep from being dragged. SP and Ofc fought over officer's gun. Ofc shot subj once. Phoenix Reached for Officer's Gun
+
+44 4/9/2012 1 N Y A M 26 firearm 3 1 W M Phoenix Police Department Subject threatening with a handgun at the YMCA. Building search of subject. Located him in the stairwell, fight ensued. Pushed downstairs, when landing on platform, raised a handgun and pointed it at Officer head who was positioned 1/2 staircase below.Subject threatened to kill victim while armed with gun. During search of building, officers encountered subject. One officer engaged in fight over subject's gun. Subject pushed and fell to staircase landing where he pointed gun at a second officer who shot and wounded subject. Info on call suggested subject had "mental issues". Substance (drugs) also possible as methamphetamine found in subject's possession. Phoenix
+
+45 4/16/2012 1 N N L M 40 Traffic Stop 3 1 W M Phoenix Police Department Officer completed traffic stop - foot pursuit struggle, subject tried to take officer's gun, officer fired shot sub ran, officer caught him, struggled over officer's gun, officer fired again. Subj taken into control. Phoenix Reached for Officer's Gun
+
+46 4/24/2012 1 F Y W M 40 Call for Service 2 1 W F Phoenix Police Department Ofc accompanied V to his home to confront subj in his driveway. Ofc contacted subj who produced handgun and shot V. Officer shot subj. Phoenix
+
+47 6/4/2012 1 F N W M 25 Weapons posession 6 2 W; W M; M Phoenix Police Department Officers responded to a radio call of a subj threatening with a bat. Upon contact, the subject advanced on the officers. The officers fired at SP. No ECD, ME Toxicology showed Ethyl Alcohol .14-.15 Phoenix Bat/Stick
+
+48 6/17/2012 1 F N W M 52 Stolen car 3 1 B M Phoenix Police Department Subj stole city work truck - ramming vehicles, driving at vehicles, driving wrong way on freeway, pursuit to Apache Junction. Officer fired weapon to prevent further danger to public.SAU shot and killed subject after witnessing 245 on an officer in a marked patrol car rammed by subject. Phoenix Vehicle
+
+49 6/26/2012 1 N N L M 21 Citizen Contact 1 1 W M Phoenix Police Department Sgt was driving an unmarked police vehicle from the training academy to 620 W Washington when he stopped for a subject standing in the road. The subject jumped into the police vehicle and began to assault the sergeant. The sergeant fired one round from his firearm striking the suspect in the chest, thus ending the assault.Division Assignment Other: Sgt was reserve in unmarked vehicle, not responding to a call.Substance: Methamphetamines per subject admission. Phoenix Reached for Officer's Gun /Bodily Force
+
+50 8/2/2012 1 N Y L M 25 Traffic Stop 4 1 W M Phoenix Police Department Ofc performed traffic stop of subj for no light on bicycle at night, subj ran. Ofc caught up and struggle ensued. Subj fled 2nd time. While fleeing, fired weapon at ofc 3 times. Ofc returned fire 4 times, missing subj. Subj was located 2 months later and questioned about incident where his DNA was found at scene and admitted to shooting. Phoenix
+
+51 8/8/2012 1 N N L M 21 Traffic Stop 4 1 H M Phoenix Police Department Officers initiated a traffic stop but suspect vehicle failed to yield. Suspect vehicle followed to a restaurant where suspect vehicle struck door of police vehicle as it attempted to flee which led to the police involved shooting.Subject intentionally rams another marked patrol car. Subject followed to parking lot where he drives at another officer in passenger seat. Subject strikes open passenger door and officer shoots at subject vehicle. Substance (alcohol). Subject BAC .204, subject also acknowledged consuming oxycodone. Phoenix Vehicle
+
+52 9/22/2012 1 F Y W M 50 Domestic violence 3 2 W; W M; F Phoenix Police Department Ofc's responded to DV call. Observed suspect at doorway pointing assault rifle at wife then pointed it at ofc's who discharged weapons Phoenix
+
+53 10/27/2012 1 N N W M 17 Shooting 7 1 W M Phoenix Police Department Officers observed a drive-by shooting at an underage drinking party and pursued the suspect vehicle. Suspect vehicle drove at an officer who fired 7-8 rounds at the driver missing him. No injuries from the shooting.Subject vehicle was occupied by approximately 7 subjects when officer fired upon it. No one struck by officer rounds. Phoenix Vehicle
+
+54 10/27/2012 1 F N W F 58 Suicide by cop 6 2 W; W M; M Phoenix Police Department Suicide by cop - subj called 911 subj with a gun - when PD arrived, subj advanced on officers with toy gun. Subject placed hoax phone call of subject w/gun holding hostages. The caller then confronted arriving officers with a gun. The gun was ultimately determined to be a toy gun and it appears the subject's intended outcome was "suicide by cop". Toy gun (air soft).Substance and mental health - per witnesses (roommates), both drugs (spice) and mental health issues may have contributed to this incident. Subject made statements reference "suicide by cop" just prior to OIS. Phoenix Toy Gun
+
+55 10/28/2012 1 F N L M 35 Fight 5 1 W M Phoenix Police Department Ofc resp to fight call. Cont subject. Subj attempted to take officer's gun. Both struggled to control officer's gun. Ofc shot suspect. Phoenix Reached for Officer's Gun
+
+56 1/5/2013 1 F N W M 40 Shoplifter 10 3 H; W; H M; M; F Phoenix Police Department Ofcs responded to shoplifter - suspect seen putting gun in front waistband. Suspect exited store - confronted by ofcs - suspect ran then pointed gun (BB gun) at ofcs - discharged weapons.Hot call shoplifting with suspect armed with knife and gun. It was unclear at outset if gun was real or BB gun. Phoenix BB Gun
+
+57 1/7/2013 1 F N L M 36 Traffic Stop 14 2 W; W M; M Phoenix Police Department Officer attempted traffic stop - failed to yield, pursuit - veh hit wall- officer exited veh, SP rammed patrol car - officers fired. Phoenix Vehicle
+
+58 1/6/2013 1 N Y U M 28 Self-Initiated 10 1 W M Phoenix Police Department Officer conducted stop of 647 subject on bike with no light. Subject fled on foot. Officer attempted to detain subject. He pulled out handgun and shot Officer multiple times in face, jaw, ear, chest. Subject fled was later apprehended by Canine hiding in shed in nearby residence. Phoenix
+
+59 1/16/2013 1 F N W M 27 Burglary 4 3 W; W; H M; M; M Phoenix Police Department Subj was found to be committing a residential burglary. Officers engaged subj in a foot pursuit, during which time the subj pointed a BB handgun at officers. All three officers fired and killed the subj.Substance (drugs) - toxicology showed presence of methamphetamine and codeine. Phoenix BB Gun
+
+60 2/7/2013 1 F Y W M 56 Call for Service 1 1 W M Phoenix Police Department Suicide subject stood out in front of apt pointed gun at responding SAU officers and an SAU officer shot the suspect and killed him. Phoenix
+
+61 3/17/2013 1 F Y W M 47 Domestic violence 5 1 W M Phoenix Police Department Officers arrived at a domestic violence call. The subject immediately confronted the officers by pointing a gun at them and shooting 9 rounds. The officers returned fire at the same time and killed the subject. Phoenix
+
+62 3/30/2013 3 F; N; N Y L;L;L M;M;M 24; 29; 19 Burglary 14 1 W M Phoenix Police Department Officer working off-duty, observed burglary from vehicle. Officer chased SP's to veh. SPs pointed guns at officer. Both SP and Officer fired. Civilian also fired at subjects. Phoenix
+
+63 4/7/2013 1 N N U U U Street racing 1 1 W M Phoenix Police Department Officer drove upon several people/vehicles involved in drag racing. Orange camero driven by an unidentified driver, drove at officer as he exited his patrol vehicle to contact the occupants. As the camero drove at him, the officer fired 1 round at the driver. Vehicle and driver were never found. Criminal investigation is pended. Phoenix Vehicle
+
+64 4/13/2013 1 F Y L M 30 Call for Service 37 9 W; W; H; W; W; H; W; H; A M: M; M; M; M; M; M; M; M Phoenix Police Department Ofcs responded to P1 radio of 390, 901X barricade subject armed with a gun. The ofcs came under fire, after 23 by subj w/AK-47 and .40 cal. Subj fired 237 rounds over 25 minutes from inside house. The 9 ofcs fired 37 rounds to stop the threat. Homicide investigators found a suicide note on subj's legs. Phoenix AK-47, .40 cal machine gun, suicide
+
+65 4/20/2013 1 F Y L M 31 Call for Service 24 2 W; W M; M Phoenix Police Department Subject reference 647 call stopped in taxi cab. Subject refused to obey orders to drop handgun. Subject pointed handgun at officers. Officers returned fire. Subject deceased at scene. Phoenix
+
+66 4/19/2013 1 F N W M 63 Warrant 9 3 W; W; W M: M; M Phoenix Police Department Subj had current warrant; MOU learned of subj's whereabouts and awaited his arrival. Subj contacted at vehicle. Subj turned to present a simulated weapon. All 3 ofc perceived a B handgun being pointed at one of the ofcs. Ofc 1 fired 1x, Ofc 2 fired 1 time, Ofc 3 fired 7 times. Subj fell to ground. Pronounced deceased.Subject had a B gas can nozzle in his hand. Phoenix Simulated Gun
+
+67 4/20/2013 1 F N W M 23 Drugs 2 1 W M Phoenix Police Department Subj under influence of drugs. Threatening other tenants of apt complex. Contacted by PD. Physical altercation with 4 ofcs. Difficulty controlling. Subj grabbed spindle. Involved ofc thought subj was going to stab another ofc in the face, therefore he fired 2 rounds into subj's chest from 1 ft away. Phoenix Bat/Stick
+
+68 4/23/2013 1 N Y W M 37 Fraud 1 1 W M Phoenix Police Department Ofcrs responded to a theft by fraud call where subj trying to pass a bad check again. Subj fled and ofcrs pursued on foot. Subj tried to carjack two cars and shot at occupants in both cars (one contained two children). Ofcr shot at subj while he was trying to carjack second car with F and the two kids. Ofc missed, subj drove off after victims got out of vehicle. Subj taken into custody after tactical surveillance. Alcohol was involved.. Phoenix
+
+69 4/26/2013 1 N N L M 20 Traffic Stop; DUI 3 1 W M Phoenix Police Department Officers stopped DUI suspect who refused to exit his vehicle. He rammed the patrol car and then drove at an officer and another officer shot 3 times at the suspect, missed and struck the suspect vehicle. Officers were in a two-man unit and both attempted to gain compliance. Phoenix Vehicle
+
+70 6/1/2013 1 F Y W M 26 Suicide 6 3 W; H; H M; M; M Phoenix Police Department Girlfriend called and said boyfriend left apartment with weapon because she was leaving him and he was theatening suicide. Ofc located him. He pointed the handgun at ofc and three ofcrs shot and killed the subj. Phoenix
+
+71 7/6/2013 1 N N W M 36 Home invasion 5 1 W M Phoenix Police Department Ofc's responded to subject breaking into residence. Upon entering, subject came out from hall with weapon pointed at ofc's. Ofc discharged weapon as retreating.Airsoft AR-15 Carbine (toy gun) Phoenix Toy gun(air soft)
+
+72 7/7/2013 1 N Y L M 32 Domestic violence 4 1 H M Phoenix Police Department Officers responded to a domestic violence priority 1, upon arrival officers observed the suspect point a handgun at his fiancé. One officer fired 4 times, wounding the suspect.Substance (alcohol) may have been a factor based on witness statements. Phoenix
+
+73 7/6/2013 1 F N W M 35 Call for Service 2 1 W M Phoenix Police Department Ofc responded to poss domestic. Susp exited apt with two knives and came after ofc. Officer shot suspect two times in the head. Per subj father, subj was intoxicated. Phoenix Knife/ Sword
+
+74 7/11/2013 1 F Y L M 32 Assault 14 2 W; W M; M Phoenix Police Department Officers resp to 245-1/ Contacted SP on bicycle. Subj pulled gun from waist, pointed at officers. Officers fired at subj, mortally wounding him. Phoenix
+
+75 7/11/2013 1 N N W M 20 Drugs 5 1 W M Phoenix Police Department Traffic stop on suspects involved in drug transaction. Suspect fled in vehicle -U-turn in cul-de-sac heading directly at Ofc vehicle. Swerved missing it. Dif officer fired 5 rounds at car as it fled past him W/B believing the suspect rammed a PD vehicle. Phoenix Vehicle
+
+76 7/13/2013 1 N N B M 21 Armed robbery 1 1 W M Phoenix Police Department Ofc's are advised of armed (knife) robbery. Ofc locates SP vehicle and follows. SP vehicle crashes. Ofc approaches SP veh and contacts SP in driver's seat. Ofc believes SP reaching for his (Ofc) gun and is touched on hand by SP. Discharges one round.No pursuit. Phoenix Reached for Officer's Gun
+
+77 8/5/2013 1 F N L M 35 Domestic 21 2 W; B M; M Phoenix Police Department Ofcrs responded to a 415F and attempted to talk to the suspect through a bathroom door. Suspect, without warning, opened the door and attacked the officers with a machete. Both ofcrs were cut. Both ofcrs fired and killed the suspect. Phoenix Knife/ Sword
+
+78 8/21/2013 1 F N W M 37 Investigation 11 2 H; W M; M Phoenix Police Department MOU attempted to contact violent felon. Subj rammed MOU vehicle. Detectives thought detective in danger of being crushed. Fired weapons at SP to protect detective, although detective had changed location. Phoenix Vehicle
+
+79 9/7/2013 1 F Y L M 25 Shooting 3 1 H M Phoenix Police Department Report of subject shooting gun in the air and pointing at vehicles. Responding ofc found subject who ran from officer. Subject turned and pointed weapon. Ofc shot subject. Phoenix
+
+80 9/14/2013 1 F Y W M 31 Suspicious person 22 3 W; W; W M; F; M Phoenix Police Department Ofcrs respond to a 647 (susp person) and encounter subj with a handgun sitting outside an apartment, who will not comply or drop the gun. SAU responds. Subj used heroin prior and drank beer during the standoff. Negotiations attempted for 2 hours approx and failed as subjects drugs wore off. Subj became increasingly agitated. SAU planned on using flashbang, SAGE, and canine to end standoff, however, flashbang engulfed subj in smoke and SAU could not see him. Ofc 1 moved from cover to engage and was shot in the leg. Ofc 1 also shot subj. Ofcrs 2 and 3 also shot subj who died. A fourth Ofc who was not an OIS officer was shot by subj in the vest, the vest stopped the bullet, ofc sustained bruises. Phoenix
+
+81 9/20/2013 1 N N W M 31 Stolen car 31 5 H: H; H; W; W M; M; M; M; M Phoenix Police Department SP stole F550 - rammed numerous vehicles - hit PD motorcycle, rammed PD Tahoe head on. 5 ofcrs deployed firearms to stop the threat. Phoenix Vehicle
+
+82 10/12/2013 1 N N L M 22 Shooting 1 1 H F Phoenix Police Department Officer heard shot fired, subjects point out H/M in park. Officer observes him place U object under trash can. Makes contact, subject non-compliant then makes quick movement to waistband. Officer believes he is reaching for a gun and fires one round. Subject struck in leg and taken into custody. Force used by subject prior to OIS - Lethal Instrument: Subjects in park believe Subject fired round at them. Weapon was placed under trash can as subject walked away from officer (U to officer). Subject used no force and had no weapon during OIS but reached for waistband. Officer believed subject was going for a gun. Phoenix
+
+83 11/3/2013 1 F N W M 52 Suicide 4 1 W M Phoenix Police Department Officers responded to M subject who threatened suicide. He charged at ofcrs with a knife. One ofc shot stopping the threat.Subject's girlfriend said the subject had been consuming alcohol prior to the incident. Phoenix Knife/ Sword
+
+84 12/1/2013 1 N Y B M 45 Domestic violence 5 3 W; W; W M; M; M Phoenix Police Department Patrol ofc does subject stop on SP of 245DV. SP shoots/misses at ofc. Foot pursuit / barricade of SP. SAU contains. SP points gun at SAU, who then fire at SP. Substance: Subject's wife said subject was drinking alcohol earlier in the day. Phoenix
+
+85 12/6/2013 1 F N W M 42 Assault 1 1 W M Phoenix Police Department Subj committed agg assault on neigh with hatchet, fled scene. Ofcs located subj and he threw a hatchet and knife at ofcs. Ofc deployed handgun 1x killing subj. Phoenix Knife/ Sword
+
+86 12/28/2013 1 F Y B M 41 Bank robbery 6 1 H M Phoenix Police Department Patrol ofc and Detective, driving separate responded to an U trouble at a bank, which was determined to be a valid robbery. Subject emerged from the bank and shot at patrol officer 4 times, striking his patrol vehicle. Detective observed the subjects actions and shot his handgun striking the subj in the neck and killing him. No other injuries. Subj was determined to have committed two additional bank robberies within the previous 5 days and during those crimes killed a police officer and seriously wounded another. Phoenix
+
+87 2/13/2014 1 F N L M 31 Traffic Stop 19 3 A; W; W M; M; M Phoenix Police Department Officer conducted traffic stop. Subj advanced on officer with sword. Officers fired. ECD's attempted unsuccessfully. Phoenix Knife/ Sword
+
+88 3/3/2014 1 N Y W M 43 Burglary 6 1 W M Phoenix Police Department Subjs committing burglary of gun store. 1 subj fled busn on foot carrying handgun. Ofcs pursued. Subj turned to fire at ofcs (3x), Det returned fire (6x). Subj gave up and was placed under arrest. No injuries. Phoenix
+
+89 3/3/2014 1 F Y W M 29 Investigation 23 2 A/W; W M; M Phoenix Police Department After a brief vehicle pursuit and foot chase, Officer 1 engaged subject in a gunfight. Ofc 2 could not fire. Officer 3 fired 2 rounds. Officer 1 fired 21 rounds. Subject 901H. Officer 1 901H. Officer 2 survived a GSW to abdomen. Officer 3 was not injured. Officr 2 could not fire because Officer 1 was in his line of fire. Officers were wearing police badges Phoenix
+
+90 3/15/2014 1 N N B M 33 Traffic Stop 1 1 H M Phoenix Police Department Subject ran from ofcr. Ofcr gave chase. Subject turned on the ofcr. Ofcr fired one round missing the subject who was then taken into custody. Phoenix
+
+91 3/13/2014 1 F N L M 26 Domestic violence 1 1 W M Phoenix Police Department Officers respond to a domestic violence call where the adult son is acting irrational and on heroin/family reported to suffer from mental issues. Subject does not respond to police commands and struggles with officers as they attempt to handcuff him. Lengthy fight ensues and subj reaches for ofcrs gun. ECD attempted multiple times without success. Ofcrs injured and exhausted after long fight. Subj is shot ending the threat. Phoenix Bodily Force
+
+92 3/18/2014 1 F N W M 27 Stolen car 1 1 W M Phoenix Police Department SP in stolen vehicle pointed gun at Det. Pursuit ensued thru city into downtown. SP "carjacked" another vehicle, then exited garage. Rammed by 3 P.D. vehicles before coming to stop. Furtive movements and knowledge of SP gun led to OIS. Later determined to be a BB gun. SP's passenger indicated SP was using meth/heroin during vehicle pursuit Phoenix BB Gun
+
+93 3/21/2014 1 N N B M 34 Shoplifting 1 1 W M Phoenix Police Department Ofc's respond to shoplifting. Suspect runs w/out merchandise. Ofc follows in veh. SP get into veh. Ofc contact breaks window ofc arm stuck as SP backs up. Ofc get free and discharged weapon as SP drove in his direction. Phoenix Vehicle
+
+94 3/23/2014 1 F N B M 26 Citizen Contact 2 1 W M Phoenix Police Department SP-1 physically attacked officer while officer was in his patrol vehicle, reached for officer's handgun x3 times. Officer fired duty weapon 2 times and struck SP-1. Drugs Related Phoenix Reached for Officer's Gun
+
+95 4/11/2014 1 F N L M 32 Ran from officers 6 1 W M Phoenix Police Department Subj contacted in apt complex, ran from ofcs. Ofc pursued on foot, physical struggle, subj obtained ofcs taser and tased him. Subj threatened to tase Ofc again, Ofc shot at subj 6 times, striking him 5 times. Deceased at scene. Phoenix Other - Taser
+
+96 5/3/2014 1 N N L M 24 Trespassing 1 1 W M Phoenix Police Department Ofc's responded to trespassing. Contact SP and get into foot pursuit. Based on info provided by complainants Ofc thought SP had a gun. SP suddenly stops, bends over, stands up with raised arm. Ofc discharged weapon - believed SP was going to shoot partner. SP threw rocks. Per family, sp suffers from mental illness Phoenix Other - Rocks
+
+97 5/27/2014 1 N N U M 27 Suicide 1 1 H M Phoenix Police Department Ofcs responded to a medical office building regarding a subject who was acting violent and erratic, and had threatened suicide. Ofcrs arrived and attempted the taser several times without success. The subject ran at an ofcr holding a screwdriver and a syringe and the officer shot the subj one time, striking him in the chest. The subject survived and told investigators that he was trying to suicide by cop. Phoenix Knife/ Sword
+
+98 7/28/2014 1 N Y L F 31 Serving Arrest Warrant 8 2 H; W M; M Phoenix Police Department Officers attempted to arrest a subject with a felony warrant when she fled in a vehicle. After a tactical surveillance was initiated the subject was in an apartment complex parking lot and unable to escape in her vehicle. She then pointed a handgun at two officers who both shot at the subject. The subject was struck twice but survived. She told investigators she wanted to suicide by cop, subj admitted to smoking meth Phoenix
+
+99 8/3/2014 1 F Y U M 24 Burglary 34 5 W; W; W; H; W M; M; M; M; F Phoenix Police Department Five ofcrs responded to a residential burglary and found the subject on a rooftop. The subject fired two rounds at the ofcrs, jumped off roof in the middle of the officer. Ofcrs fired back and killed the subject. No injury to ofcrs. Crossfire situation Phoenix

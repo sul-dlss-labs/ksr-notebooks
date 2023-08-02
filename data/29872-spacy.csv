@@ -1,0 +1,40 @@
+text,label,fe_id
+"4:12 p.m. - March 23, 2021",TIME,29872
+two,CARDINAL,29872
+U.S.,GPE,29872
+Reed Point,ORG,29872
+Columbus,GPE,29872
+35-mile,QUANTITY,29872
+Interstate 90,FAC,29872
+Tuesday afternoon,TIME,29872
+Timothy Hornung,PERSON,29872
+the Marshals-,FAC,29872
+Montana Violent Offenders Task Force,ORG,29872
+Georgia,GPE,29872
+The Montana Highway Patrol,ORG,29872
+Laurel,ORG,29872
+Stillwater County,GPE,29872
+The U.S. Marshals,ORG,29872
+the Stillwater County Sheriff's Office,ORG,29872
+11 a.m.,TIME,29872
+399,CARDINAL,29872
+Hornung,PERSON,29872
+two,CARDINAL,29872
+Hornung,PRODUCT,29872
+The USMS Office of Professional Responsibility,ORG,29872
+the Montana Department of Justice,ORG,29872
+Division of Criminal Investigations,ORG,29872
+first,ORDINAL,29872
+"12:55 p.m. - March 23, 2021",TIME,29872
+Interstate 90,FAC,29872
+Reed Point,ORG,29872
+Tuesday,DATE,29872
+morning,TIME,29872
+the Montana Highway Patrol Facebook,ORG,29872
+between mile,QUANTITY,29872
+398,CARDINAL,29872
+399,CARDINAL,29872
+11 a.m.,TIME,29872
+Stillwater County Newsreports,PERSON,29872
+Springtime,WORK_OF_ART,29872
+last two hours,TIME,29872

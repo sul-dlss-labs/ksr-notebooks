@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,18130
+United States,GPE,18130
+Canada Mexico,GPE,18130
+United Mexican,GPE,18130
+Bahamas,GPE,18130
+Commonwealth,GPE,18130
+Cuba,GPE,18130
+"Republic of Dominican Republic Haiti,",GPE,18130
+Republic of Jamaica,GPE,18130
+Afghanistan,GPE,18130
+Albania,GPE,18130
+People's Socialist Republic,ORG,18130
+Algeria,GPE,18130
+People's Democratic Republic of American,GPE,18130
+Angola,GPE,18130
+Republic of Anguilla Antarctica,ORG,18130
+South,LOC,18130
+Barbuda Argentina,PERSON,18130
+Argentine Republic,GPE,18130
+Armenia Aruba,PERSON,18130
+Australia,GPE,18130
+Commonwealth,GPE,18130
+Austria,GPE,18130
+Republic of Bahrain,ORG,18130
+Belgium,GPE,18130
+Kingdom of Belize Benin,ORG,18130
+People's Republic of Bermuda Bhutan,GPE,18130
+Kingdom of Bolivia,GPE,18130
+Republic of Bosnia,GPE,18130
+Botswana,GPE,18130
+Republic of Bouvet Island,ORG,18130
+Bouvetoya,GPE,18130
+Brazil,GPE,18130
+Federative Republic,GPE,18130
+British Virgin,GPE,18130
+Bulgaria,GPE,18130
+People's Republic of Burkina Faso Burundi,GPE,18130
+Republic of Cambodia,GPE,18130
+Kingdom of Cameroon,GPE,18130
+United Republic of Cape Verde,GPE,18130
+"Republic of Cayman Islands Central African Republic Chad,",ORG,18130
+Republic of Chile,ORG,18130
+Republic of China,ORG,18130
+People's Republic of Christmas Island,GPE,18130
+Colombia,GPE,18130
+Union of the Congo,ORG,18130
+Democratic Republic of Congo,GPE,18130
+People's Republic of Cook,GPE,18130
+Costa Rica,GPE,18130
+Ivory Coast,GPE,18130
+Republic Denmark,GPE,18130
+Kingdom of Djibouti,GPE,18130
+Republic of Dominica,GPE,18130
+Commonwealth,GPE,18130
+Ecuador,GPE,18130
+Republic of Egypt,GPE,18130
+Arab Republic,GPE,18130
+El Salvador,GPE,18130
+Republic of Equatorial Guinea,GPE,18130
+Republic of Eritrea,GPE,18130
+Estonia,GPE,18130
+Ethiopia,GPE,18130
+Malvinas,GPE,18130
+Fiji,GPE,18130
+Republic of the Fiji Islands Finland,ORG,18130
+Republic of France,GPE,18130
+French,NORP,18130
+French,NORP,18130
+Guiana,PERSON,18130
+French,NORP,18130
+Polynesia,GPE,18130
+Southern Territories Gabon,PRODUCT,18130
+Gabonese Republic Gambia,GPE,18130
+Georgia,GPE,18130
+Germany,GPE,18130
+Ghana,GPE,18130
+Republic of Gibraltar Greece,ORG,18130
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,18130
+Republic of Guinea,GPE,18130
+Revolutionary People's Rep'c,ORG,18130
+Guinea-Bissau,ORG,18130
+Republic of Heard,ORG,18130
+McDonald Islands Holy See,ORG,18130
+Vatican City State,GPE,18130
+Honduras,GPE,18130
+Republic of Hong Kong,GPE,18130
+Special Administrative Region of China,ORG,18130
+Hrvatska,PERSON,18130
+Croatia,GPE,18130
+Hungary,GPE,18130
+Hungarian People's Republic Iceland,PERSON,18130
+Republic of India,GPE,18130
+Republic of Indonesia,GPE,18130
+Republic of Iran,GPE,18130
+Islamic Republic of Iraq,GPE,18130
+Republic of Ireland,GPE,18130
+Israel,GPE,18130
+State of Italy,GPE,18130
+Italian,NORP,18130
+Japan,GPE,18130
+Jordan,GPE,18130
+Hashemite Kingdom of Kazakhstan,GPE,18130
+Republic of Kiribati,GPE,18130
+Republic of Korea,GPE,18130
+Democratic,NORP,18130
+Republic of Kuwait,ORG,18130
+Lao People's,PERSON,18130
+Latvia,GPE,18130
+Lebanon,GPE,18130
+Lebanese Republic Lesotho,GPE,18130
+Kingdom of Liberia,GPE,18130
+Lithuania Luxembourg,GPE,18130
+Special Administrative Region of China Macedonia,ORG,18130
+Yugoslav Republic of Madagascar,GPE,18130
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,18130
+Islamic Republic,GPE,18130
+Mayotte Micronesia,PERSON,18130
+Federated States,GPE,18130
+Moldova,GPE,18130
+Republic of Monaco,ORG,18130
+Principality,NORP,18130
+Morocco,GPE,18130
+Kingdom of Mozambique,ORG,18130
+Republic of Nepal,GPE,18130
+Netherlands,GPE,18130
+Kingdom,GPE,18130
+the New Caledonia New Zealand,ORG,18130
+Nicaragua,GPE,18130
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,18130
+Norway,GPE,18130
+Kingdom of Oman,GPE,18130
+Pakistan,GPE,18130
+Islamic Republic of,GPE,18130
+Occupied Panama,GPE,18130
+Republic of Peru,GPE,18130
+Republic of Philippines,GPE,18130
+Republic of the Pitcairn Island Poland,ORG,18130
+Polish,NORP,18130
+Republic Portugal,GPE,18130
+Portuguese Republic,GPE,18130
+Puerto Rico Qatar,GPE,18130
+State of Reunion Romania,ORG,18130
+Socialist Republic,GPE,18130
+Rwanda,GPE,18130
+Rwandese Republic Samoa,GPE,18130
+Independent State of San Marino,ORG,18130
+Republic of Sao Tome,ORG,18130
+Principe,GPE,18130
+Democratic Republic of Saudi Arabia,GPE,18130
+"Kingdom of Senegal, Republic of Serbia",GPE,18130
+Montenegro Seychelles,PERSON,18130
+Republic of Sierra Leone,ORG,18130
+Republic of Singapore,ORG,18130
+Republic of Slovakia,ORG,18130
+Slovak Republic,GPE,18130
+Slovenia Solomon Islands,GPE,18130
+Somalia,GPE,18130
+Somali Republic South Africa,GPE,18130
+Republic of South Georgia,GPE,18130
+Spain,GPE,18130
+Spanish,NORP,18130
+Sri Lanka,GPE,18130
+Democratic,NORP,18130
+Miquelon St. Vincent,PERSON,18130
+Democratic Republic,GPE,18130
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,18130
+Kingdom of Sweden,GPE,18130
+Kingdom of Switzerland,GPE,18130
+Swiss Confederation Syrian Arab Republic,ORG,18130
+Taiwan,GPE,18130
+China,GPE,18130
+Tanzania,GPE,18130
+United Republic of Thailand,GPE,18130
+Kingdom of Timor-Leste,GPE,18130
+Democratic Republic of Togo,GPE,18130
+Togolese Republic Tokelau,ORG,18130
+Tokelau,GPE,18130
+Tonga,GPE,18130
+Kingdom of Trinidad,ORG,18130
+Tobago,GPE,18130
+Republic of Tunisia,ORG,18130
+Republic of Turkey,GPE,18130
+Republic of Turkmenistan Turks,ORG,18130
+Uganda,GPE,18130
+Republic of Ukraine United Arab Emirates,GPE,18130
+United Kingdom of Great,GPE,18130
+Eastern Republic,GPE,18130
+Venezuela,GPE,18130
+Bolivarian Republic,GPE,18130
+Viet Nam,GPE,18130
+Socialist Republic,GPE,18130
+Yemen,GPE,18130
+Zambia,GPE,18130
+Republic of Zimbabwe,GPE,18130

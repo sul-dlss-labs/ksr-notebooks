@@ -1,0 +1,22 @@
+text,label,fe_id
+one,CARDINAL,31058
+the Tucson Police Department,ORG,31058
+Magnus,DATE,31058
+Tuesday,DATE,31058
+D.E.A.,ORG,31058
+Michael G. Garbo,PERSON,31058
+more than 16 years,DATE,31058
+United States,GPE,31058
+Kabul,GPE,31058
+Afghanistan,GPE,31058
+two,CARDINAL,31058
+the Sunset Limited Train 2,ORG,31058
+137,CARDINAL,31058
+11,CARDINAL,31058
+Los Angeles,GPE,31058
+New Orleans,GPE,31058
+Amtrak,ORG,31058
+8 a.m.,TIME,31058
+Tucson,GPE,31058
+about 15 minutes later,TIME,31058
+the Southern Arizona Transportation Museum,ORG,31058

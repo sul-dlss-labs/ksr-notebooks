@@ -1,0 +1,51 @@
+text,label,fe_id
+Omaha,GPE,6400
+two,CARDINAL,6400
+Taser,GPE,6400
+James C. Barnes,PERSON,6400
+21,DATE,6400
+"Aug. 4, 2007",DATE,6400
+four days,DATE,6400
+second,ORDINAL,6400
+Taser,GPE,6400
+first,ORDINAL,6400
+Taser,ORG,6400
+the Police Department,ORG,6400
+Tasers,ORG,6400
+2004,DATE,6400
+City,PERSON,6400
+Tom Mumgaard,PERSON,6400
+October 2007,DATE,6400
+Jelitha McKenney,PERSON,6400
+March 13,DATE,6400
+"26,488",MONEY,6400
+Clarence Mock,PERSON,6400
+McKenney,PERSON,6400
+Barnes,GPE,6400
+"July 20, 2007",DATE,6400
+Lance Harrison,PERSON,6400
+Dawn Pollreis,PERSON,6400
+Barnes,NORP,6400
+Barnes,NORP,6400
+One,CARDINAL,6400
+Barnes,GPE,6400
+the fall,DATE,6400
+Barnes,GPE,6400
+Mumgaard,PERSON,6400
+Harrison,PERSON,6400
+Pollreis,PERSON,6400
+Barnes,NORP,6400
+Mumgaard,PERSON,6400
+January 2007,DATE,6400
+Omaha,GPE,6400
+at least 10,CARDINAL,6400
+Thomas Warren,PERSON,6400
+Monte Williams,PERSON,6400
+23,DATE,6400
+2005,DATE,6400
+David Moss Jr.,PERSON,6400
+26,DATE,6400
+Omaha,GPE,6400
+Taser,ORG,6400
+Douglas County,GPE,6400
+PCP,ORG,6400

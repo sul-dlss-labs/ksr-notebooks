@@ -1,0 +1,19 @@
+text,label,fe_id
+Weather Alert,PERSON,5362
+8 PM,TIME,5362
+CDT,ORG,5362
+105,CARDINAL,5362
+110,CARDINAL,5362
+Mississippi,GPE,5362
+8 PM,TIME,5362
+CDT,PERSON,5362
+Wednesday,DATE,5362
+the next several days,DATE,5362
+105,CARDINAL,5362
+115 degrees,QUANTITY,5362
+the end of the week,DATE,5362
+PRECAUTIONARY,ORG,5362
+early morning,TIME,5362
+evening,TIME,5362
+the Occupational Safety and Health Administration,ORG,5362
+&&,ORG,5362

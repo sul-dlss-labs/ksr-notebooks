@@ -1,0 +1,42 @@
+text,label,fe_id
+30-year-old,DATE,13303
+Fort Morgan,ORG,13303
+Fort Morgan Police Department,ORG,13303
+early Friday,DATE,13303
+morning,TIME,13303
+Rick Santistevan,PERSON,13303
+30,DATE,13303
+Fort Morgan,GPE,13303
+Morgan County,GPE,13303
+Don Heer,PERSON,13303
+Santistevan,PERSON,13303
+Heer,PERSON,13303
+Friday,DATE,13303
+morning,TIME,13303
+Santistevan,PERSON,13303
+Two,CARDINAL,13303
+FMPD,ORG,13303
+700,CARDINAL,13303
+Prospect Street,FAC,13303
+12:31 a.m.,TIME,13303
+Friday,DATE,13303
+Santistevan,ORG,13303
+800,CARDINAL,13303
+Prospect,ORG,13303
+Taser,ORG,13303
+Santistevan,PERSON,13303
+CPR,ORG,13303
+third,ORDINAL,13303
+Santistevan,PERSON,13303
+Colorado Plains Medical Center,ORG,13303
+CPR,ORG,13303
+Santistevan,PERSON,13303
+700,CARDINAL,13303
+Prospect Street,FAC,13303
+Denver,GPE,13303
+Thirteenth,ORDINAL,13303
+the Morgan County Sheriff’s Office,ORG,13303
+Santistevan,ORG,13303
+Heer,PERSON,13303
+the Morgan County Sheriff’s Office,ORG,13303
+970,CARDINAL,13303

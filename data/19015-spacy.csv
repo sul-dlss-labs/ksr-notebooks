@@ -1,0 +1,49 @@
+text,label,fe_id
+One,CARDINAL,19015
+May 2015,DATE,19015
+Waco,GPE,19015
+Twin Peaks,PERSON,19015
+Gatesville,GPE,19015
+Trey Alston Short,PERSON,19015
+29,DATE,19015
+Temple,GPE,19015
+"Nov. 10, 2015",DATE,19015
+"the May 17, 2015",DATE,19015
+nine,CARDINAL,19015
+20,CARDINAL,19015
+Monday,DATE,19015
+Friday night,TIME,19015
+Gatesville,GPE,19015
+Harley Davidson,ORG,19015
+Waco,GPE,19015
+around 9:45 p.m.,TIME,19015
+Friday,DATE,19015
+1000,CARDINAL,19015
+West Main Street,LOC,19015
+Monday,DATE,19015
+About a minute later,TIME,19015
+Chevrolet,ORG,19015
+East Main Street,FAC,19015
+South Lovers Lane,LOC,19015
+Monday,DATE,19015
+2500,CARDINAL,19015
+East Main Street,LOC,19015
+34-year-old,DATE,19015
+Gatesville,ORG,19015
+13-year-old,DATE,19015
+Coryell Memorial Hospital,ORG,19015
+one,CARDINAL,19015
+second,ORDINAL,19015
+"Sept. 3, 2015",DATE,19015
+James “Spaz,ORG,19015
+Anderson,PERSON,19015
+53,DATE,19015
+Henderson,GPE,19015
+about three miles,QUANTITY,19015
+Chadron,GPE,19015
+Neb.,GPE,19015
+Anderson,PERSON,19015
+Anderson,PERSON,19015
+Army,ORG,19015
+Longview,PERSON,19015
+Bandidos,ORG,19015

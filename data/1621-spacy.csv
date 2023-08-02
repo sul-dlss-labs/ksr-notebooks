@@ -1,0 +1,17 @@
+text,label,fe_id
+New Jersey,GPE,1621
+first,ORDINAL,1621
+yesterday,DATE,1621
+The Newark Star Ledger,ORG,1621
+Santiago Villanueva,PERSON,1621
+the Dominican Republic,GPE,1621
+Villanueva,PERSON,1621
+35,DATE,1621
+April 16,DATE,1621
+four,CARDINAL,1621
+911,CARDINAL,1621
+Quick Cut,FAC,1621
+Bloomfield,GPE,1621
+Villanueva,PERSON,1621
+Bloomfield,GPE,1621
+Villanueva,PERSON,1621

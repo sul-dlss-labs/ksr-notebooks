@@ -1,0 +1,422 @@
+text,label,fe_id
+LAKE COUNTY,GPE,11949
+Calif.,GPE,11949
+last October,DATE,11949
+California Highway Patrol,FAC,11949
+Monday,DATE,11949
+Don Anderson,PERSON,11949
+Lake County News,FAC,11949
+Anderson,PERSON,11949
+last Oct. 24,DATE,11949
+Ronald Walter Ossenberg,PERSON,11949
+52,DATE,11949
+Orange County,GPE,11949
+CHP,ORG,11949
+2010,DATE,11949
+Toyota,ORG,11949
+Camry,PRODUCT,11949
+Anderson,PERSON,11949
+CHP,ORG,11949
+Erica Coddington,PERSON,11949
+Ossenberg,PERSON,11949
+nearly 40,CARDINAL,11949
+Ossenberg,PERSON,11949
+the Orange County Jail,LOC,11949
+"Oct. 3, 2012",DATE,11949
+three weeks,DATE,11949
+43 days,DATE,11949
+90 day,DATE,11949
+Anderson,PERSON,11949
+Oct. 9 and Oct. 14,DATE,11949
+Ossenberg,GPE,11949
+Fullerton,GPE,11949
+Highway 1,FAC,11949
+Cambria,GPE,11949
+6 a.m. Oct. 20,TIME,11949
+Hearst San Simeon State Park,ORG,11949
+Nick Chase,PERSON,11949
+the California Department of Parks and Recreation,ORG,11949
+Anderson,PERSON,11949
+Ossenberg,PERSON,11949
+Chase,ORG,11949
+Chase,ORG,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Oct. 23,DATE,11949
+Ashley Hendricks,ORG,11949
+the Golden Gate Bridge,FAC,11949
+Vista Point,LOC,11949
+Camry,PRODUCT,11949
+Ossenberg,PERSON,11949
+Anderson,PERSON,11949
+Ossenberg,PERSON,11949
+Lake County,GPE,11949
+Oct. 24,DATE,11949
+Anderson,PERSON,11949
+Ossenberg,PERSON,11949
+Camry,PRODUCT,11949
+Highway 29,FAC,11949
+C Street,FAC,11949
+Lower Lake,LOC,11949
+just before 2 p.m.,TIME,11949
+Coddington,PERSON,11949
+Camry,PRODUCT,11949
+Ossenberg,GPE,11949
+Anderson,PERSON,11949
+Ossenberg,PERSON,11949
+nearly three,CARDINAL,11949
+Coddington,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Coddington,PERSON,11949
+Anderson,PERSON,11949
+Gilberto Lopez III,PERSON,11949
+Coddington,PERSON,11949
+Ossenberg,PERSON,11949
+Anderson,PERSON,11949
+Coddington,PERSON,11949
+Ossenberg,GPE,11949
+Ossenberg,GPE,11949
+Camry,PRODUCT,11949
+Ossenberg,PERSON,11949
+Anderson,PERSON,11949
+Ossenberg,GPE,11949
+Ossenberg,PERSON,11949
+Lopez,GPE,11949
+Coddington,PERSON,11949
+one,CARDINAL,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Coddington,PERSON,11949
+Anderson,PERSON,11949
+Lopez,PERSON,11949
+Coddington,PERSON,11949
+Ossenberg,PERSON,11949
+Anderson,PERSON,11949
+Ossenberg,GPE,11949
+11th,ORDINAL,11949
+sixth,ORDINAL,11949
+seventh,ORDINAL,11949
+Coddington,PERSON,11949
+Ossenberg,PERSON,11949
+Anderson,PERSON,11949
+Ossenberg,GPE,11949
+Anderson,PERSON,11949
+Coddington,PERSON,11949
+Ossenberg,PERSON,11949
+Anderson,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Coddington,PERSON,11949
+Anderson,PERSON,11949
+Elizabeth Larson,PERSON,11949
+JavaScript,ORG,11949
+Twitter,PRODUCT,11949
+@ERLarson,PERSON,11949
+Lake County News,FAC,11949
+LAKE COUNTY,GPE,11949
+RONALD WALTER OSSENBERG,ORG,11949
+"OCTOBER 24, 2012
+
+",DATE,11949
+"October 24, 2012",DATE,11949
+California Highway Patrol Officer,FAC,11949
+Highway 29,FAC,11949
+Lower Lake,LOC,11949
+California,GPE,11949
+Ronald Walter Ossenberg,PERSON,11949
+the Orange County Superior Court,ORG,11949
+Ronald Walter Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+one,CARDINAL,11949
+Ossenberg,GPE,11949
+Ronald Walter Ossenberg,PERSON,11949
+California Penal Code Section 196,ORG,11949
+the Lake County Law Enforcement Fatal Incident Protocol,ORG,11949
+2012,DATE,11949
+Lake County,GPE,11949
+Investigation Division,ORG,11949
+the CHP Critical Incident Investigation Team,ORG,11949
+the Lake County Sheriff’s Department,FAC,11949
+the Clear Lake Police Department,ORG,11949
+California State,ORG,11949
+the Lake County Law Enforcement Fatal Incident Protocol,ORG,11949
+2012,DATE,11949
+Ronald Walter Ossenberg,PERSON,11949
+Orange County,GPE,11949
+"October 3, 2012",DATE,11949
+Ossenberg,PERSON,11949
+Ronald Ossenberg’s,PERSON,11949
+"October 9, 1980",DATE,11949
+2 days,DATE,11949
+"February 2, 1982",DATE,11949
+"February 20, 1982",DATE,11949
+"June 22, 1988",DATE,11949
+"July 30, 1990",DATE,11949
+200 days,DATE,11949
+"September 27, 1990",DATE,11949
+200 days,DATE,11949
+"October 6, 1990",DATE,11949
+200 days,DATE,11949
+"August 18, 1991",DATE,11949
+90 days,DATE,11949
+"September 20, 1991",DATE,11949
+90 days,DATE,11949
+"October 31, 1991",DATE,11949
+90 days,DATE,11949
+"February 20, 1993",DATE,11949
+15,CARDINAL,11949
+"June 5, 1993",DATE,11949
+240 days,DATE,11949
+"August 11, 1993",DATE,11949
+16 months,DATE,11949
+"September 14, 1996",DATE,11949
+20 days,DATE,11949
+"October 10, 1997",DATE,11949
+"May 19, 1998",DATE,11949
+160 days,DATE,11949
+"April 7, 1999",DATE,11949
+16 months,DATE,11949
+"May 28, 1999",DATE,11949
+"July 17, 2000",DATE,11949
+180 days,DATE,11949
+"December 26, 2001",DATE,11949
+August 19 2002,DATE,11949
+"January 13, 2003",DATE,11949
+"March 24, 2003",DATE,11949
+"June 3, 2005",DATE,11949
+two years,DATE,11949
+"August 21, 2005",DATE,11949
+two years,DATE,11949
+"September 19, 2006",DATE,11949
+"February 17, 2007",DATE,11949
+"December 7, 2007",DATE,11949
+"February 14, 2008",DATE,11949
+"August 20, 2008",DATE,11949
+"February 10, 2009",DATE,11949
+"July 31, 2009",DATE,11949
+"May 14, 2010",DATE,11949
+"February 22, 2011",DATE,11949
+30 days,DATE,11949
+"February 13, 2011",DATE,11949
+180 days,DATE,11949
+"October 1, 2011",DATE,11949
+90 days,DATE,11949
+"December 23, 2011",DATE,11949
+180 days,DATE,11949
+"August 21, 2012",DATE,11949
+"August 21, 2012",DATE,11949
+90 days,DATE,11949
+Ronald Wayne Ossenberg,PERSON,11949
+Orange County,GPE,11949
+"October 3, 2012",DATE,11949
+about 0236 hours,TIME,11949
+43 days,DATE,11949
+90 day,DATE,11949
+"Between October 9 and October 14, 2012",DATE,11949
+Ronald Walter Ossenberg,PERSON,11949
+2010,DATE,11949
+Toyota,ORG,11949
+Camry,PRODUCT,11949
+California,GPE,11949
+Fullerton,GPE,11949
+CA,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,ORG,11949
+Ossenberg,GPE,11949
+six to eight months,DATE,11949
+Ronald Ossenberg,PERSON,11949
+Highway 1,FAC,11949
+October 16,DATE,11949
+"17, 2012",DATE,11949
+Ossenberg,GPE,11949
+Christa Orndoff,PERSON,11949
+Mark Milligan,PERSON,11949
+Cambria,GPE,11949
+California,GPE,11949
+Ossenberg,PERSON,11949
+about four days,DATE,11949
+Ossenberg,ORG,11949
+Orndoff,ORG,11949
+Ossenberg,PERSON,11949
+Mark Milligan,PERSON,11949
+Orndoff,ORG,11949
+Ossenberg,PERSON,11949
+Cambria,GPE,11949
+Milligan,GPE,11949
+Ossenberg,GPE,11949
+Ossenberg,PERSON,11949
+Milligan,PERSON,11949
+Ossenberg,PERSON,11949
+Milligan,GPE,11949
+Milligan,GPE,11949
+Ossenberg,PERSON,11949
+"October 20, 2012",DATE,11949
+about 0600 hours,TIME,11949
+Ossenberg,PERSON,11949
+Nick Chase,PERSON,11949
+the California Department of Parks and Recreation,ORG,11949
+Ossenberg,PERSON,11949
+Toyota,ORG,11949
+the Santa Rosa Day,LOC,11949
+Hearst San Simeon State,ORG,11949
+about 5 miles,QUANTITY,11949
+Cambria,GPE,11949
+California,GPE,11949
+Officer Chase,GPE,11949
+Ossenberg,PERSON,11949
+Officer Chase,PERSON,11949
+Toyota,ORG,11949
+Ossenberg,PERSON,11949
+Toyota,ORG,11949
+Chase,ORG,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Officer Chase,PERSON,11949
+Christa Orndoff,PERSON,11949
+Ossenberg,PERSON,11949
+"October 21, 2012",DATE,11949
+about 1900 hours,TIME,11949
+Cambria,GPE,11949
+Ossenberg,PERSON,11949
+"October 21, 2012 between 2130 and 2200 hours",DATE,11949
+Cambria,GPE,11949
+"October 23, 2012",DATE,11949
+about 1400 hours,TIME,11949
+Ashley Hendricks,ORG,11949
+the Golden Gate Bridge,FAC,11949
+Vista Point,LOC,11949
+Lake County,GPE,11949
+Ossenberg,PERSON,11949
+"October 24, 2012",DATE,11949
+Ossenberg,GPE,11949
+Lake County,GPE,11949
+2010,DATE,11949
+Toyota,ORG,11949
+Camry,PRODUCT,11949
+Highway 29,FAC,11949
+Lower Lake,LOC,11949
+California,GPE,11949
+1:57 p.m.,TIME,11949
+CHP,ORG,11949
+2010,DATE,11949
+Toyota,ORG,11949
+Camry,PRODUCT,11949
+Ossenberg,PERSON,11949
+52 year old,DATE,11949
+6’1,CARDINAL,11949
+about 220 pounds,QUANTITY,11949
+1:58 p.m.,TIME,11949
+Ossenberg,GPE,11949
+Ossenberg,PERSON,11949
+1:59:53 p.m.,TIME,11949
+2:02:34 p.m.,TIME,11949
+CHP,ORG,11949
+Ossenberg,GPE,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ronald Ossenberg,PERSON,11949
+Gilberto Lopez III,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Gilberto Lopez,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Lopez,GPE,11949
+one,CARDINAL,11949
+Ossenberg,GPE,11949
+Ossenberg,PERSON,11949
+eleventh,ORDINAL,11949
+sixth,ORDINAL,11949
+seventh,ORDINAL,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Highway 29,FAC,11949
+Ossenberg,PERSON,11949
+Highway 29,FAC,11949
+Ossenberg,PERSON,11949
+2:03 p.m.,TIME,11949
+Ossenberg,PERSON,11949
+first,ORDINAL,11949
+first,ORDINAL,11949
+Ossenberg,GPE,11949
+Ossenberg,PERSON,11949
+California,GPE,11949
+California Penal Code Section,ORG,11949
+197,CARDINAL,11949
+1,CARDINAL,11949
+3,CARDINAL,11949
+People v. Sonier,PERSON,11949
+113 Cal,QUANTITY,11949
+277,CARDINAL,11949
+278,CARDINAL,11949
+People v. Flores,PERSON,11949
+2013,DATE,11949
+372,CARDINAL,11949
+Citation,PRODUCT,11949
+People v. Escobar,ORG,11949
+1992,DATE,11949
+3,CARDINAL,11949
+Cal.4th,ORG,11949
+740,CARDINAL,11949
+750,CARDINAL,11949
+People v. Kent,PERSON,11949
+1979,DATE,11949
+96 Cal,QUANTITY,11949
+130,CARDINAL,11949
+136,CARDINAL,11949
+California Penal Code Section 196,ORG,11949
+Justifiable,PERSON,11949
+1,CARDINAL,11949
+2,CARDINAL,11949
+3,CARDINAL,11949
+Munoz v. City of Union City,GPE,11949
+120 Cal,QUANTITY,11949
+"1077, 1102",DATE,11949
+120 Cal,QUANTITY,11949
+1109,DATE,11949
+17,CARDINAL,11949
+Martinez,GPE,11949
+Los Angeles,GPE,11949
+1996,DATE,11949
+Cal,PERSON,11949
+334,CARDINAL,11949
+349,CARDINAL,11949
+Penal Code,LAW,11949
+196,PRODUCT,11949
+Martinez,PERSON,11949
+Los Angeles,GPE,11949
+1996,DATE,11949
+Cal,PERSON,11949
+334,CARDINAL,11949
+Brown,PERSON,11949
+171 Cal,QUANTITY,11949
+4th 516,CARDINAL,11949
+533,CARDINAL,11949
+Ronald Walter Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+one,CARDINAL,11949
+Ossenberg,GPE,11949
+Ronald Walter Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Ossenberg,PERSON,11949
+Gilberto Lopez,PERSON,11949
+the Lake County District,GPE,11949
+Ronald Walter Ossenberg’s,PERSON,11949
+Penal Code Sections,ORG,11949
+196,CARDINAL,11949
+197,CARDINAL,11949
+Don A. Anderson,PERSON,11949
+Lake County,GPE,11949

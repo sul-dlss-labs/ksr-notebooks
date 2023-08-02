@@ -1,0 +1,35 @@
+text,label,fe_id
+NORTH ST,LOC,22631
+second,ORDINAL,22631
+Saturday,DATE,22631
+a day,DATE,22631
+St. Louis County,GPE,22631
+one,CARDINAL,22631
+Demetric Loyd,PERSON,22631
+19,DATE,22631
+300,CARDINAL,22631
+Henquin Drive,PERSON,22631
+Ferguson,GPE,22631
+Saturday,DATE,22631
+"250,000",MONEY,22631
+St. Louis County,GPE,22631
+D'wayne Watson,PERSON,22631
+20,DATE,22631
+4000,CARDINAL,22631
+Fieldstone Drive,ORG,22631
+Florissant,PERSON,22631
+Watson,PERSON,22631
+21-year-old,DATE,22631
+around 11:40 a.m.,TIME,22631
+Friday,DATE,22631
+New Halls Ferry Road and Netherton Drive,ORG,22631
+Florissant,PERSON,22631
+St. Louis County,GPE,22631
+Loyd,PERSON,22631
+New Halls Ferry Road,ORG,22631
+Florissant,PERSON,22631
+Loyd,PERSON,22631
+Dodge,ORG,22631
+Watson,PERSON,22631
+approximately 90 mph,QUANTITY,22631
+Loyd,GPE,22631

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,28575
+Alabama,GPE,28575
+Alaska,GPE,28575
+Arizona,GPE,28575
+Arkansas,GPE,28575
+California,GPE,28575
+Colorado,GPE,28575
+Connecticut,GPE,28575
+Delaware,GPE,28575
+Florida,GPE,28575
+Georgia,GPE,28575
+Hawaii,GPE,28575
+Idaho,GPE,28575
+Indiana,GPE,28575
+Iowa,GPE,28575
+Kansas,GPE,28575
+Kentucky,GPE,28575
+Louisiana,GPE,28575
+Maine,GPE,28575
+Maryland,GPE,28575
+Massachusetts,GPE,28575
+Michigan,GPE,28575
+Minnesota,GPE,28575
+Mississippi,GPE,28575
+Missouri,GPE,28575
+Montana,GPE,28575
+Nebraska,GPE,28575
+Nevada,GPE,28575
+New Hampshire,GPE,28575
+New Jersey,GPE,28575
+Ohio,GPE,28575
+Oklahoma,GPE,28575
+Oregon,GPE,28575
+Pennsylvania,GPE,28575
+Rhode Island,GPE,28575
+Tennessee,GPE,28575
+Texas,GPE,28575
+Utah,GPE,28575
+Vermont,GPE,28575
+Virginia,GPE,28575
+Washington,GPE,28575
+Washington,GPE,28575
+D.C.,GPE,28575
+Wisconsin,GPE,28575
+Wyoming,GPE,28575
+US,GPE,28575
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,28575
+Marshall Islands American Samoa Federated States,ORG,28575
+Micronesia Guam,FAC,28575
+Alberta,GPE,28575
+Canada,GPE,28575
+British Columbia,GPE,28575
+Canada Manitoba,GPE,28575
+Canada,GPE,28575
+New Brunswick,GPE,28575
+Canada Newfoundland,PERSON,28575
+Canada,GPE,28575
+Canada,GPE,28575
+Canada Ontario,GPE,28575
+Canada,GPE,28575
+Edward Island,GPE,28575
+Canada Quebec,GPE,28575
+Canada,GPE,28575
+Saskatchewan,GPE,28575
+Canada Yukon Territory,ORG,28575
+Canada,GPE,28575
+Zip Code,PERSON,28575

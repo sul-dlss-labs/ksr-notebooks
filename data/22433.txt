@@ -1,0 +1,55 @@
+Hollywood police on Wednesday identified the two officers and the reckless driver they shot and killed last week.
+
+Police say Matthew Michael McTague, 48, of Boca Raton, rammed other motorists with his Jeep Grand Cherokee and tried to hit officers when they tried to stop and arrest him.
+
+The cops who fired their weapons are Carlos Perez, 29, and Karim Jaafar, 25, said Miranda Grossman, spokeswoman for the Hollywood Police Department.
+
+Both officers were hired by the agency in 2016, records show.
+
+McTague’s live-in fiancee of eight years, Susan Perry, 47, said Wednesday that she is certain McTague was suffering a hypoglycemic reaction when he was killed.
+
+She had witnessed McTague have adverse reactions to low blood sugar before, she said. “The erratic driving would be an expected thing for him to do.”
+
+“I can’t understand why they shot him,” she said. “He’s not criminal. He wasn’t fleeing. He would never not stop in his right mind.”
+
+McTague, who worked in pharmaceutical manufacturing, did not have a criminal record in Florida, records show.
+
+The trouble began Friday morning with a report of a reckless driver on Federal Highway near Sheridan Street in Hollywood.
+
+Officers tried three times to stop and arrest McTague, police said.
+
+Michael McTague, 48, of Boca Raton, (pictured with fiance Susan Perry) was shot and killed by Hollywood police on Sept. 15.
+
+The final attempt ended with police shooting McTague to death near Northeast Sixth Street and Federal Highway in Hallandale Beach.
+
+Bullet holes could be seen in McTague’s Jeep’s windows. McTague died at the scene.
+
+.ss-blurb-fblike{
+
+padding-left:10px;
+
+}
+
+.ss-blurb-fblike-heading {
+
+font-family: Georgia, Times New Roman, serif;
+
+font-weight: bold;
+
+}
+
+Like us on Facebook (function(d, s, id) {
+
+var js, fjs = d.getElementsByTagName(s)[0];
+
+if (d.getElementById(id)) return;
+
+js = d.createElement(s); js.id = id;
+
+js.src = “//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=728754867160252”;
+
+fjs.parentNode.insertBefore(js, fjs);
+
+}(document, ‘script’, ‘facebook-jssdk’));
+
+tealanez@sun-sentinel.com, 954-356-4542 or Twitter @talanez

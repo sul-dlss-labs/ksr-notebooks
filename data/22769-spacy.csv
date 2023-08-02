@@ -1,0 +1,35 @@
+text,label,fe_id
+1:30 p.m.,TIME,22769
+Saturday,DATE,22769
+The Kansas Bureau of Investigation,ORG,22769
+Sun City,GPE,22769
+Kansas,GPE,22769
+around 7:30 p.m.,TIME,22769
+Friday night,TIME,22769
+KBI,ORG,22769
+Barber County Sheriff's Office,ORG,22769
+around 6:30 p.m.,TIME,22769
+Main St.,ORG,22769
+Sun City,GPE,22769
+Kansas,GPE,22769
+200,CARDINAL,22769
+"W Main St.
+
+",ORG,22769
+KBI,ORG,22769
+one,CARDINAL,22769
+EMS,ORG,22769
+first,ORDINAL,22769
+KBI,ORG,22769
+Steven Myers,PERSON,22769
+42,CARDINAL,22769
+Sun City,GPE,22769
+KBI,ORG,22769
+Barber County,GPE,22769
+the Kansas Bureau of Investigation,ORG,22769
+one,CARDINAL,22769
+Sun City,GPE,22769
+Kansas,GPE,22769
+KBI,ORG,22769
+KBI,ORG,22769
+KWCH,ORG,22769

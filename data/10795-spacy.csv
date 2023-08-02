@@ -1,0 +1,21 @@
+text,label,fe_id
+two,CARDINAL,10795
+Southwest Baltimore,LOC,10795
+Friday,DATE,10795
+Anthony Stoakley,PERSON,10795
+52,DATE,10795
+Detective Kevin Brown,PERSON,10795
+Southwest District,LOC,10795
+Department,ORG,10795
+Anthony Guglielmi,PERSON,10795
+Homicides,PERSON,10795
+Edmondson Avenue,FAC,10795
+Denison Street,FAC,10795
+Gwynns Falls Park,FAC,10795
+minutes before 9 a.m.,TIME,10795
+two,CARDINAL,10795
+Stoakley,ORG,10795
+a few hours later,TIME,10795
+Detectives,ORG,10795
+two,CARDINAL,10795
+Brown,PERSON,10795

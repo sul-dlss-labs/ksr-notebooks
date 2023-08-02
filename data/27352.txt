@@ -1,0 +1,5 @@
+January 15, 2020 | Fort Worth, Texas
+
+How is the comparison calculated?
+
+The hash stored in the database is used as the identifier for this report, and can be seen in the URL. The hash from the Mainchain Tx is the hash sent to and stored on Mainchain. Finally, the "generated hash" is generated each time this page is loaded, using the same data used for the hash submitted to Mainchain.

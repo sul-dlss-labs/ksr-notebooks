@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7552
+Alabama,GPE,7552
+Alaska,GPE,7552
+Arizona,GPE,7552
+Arkansas,GPE,7552
+California,GPE,7552
+Colorado,GPE,7552
+Connecticut,GPE,7552
+Delaware,GPE,7552
+Florida,GPE,7552
+Georgia,GPE,7552
+Hawaii,GPE,7552
+Idaho,GPE,7552
+Indiana,GPE,7552
+Iowa,GPE,7552
+Kansas,GPE,7552
+Kentucky,GPE,7552
+Louisiana,GPE,7552
+Maine,GPE,7552
+Maryland,GPE,7552
+Massachusetts,GPE,7552
+Michigan,GPE,7552
+Minnesota,GPE,7552
+Mississippi,GPE,7552
+Missouri,GPE,7552
+Montana,GPE,7552
+Nebraska,GPE,7552
+Nevada,GPE,7552
+New Hampshire,GPE,7552
+New Jersey,GPE,7552
+Ohio,GPE,7552
+Oklahoma,GPE,7552
+Oregon,GPE,7552
+Pennsylvania,GPE,7552
+Rhode Island,GPE,7552
+Tennessee,GPE,7552
+Texas,GPE,7552
+Utah,GPE,7552
+Vermont,GPE,7552
+Virginia,GPE,7552
+Washington,GPE,7552
+Washington,GPE,7552
+D.C.,GPE,7552
+Wisconsin,GPE,7552
+Wyoming,GPE,7552
+US,GPE,7552
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7552
+Marshall Islands American Samoa Federated States,ORG,7552
+Micronesia Guam,FAC,7552
+Alberta,GPE,7552
+Canada,GPE,7552
+British Columbia,GPE,7552
+Canada Manitoba,GPE,7552
+Canada,GPE,7552
+New Brunswick,GPE,7552
+Canada Newfoundland,PERSON,7552
+Canada,GPE,7552
+Canada,GPE,7552
+Canada Ontario,GPE,7552
+Canada,GPE,7552
+Edward Island,GPE,7552
+Canada Quebec,GPE,7552
+Canada,GPE,7552
+Saskatchewan,GPE,7552
+Canada Yukon Territory,ORG,7552
+Canada,GPE,7552
+Zip Code,PERSON,7552

@@ -1,0 +1,70 @@
+text,label,fe_id
+ATLANTA,GPE,17263
+Georgia,GPE,17263
+25-year,DATE,17263
+two,CARDINAL,17263
+Atlanta,GPE,17263
+Friday,DATE,17263
+Greg Barney,PERSON,17263
+Riverdale,PERSON,17263
+Thursday,DATE,17263
+Todd Spivey,PERSON,17263
+two,CARDINAL,17263
+"about 15,000",CARDINAL,17263
+Jerand Ross,PERSON,17263
+Barney,PERSON,17263
+Clayton County,GPE,17263
+Riverdale,GPE,17263
+Atlanta,GPE,17263
+Barney,PERSON,17263
+Clayton County,GPE,17263
+Jerand Ross,PERSON,17263
+24,DATE,17263
+the Georgia Bureau of Investigation,ORG,17263
+Friday,DATE,17263
+Barney,PERSON,17263
+Ross,PERSON,17263
+Clayton County,GPE,17263
+Francisco Romero,PERSON,17263
+Ross,PERSON,17263
+Ross,PERSON,17263
+Romero,ORG,17263
+24-year-old,DATE,17263
+GBI,ORG,17263
+Ross,PERSON,17263
+Atlanta Medical Center,ORG,17263
+GBI,ORG,17263
+Scott Dutton,PERSON,17263
+Friday,DATE,17263
+Ross,PERSON,17263
+GBI,ORG,17263
+Ross,PERSON,17263
+two,CARDINAL,17263
+GBI,ORG,17263
+Ross,PERSON,17263
+GBI,ORG,17263
+Barney,PERSON,17263
+GBI,ORG,17263
+WSB-TV,ORG,17263
+two,CARDINAL,17263
+Frances Lee,PERSON,17263
+Barney,PERSON,17263
+Barney,PERSON,17263
+Riverdale,GPE,17263
+Hartsfield,GPE,17263
+Atlanta International Airport,FAC,17263
+2004,DATE,17263
+Barney,PERSON,17263
+first,ORDINAL,17263
+African-American,NORP,17263
+Riverdale,PERSON,17263
+five months,DATE,17263
+Atlanta,GPE,17263
+Barney,PERSON,17263
+the City of Riverdale,GPE,17263
+Clayton County Sheriff,WORK_OF_ART,17263
+Victor Hill,PERSON,17263
+Akeem Bivins,ORG,17263
+first,ORDINAL,17263
+Barney at Riverdale High School,ORG,17263
+Barney,PERSON,17263

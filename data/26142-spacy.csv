@@ -1,0 +1,103 @@
+text,label,fe_id
+"Wednesday, August 14th",DATE,26142
+two,CARDINAL,26142
+August 16th,DATE,26142
+the Auburn Examiner,FAC,26142
+May 20th,DATE,26142
+"Officer-Involved Shooting
+
+",EVENT,26142
+1:00 AM,TIME,26142
+Monday,DATE,26142
+May 20th,DATE,26142
+Palermo,GPE,26142
+Lake Tapps Pkwy,FAC,26142
+Enosa,PERSON,26142
+26,DATE,26142
+two,CARDINAL,26142
+Strickland,PERSON,26142
+Strickland,PERSON,26142
+one,CARDINAL,26142
+Strickland,PERSON,26142
+The Valley Investigation Team,ORG,26142
+Pierce County,PERSON,26142
+the Federal Way Police,ORG,26142
+June 10th,DATE,26142
+Kurt Schwan,PERSON,26142
+the Federal Way Police Department,ORG,26142
+last week,DATE,26142
+the Auburn Police Department,ORG,26142
+Adam Faber,PERSON,26142
+the Pierce County Prosecuting Attorney’s Office,ORG,26142
+Admin Leave,PERSON,26142
+June 15th,DATE,26142
+second,ORDINAL,26142
+May 28th,DATE,26142
+APD,ORG,26142
+Bill Pierson,PERSON,26142
+Kalyn Brady,PERSON,26142
+VIT,ORG,26142
+Commanders,ORG,26142
+one,CARDINAL,26142
+Brady,PERSON,26142
+Brady,PERSON,26142
+Strickland,PERSON,26142
+VIT,ORG,26142
+Brady,PERSON,26142
+May 31st,DATE,26142
+"Officer-Involved Shooting
+
+Officers",EVENT,26142
+6 PM,TIME,26142
+Friday,DATE,26142
+May 31st,DATE,26142
+Jesse Sarey,PERSON,26142
+the Sunshine Grocery Store,ORG,26142
+Auburn Way North,PERSON,26142
+Sarey,PERSON,26142
+Sarey,PERSON,26142
+Sarey,PERSON,26142
+Sarey,PERSON,26142
+Sarey,PERSON,26142
+Harborview Medical Center,ORG,26142
+June 1st,DATE,26142
+the May 20th,DATE,26142
+The Port of Seattle Police,FAC,26142
+the Valley Investigation Team,ORG,26142
+"Ongoing Investigation
+
+The investigation",WORK_OF_ART,26142
+Sarey,PERSON,26142
+Peter McGraw,PERSON,26142
+two,CARDINAL,26142
+Brady,PERSON,26142
+Brady,PERSON,26142
+Strickland,ORG,26142
+Sarey,PERSON,26142
+August 13th,DATE,26142
+Steve Stocker,PERSON,26142
+the June 28th,DATE,26142
+Lakeland Apartments,ORG,26142
+May 20th,DATE,26142
+four,CARDINAL,26142
+One,CARDINAL,26142
+three,CARDINAL,26142
+Stocker,ORG,26142
+two,CARDINAL,26142
+Multicare Auburn Medical Center,ORG,26142
+third,ORDINAL,26142
+Tacoma General Hospital,ORG,26142
+APD Detectives,PERSON,26142
+"Tuesday, August 20th",DATE,26142
+Auburn,ORG,26142
+Mark Klaas,PERSON,26142
+the Auburn Examiner,FAC,26142
+Irwin Gratz,PERSON,26142
+Society of Professional Ethics Committee,ORG,26142
+the SPJ Code of Ethics,LAW,26142
+SPJ Ethics Line,ORG,26142
+The Auburn Examiner,FAC,26142
+SPJ,ORG,26142
+"Radio, Television",ORG,26142
+Digital News Association,ORG,26142
+two,CARDINAL,26142

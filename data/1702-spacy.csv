@@ -1,0 +1,390 @@
+text,label,fe_id
+Laurel Drive,PERSON,1702
+El Dorado County,GPE,1702
+that night,TIME,1702
+the Sheriff’s Department’s Crime Scene Investigation,ORG,1702
+dozen,CARDINAL,1702
+CSI,ORG,1702
+four,CARDINAL,1702
+Steven Wallen,PERSON,1702
+two,CARDINAL,1702
+a long night,TIME,1702
+the next morning,TIME,1702
+Fire Engine,PERSON,1702
+17,CARDINAL,1702
+the Camino Fire Station,FAC,1702
+an area three feet,QUANTITY,1702
+one,CARDINAL,1702
+CSI,ORG,1702
+about 4:45 a.m.,TIME,1702
+Wallen,PERSON,1702
+El Dorado County,GPE,1702
+Rich Marshall,PERSON,1702
+Matt Underhill,PERSON,1702
+the Sheriff’s Department,ORG,1702
+2 a.m. to 3:45 a.m.,TIME,1702
+Tom Hoagland,PERSON,1702
+Paul Moschini,PERSON,1702
+the Sheriff’s Department,ORG,1702
+David Mastagni,PERSON,1702
+Marshall,PERSON,1702
+Underhill,PERSON,1702
+Hoagland,GPE,1702
+Moschini,PERSON,1702
+evening,TIME,1702
+El Dorado County Sheriff’s Department,GPE,1702
+Kevin House,PERSON,1702
+House,ORG,1702
+Wallen,PERSON,1702
+two,CARDINAL,1702
+SN&R,ORG,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall and Underhill,ORG,1702
+Steven Wallen’s,PERSON,1702
+three-eighths,CARDINAL,1702
+at least a dozen,CARDINAL,1702
+Marshall,PERSON,1702
+Sheriff’s Department,ORG,1702
+SN&R,ORG,1702
+San Diego,GPE,1702
+first,ORDINAL,1702
+Underhill,ORG,1702
+January 2001,DATE,1702
+Underhill,PERSON,1702
+the San Diego County Jail,FAC,1702
+South Lake Tahoe,GPE,1702
+Wallen,PERSON,1702
+San Diego,GPE,1702
+Marshall,PERSON,1702
+late spring,DATE,1702
+Marshall,PERSON,1702
+Underhill,PERSON,1702
+25,DATE,1702
+his fourth week,DATE,1702
+Marshall,PERSON,1702
+34-year-old,DATE,1702
+12-year,DATE,1702
+21 months,DATE,1702
+the San Diego County Sheriff’s Department,ORG,1702
+about 13 months,DATE,1702
+the San Diego Police Department,ORG,1702
+first,ORDINAL,1702
+8:30 p.m.,TIME,1702
+415,CARDINAL,1702
+2881,DATE,1702
+Laurel Drive,FAC,1702
+10-minute,TIME,1702
+Steven Wallen,PERSON,1702
+Hoagland,PERSON,1702
+so many 415,CARDINAL,1702
+Marshall,PERSON,1702
+Underhill,PERSON,1702
+Roberta Segura,PERSON,1702
+911,CARDINAL,1702
+Wallen,PERSON,1702
+Segura,ORG,1702
+Laurel Drive,FAC,1702
+Segura,PERSON,1702
+Ford,ORG,1702
+Segura,ORG,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Underhill,PERSON,1702
+Segura,PERSON,1702
+Segura,PERSON,1702
+Underhill,ORG,1702
+Segura,ORG,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Steven Wallen’s,PERSON,1702
+two,CARDINAL,1702
+Segura,ORG,1702
+58,DATE,1702
+Wallen,PERSON,1702
+years,DATE,1702
+5-foot-8-inch,QUANTITY,1702
+170-pound,QUANTITY,1702
+27-year-old,DATE,1702
+Wallen,PERSON,1702
+Harley-Davidson,ORG,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+handlebar grip,PERSON,1702
+Marshall,PERSON,1702
+tonight,TIME,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Underhill,ORG,1702
+Segura,ORG,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+about three or four,CARDINAL,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Rich,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Underhill,PERSON,1702
+Wallen,PERSON,1702
+Underhill,ORG,1702
+Wallen,PERSON,1702
+two-second,TIME,1702
+the Sheriff’s Department,ORG,1702
+Matt Underhill,PERSON,1702
+Rich Marshall,PERSON,1702
+Wallen,PERSON,1702
+first,ORDINAL,1702
+the El Dorado County Sheriff’s Department’s,GPE,1702
+Underhill,PERSON,1702
+San Diego,GPE,1702
+Marshall,PERSON,1702
+California,GPE,1702
+The California Commission,ORG,1702
+POST,ORG,1702
+664 hours,TIME,1702
+41,CARDINAL,1702
+Use of Force,WORK_OF_ART,1702
+20,CARDINAL,1702
+four,CARDINAL,1702
+POST,ORG,1702
+POST,ORG,1702
+California,GPE,1702
+Chapter six,LAW,1702
+Connie Bryant,PERSON,1702
+Mike McGovern,PERSON,1702
+Steven Wallen,PERSON,1702
+El Dorado County Sheriff’s,GPE,1702
+Larry Dalton,PERSON,1702
+four,CARDINAL,1702
+third,ORDINAL,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Underhill,ORG,1702
+Marshall,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+one,CARDINAL,1702
+Hoagland,PERSON,1702
+early the next morning,TIME,1702
+Hoagland,PERSON,1702
+Marshall,PERSON,1702
+Underhill,ORG,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Underhill,ORG,1702
+Underhill,ORG,1702
+five to 15 seconds,TIME,1702
+second,ORDINAL,1702
+Underhill,ORG,1702
+POST,ORG,1702
+Marshall,PERSON,1702
+POST,ORG,1702
+more than one,CARDINAL,1702
+California,GPE,1702
+1992,DATE,1702
+16-year-old,DATE,1702
+San Diego,GPE,1702
+1994,DATE,1702
+Los Angeles,GPE,1702
+the California Highway Patrol,ORG,1702
+Vietnam,GPE,1702
+CHP,ORG,1702
+"470,000",MONEY,1702
+Placerville Police Department,ORG,1702
+Marshall,PERSON,1702
+El Dorado County Sheriff’s,GPE,1702
+Kevin House,PERSON,1702
+Chris Cross,ORG,1702
+San Diego,GPE,1702
+POST,ORG,1702
+Underhill,ORG,1702
+Cross,ORG,1702
+Cross,ORG,1702
+Underhill,ORG,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+handcuff,GPE,1702
+Underhill,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Peerless,ORG,1702
+301,CARDINAL,1702
+Wallen,PERSON,1702
+second,ORDINAL,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Underhill,ORG,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Underhill,ORG,1702
+two days later,DATE,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+about 25 feet,QUANTITY,1702
+Segura,ORG,1702
+911,CARDINAL,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+one,CARDINAL,1702
+Wallen,PERSON,1702
+California,GPE,1702
+Chris Gill,PERSON,1702
+Peerless Handcuff Company,ORG,1702
+House,ORG,1702
+Wallen,PERSON,1702
+House,ORG,1702
+House,ORG,1702
+Wallen,PERSON,1702
+House,ORG,1702
+Underhill,ORG,1702
+two,CARDINAL,1702
+House,ORG,1702
+Wallen,PERSON,1702
+the Sheriff’s Department,ORG,1702
+Harley Davidson motorcycle,ORG,1702
+IE 7,LAW,1702
+three feet,QUANTITY,1702
+IE 14,LAW,1702
+IE 5,LAW,1702
+the Crime Scene Investigation,ORG,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+eight to 10 feet,TIME,1702
+Marshall,PERSON,1702
+first,ORDINAL,1702
+Underhill,PERSON,1702
+four,CARDINAL,1702
+three,CARDINAL,1702
+Wallen,PERSON,1702
+Marshall,PERSON,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+at least a dozen,CARDINAL,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Underhill,ORG,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+911,CARDINAL,1702
+The next day,DATE,1702
+House,ORG,1702
+the El Dorado County Sheriff’s Department,GPE,1702
+26-year-old,DATE,1702
+Steven B. Wallen,PERSON,1702
+two,CARDINAL,1702
+Wallen,PERSON,1702
+Wallen,PERSON,1702
+Ten days,DATE,1702
+the Sheriff’s Department,ORG,1702
+the Placerville Police Department,ORG,1702
+the El Dorado County,GPE,1702
+the Penal Code for the State of California,LAW,1702
+a week,DATE,1702
+Steven Wallen,PERSON,1702
+El Dorado County Sheriff’s Department,GPE,1702
+Wallen,PERSON,1702
+"Stephen James
+
+",PERSON,1702
+House,ORG,1702
+Sacramento Bee,ORG,1702
+two days,DATE,1702
+House,ORG,1702
+Bee,ORG,1702
+Peter Hecht,PERSON,1702
+House,ORG,1702
+Wallen,PERSON,1702
+House,ORG,1702
+Wallen,PERSON,1702
+Hecht,ORG,1702
+SN&R,ORG,1702
+House,ORG,1702
+House,ORG,1702
+Hoagland,GPE,1702
+Hoagland,PERSON,1702
+Hal Barker,PERSON,1702
+Jeff Neves,PERSON,1702
+Wallen,PERSON,1702
+hours,TIME,1702
+Wallen,PERSON,1702
+About a month and a half,DATE,1702
+El Dorado County,GPE,1702
+Gary Lacy,PERSON,1702
+California,GPE,1702
+the Sheriff’s Department,ORG,1702
+the Sheriff’s Department,ORG,1702
+El Dorado County,GPE,1702
+Monday,DATE,1702
+morning,TIME,1702
+Connie Bryant,PERSON,1702
+Wallen,PERSON,1702
+Sacramento,GPE,1702
+Stewart Katz,PERSON,1702
+Sacramento,GPE,1702
+Parker White,PERSON,1702
+Wallen,PERSON,1702
+Steven B. Wallen,PERSON,1702
+$2.5 million,MONEY,1702
+William Vizzard,PERSON,1702
+the Division of Criminal Justice,ORG,1702
+California State University,ORG,1702
+Sacramento,GPE,1702
+Wallen,PERSON,1702
+summer,DATE,1702
+Vizzard,PERSON,1702
+30 years,DATE,1702
+the San Diego County Jail,FAC,1702
+July 2001,DATE,1702
+Carlos Alberto Miranda,PERSON,1702
+San Diego County,GPE,1702
+Miranda,PERSON,1702
+the Sheriff’s Department,ORG,1702
+Marion Birge,PERSON,1702
+one,CARDINAL,1702
+three,CARDINAL,1702
+March of next year,DATE,1702
+more than three months,DATE,1702
+Steven Wallen,PERSON,1702
+Roberta Segura,PERSON,1702
+Wallen,PERSON,1702
+911,CARDINAL,1702

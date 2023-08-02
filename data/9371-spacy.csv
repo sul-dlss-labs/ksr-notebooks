@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9371
+Alabama,GPE,9371
+Alaska,GPE,9371
+Arizona,GPE,9371
+Arkansas,GPE,9371
+California,GPE,9371
+Colorado,GPE,9371
+Connecticut,GPE,9371
+Delaware,GPE,9371
+Florida,GPE,9371
+Georgia,GPE,9371
+Hawaii,GPE,9371
+Idaho,GPE,9371
+Indiana,GPE,9371
+Iowa,GPE,9371
+Kansas,GPE,9371
+Kentucky,GPE,9371
+Louisiana,GPE,9371
+Maine,GPE,9371
+Maryland,GPE,9371
+Massachusetts,GPE,9371
+Michigan,GPE,9371
+Minnesota,GPE,9371
+Mississippi,GPE,9371
+Missouri,GPE,9371
+Montana,GPE,9371
+Nebraska,GPE,9371
+Nevada,GPE,9371
+New Hampshire,GPE,9371
+New Jersey,GPE,9371
+Ohio,GPE,9371
+Oklahoma,GPE,9371
+Oregon,GPE,9371
+Pennsylvania,GPE,9371
+Rhode Island,GPE,9371
+Tennessee,GPE,9371
+Texas,GPE,9371
+Utah,GPE,9371
+Vermont,GPE,9371
+Virginia,GPE,9371
+Washington,GPE,9371
+Washington,GPE,9371
+D.C.,GPE,9371
+Wisconsin,GPE,9371
+Wyoming,GPE,9371
+US,GPE,9371
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9371
+Marshall Islands American Samoa Federated States,ORG,9371
+Micronesia Guam,FAC,9371
+Alberta,GPE,9371
+Canada,GPE,9371
+British Columbia,GPE,9371
+Canada Manitoba,GPE,9371
+Canada,GPE,9371
+New Brunswick,GPE,9371
+Canada Newfoundland,PERSON,9371
+Canada,GPE,9371
+Canada,GPE,9371
+Canada Ontario,GPE,9371
+Canada,GPE,9371
+Edward Island,GPE,9371
+Canada Quebec,GPE,9371
+Canada,GPE,9371
+Saskatchewan,GPE,9371
+Canada Yukon Territory,ORG,9371
+Canada,GPE,9371
+Zip Code,PERSON,9371

@@ -1,0 +1,32 @@
+text,label,fe_id
+Nassau County,GPE,10519
+a day,DATE,10519
+three,CARDINAL,10519
+Oyster Bay,LOC,10519
+March,DATE,10519
+21-year-old,DATE,10519
+Anthony DiGeronimo,PERSON,10519
+Nassau,NORP,10519
+Metropolitan Transportation Authority,ORG,10519
+Doerbecker,PERSON,10519
+the Buoy Bar,FAC,10519
+quarter-mile,QUANTITY,10519
+Lieutenant Smith,PERSON,10519
+911,CARDINAL,10519
+10:23 p.m.,TIME,10519
+third,ORDINAL,10519
+11:55 p.m.,TIME,10519
+911,CARDINAL,10519
+Lynbrook Drive,ORG,10519
+Allison Donnelly,PERSON,10519
+42,DATE,10519
+first,ORDINAL,10519
+three,CARDINAL,10519
+Doerbecker,PERSON,10519
+Donnelly,PERSON,10519
+Kurt Doerbecker,PERSON,10519
+Lieutenant Smith,PERSON,10519
+Lieutenant Smith,PERSON,10519
+At least 20,CARDINAL,10519
+Three,CARDINAL,10519
+One,CARDINAL,10519

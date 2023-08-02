@@ -1,0 +1,23 @@
+text,label,fe_id
+Hernan Rubalcaba,PERSON,11391
+35-year-old,DATE,11391
+Latino,PERSON,11391
+"Friday, June 1",DATE,11391
+2500,CARDINAL,11391
+Houston Street,FAC,11391
+Boyle Heights,GPE,11391
+Los Angeles County,GPE,11391
+5:50 a.m.,TIME,11391
+LAPD,ORG,11391
+Rosario Herrera,PERSON,11391
+Rubalcaba,GPE,11391
+Herrera,ORG,11391
+Rubalcaba,GPE,11391
+Coroner,ORG,11391
+Herrera,ORG,11391
+the Los Angeles Police Department,ORG,11391
+877,CARDINAL,11391
+Crime Stoppers,PERSON,11391
+222,CARDINAL,11391
+222-8477,DATE,11391
+Angel Jennings,PERSON,11391

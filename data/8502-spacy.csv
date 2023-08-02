@@ -1,0 +1,96 @@
+text,label,fe_id
+Salem,GPE,8502
+Creek,PERSON,8502
+Wednesday,DATE,8502
+morning,TIME,8502
+Sgt,PERSON,8502
+Mickey Hutchens,PERSON,8502
+Daniel Clark,PERSON,8502
+Scott Cunningham,PERSON,8502
+yesterday,DATE,8502
+"the Public Safety Center, Cunningham",ORG,8502
+Hutchens,ORG,8502
+Clark,PERSON,8502
+Monte Denard Evans,PERSON,8502
+35,DATE,8502
+Winston-Salem,GPE,8502
+Evans,PERSON,8502
+Bojangles,GPE,8502
+Peters Creek Parkway,WORK_OF_ART,8502
+Clark,PERSON,8502
+Evans,PERSON,8502
+Cunningham,ORG,8502
+Evans,PERSON,8502
+Hutchens,ORG,8502
+first,ORDINAL,8502
+Cunningham,ORG,8502
+Clark,PERSON,8502
+Evans,ORG,8502
+Cunningham,ORG,8502
+Hutchens,ORG,8502
+Hutchens,PERSON,8502
+Two,CARDINAL,8502
+Clark,PERSON,8502
+Cunningham,ORG,8502
+Clark,PERSON,8502
+less than two seconds,TIME,8502
+Cunningham,ORG,8502
+Evans,PERSON,8502
+Bojangles,ORG,8502
+Peters Creek Parkway,WORK_OF_ART,8502
+Wednesday,DATE,8502
+Sally Evans,PERSON,8502
+two,CARDINAL,8502
+Sally Evans,PERSON,8502
+Hutchens,ORG,8502
+Clark,PERSON,8502
+911,CARDINAL,8502
+about 10:30 a.m.,TIME,8502
+Monte Evans,PERSON,8502
+Evans,ORG,8502
+Clark,PERSON,8502
+Hutchens,ORG,8502
+"Evans, Cunningham",ORG,8502
+Cunningham,ORG,8502
+Evans,PERSON,8502
+Cunningham,PRODUCT,8502
+Clark,PERSON,8502
+Clark,PERSON,8502
+Clark,PERSON,8502
+Evans,PERSON,8502
+David Clayton,PERSON,8502
+the State Bureau of Investigation,ORG,8502
+yesterday,DATE,8502
+Clayton,PERSON,8502
+Clark,PERSON,8502
+next week,DATE,8502
+Clark,PERSON,8502
+Hutchens,ORG,8502
+Wake Forest University Baptist Medical Center,ORG,8502
+Cunningham,ORG,8502
+Clark,PERSON,8502
+Clark,PERSON,8502
+yesterday,DATE,8502
+afternoon,TIME,8502
+Hutchens,ORG,8502
+Cunningham,ORG,8502
+Hutchens,ORG,8502
+Cunningham,ORG,8502
+Hutchens,ORG,8502
+Hutchens,ORG,8502
+Cunningham,ORG,8502
+Hutchens,PERSON,8502
+Cunningham,ORG,8502
+Cunningham,ORG,8502
+Cunningham,ORG,8502
+about 100,CARDINAL,8502
+Corpening Plaza,GPE,8502
+Clark,GPE,8502
+Hutchens,ORG,8502
+Laura Spangler,PERSON,8502
+Lloyd Presbyterian Church,ORG,8502
+CHANGE,ORG,8502
+Communities Helping All Neighbors Gain Empowerment,ORG,8502
+Kevin Neff,PERSON,8502
+28,DATE,8502
+the U.S. Coast Guard,ORG,8502

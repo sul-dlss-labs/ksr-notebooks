@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,12660
+Alabama,GPE,12660
+Alaska,GPE,12660
+Arizona,GPE,12660
+Arkansas,GPE,12660
+California,GPE,12660
+Colorado,GPE,12660
+Connecticut,GPE,12660
+Delaware,GPE,12660
+Florida,GPE,12660
+Georgia,GPE,12660
+Hawaii,GPE,12660
+Idaho,GPE,12660
+Indiana,GPE,12660
+Iowa,GPE,12660
+Kansas,GPE,12660
+Kentucky,GPE,12660
+Louisiana,GPE,12660
+Maine,GPE,12660
+Maryland,GPE,12660
+Massachusetts,GPE,12660
+Michigan,GPE,12660
+Minnesota,GPE,12660
+Mississippi,GPE,12660
+Missouri,GPE,12660
+Montana,GPE,12660
+Nebraska,GPE,12660
+Nevada,GPE,12660
+New Hampshire,GPE,12660
+New Jersey,GPE,12660
+Ohio,GPE,12660
+Oklahoma,GPE,12660
+Oregon,GPE,12660
+Pennsylvania,GPE,12660
+Rhode Island,GPE,12660
+Tennessee,GPE,12660
+Texas,GPE,12660
+Utah,GPE,12660
+Vermont,GPE,12660
+Virginia,GPE,12660
+Washington,GPE,12660
+Washington,GPE,12660
+D.C.,GPE,12660
+Wisconsin,GPE,12660
+Wyoming,GPE,12660
+US,GPE,12660
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,12660
+Marshall Islands American Samoa Federated States,ORG,12660
+Micronesia Guam,FAC,12660
+Alberta,GPE,12660
+Canada,GPE,12660
+British Columbia,GPE,12660
+Canada Manitoba,GPE,12660
+Canada,GPE,12660
+New Brunswick,GPE,12660
+Canada Newfoundland,PERSON,12660
+Canada,GPE,12660
+Canada,GPE,12660
+Canada Ontario,GPE,12660
+Canada,GPE,12660
+Edward Island,GPE,12660
+Canada Quebec,GPE,12660
+Canada,GPE,12660
+Saskatchewan,GPE,12660
+Canada Yukon Territory,ORG,12660
+Canada,GPE,12660
+Zip Code,PERSON,12660

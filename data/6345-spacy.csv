@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6345
+Alabama,GPE,6345
+Alaska,GPE,6345
+Arizona,GPE,6345
+Arkansas,GPE,6345
+California,GPE,6345
+Colorado,GPE,6345
+Connecticut,GPE,6345
+Delaware,GPE,6345
+Florida,GPE,6345
+Georgia,GPE,6345
+Hawaii,GPE,6345
+Idaho,GPE,6345
+Indiana,GPE,6345
+Iowa,GPE,6345
+Kansas,GPE,6345
+Kentucky,GPE,6345
+Louisiana,GPE,6345
+Maine,GPE,6345
+Maryland,GPE,6345
+Massachusetts,GPE,6345
+Michigan,GPE,6345
+Minnesota,GPE,6345
+Mississippi,GPE,6345
+Missouri,GPE,6345
+Montana,GPE,6345
+Nebraska,GPE,6345
+Nevada,GPE,6345
+New Hampshire,GPE,6345
+New Jersey,GPE,6345
+Ohio,GPE,6345
+Oklahoma,GPE,6345
+Oregon,GPE,6345
+Pennsylvania,GPE,6345
+Rhode Island,GPE,6345
+Tennessee,GPE,6345
+Texas,GPE,6345
+Utah,GPE,6345
+Vermont,GPE,6345
+Virginia,GPE,6345
+Washington,GPE,6345
+Washington,GPE,6345
+D.C.,GPE,6345
+Wisconsin,GPE,6345
+Wyoming,GPE,6345
+US,GPE,6345
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6345
+Marshall Islands American Samoa Federated States,ORG,6345
+Micronesia Guam,FAC,6345
+Alberta,GPE,6345
+Canada,GPE,6345
+British Columbia,GPE,6345
+Canada Manitoba,GPE,6345
+Canada,GPE,6345
+New Brunswick,GPE,6345
+Canada Newfoundland,PERSON,6345
+Canada,GPE,6345
+Canada,GPE,6345
+Canada Ontario,GPE,6345
+Canada,GPE,6345
+Edward Island,GPE,6345
+Canada Quebec,GPE,6345
+Canada,GPE,6345
+Saskatchewan,GPE,6345
+Canada Yukon Territory,ORG,6345
+Canada,GPE,6345
+Zip Code,PERSON,6345

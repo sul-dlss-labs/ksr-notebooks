@@ -1,0 +1,47 @@
+text,label,fe_id
+two,CARDINAL,11290
+Chicago,GPE,11290
+Little Village,GPE,11290
+third,ORDINAL,11290
+John W. Givens,PERSON,11290
+Leland Dudley,PERSON,11290
+32,CARDINAL,11290
+Monday,DATE,11290
+morning,TIME,11290
+Mike's Electronics,ORG,11290
+Ogden District,LOC,11290
+2400,CARDINAL,11290
+South Western Avenue,LOC,11290
+between 2:30 a.m.,TIME,11290
+2:45 a.m.,TIME,11290
+Monday,DATE,11290
+three,CARDINAL,11290
+Pat Camden,PERSON,11290
+the Fraternal Order of Police,ORG,11290
+three,CARDINAL,11290
+Givens,PERSON,11290
+Dudley,PERSON,11290
+David Strong,PERSON,11290
+27,DATE,11290
+Camden,GPE,11290
+Camden,GPE,11290
+Camden,GPE,11290
+Strong,PERSON,11290
+1600,CARDINAL,11290
+North Lockwood Avenue,FAC,11290
+Cook County,GPE,11290
+two,CARDINAL,11290
+Stroger Hospital,ORG,11290
+Mount Sinai Hospital,ORG,11290
+Camden,GPE,11290
+Camden,GPE,11290
+Givens,PERSON,11290
+Dudley,PERSON,11290
+Strong,PERSON,11290
+Givens,PERSON,11290
+three,CARDINAL,11290
+Dudley,PERSON,11290
+2002,DATE,11290
+2004,DATE,11290
+later today,TIME,11290
+@MidNoirCowboy,ORG,11290

@@ -1,0 +1,21 @@
+text,label,fe_id
+AP,ORG,3609
+Saturday,DATE,3609
+one,CARDINAL,3609
+Department of Public Safety,ORG,3609
+Sgt,PERSON,3609
+Bob Ticer,PERSON,3609
+Interstate 17,FAC,3609
+New River,LOC,3609
+Saturday,DATE,3609
+second,ORDINAL,3609
+Taser,ORG,3609
+one,CARDINAL,3609
+Ticer,PERSON,3609
+second,ORDINAL,3609
+first,ORDINAL,3609
+two,CARDINAL,3609
+Saturday,DATE,3609
+an hour,TIME,3609
+Ticer,PERSON,3609
+Arizona Daily Sun,ORG,3609

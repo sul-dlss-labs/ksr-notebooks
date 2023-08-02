@@ -1,0 +1,31 @@
+text,label,fe_id
+Sgt,PERSON,8010
+William Flores,PERSON,8010
+Mauricio Jaquez,PERSON,8010
+Alec Tabak,PERSON,8010
+New York Daily News,ORG,8010
+Manhattan,GPE,8010
+NYPD Sgt,ORG,8010
+William Flores,PERSON,8010
+2009,DATE,8010
+Mauricio Jaquez,PERSON,8010
+Flores,PERSON,8010
+fifth,ORDINAL,8010
+five,CARDINAL,8010
+Bronx,GPE,8010
+Mauricio Jaquez,PERSON,8010
+Flores,PERSON,8010
+Mauricio Jaquez,PERSON,8010
+seven,CARDINAL,8010
+Flores,PERSON,8010
+just two hours,TIME,8010
+Mauricio Jaquez,PERSON,8010
+fifth,ORDINAL,8010
+Zachary Margulis-Ohnuma,PERSON,8010
+Jaquez,ORG,8010
+Flores,PERSON,8010
+Patricia Miller,PERSON,8010
+Flores,PERSON,8010
+NYPD,ORG,8010
+Miller,PERSON,8010
+second,ORDINAL,8010

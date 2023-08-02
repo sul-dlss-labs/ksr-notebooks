@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,20529
+Alabama,GPE,20529
+Alaska,GPE,20529
+Arizona,GPE,20529
+Arkansas,GPE,20529
+California,GPE,20529
+Colorado,GPE,20529
+Connecticut,GPE,20529
+Delaware,GPE,20529
+Florida,GPE,20529
+Georgia,GPE,20529
+Hawaii,GPE,20529
+Idaho,GPE,20529
+Indiana,GPE,20529
+Iowa,GPE,20529
+Kansas,GPE,20529
+Kentucky,GPE,20529
+Louisiana,GPE,20529
+Maine,GPE,20529
+Maryland,GPE,20529
+Massachusetts,GPE,20529
+Michigan,GPE,20529
+Minnesota,GPE,20529
+Mississippi,GPE,20529
+Missouri,GPE,20529
+Montana,GPE,20529
+Nebraska,GPE,20529
+Nevada,GPE,20529
+New Hampshire,GPE,20529
+New Jersey,GPE,20529
+Ohio,GPE,20529
+Oklahoma,GPE,20529
+Oregon,GPE,20529
+Pennsylvania,GPE,20529
+Rhode Island,GPE,20529
+Tennessee,GPE,20529
+Texas,GPE,20529
+Utah,GPE,20529
+Vermont,GPE,20529
+Virginia,GPE,20529
+Washington,GPE,20529
+Washington,GPE,20529
+D.C.,GPE,20529
+Wisconsin,GPE,20529
+Wyoming,GPE,20529
+US,GPE,20529
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,20529
+Marshall Islands American Samoa Federated States,ORG,20529
+Micronesia Guam,FAC,20529
+Alberta,GPE,20529
+Canada,GPE,20529
+British Columbia,GPE,20529
+Canada Manitoba,GPE,20529
+Canada,GPE,20529
+New Brunswick,GPE,20529
+Canada Newfoundland,PERSON,20529
+Canada,GPE,20529
+Canada,GPE,20529
+Canada Ontario,GPE,20529
+Canada,GPE,20529
+Edward Island,GPE,20529
+Canada Quebec,GPE,20529
+Canada,GPE,20529
+Saskatchewan,GPE,20529
+Canada Yukon Territory,ORG,20529
+Canada,GPE,20529
+Zip Code,PERSON,20529

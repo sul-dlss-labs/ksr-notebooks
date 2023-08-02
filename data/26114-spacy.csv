@@ -1,0 +1,25 @@
+text,label,fe_id
+CHICAGO,GPE,26114
+Chicago,GPE,26114
+Wednesday,DATE,26114
+1300,DATE,26114
+East 61st Street,DATE,26114
+around 10:45 a.m.,TIME,26114
+Myles Frazier,PERSON,26114
+22,DATE,26114
+Frazier,PERSON,26114
+at least five,CARDINAL,26114
+six,CARDINAL,26114
+Ozzie Valdez,EVENT,26114
+Frazier,PERSON,26114
+SWAT,ORG,26114
+SWAT,ORG,26114
+Frazier,PERSON,26114
+SWAT,ORG,26114
+Valdez,WORK_OF_ART,26114
+Frazier,PERSON,26114
+the University of Chicago Medical Center,ORG,26114
+The University of Chicago,ORG,26114
+a period of 30 days,DATE,26114
+the Civilian Office of Police Accountability,ORG,26114
+41.783985,CARDINAL,26114

@@ -1,0 +1,17 @@
+text,label,fe_id
+McAllen PD,PERSON,31475
+Wednesday,DATE,31475
+McAllen,PERSON,31475
+the McAllen Police Department,ORG,31475
+1400,CARDINAL,31475
+South 10th Street,DATE,31475
+Wednesday,DATE,31475
+10:17 a.m.,TIME,31475
+10th Street,FAC,31475
+10th Street,FAC,31475
+10th Street,FAC,31475
+three,CARDINAL,31475
+Less than 10 minutes,TIME,31475
+CPR,ORG,31475
+EMS,ORG,31475
+McAllen Medical Center,ORG,31475

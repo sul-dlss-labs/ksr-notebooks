@@ -1,0 +1,17 @@
+text,label,fe_id
+Weather Alert,PERSON,27728
+FRIDAY,DATE,27728
+104,CARDINAL,27728
+113,CARDINAL,27728
+Upper Santa Cruz River,GPE,27728
+Tucson Metro Area,ORG,27728
+South Central Pinal County,GPE,27728
+Southeast Pinal County,GPE,27728
+Upper Gila River Valley,LOC,27728
+late Friday morning,TIME,27728
+Sunday,DATE,27728
+evening,TIME,27728
+PRECAUTIONARY,ORG,27728
+CDC,ORG,27728
+minutes,TIME,27728
+&&,ORG,27728

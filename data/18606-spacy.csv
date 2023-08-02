@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,18606
+Alabama,GPE,18606
+Alaska,GPE,18606
+Arizona,GPE,18606
+Arkansas,GPE,18606
+California,GPE,18606
+Colorado,GPE,18606
+Connecticut,GPE,18606
+Delaware,GPE,18606
+Florida,GPE,18606
+Georgia,GPE,18606
+Hawaii,GPE,18606
+Idaho,GPE,18606
+Indiana,GPE,18606
+Iowa,GPE,18606
+Kansas,GPE,18606
+Kentucky,GPE,18606
+Louisiana,GPE,18606
+Maine,GPE,18606
+Maryland,GPE,18606
+Massachusetts,GPE,18606
+Michigan,GPE,18606
+Minnesota,GPE,18606
+Mississippi,GPE,18606
+Missouri,GPE,18606
+Montana,GPE,18606
+Nebraska,GPE,18606
+Nevada,GPE,18606
+New Hampshire,GPE,18606
+New Jersey,GPE,18606
+Ohio,GPE,18606
+Oklahoma,GPE,18606
+Oregon,GPE,18606
+Pennsylvania,GPE,18606
+Rhode Island,GPE,18606
+Tennessee,GPE,18606
+Texas,GPE,18606
+Utah,GPE,18606
+Vermont,GPE,18606
+Virginia,GPE,18606
+Washington,GPE,18606
+Washington,GPE,18606
+D.C.,GPE,18606
+Wisconsin,GPE,18606
+Wyoming,GPE,18606
+US,GPE,18606
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,18606
+Marshall Islands American Samoa Federated States,ORG,18606
+Micronesia Guam,FAC,18606
+Alberta,GPE,18606
+Canada,GPE,18606
+British Columbia,GPE,18606
+Canada Manitoba,GPE,18606
+Canada,GPE,18606
+New Brunswick,GPE,18606
+Canada Newfoundland,PERSON,18606
+Canada,GPE,18606
+Canada,GPE,18606
+Canada Ontario,GPE,18606
+Canada,GPE,18606
+Edward Island,GPE,18606
+Canada Quebec,GPE,18606
+Canada,GPE,18606
+Saskatchewan,GPE,18606
+Canada Yukon Territory,ORG,18606
+Canada,GPE,18606
+Zip Code,PERSON,18606

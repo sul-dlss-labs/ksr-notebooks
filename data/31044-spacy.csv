@@ -1,0 +1,19 @@
+text,label,fe_id
+One,CARDINAL,31044
+Middleboro,GPE,31044
+Massachusetts,GPE,31044
+late Friday,DATE,31044
+around 11:45 p.m.,TIME,31044
+Lakeville,GPE,31044
+Main Street,FAC,31044
+68 miles per hour,QUANTITY,31044
+40 miles,QUANTITY,31044
+Main Street,FAC,31044
+Vaughan Street,FAC,31044
+Middleboro,GPE,31044
+Morton Hospital,ORG,31044
+Get Boston,ORG,31044
+NBC Boston’s,ORG,31044
+Vaughan Street,FAC,31044
+Lakeville,GPE,31044
+Middleboro,GPE,31044

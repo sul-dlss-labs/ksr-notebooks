@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,13671
+Alabama,GPE,13671
+Alaska,GPE,13671
+Arizona,GPE,13671
+Arkansas,GPE,13671
+California,GPE,13671
+Colorado,GPE,13671
+Connecticut,GPE,13671
+Delaware,GPE,13671
+Florida,GPE,13671
+Georgia,GPE,13671
+Hawaii,GPE,13671
+Idaho,GPE,13671
+Indiana,GPE,13671
+Iowa,GPE,13671
+Kansas,GPE,13671
+Kentucky,GPE,13671
+Louisiana,GPE,13671
+Maine,GPE,13671
+Maryland,GPE,13671
+Massachusetts,GPE,13671
+Michigan,GPE,13671
+Minnesota,GPE,13671
+Mississippi,GPE,13671
+Missouri,GPE,13671
+Montana,GPE,13671
+Nebraska,GPE,13671
+Nevada,GPE,13671
+New Hampshire,GPE,13671
+New Jersey,GPE,13671
+Ohio,GPE,13671
+Oklahoma,GPE,13671
+Oregon,GPE,13671
+Pennsylvania,GPE,13671
+Rhode Island,GPE,13671
+Tennessee,GPE,13671
+Texas,GPE,13671
+Utah,GPE,13671
+Vermont,GPE,13671
+Virginia,GPE,13671
+Washington,GPE,13671
+Washington,GPE,13671
+D.C.,GPE,13671
+Wisconsin,GPE,13671
+Wyoming,GPE,13671
+US,GPE,13671
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,13671
+Marshall Islands American Samoa Federated States,ORG,13671
+Micronesia Guam,FAC,13671
+Alberta,GPE,13671
+Canada,GPE,13671
+British Columbia,GPE,13671
+Canada Manitoba,GPE,13671
+Canada,GPE,13671
+New Brunswick,GPE,13671
+Canada Newfoundland,PERSON,13671
+Canada,GPE,13671
+Canada,GPE,13671
+Canada Ontario,GPE,13671
+Canada,GPE,13671
+Edward Island,GPE,13671
+Canada Quebec,GPE,13671
+Canada,GPE,13671
+Saskatchewan,GPE,13671
+Canada Yukon Territory,ORG,13671
+Canada,GPE,13671
+Zip Code,PERSON,13671

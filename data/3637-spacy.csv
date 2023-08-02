@@ -1,0 +1,59 @@
+text,label,fe_id
+$1.2 million,MONEY,3637
+two,CARDINAL,3637
+2004,DATE,3637
+Northeast,LOC,3637
+12th Street,FAC,3637
+Florida Avenue,FAC,3637
+Octavia,GPE,3637
+8,DATE,3637
+Christopher Suydan Jr.,PERSON,3637
+7,DATE,3637
+Eric Palmer,PERSON,3637
+two,CARDINAL,3637
+"about noon Sept. 11, 2004",TIME,3637
+Superior Court,ORG,3637
+D.C.,GPE,3637
+George C. Valentine,PERSON,3637
+two-day,DATE,3637
+Maryland,GPE,3637
+600,CARDINAL,3637
+Orleans Place NE,ORG,3637
+Palmer,ORG,3637
+Palmer,ORG,3637
+three days earlier,DATE,3637
+Honda,ORG,3637
+Accord,PRODUCT,3637
+Palmer,PERSON,3637
+D.C.,GPE,3637
+Kim Brooks-Rodney,PERSON,3637
+Cohen & Cohen,ORG,3637
+Palmer,PERSON,3637
+one,CARDINAL,3637
+Brooks-Rodney,ORG,3637
+Saturday,DATE,3637
+about 30 seconds,TIME,3637
+10,CARDINAL,3637
+Palmer,PERSON,3637
+19,DATE,3637
+Suydan,NORP,3637
+Florida Avenue,FAC,3637
+Halfway,ORG,3637
+Suydan,GPE,3637
+Palmer,ORG,3637
+Honda,ORG,3637
+Octavia,PERSON,3637
+Christopher,PERSON,3637
+140 feet,QUANTITY,3637
+Brooks-Rodney,ORG,3637
+2005,DATE,3637
+two,CARDINAL,3637
+second,ORDINAL,3637
+16 years,DATE,3637
+Dec. 20,DATE,3637
+Brooks-Rodney,ORG,3637
+$5 million,MONEY,3637
+$1.2 million,MONEY,3637
+Christopher Suydan Sr.,PERSON,3637
+Towhanna Boston,PERSON,3637
+yesterday,DATE,3637

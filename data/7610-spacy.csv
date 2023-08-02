@@ -1,0 +1,67 @@
+text,label,fe_id
+2008,DATE,7610
+three,CARDINAL,7610
+Everett,PERSON,7610
+Snohomish,GPE,7610
+Mark Roe,PERSON,7610
+Friday,DATE,7610
+Roe,LAW,7610
+Everett,PERSON,7610
+Sunny Radosevich,ORG,7610
+Stephen Harney,PERSON,7610
+Aaron Showalter,PERSON,7610
+Dustin Willard,PERSON,7610
+31,DATE,7610
+Everett,PERSON,7610
+Willard,PERSON,7610
+12,CARDINAL,7610
+Willard,PERSON,7610
+Roe,LAW,7610
+two,CARDINAL,7610
+Willard,PERSON,7610
+Everett,PERSON,7610
+Willard,PERSON,7610
+Roe,LAW,7610
+Roe,LAW,7610
+Willard,PERSON,7610
+December,DATE,7610
+October,DATE,7610
+Everett,PERSON,7610
+up to $20 million,MONEY,7610
+Angelo Calfo,PERSON,7610
+Seattle,GPE,7610
+Willard,PERSON,7610
+Friday,DATE,7610
+Roe,LAW,7610
+Everett,PERSON,7610
+Willard,PERSON,7610
+"Nov. 8, 2008",DATE,7610
+911,CARDINAL,7610
+Willard,PERSON,7610
+Willard,PERSON,7610
+911,CARDINAL,7610
+1:45 a.m.,TIME,7610
+Willard,PERSON,7610
+Three,CARDINAL,7610
+17,CARDINAL,7610
+Willard,PERSON,7610
+four,CARDINAL,7610
+the Snohomish County Multiple Agency Response Team,ORG,7610
+Everett Fire Department,ORG,7610
+Willard,PERSON,7610
+Willard,PERSON,7610
+nearly a year,DATE,7610
+Willard,PERSON,7610
+Roe,LAW,7610
+Last year,DATE,7610
+Roe,LAW,7610
+Everett,PERSON,7610
+Troy Meade,PERSON,7610
+first,ORDINAL,7610
+June 10,DATE,7610
+Niles Meservey,PERSON,7610
+the Chuckwagon Inn,FAC,7610
+Meade,PERSON,7610
+up to $15 million,MONEY,7610
+Diana Hefley,PERSON,7610
+425-339-3463,CARDINAL,7610

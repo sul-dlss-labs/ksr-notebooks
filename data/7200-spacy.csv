@@ -1,0 +1,29 @@
+text,label,fe_id
+Weather Alert,PERSON,7200
+8 PM,TIME,7200
+CDT,PERSON,7200
+11 AM TO 8 PM,TIME,7200
+CDT,ORG,7200
+112,CARDINAL,7200
+Kansas,GPE,7200
+Bourbon,GPE,7200
+Crawford,ORG,7200
+Cherokee Counties,PRODUCT,7200
+Missouri,GPE,7200
+Vernon,GPE,7200
+Barton,GPE,7200
+Jasper,GPE,7200
+Newton,GPE,7200
+McDonald Counties,ORG,7200
+11 AM,TIME,7200
+8 PM,TIME,7200
+CDT,ORG,7200
+this evening,TIME,7200
+11 AM to 8 PM,TIME,7200
+CDT,PERSON,7200
+Wednesday,DATE,7200
+PRECAUTIONARY,ORG,7200
+early morning,TIME,7200
+evening,TIME,7200
+the Occupational Safety and Health Administration,ORG,7200
+&&,ORG,7200

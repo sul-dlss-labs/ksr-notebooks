@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,11988
+Alabama,GPE,11988
+Alaska,GPE,11988
+Arizona,GPE,11988
+Arkansas,GPE,11988
+California,GPE,11988
+Colorado,GPE,11988
+Connecticut,GPE,11988
+Delaware,GPE,11988
+Florida,GPE,11988
+Georgia,GPE,11988
+Hawaii,GPE,11988
+Idaho,GPE,11988
+Indiana,GPE,11988
+Iowa,GPE,11988
+Kansas,GPE,11988
+Kentucky,GPE,11988
+Louisiana,GPE,11988
+Maine,GPE,11988
+Maryland,GPE,11988
+Massachusetts,GPE,11988
+Michigan,GPE,11988
+Minnesota,GPE,11988
+Mississippi,GPE,11988
+Missouri,GPE,11988
+Montana,GPE,11988
+Nebraska,GPE,11988
+Nevada,GPE,11988
+New Hampshire,GPE,11988
+New Jersey,GPE,11988
+Ohio,GPE,11988
+Oklahoma,GPE,11988
+Oregon,GPE,11988
+Pennsylvania,GPE,11988
+Rhode Island,GPE,11988
+Tennessee,GPE,11988
+Texas,GPE,11988
+Utah,GPE,11988
+Vermont,GPE,11988
+Virginia,GPE,11988
+Washington,GPE,11988
+Washington,GPE,11988
+D.C.,GPE,11988
+Wisconsin,GPE,11988
+Wyoming,GPE,11988
+US,GPE,11988
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,11988
+Marshall Islands American Samoa Federated States,ORG,11988
+Micronesia Guam,FAC,11988
+Alberta,GPE,11988
+Canada,GPE,11988
+British Columbia,GPE,11988
+Canada Manitoba,GPE,11988
+Canada,GPE,11988
+New Brunswick,GPE,11988
+Canada Newfoundland,PERSON,11988
+Canada,GPE,11988
+Canada,GPE,11988
+Canada Ontario,GPE,11988
+Canada,GPE,11988
+Edward Island,GPE,11988
+Canada Quebec,GPE,11988
+Canada,GPE,11988
+Saskatchewan,GPE,11988
+Canada Yukon Territory,ORG,11988
+Canada,GPE,11988
+Zip Code,PERSON,11988

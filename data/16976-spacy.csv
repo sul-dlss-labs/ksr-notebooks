@@ -1,0 +1,61 @@
+text,label,fe_id
+2000,DATE,16976
+Honda,ORG,16976
+Accord,PRODUCT,16976
+5,CARDINAL,16976
+22,CARDINAL,16976
+1:30 a.m.,TIME,16976
+Sunday,DATE,16976
+California Highway Patrol,FAC,16976
+CHP,ORG,16976
+Florentino Olivera,PERSON,16976
+a few minutes,TIME,16976
+Accord,PRODUCT,16976
+Toyota,ORG,16976
+Camry,PRODUCT,16976
+the Chapman Avenue,FAC,16976
+Garden Grove,GPE,16976
+Olivera,ORG,16976
+Honda,ORG,16976
+CHP,ORG,16976
+Garden Grove,GPE,16976
+two,CARDINAL,16976
+Olivera,ORG,16976
+third,ORDINAL,16976
+Addison Villa,ORG,16976
+21,DATE,16976
+Santa Ana,GPE,16976
+Adilene Chavira,PERSON,16976
+19,DATE,16976
+Saul Chavira,PERSON,16976
+22,DATE,16976
+Santa Ana,GPE,16976
+Driver Dagoberto Orepeza,FAC,16976
+29,DATE,16976
+Santa Ana,GPE,16976
+Long Beach Memorial Hospital,FAC,16976
+Olivera,ORG,16976
+Four,CARDINAL,16976
+mornings,TIME,16976
+Thursday,DATE,16976
+Los Angeles County Sheriff's,GPE,16976
+Department K-9 SUV,PERSON,16976
+Slater Avenue,FAC,16976
+Newland Street,FAC,16976
+Huntington Beach,GPE,16976
+Roxi Fyad,ORG,16976
+the Orange County,GPE,16976
+William Long Thai Nguyen,PERSON,16976
+29,DATE,16976
+Corona,GPE,16976
+the West Justice Center,FAC,16976
+Westminster,GPE,16976
+marijuana,PERSON,16976
+Fyad,PERSON,16976
+Nguyen,PERSON,16976
+2013,DATE,16976
+Orange County,GPE,16976
+up to six years,DATE,16976
+six months,DATE,16976
+Fyad,PERSON,16976
+Dec. 15,DATE,16976

@@ -1,0 +1,12 @@
+text,label,fe_id
+Chicago,GPE,14546
+first,ORDINAL,14546
+around 11:30 p.m.,TIME,14546
+7100,CARDINAL,14546
+South Racine Avenue,LOC,14546
+the Chicago Fire Department,ORG,14546
+62-year-old,DATE,14546
+Michael Myers,PERSON,14546
+Advocate Christ Medical Center,ORG,14546
+Area South Detective,ORG,14546
+312,CARDINAL,14546

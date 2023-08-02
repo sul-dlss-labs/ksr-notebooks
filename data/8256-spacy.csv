@@ -1,0 +1,35 @@
+text,label,fe_id
+Chicago,GPE,8256
+16-year-old,DATE,8256
+Lawndale,GPE,8256
+Thursday,DATE,8256
+night,TIME,8256
+Friday,DATE,8256
+Rakeem Nance,ORG,8256
+the Cook County Medical Examiner's Office,ORG,8256
+about 9:15 p.m.,TIME,8256
+1900,CARDINAL,8256
+South Spaulding Avenue,FAC,8256
+two,CARDINAL,8256
+Police Department,ORG,8256
+three,CARDINAL,8256
+one,CARDINAL,8256
+Two,CARDINAL,8256
+Nance,PERSON,8256
+Jody Weis,PERSON,8256
+Nance,PERSON,8256
+Nance,PERSON,8256
+Nance,PERSON,8256
+Weis,PERSON,8256
+Nance,PERSON,8256
+Weis,PERSON,8256
+Nance,PERSON,8256
+Mt. Sinai Hospital,ORG,8256
+Nance,PERSON,8256
+9th,ORDINAL,8256
+last school year,DATE,8256
+Collins Academy High School,ORG,8256
+1313,DATE,8256
+Chicago,GPE,8256
+Monique Bond,PERSON,8256
+The Independent Police Review Authority,ORG,8256

@@ -1,0 +1,117 @@
+Before the court are defendant City of Chicago's (the "City") and defendant Chicago Police Officer Nail Majid's ("Majid") (collectively, "defendants") respective motions for summary judgment on the claims of Minnie Taylor ("plaintiff"), administratrix of the estate of Michael Taylor ("Taylor"). For the reasons set forth below, defendants' motions are granted.
+
+BACKGROUND
+
+A. Procedural History
+
+Before discussing the facts, the atypical posture of this case requires that we first set up the procedural history. On March 23, 2001, defendants properly removed this case to this Court pursuant to 28 U.S.C. § 1441(b) and (c). Plaintiff's complaint alleges the following: a wrongful death claim pursuant to the Illinois Wrongful Death Act, 740 ILCS § 180/2, against Majid (Count I); a corresponding survival claim under the Illinois Survival Act, 755 ILCS § 5/27-6, against Majid (Count II); a common law respondeat superior claim against the City (Count III); an indemnification claim pursuant to 745 ILCS 10/9-102 against the City (Count IV); a 42 U.S.C. § 1983 claim against Majid for violation of Taylor's Fourth Amendment right to be free from excessive force (Count V); and a 42 U.S.C. § 1983 Monell claim against the City (Count VI). Plaintiff has since voluntarily dismissed the Monell claim.
+
+On December 2, 2002, the City and Majid filed separate motions for summary judgment complete with Local Rule 56.1 statements of material uncontested facts. By order of October 9, 2002, plaintiff's response to the motions was due on December 31, 2002. Over two months later, on February 7, 2003, plaintiff requested and received an extension until March 19, 2003 to respond to the summary judgment motions. To date, plaintiff still has not filed anything by way of response.
+
+Local Rule 56.1 requires parties to comply with detailed procedures in filing and responding to summary judgment motions. Local Rule 56.1(a)(3) requires the moving party to supplement its motion papers and memorandum of law with a statement of undisputed material facts entitling it to judgment as a matter of law. Rule 56.1(b)(3)(A) requires a party opposing summary judgment to provide, in addition to its memorandum of law, "a response to each numbered paragraph in the moving party's statement, including, in the case of any disagreement, specific references to the affidavits, parts of the record, and other supporting materials relied upon." Rule 56.1(b)(3) (E) also requires the non-movant to file a separate statement of any additional facts that require denial of summary judgment. Under Rule 56.1(b)(3)(B), "[a]11 material facts set forth in the statement required of the moving party will be deemed to be admitted unless controverted by the statement of the opposing party." Thus, the effect of plaintiff's failure to respond is significant — she is deemed to have admitted each of the factual statements in defendants' Rule 56.1(a)(3) statements. See Rule 56.1(b)(3)(B); Johnson v. Gudmundsson , 35 F.3d 1104, 1108 (7th Cir. 1994).
+
+B. Uncontested Facts
+
+Because plaintiff did not file either a Rule 56.1(b)(3)(A) response or a Rule 56.1(b)(3)(B) statement of additional facts, the following uncontested facts are derived solely from defendants' statements of uncontested facts and attached exhibits.
+
+This case arises out of Majid's fatal shooting of Taylor, a twenty-year old man, on the evening of May 12, 2000. That day, Majid and his partner, Officer Conception Lopez, were on duty, in uniform and driving their marked squad car. Meanwhile, at approximately 2:00 p.m., Taylor was socializing at a friend's apartment located at 737 S. Independence on Chicago's West Side. Taylor's friends noticed that Taylor had a handgun tucked into the rear waistband of his pants. At one point, the woman who owned the apartment told Taylor to stay on the back porch because she did not want her child near his gun.
+
+At approximately 6:00 p.m., Taylor left the apartment. He then met his friend Nathaniel McNulty, who was sitting in his car parked on a street near the apartment. Taylor asked McNulty for a ride to the intersection of Pulaski and Augusta on Chicago's North Side. McNulty offered to give him a ride if Taylor agreed to put air in one of McNulty's tires. Taylor got into the passenger seat of McNulty's car. Immediately thereafter, two men approached the passenger side of McNulty's car. One of the men, with a ten dollar bill in hand, asked Taylor if he had any "rocks," referring to crack cocaine. Taylor told the man that he already owed Taylor "a sawbuck" (slang for a ten dollar bill).
+
+At that point, Officers Majid and Lopez pulled up behind McNulty's car. The officers had seen Taylor speaking to the men on the street, and knew that the area was known for its heavy narcotics trafficking. As the officers pulled up, Majid noticed that Taylor was bending down in his seat and moving around. The officers decided to talk to the men, got out of their car, and approached McNulty's vehicle. The two men standing at the passenger door of McNulty's car began to walk away. Lopez approached the driver side occupied by McNulty, while Majid stepped up to the passenger side where Taylor was seated. Lopez ordered the two men who had started to leave to return to the car and to put their hands on the car's trunk. The two men complied. Lopez then ordered McNulty to turn off the car's engine. McNulty turned off the engine and stuck his hands out the car window.
+
+At the same time, Majid ordered Taylor to show his hands, but Taylor initially refused. Instead, Taylor kept his hands in his lap, and moved them toward the waistband of his pants. Majid believed that he was trying to conceal something in his waistband. After several orders, Taylor raised his hands to the window. Majid then ordered him to open the car door and step out of the car. After Taylor refused to do so, Majid opened the door and told him to get out slowly. Taylor appeared nervous and again reached for his waistband. Fearing for his safety, Majid told Taylor to put his hands on the hood so Majid could handcuff him. Once out of the car, Taylor refused to put his hands on the hood and began to struggle with Majid. Taylor then struck Majid with his elbow, and took off running. Majid ran after Taylor, yelling at him to stop and "freeze." Lopez stayed with the other three men at the car and radioed for assistance, giving the dispatcher details of the chase.
+
+Majid caught up to Taylor and grabbed his shirt as they ran, but Taylor broke free and the chase continued. As Taylor ran, McNulty saw that he was holding a handgun tucked in his waistband.
+
+Majid could only see that he was clutching his waistband. At some point during the chase, after Taylor had broken free once, and following repeated orders to stop, Majid drew his gun. The pursuit ended when Taylor stumbled, allowing Majid to catch up to him and grab his shirt. After another couple of steps, both Taylor and Majid fell to the ground. Majid stood up first, and ordered Taylor to stay on the ground.
+
+Taylor began to stand up, pulled his gun from his waistband and, from approximately three feet away, pointed it at Majid. Majid knocked Taylor's gun from his grip with his left hand, and at the same time, shot Taylor with his right hand. Majid fired one shot which hit Taylor in his abdomen. Taylor fell to the ground, face-up, and reached for his (Taylor's) handgun lying next to him. Majid handcuffed Taylor, then picked up his gun. An ambulance arrived at the scene at approximately 6:28 p.m., about eight minutes after being dispatched. Taylor died of a single gunshot to his upper left abdomen.
+
+Defendants' 56. 1 statements refer to the affidavit of Officer Patrick O'Donovan, who arrived at the scene following the shooting. After Mirandizing Taylor, O'Donovan asked him if he could ask him a series of questions, to which Taylor nodded "yes." Because of the medical attention he was receiving, Taylor was unable to speak. O'Donovan asked Taylor if he had intended to shoot Majid. Taylor nodded his head "no." Then, when O'Donovan asked Taylor if he was only trying to scare Majid by pointing the gun at him, Taylor nodded "yes."
+
+STANDARD OF REVIEW
+
+Although plaintiff's failure to provide any facts contradicting defendants' 56.1 statements does not require the granting of summary judgment against her, it does necessitate a departure from our usual procedure in that we "accept as true all material facts contained in [defendants'] statement[s]." Gudmundsson , 35 F.3d at 1108. Yet, significantly, while plaintiff's admission by default "penalizes [her] by limiting the scope of facts a court may take into account in determining whether a genuine issue of material fact exists . . . [i]t does not . . . alter the manner in which a court evaluates those facts." Smith v. Severn , 129 F.3d 419, 426 (7th Cir. 1997) (alterations added). In other words, although the record is confined to defendants' 56.1 statements, and although we take the facts in defendants' statements as true, we still must view those facts and all reasonable inferences drawn therefrom in the light most favorable to plaintiff. See id. ,
+
+Our customary analysis is similarly unchanged. That is, summary judgment is proper if the record shows that there is no genuine issue as to any material fact and that the moving party is entitled to judgment as a matter of law. Fed.R.Civ.P. 56(c); Celotex Corp. v. Catrett , 477 U.S. 317, 322, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986). A court should grant a motion for summary judgment only when the record shows that a reasonable jury could not find for the nonmoving party. Valenti v. Qualex, Inc. , 970 F.2d 363, 365 (7th Cir. 1992).
+
+DISCUSSION
+
+Plaintiff brings two claims against Majid — first, that Majid's shooting of Taylor constituted excessive force in violation of his Fourth Amendment rights, and second, that the shooting violated the Illinois Wrongful Death and Survival Acts. Plaintiff's two claims against the City, common law respondent superior and statutory indemnification, hinge entirely on our resolution of the claims against Majid.
+
+A. Excessive Force Claim
+
+Plaintiff seeks damages under 42 U.S.C. § 1983 for an asserted violation of Taylor's Fourth Amendment rights. Specifically, plaintiff alleges that Majid's use of deadly force in taking Taylor into custody violated the Fourth Amendment's proscription against unreasonable searches and seizures.
+
+The Fourth Amendment provides: "the right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated. . . ." U.S. Const., Amend IV.
+
+Apprehension by the use of deadly force is a seizure subject to the Fourth Amendment's reasonableness requirement. Tennessee v. Garner , 471 U.S. 1, 7, 105 S.Ct. 1694, 85 L.Ed.2d 1 (1985). Thus, it is clear that Majid "seized" Taylor when he shot him. The only issue presented by plaintiff's Fourth Amendment claim, then, is whether Majid's use of deadly force was reasonable. Our analysis begins with the Supreme Court's decision in Garner . That case posed the question of whether an officer could lawfully use deadly force to apprehend a fleeing and apparently unarmed felony suspect. Garner , 471 U.S. at 3, The Supreme Court flatly rejected any rule that would constitutionally allow the use of deadly force to stop all felony suspects, but expressly authorized the use of deadly force under the following circumstances:
+
+Where the officer has probable cause to believe that the suspect poses a threat of serious physical harm, either to the officer or to others, it is not constitutionally unreasonable to prevent escape by using deadly force. Thus, if the suspect threatens the officer with a weapon or there is probable cause to believe that he has committed a crime involving the infliction or threatened infliction of serious physical harm, deadly force may be used if necessary to prevent escape, and if, where feasible, some warning has been given.
+
+Id.
+
+Garner
+
+Graham v. O'Connor
+
+O'Connor
+
+Id.
+
+at 11-12. In evaluating the present facts under the; standard, we are further guided by the Supreme Court's opinion in 104 L.Ed.2d 443 (1989). In, the Court clarified that in assessing the reasonableness of a particular officer's use of force, his conduct "must be judged from the perspective of a reasonable officer on the scene, rather than with the 20/20 vision of hindsight."at
+
+396. The Court explained:
+
+The calculus of reasonableness must embody allowance for the fact that police officers are often forced to make split-second judgments — in circumstances that are tense, uncertain, and rapidly evolving — about the amount of force that is necessary in a particular situation.
+
+Id.
+
+at 396-97. With these principles in mind, we turn to the facts before us.
+
+Again, this case presents the Court with the unusual situation in which defendants' version of events constitutes the complete and uncontested record before the Court. According to defendants, Officers Lopez and Majid pulled over because people had congregated around McNulty's car in an area known for its substantial narcotics activity. In fact, one of the men at the car's side was attempting to purchase drugs. After approaching the vehicle and after repeatedly ordering Taylor to show his hands, Majid saw Taylor place his hands at his waistband in what appeared to Majid to be an attempt to hide something. Once Majid extracted Taylor from the car, and after a brief struggle ending in Taylor striking Majid with his elbow, Taylor ran off. Majid gave chase, all the while yelling at Taylor to stop. Majid, who saw Taylor holding his waistband, caught up with Taylor and grabbed his shirt, but Taylor broke free. Moments later, Taylor tripped, allowing Majid to catch up with him and both men stumbled to the ground. Majid rose first and ordered Taylor to stay on the ground. Undeterred, Taylor began to stand up, pulled a handgun from his waistband and, from approximately three feet away, pointed it at Majid. As soon as Taylor pointed his gun at him, Majid simultaneously knocked Taylor's gun from his hand and fired his own gun. Taylor did not intend to shoot Majid, but was only trying to scare him.
+
+On this record, the Court need not tarry long in concluding that Majid's use of force was justified under the Garner standard. The uncontested facts establish that Majid shot Taylor because Taylor pointed a gun at him from three feet away. Taylor's pointing his gun at Majid, an act reasonably perceived by Majid to constitute an imminent threat to his life, warranted the use of deadly force. See Maravilla v. United States , 60 F.3d 1230 (7th Cir. 1995) (affirming summary judgment in officer's favor on excessive force claim when officer was threatened with a deadly weapon); Plakas v. Drinski , 19 F.3d 1143 (7th Cir. 1994) (same); Carter v. Buscher , 973 F.2d 1328 (7th Cir. 1992) (same). Under a plain reading of Garner , Majid had "probable cause to believe that [Taylor] pose[d] a threat of serious physical harm," and under such circumstances, "it is not constitutionally unreasonable to prevent escape by using deadly force." 471 U.S. at 11.
+
+We also note that Taylor's pointing his gun at Majid, while perhaps the sole act justifying Majid's use of deadly force, cannot be viewed in a vacuum. From ignoring reasonable orders that he both show his hands and get out of the car, to struggling with and striking Majid, to fleeing with one hand suspiciously holding his waistband, Taylor threatened Majid through a succession of rapidly escalating hostile actions, of which Taylor's final and most grave act was just the culmination.
+
+Proffered as part of defendants' 56.1 statements, we take as true that Taylor had no intent to shoot Majid. But this does not affect our conclusion that Majid's use of deadly force was objectively reasonable. Taylor's after-the-fact statement of a lack of fatal intent is relevant to our analysis only insofar as Majid was aware of that fact at the time he fired his weapon. As the Seventh Circuit has stated in a similar context:
+
+[N]o right is guaranteed by federal law that one will be free from circumstances where he will be endangered by the misinterpretation of his acts. . . .
+
+* * *
+
+It is not necessary that the danger which gave rise to the belief actually existed; it is sufficient that the person resorting to self defense at the time involved reasonably believed in the existence of such a danger, and such reasonable belief is sufficient even where it is mistaken. In forming such reasonable belief a person may act upon appearances. In other words, it is sufficient that the danger was reasonably apparent.
+
+Sherrod v. Berry
+
+856 F.2d 802, 805-06 (7th Cir. 1988) (citations omitted). Here, we find no fact from which to draw even the slightest inference that Majid had any inkling of Taylor's undisclosed state of mind. "[J]udged from the perspective of a
+
+O'Connor
+
+reasonable officer on the scene, rather than with the 20/20 vision of hindsight," the facts can only support the conclusion that Taylor's conduct instilled in Majid an objectively reasonable belief that his life was in immediate danger, and thus justified the use of deadly force.
+
+In sum, based on the present record, we conclude as a matter of law that Majid's use of force was warranted under the standard articulated in Garner . Accordingly, we grant defendants' motion for summary judgment on Count V.
+
+In reaching this conclusion, we are mindful of the Seventh Circuit's cautionary instruction that "[t]he award of summary judgment to the defense in deadly force cases may be made only with particular care where the officer defendant is the only witness left alive to testify. In any self-defense case, a defendant knows that the only person likely to contradict him or her is beyond reach." Plakas v. Drinski , 19 F.3d 1143, 1147 (7th Cir. 1994). This case, however, is different. As a technical matter, not only do we lack Taylor's version, but we have no evidence, let alone argument, to discredit defendants' version. Moreover, this is not a case "where the officer defendant is the only witness left alive to testify." Id. Indeed, Majid's version of events was independently and wholly corroborated by McNulty, a friend of Taylor's since high school, in a written statement made only hours after the shooting. McNulty stated the following: that Taylor refused Majid's orders to show his hands; that Taylor refused to open the car door; that Taylor and Majid began "tussling" because Taylor would not put his hands on the hood; that Taylor "spinned around . . . and hit the police officer with his elbow and started running;" that Majid ran after him "yelling for Mike to stop and freeze;" that he saw Taylor holding a gun at his waist as he ran; that when Majid caught him both he and Taylor fell to the ground; and "that the police officer got up first and as Mike was getting up he reached for his gun at his waist and pulled the gun out and that's when the police officer shot Mike." (Majid's 56. 1 Stat., Ex. J.)
+
+It bears emphasis, then, that the outcome here is not merely the mechanical result of a pleading default. Though the record before us may be incomplete, it does appear to be credible.
+
+B. Wrongful Death and Survival Claims
+
+Pursuant to Illinois' Wrongful Death Act, plaintiff must show that Taylor's death was "caused by wrongful act, neglect or default. . . . 740 ILCS § 180/1. Under Illinois law, the standard for authorized deadly force by a police officer is in line with the standard articulated in Garner :
+
+A peace officer . . . is justified in the use of any force which he reasonably believes to be necessary to effect the arrest and of any force which he reasonably believes to be necessary to defend himself or another from bodily harm while making the arrest. However, he is justified in using force likely to cause death or great bodily harm only when he reasonably believes that such force is necessary to prevent death or great bodily harm to himself or such other person. . . .
+
+720 ILCS § 5/7-5 (emphasis added). Under this standard, as under Garner . Majid's use of deadly force was justified and thus, plaintiff's wrongful death and corresponding survival claims must fail.
+
+In addition, Illinois' Tort Immunity Act protects local government employees from liability for acts committed in the execution or enforcement of any law unless that act was willful or wanton. See 745 ILCS § 10/2-202. The Act defines willful and wanton conduct as "a course of action which shows an actual or deliberate intention to cause harm or which, if not intentional, shows an utter indifference to or conscious disregard for the safety of others or their property." Id. , § 10/1-210, Because the record is devoid of any evidence to support an allegation that Majid acted willfully or wantonly, Majid is insulated from liability by the Act. Thus, summary judgment is granted on Counts I and II.
+
+C. Respondeat Superior and Indemnification Claims
+
+Lastly, we address plaintiff's derivative claims set forth in Counts III and IV. First, plaintiff alleges a common law respondeat superior claim against the City for Majid's conduct alleged in Counts I, II and V. Second, plaintiff avers a 745 ILCS § 10/9-102 claim against the City for indemnification of any judgment rendered against Majid. These two claims are entirely dependent on the success of plaintiff's primary claims against Majid. See Gordon v. Deaelmann , 29 F.3d 295, 298 (7th Cir. 1994) ("You can't have vicarious liability without primary liability."); 745 ILCS § 10/2-109 ("A local public entity is not liable for an injury resulting from an act or omission of its employee where the employee is not liable."). Having found that plaintiff's claims against Majid cannot withstand summary judgment, we must also grant summary judgment on plaintiff's claims against the City for respondeat superior liability and indemnification. Accordingly, summary judgment is granted on Counts III and IV.
+
+CONCLUSION
+
+For the foregoing reasons, defendants' motions for summary judgment are granted in their entirety. Judgment is hereby entered in defendants' favor.

@@ -1,0 +1,35 @@
+text,label,fe_id
+Four,CARDINAL,15999
+Panama City,GPE,15999
+Tuesday,DATE,15999
+Donald Thompson,PERSON,15999
+Paul Atwell,PERSON,15999
+Tyler Hill,PERSON,15999
+Raymond Perkins,PERSON,15999
+Saturday,DATE,15999
+The News Herald of,ORG,15999
+Panama City,GPE,15999
+the Florida Department of Law Enforcement,ORG,15999
+Grover Zeno Sapp Jr.,ORG,15999
+early Saturday,DATE,15999
+6,CARDINAL,15999
+Sapp,ORG,15999
+Florida,GPE,15999
+America,GPE,15999
+Four,CARDINAL,15999
+Panama City,GPE,15999
+Tuesday,DATE,15999
+Donald Thompson,PERSON,15999
+Paul Atwell,PERSON,15999
+Tyler Hill,PERSON,15999
+Raymond Perkins,PERSON,15999
+Saturday,DATE,15999
+The News Herald,ORG,15999
+Panama City,GPE,15999
+the Florida Department of Law Enforcement,ORG,15999
+Grover Zeno Sapp Jr.,PERSON,15999
+early Saturday,DATE,15999
+6,CARDINAL,15999
+Sapp,ORG,15999
+Florida,GPE,15999
+America,GPE,15999

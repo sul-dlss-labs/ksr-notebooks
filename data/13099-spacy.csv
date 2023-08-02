@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,13099
+Alabama,GPE,13099
+Alaska,GPE,13099
+Arizona,GPE,13099
+Arkansas,GPE,13099
+California,GPE,13099
+Colorado,GPE,13099
+Connecticut,GPE,13099
+Delaware,GPE,13099
+Florida,GPE,13099
+Georgia,GPE,13099
+Hawaii,GPE,13099
+Idaho,GPE,13099
+Indiana,GPE,13099
+Iowa,GPE,13099
+Kansas,GPE,13099
+Kentucky,GPE,13099
+Louisiana,GPE,13099
+Maine,GPE,13099
+Maryland,GPE,13099
+Massachusetts,GPE,13099
+Michigan,GPE,13099
+Minnesota,GPE,13099
+Mississippi,GPE,13099
+Missouri,GPE,13099
+Montana,GPE,13099
+Nebraska,GPE,13099
+Nevada,GPE,13099
+New Hampshire,GPE,13099
+New Jersey,GPE,13099
+Ohio,GPE,13099
+Oklahoma,GPE,13099
+Oregon,GPE,13099
+Pennsylvania,GPE,13099
+Rhode Island,GPE,13099
+Tennessee,GPE,13099
+Texas,GPE,13099
+Utah,GPE,13099
+Vermont,GPE,13099
+Virginia,GPE,13099
+Washington,GPE,13099
+Washington,GPE,13099
+D.C.,GPE,13099
+Wisconsin,GPE,13099
+Wyoming,GPE,13099
+US,GPE,13099
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,13099
+Marshall Islands American Samoa Federated States,ORG,13099
+Micronesia Guam,FAC,13099
+Alberta,GPE,13099
+Canada,GPE,13099
+British Columbia,GPE,13099
+Canada Manitoba,GPE,13099
+Canada,GPE,13099
+New Brunswick,GPE,13099
+Canada Newfoundland,PERSON,13099
+Canada,GPE,13099
+Canada,GPE,13099
+Canada Ontario,GPE,13099
+Canada,GPE,13099
+Edward Island,GPE,13099
+Canada Quebec,GPE,13099
+Canada,GPE,13099
+Saskatchewan,GPE,13099
+Canada Yukon Territory,ORG,13099
+Canada,GPE,13099
+Zip Code,PERSON,13099

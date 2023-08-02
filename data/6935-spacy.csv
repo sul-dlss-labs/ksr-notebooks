@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6935
+Alabama,GPE,6935
+Alaska,GPE,6935
+Arizona,GPE,6935
+Arkansas,GPE,6935
+California,GPE,6935
+Colorado,GPE,6935
+Connecticut,GPE,6935
+Delaware,GPE,6935
+Florida,GPE,6935
+Georgia,GPE,6935
+Hawaii,GPE,6935
+Idaho,GPE,6935
+Indiana,GPE,6935
+Iowa,GPE,6935
+Kansas,GPE,6935
+Kentucky,GPE,6935
+Louisiana,GPE,6935
+Maine,GPE,6935
+Maryland,GPE,6935
+Massachusetts,GPE,6935
+Michigan,GPE,6935
+Minnesota,GPE,6935
+Mississippi,GPE,6935
+Missouri,GPE,6935
+Montana,GPE,6935
+Nebraska,GPE,6935
+Nevada,GPE,6935
+New Hampshire,GPE,6935
+New Jersey,GPE,6935
+Ohio,GPE,6935
+Oklahoma,GPE,6935
+Oregon,GPE,6935
+Pennsylvania,GPE,6935
+Rhode Island,GPE,6935
+Tennessee,GPE,6935
+Texas,GPE,6935
+Utah,GPE,6935
+Vermont,GPE,6935
+Virginia,GPE,6935
+Washington,GPE,6935
+Washington,GPE,6935
+D.C.,GPE,6935
+Wisconsin,GPE,6935
+Wyoming,GPE,6935
+US,GPE,6935
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6935
+Marshall Islands American Samoa Federated States,ORG,6935
+Micronesia Guam,FAC,6935
+Alberta,GPE,6935
+Canada,GPE,6935
+British Columbia,GPE,6935
+Canada Manitoba,GPE,6935
+Canada,GPE,6935
+New Brunswick,GPE,6935
+Canada Newfoundland,PERSON,6935
+Canada,GPE,6935
+Canada,GPE,6935
+Canada Ontario,GPE,6935
+Canada,GPE,6935
+Edward Island,GPE,6935
+Canada Quebec,GPE,6935
+Canada,GPE,6935
+Saskatchewan,GPE,6935
+Canada Yukon Territory,ORG,6935
+Canada,GPE,6935
+Zip Code,PERSON,6935

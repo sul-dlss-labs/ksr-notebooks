@@ -1,0 +1,25 @@
+text,label,fe_id
+Three,CARDINAL,10015
+Friday,DATE,10015
+Thursday,DATE,10015
+night,TIME,10015
+Visalia,GPE,10015
+Ruben Mendoza,PERSON,10015
+52,DATE,10015
+Gloria Mendoza,PERSON,10015
+54,DATE,10015
+Ruben Mendoza,PERSON,10015
+Jr.,GPE,10015
+17,DATE,10015
+Erick Joel Head,PERSON,10015
+32,DATE,10015
+Tulare County,GPE,10015
+Highway 99,FAC,10015
+Chevrolet,ORG,10015
+about 2 miles,QUANTITY,10015
+Keith Douglass,PERSON,10015
+three,CARDINAL,10015
+Chevrolet,ORG,10015
+the Kaweah Delta Medical Center,ORG,10015
+third,ORDINAL,10015
+Douglass,PERSON,10015

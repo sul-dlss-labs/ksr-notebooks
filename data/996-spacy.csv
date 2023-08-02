@@ -1,0 +1,36 @@
+text,label,fe_id
+Illinois,GPE,996
+"5, 2001",DATE,996
+Lindenhurst,GPE,996
+Ill.,GPE,996
+14-hour,TIME,996
+two,CARDINAL,996
+Chicago,GPE,996
+Tuesday,DATE,996
+Eric Hanson,PERSON,996
+27,DATE,996
+Monday,DATE,996
+two,CARDINAL,996
+Ken Hall,PERSON,996
+Hanson,ORG,996
+Hanson,ORG,996
+Hanson,PERSON,996
+two,CARDINAL,996
+Hall,PERSON,996
+One,CARDINAL,996
+second,ORDINAL,996
+Stacy Mathes,PERSON,996
+Mathes,PERSON,996
+Mathes,ORG,996
+Hanson,PERSON,996
+Lake County,GPE,996
+Sgt,PERSON,996
+Lincoln Hampton,PERSON,996
+1999,DATE,996
+Later the same year,DATE,996
+two,CARDINAL,996
+Hanson,PERSON,996
+one year,DATE,996
+a year,DATE,996
+May 2000,DATE,996
+Illinois Department of Corrections,ORG,996

@@ -1,0 +1,50 @@
+text,label,fe_id
+2020-02,DATE,28476
+2020,DATE,28476
+Department,ORG,28476
+"Monday, June 29, 2020",DATE,28476
+Pomona Police Dispatch,ORG,28476
+the Foothill Air Support Team,ORG,28476
+the Fresno Police Department,ORG,28476
+10,CARDINAL,28476
+Towne,GPE,28476
+the City of Pomona,GPE,28476
+several minutes,TIME,28476
+Monte Vista Ave,GPE,28476
+the City of Montclair,GPE,28476
+Officers,FAC,28476
+Cynthia Burciaga,PERSON,28476
+Sean Gonzalez,PERSON,28476
+Vaneric Mendoza,PERSON,28476
+Sergeant William Knight,PERSON,28476
+the Montclair Fire Department,ORG,28476
+Officers,PRODUCT,28476
+The Pomona Police Department,ORG,28476
+COPY,ORG,28476
+PASTE,ORG,28476
+Spanish,LANGUAGE,28476
+2020-03,DATE,28476
+2020,DATE,28476
+Department,ORG,28476
+"Sunday, July 5 2020",DATE,28476
+Pomona Police Officers Edgar Rodriguez,ORG,28476
+Manny Rodriguez,PERSON,28476
+Sergeant Rick Aguiar,PERSON,28476
+2700,CARDINAL,28476
+S. Reservoir Street,ORG,28476
+the City of,GPE,28476
+Pomona,GPE,28476
+Reservoir Avenue,FAC,28476
+Riverside Drive,WORK_OF_ART,28476
+the City of Chino,GPE,28476
+One,CARDINAL,28476
+3300,CARDINAL,28476
+Riverside Drive,FAC,28476
+the City of Chino,GPE,28476
+several minutes,TIME,28476
+Officers,FAC,28476
+The Pomona Police Department,ORG,28476
+COPY,ORG,28476
+PASTE,ORG,28476
+Spanish,LANGUAGE,28476
+https://youtu.be/d2pRXn4auPA,ORG,28476

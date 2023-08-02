@@ -1,0 +1,32 @@
+text,label,fe_id
+Fort Collins,GPE,26087
+early Friday morning,TIME,26087
+Thursday,DATE,26087
+night,TIME,26087
+Just before 11 p.m.,TIME,26087
+Thursday,DATE,26087
+400,CARDINAL,26087
+Skyway Drive,FAC,26087
+911,CARDINAL,26087
+about 5 a.m.,TIME,26087
+approximately six hours,TIME,26087
+Det,PERSON,26087
+Brandon Barnes,PERSON,26087
+970,CARDINAL,26087
+Larimer County,GPE,26087
+970-221-6868,CARDINAL,26087
+Suicide,PERSON,26087
+Extreme,PERSON,26087
+"U.S. Centers for Disease Control and Prevention
+
+Help",ORG,26087
+National Suicide Prevention Lifeline,ORG,26087
+1-800-273-8255,CARDINAL,26087
+911,CARDINAL,26087
+SummitStone Crisis Stabilization Unit,ORG,26087
+24 hours,TIME,26087
+7 days,DATE,26087
+Rockies,LOC,26087
+Sady Swanson,PERSON,26087
+Northern Colorado,LOC,26087
+Twitter,PERSON,26087

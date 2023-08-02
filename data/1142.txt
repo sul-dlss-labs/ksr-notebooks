@@ -1,0 +1,161 @@
+Berry v. City of Antioch
+
+Berry v. City of Antioch
+
+Filed 11/10/09 Berry v. City of Antioch CA1/1
+
+NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication or ordered published for purposes of rule 8.1115.
+
+IN THE COURT OF APPEAL OF THE STATE OF CALIFORNIA
+
+FIRST APPELLATE DISTRICT
+
+DIVISION ONE
+
+
+
+
+
+MICHAEL BERRY et al.,
+
+
+
+Plaintiffs and Appellants,
+
+
+
+v.
+
+
+
+CITY OF ANTIOCH et al.,
+
+
+
+Defendants and Respondents.
+
+
+
+A121130
+
+
+
+(Contra Costa County
+
+
+
+Super. Ct. No. CIVMSC05-02593)
+
+Antioch police shot and wounded Noemi Berry in 2001. Ms. Berry died in 2005. Her parents, plaintiffs Michael Berry and Aida Dellosa, sued defendants, the City of Antioch and two of its police officers, for wrongful death. Defendants moved for summary judgment on the ground that plaintiffs could not show the shooting caused Noemis death four years later. The trial court granted the motion. Plaintiffs contend they presented evidence of causation sufficient to survive summary judgment. We disagree and affirm.
+
+I. FACTS
+
+The basic facts of the shooting incident were determined by the Federal District Court in a prior civil rights action between Noemi and defendants, and are not meaningfully in dispute.
+
+On August 12, 2001, Noemi was hanging out at an Antioch bowling alley with her friend Scott Hall. Hall had an outstanding felony warrant for his arrest, and was believed to be armed. Defendants Bloxsom and McBroom, Antioch police officers, were summoned to the bowling alley to apprehend Hall.
+
+The officers entered the bowling alley as Noemi and Hall were walking towards them and the exit. Noemi was in front and slightly to the left of Hall. One of the officers called out, Hey Scott. Hall immediately pulled a gun and pointed it at the officers.
+
+Officer Bloxsom, fearing for his safety and that of his partner and bowling alley patrons, pulled his weapon and fired two shots at Hall. One shot struck and killed Hall. The other struck Noemi in the left shoulder.
+
+As a result of her shoulder wound, Noemis left lung collapsed. She lost six pints of blood and had to undergo two surgeries. She was hospitalized for about three weeks. Doctors were unable to remove the bullet, which remained lodged in her left shoulder.
+
+Noemi died on January 11, 2005, about 41 months after being shot. The coroners report, prepared by forensic pathologist Brian Peterson, M.D., indicated that Noemi died of natural causes as a result of hypertensive cardiovascular disease. At the time of her death, Noemi was 51 tall and weighed 334 pounds. Dr. Peterson also found that asthma and morbid obesity were significant conditions at the time of Noemis death. The facts stated in this paragraph are undisputed.
+
+In the summary judgment proceedings, defendants presented the following undisputed material facts and supporting evidence on the issue of causation.[1]
+
+Dr. Peterson had examined Noemi at the time of her death, and reviewed her medical records and radiological studies. He gave his opinion that, to a reasonable degree of medical probability, the gunshot wound sustained in August 2001 was not a substantial factor in causing Noemis death in January 2005. Noemi had various substantial risk factors for developing hypertension, including cigarette smoking, bronchial asthma, and use of crystal methamphetamine. Dr. Peterson believed that the combination of these risk factors substantially increased the medical probability of [Noemi] developing hypertension and cardiovascular disease and were substantial factors in causing her death.
+
+From his examination of Noemis body and his review of her medical records and radiological studies, Dr. Peterson concluded that, to a reasonable degree of medical probability, there was no evidence that the gunshot wound in 2001 was a substantial factor in causing her death in 2005. He also concluded that without an autopsy, no expert could conclude to a reasonable degree of medical probability that the wound was a substantial factor in causing Noemis death.[2]
+
+Dr. William Hoddick was the radiologist who treated Noemi in the hospital in August 2001 and examined the X-rays of the area of the gunshot wound. He also reviewed Noemis medical records and radiological studies. Like Dr. Peterson, Dr. Hoddick concluded that, to a reasonable degree of medical probability, there was no evidence that the gunshot wound in 2001 was a substantial factor in causing her death in 2005. Dr. Hoddick also concluded that without an autopsy, no expert could conclude to a reasonable degree of medical probability that the wound was a substantial factor in causing Noemis death.
+
+Defendants also presented excerpts of the deposition of plaintiffs medical expert, Dr. George Bolduc. Dr. Bolduc had never examined Noemi and had not reviewed her X-rays. He testified in his deposition that he could not say to a reasonable degree of medical probability that the gunshot wound caused Noemis death (the no-probability testimony). Dr. Bolduc also agreed that no one could find causation with medical certainty in the absence of an autopsy.
+
+Plaintiffs disputed defendants doctors medical opinion on the question of causation. But the dispute was based almost entirely on two rote recitations, repeated several times in the opposition separate statement of material facts.
+
+First, plaintiffs relied on the conclusions of Dr. Bolduc and Dr. John Toton, an orthopedist who reviewed the medical records of Noemis gunshot wounds, that Noemi suffered a life threatening [sic] injury on August 21, 2001. This is of marginal relevance to the question whether the wound was a medical cause of Noemis death four years later.
+
+Second, plaintiffs relied on another excerpt of Dr. Bolducs deposition, in which plaintiffs claimed he testified that the type of lung injury sustained by Noemi could have been a substantial factor in causing her death. In this testimony, Dr. Bolduc did not use the phrase substantial factor; rather, he testified there was a strong possibility the gunshot wound could have been a factor in Noemis death (the strong-possibility testimony).
+
+As noted, defendants presented as an undisputed material fact the no-probability testimony, i.e., Dr. Bolducs testimony that he could not say to a reasonable degree of medical probability that the gunshot wound caused Noemis death. Plaintiffs purported to dispute this material fact, but did so only by citing that very testimonyand then agreeing that without an autopsy no one can state the cause of death with medical certainty. Plaintiffs stated that without an autopsy the jury could consider circumstantial evidence of causation.
+
+The trial court granted the motion for summary judgment. The court found that the medical evidence of defendants was uncontroverted, and noted that plaintiffs own expert could not opine to a reasonable medical probability that the gunshot wound caused Noemis death. Thus, the court found that defendants had met their initial burden of showing that one or more elements of plaintiffs cause of actioncausationcould not be established. The burden then shifted to plaintiffs to prove the existence of a triable issue of material fact on the issue of causation. Because plaintiff[s are] unable to do so, the trial court granted the motion for summary judgment.
+
+Plaintiffs filed a motion for reconsideration. (Code Civ. Proc., 1008, subd. (a).)[3] Plaintiffs argued there were new circumstances justifying reconsideration, claiming the trial court had overlooked or was unaware of the strong-possibility testimony of Dr. Bolducwhich plaintiffs claimed was sufficient evidence to create a triable issue of fact on causation.
+
+Plaintiffs then submitted an affidavit of Dr. Bolduc, in which he states the gunshot wound could have contributed to Noemis death. The affidavit does not speak in terms of reasonable medical probability. The affidavit is not an affidavit, but an unsworn statement. While making its first appearance in the 2007 summary judgment proceedings, it is dated July 17, 2006almost a year before defendants filed their motion for summary judgment. Plaintiffs stated they did not previously submit the so-called affidavit because they believed that Dr. Bolducs deposition testimony was sufficient.
+
+One week after the submission of the affidavit, plaintiffs submitted a declaration of Dr. Marvin Pietruszka. Dr. Pietruszka declared that he had reviewed Noemis medical records, and based on that medical history had concluded that to a greater degree of medical certainty the gunshot wound was a substantial factor in Noemis death.
+
+Plaintiffs filed the Pietruszka declaration on October 24, 2007, a full week after the trial court filed its formal order granting summary judgment on October 17, 2007. On November 16, 2007, plaintiffs moved to amend their expert witness information to remove Dr. Bolduc as their expert and replace him with Dr. Pietruszka. Plaintiffs claimed they were unable to locate Dr. Bolduc prior to the summary judgment hearing and that he has completely disappeared. Plaintiffs also cast aspersions on Dr. Bolducs expertise.
+
+On January 22, 2008, the trial court denied the motion for reconsideration on the ground that plaintiffs had failed to submit evidence of new or different facts, circumstances or law as required by section 1008.
+
+II. DISCUSSION
+
+Plaintiffs contend the trial court erred by granting summary judgment, because they presented sufficient evidence of causation to survive summary judgment and proceed to trial. Plaintiffs also contend the court abused its discretion by denying their motion for reconsideration. We disagree for the reasons set forth below.
+
+Summary Judgment
+
+We review a grant of summary judgment de novo. (Aguilar v. Atlantic Richfield Co. (2001) 25 Cal.4th 826, 860 (Aguilar); Saelzler v. Advanced Group 400 (2001) 25 Cal.4th 763, 767 (Saelzler).)
+
+Summary judgment must be granted if the moving papers submitted to the trial court show that there is no triable issue as to any material factthat is, there is no issue requiring a trial as to any fact that is necessary under the pleadings and . . . the lawand the moving party is entitled to judgment as a matter of law. (Aguilar, supra, 25 Cal.4th at p. 843; 437c, subd. (c).)
+
+A defendant moving for summary judgment has the initial burden of showing that there is a complete defense to the cause of action, or that one or more elements of the cause of action cannot be established. (Aguilar, supra, 25 Cal.4th at p. 849.) Once the defendant has met that burden, the burden shifts to the plaintiff to show that a triable issue of material fact exists as to the cause of action or to a defense thereto. (Ibid.) The plaintiffs evidence is to be liberally construed, while the defendants evidence is strictly construed. (Saelzler, supra, 25 Cal.4th at pp. 768-769.) But to withstand a summary judgment motion, a plaintiff must produce substantial evidence, based on specific facts and not speculation, to establish a triable issue of material fact. (Aguilar, supra, at p. 849; Sangster v. Paetkau (1998) 68 Cal.App.4th 151, 162-163.)
+
+Causation is an essential element of plaintiffs action for wrongful death. (Lucas v. County of Los Angeles (1996) 47 Cal.App.4th 277, 288-289.) Causation must be demonstrated within a reasonable medical probability, by competent expert testimony. (Espinosa v. Little Co. of Mary Hospital (1995) 31 Cal.App.4th 1304, 1314-1315 (Espinosa); Jones v. Ortho Pharmaceutical Corp. (1985) 163 Cal.App.3d 396, 402 (Jones).) Mere possibility does not suffice. (Jones, supra, at pp. 402-403.)
+
+As the trial court found, defendants met their initial burden of showing that plaintiffs could not establish causation. Both Drs. Peterson and Hoddick gave their expert opinion that there was no evidence, to a reasonable medical probability, that the 2001 gunshot wound was the cause of Noemis death in 2005. Furthermore, plaintiffs own expert, Dr. Bolduc, testified at his deposition that he could not say the wound caused her death to a reasonable medical probabilityall he could say was that it was a possibility, which is legally insufficient to establish causation.
+
+The burden then shifted to plaintiffs to show a triable issue of fact on the issue of causation. They could not do so. The evidence that they submitted in opposition to summary judgment showed only (1) that Noemis 2001 wound was life threatening, a conclusion not pertinent to the question of whether the woundafter treatmentultimately caused her death four years later; (2) that Dr. Bolduc opined there was a strong possibility the wound caused death. Indeed, plaintiffs did not dispute their own experts testimony that there was no medical probability of causation.
+
+The trial court properly denied the motion for summary judgment.
+
+Motion for Reconsideration
+
+We review an order denying a motion for reconsideration for abuse of discretion. (New York Times Co. v. Superior Court (2005) 135 Cal.App.4th 206, 212 (New York Times).) Reconsideration is proper based on new evidence, but the party seeking reconsideration must make a satisfactory explanation why the evidence was not presented at an earlier, more appropriate time. ( 1008, subd. (a); New York Times, supra, at pp. 213-215; Garcia v. Hejmadi (1997) 58 Cal.App.4th 674, 689-690.)
+
+Plaintiffs based their motion for reconsideration on three items of purportedly new evidence or circumstances.
+
+(1) Plaintiffs claimed the trial court overlooked or was unaware of Dr. Bolducs strong-possibility testimony. The court did not overlook this testimony, which was prominently set forth in the moving papers. The court simply concluded, quite correctly, that the testimony was insufficient to establish causationespecially in light of the doctors no-probability testimony.
+
+(2) Plaintiffs relied on the 2006 affidavit of Dr. Bolduc. Obviously, this evidenceover a year old at the time of the summary judgment proceedingswas not new. Furthermore, the affidavit was unsworn. Most significantly, the affidavit did not state that there was a medical probability of causation.
+
+(3) Plaintiffs relied on the declaration of Dr. Marvin Pietruszka. This declaration does not explicitly state an opinion in terms of medical probability. To the extent that the declaration uses the term substantial factor, it could be construed as invoking the medical probability causation standard (see Espinosa, supra, 31 Cal.App.4th at pp. 1313-1315)but the declaration is ambiguous. Dr. Pietruszka opines that to a greater degree of medical certainty the gunshot wound was a substantial factorbut greater than what? Moreover, the only explanation for the late submission of this declaration is the supposed disappearance of Dr. Bolduc, and the need for a new expert. But the fact of the matter is that plaintiffs had their opportunity to muster their best evidence of causation in opposition to the summary judgment motion. Plaintiffs failed to show due diligence or offer a compelling reason for their failure to properly oppose the motion and did not adequately explain their late submission of a different experts opinion. They cannot simply replace their expert for another bite at the apple. Having believed Dr. Bolducs testimony sufficient, and lost the motion, plaintiffs cannot seek reconsideration with a new expert. (See New York Times, supra, 135 Cal.App.4th at pp. 213-215.)
+
+The trial court did not abuse its discretion by denying the motion for reconsideration.[4]
+
+III. DISPOSITION
+
+The judgment is affirmed.
+
+______________________
+
+Marchiano, P.J.
+
+We concur:
+
+______________________
+
+Margulies, J.
+
+______________________
+
+Dondero, J.
+
+Publication courtesy of California pro bono legal advice.
+
+Analysis and review provided by La Mesa Property line attorney.
+
+San Diego Case Information provided by www.fearnotlaw.com
+
+[1] Defendants raised other issues on summary judgment, which are not at issue here.
+
+[2] It seems undisputed that no autopsy was performed on Noemi.
+
+[3] Subsequent statutory references are to the Code of Civil Procedure.
+
+[4] We note the trial court could have justifiably looked askance at plaintiffs attempt at expert replacement. Plaintiffs cast aspersions on the credibility of their own chosen expert, Dr. Bolduc, and then presented medical opinion which differed significantly on a pertinent medical issueDr. Bolduc disputed that Noemi had hypertension, giving five reasons to suppose that she did not; Dr. Pietruszka stated that Noemi had uncontrollable hypertension.

@@ -1,0 +1,14 @@
+text,label,fe_id
+Tennessee Bureau of Investigation,ORG,25905
+Monday,DATE,25905
+Samuel Charles Talbott,PERSON,25905
+42,DATE,25905
+Monday,DATE,25905
+Pigeon Forge,LOC,25905
+the Pigeon Forge Police Department,ORG,25905
+around 10:30 a.m.,TIME,25905
+Monday,DATE,25905
+2800,CARDINAL,25905
+Suncrest Drive,LOC,25905
+Talbott,PERSON,25905
+Pigeon Forge,PERSON,25905

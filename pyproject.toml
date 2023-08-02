@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ksr-notebooks"
+version = "0.1.0"
+description = "Notebooks related to the Know Systemic Racism project at Stanford"
+authors = ["Ed Summers <ehs@pobox.com>"]
+readme = "README.md"
+packages = [{include = "ksr_notebooks"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyterlab = "^4.0.3"
+transformers = "^4.31.0"
+newspaper3k = "^0.2.8"
+pyvis = "^0.3.2"
+spacy = "^3.6.0"
+pandas = "^2.0.3"
+ipywidgets = "^8.0.7"
+pip = "^23.2.1"
+torch = "^2.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

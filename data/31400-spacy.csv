@@ -1,0 +1,43 @@
+text,label,fe_id
+1,CARDINAL,31400
+3,CARDINAL,31400
+Kokomo,PERSON,31400
+"July 7, 2022",DATE,31400
+KOKOMO,GPE,31400
+Ind.,GPE,31400
+three,CARDINAL,31400
+early Saturday morning,TIME,31400
+Kokomo,PERSON,31400
+Kokomo Police Department,ORG,31400
+2016,DATE,31400
+Nissan,ORG,31400
+West Mulberry Street,LOC,31400
+North Washington Street,GPE,31400
+approximately 3:19 a.m.,TIME,31400
+Nissan,ORG,31400
+Six minutes later,TIME,31400
+North Berkley Road,ORG,31400
+West Jefferson Street,FAC,31400
+Nissan,ORG,31400
+Nissan,ORG,31400
+34-year-old,DATE,31400
+William Lane,PERSON,31400
+Bolingbrook,GPE,31400
+Illinois,GPE,31400
+West Jefferson Street,LOC,31400
+Dodge Ram,ORG,31400
+North Berkley Road,FAC,31400
+24-year-old,DATE,31400
+Kokomo,PERSON,31400
+Nissan,ORG,31400
+Lane,PERSON,31400
+35-year-old,DATE,31400
+James Conwell,PERSON,31400
+Kokomo,PERSON,31400
+fourth,ORDINAL,31400
+Nissan,ORG,31400
+Sgt,PERSON,31400
+Troy Hintz,PERSON,31400
+765-456-7293,CARDINAL,31400
+the Kokomo Police Department,ORG,31400
+765-456-7017,CARDINAL,31400

@@ -1,0 +1,12 @@
+text,label,fe_id
+Forest Hill,ORG,30397
+Wednesday,DATE,30397
+morning,TIME,30397
+about 5:12 a.m.,TIME,30397
+QuikTrip,PRODUCT,30397
+6000,CARDINAL,30397
+Wichita Street,FAC,30397
+Interstate 20,FAC,30397
+first,ORDINAL,30397
+one,CARDINAL,30397
+The Texas Rangers,ORG,30397

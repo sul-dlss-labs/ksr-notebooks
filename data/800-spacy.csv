@@ -1,0 +1,17 @@
+text,label,fe_id
+early Thursday,DATE,800
+about 2 a.m.,TIME,800
+two,CARDINAL,800
+Parthenia Street,FAC,800
+Los Angeles Police Department,ORG,800
+Parthenia,GPE,800
+Reseda Boulevard,PERSON,800
+Jose Israel Victoria,PERSON,800
+23,DATE,800
+Winnetka,GPE,800
+David Campbell,PERSON,800
+Los Angeles County,GPE,800
+22,DATE,800
+Reseda,ORG,800
+Northridge Hospital Medical Center,ORG,800
+Times,ORG,800

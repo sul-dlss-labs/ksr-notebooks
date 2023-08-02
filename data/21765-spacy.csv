@@ -1,0 +1,37 @@
+text,label,fe_id
+Wyoming Highway Patrol,FAC,21765
+Thursday,DATE,21765
+night,TIME,21765
+Casper,GPE,21765
+two,CARDINAL,21765
+three,CARDINAL,21765
+Late Friday,DATE,21765
+afternoon,TIME,21765
+Natrona County Coroner,PERSON,21765
+Connie Jacobson,PERSON,21765
+two,CARDINAL,21765
+Casper,GPE,21765
+39-year-old,DATE,21765
+Douglas W. Arthur,PERSON,21765
+34-year-old,DATE,21765
+Lyle Tsinnijinnie,PERSON,21765
+Arthur,PERSON,21765
+Tsinnijinnie,PERSON,21765
+9 p.m.,TIME,21765
+Thursday,DATE,21765
+68 miles per hour,QUANTITY,21765
+Salt Creek Highway,FAC,21765
+40 miles per hour,QUANTITY,21765
+West Yellowstone Highway,LOC,21765
+Casper,GPE,21765
+First,ORDINAL,21765
+Poplar,PRODUCT,21765
+three,CARDINAL,21765
+two,CARDINAL,21765
+Wyoming Medical Center,ORG,21765
+Friday,DATE,21765
+morning,TIME,21765
+three,CARDINAL,21765
+Casper,GPE,21765
+Friday,DATE,21765
+afternoon,TIME,21765

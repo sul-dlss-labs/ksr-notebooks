@@ -1,0 +1,25 @@
+text,label,fe_id
+New York,GPE,3515
+yesterday,DATE,3515
+afternoon,TIME,3515
+Long Island,LOC,3515
+about 3 p.m.,TIME,3515
+Oak Beach,GPE,3515
+Richard Brooks,PERSON,3515
+44,DATE,3515
+the Town of Babylon,PRODUCT,3515
+James Wilson,PERSON,3515
+Wilson,PERSON,3515
+Wilson,PERSON,3515
+40,DATE,3515
+Twin Causeway,PERSON,3515
+Oak Beach,GPE,3515
+Jack Fitzpatrick,PERSON,3515
+the Suffolk County Police Department,ORG,3515
+Wilson,PERSON,3515
+79,CARDINAL,3515
+Hawser Drive,PERSON,3515
+Wilson,PERSON,3515
+Constable Brooks,PERSON,3515
+second,ORDINAL,3515
+Fitzpatrick,PERSON,3515

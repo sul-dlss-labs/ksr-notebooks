@@ -1,0 +1,32 @@
+text,label,fe_id
+1,CARDINAL,25217
+6,CARDINAL,25217
+the Calhoun Police Department,ORG,25217
+Tuesday,DATE,25217
+evening,TIME,25217
+earlier that afternoon,TIME,25217
+the Georgia Bureau of Investigation,ORG,25217
+Calhoun,GPE,25217
+BP,ORG,25217
+North Wall Street,ORG,25217
+East Line,GPE,25217
+Tuesday,DATE,25217
+afternoon,TIME,25217
+one,CARDINAL,25217
+Cheressa Kaimi,PERSON,25217
+second,ORDINAL,25217
+Nelly Miles,PERSON,25217
+GBI,ORG,25217
+Officer Yother,FAC,25217
+Miles,PERSON,25217
+Joe Yother,PERSON,25217
+Yother,PERSON,25217
+Yother,PERSON,25217
+Jeremy Thompson,PERSON,25217
+GBI,ORG,25217
+Tameka LaShay Simpson,PERSON,25217
+27,DATE,25217
+Calhoun,GPE,25217
+GBI,ORG,25217
+The Calhoun Police Department,ORG,25217
+GBI,ORG,25217

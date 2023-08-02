@@ -1,0 +1,51 @@
+text,label,fe_id
+One,CARDINAL,18383
+three,CARDINAL,18383
+Wednesday,DATE,18383
+two,CARDINAL,18383
+third,ORDINAL,18383
+Fulton,GPE,18383
+Cecil Golden,GPE,18383
+23,DATE,18383
+Bellflower,GPE,18383
+David Franklin,PERSON,18383
+22,DATE,18383
+Jefferson City,GPE,18383
+Wade Sargent,PERSON,18383
+23,DATE,18383
+the Community Supervision Center,ORG,18383
+1:08 a.m.,TIME,18383
+Wednesday,DATE,18383
+three,CARDINAL,18383
+the halfway house,FAC,18383
+Fulton,GPE,18383
+the Callaway County Sheriff's Department,ORG,18383
+David Owen,PERSON,18383
+the Missouri Department of Corrections,ORG,18383
+5:58 a.m.,TIME,18383
+Wednesday,DATE,18383
+600,CARDINAL,18383
+State Road UU,FAC,18383
+Fulton,GPE,18383
+the Community Supervision Center,ORG,18383
+Later in the day,TIME,18383
+Martinsburg Trust Bank,ORG,18383
+Martinsburg,GPE,18383
+County Sheriff's,PERSON,18383
+Montgomery County,GPE,18383
+Montgomery City,GPE,18383
+Golden,PERSON,18383
+Franklin,ORG,18383
+Audrain County,GPE,18383
+Matt Oller,PERSON,18383
+two,CARDINAL,18383
+"200,000",MONEY,18383
+Montgomery County Jail,GPE,18383
+Matt Schoo,PERSON,18383
+the Audrain County Sheriff's Department,ORG,18383
+three,CARDINAL,18383
+first,ORDINAL,18383
+Montgomery County,GPE,18383
+Audrain County,GPE,18383
+Callaway County,GPE,18383
+Schoo,ORG,18383

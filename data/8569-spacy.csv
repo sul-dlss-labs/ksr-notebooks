@@ -1,0 +1,26 @@
+text,label,fe_id
+CHICAGO,GPE,8569
+Tuesday,DATE,8569
+two,CARDINAL,8569
+Valerie Davis,PERSON,8569
+600,CARDINAL,8569
+East 65th Street,GPE,8569
+Cook County,GPE,8569
+Chicago,GPE,8569
+U.S. Drug Enforcement Administration,ORG,8569
+63rd Street,FAC,8569
+King Drive,ORG,8569
+two,CARDINAL,8569
+Chicago,GPE,8569
+Robert Perez,PERSON,8569
+two,CARDINAL,8569
+Perez,PERSON,8569
+One,CARDINAL,8569
+Perez,PERSON,8569
+63rd Street,FAC,8569
+Pontiac,ORG,8569
+Davis,PERSON,8569
+St. Lawrence Avenue,FAC,8569
+second,ORDINAL,8569
+two,CARDINAL,8569
+Perez,PERSON,8569

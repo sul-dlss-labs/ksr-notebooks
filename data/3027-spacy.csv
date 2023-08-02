@@ -1,0 +1,81 @@
+text,label,fe_id
+Times,ORG,3027
+San Bernardino County,GPE,3027
+Friday,DATE,3027
+Rick Carr,PERSON,3027
+about 9:30 a.m.,TIME,3027
+Michael Parham,PERSON,3027
+31,DATE,3027
+West Adams Street,FAC,3027
+San Bernardino,GPE,3027
+Carr,PERSON,3027
+2300,CARDINAL,3027
+California Street,FAC,3027
+one,CARDINAL,3027
+Parham,GPE,3027
+Parham,ORG,3027
+Two,CARDINAL,3027
+six,CARDINAL,3027
+Carr,PERSON,3027
+at least two,CARDINAL,3027
+Parham,ORG,3027
+one,CARDINAL,3027
+Parham,ORG,3027
+six-year,DATE,3027
+Loma Linda University Medical Center,ORG,3027
+Jess Carrillo,PERSON,3027
+California Street,FAC,3027
+Parham,ORG,3027
+2-month-old,DATE,3027
+Sergio Quintero,PERSON,3027
+21,DATE,3027
+Spanish,LANGUAGE,3027
+10,MONEY,3027
+Quintero,PERSON,3027
+Quintero,PERSON,3027
+Quintero,PERSON,3027
+Quintero,PERSON,3027
+Carr,PERSON,3027
+San Bernardino,GPE,3027
+Quintero,PERSON,3027
+Quintero,PERSON,3027
+Cindy Beavers,PERSON,3027
+Carr,PERSON,3027
+Ricardo Alfonso Cerna,PERSON,3027
+47,DATE,3027
+San Bernardino,GPE,3027
+Sgt,PERSON,3027
+Bobby Dean,PERSON,3027
+Carr,PERSON,3027
+Cerna,PERSON,3027
+Dean,PERSON,3027
+Spanish,LANGUAGE,3027
+English,LANGUAGE,3027
+Gary Penrod,PERSON,3027
+Dean,PERSON,3027
+one hour,TIME,3027
+Dean,PERSON,3027
+Cerna,PERSON,3027
+Pepsi,ORG,3027
+second,ORDINAL,3027
+Dean,PERSON,3027
+Cerna,LOC,3027
+Dean,PERSON,3027
+Cerna,PERSON,3027
+Cerna,GPE,3027
+Dean,PERSON,3027
+10:50 a.m.,TIME,3027
+Dean,PERSON,3027
+Sheriff’s Sgt,WORK_OF_ART,3027
+Dave Cadell,PERSON,3027
+Carr,PERSON,3027
+one,CARDINAL,3027
+two,CARDINAL,3027
+San Bernardino,GPE,3027
+Dean,PERSON,3027
+the Sheriff’s Department,ORG,3027
+today,DATE,3027
+Carr,PERSON,3027
+San Bernardino County,GPE,3027
+Carr,PERSON,3027
+Michael Risley,PERSON,3027

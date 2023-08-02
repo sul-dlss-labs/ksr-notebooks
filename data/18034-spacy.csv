@@ -1,0 +1,26 @@
+text,label,fe_id
+Two,CARDINAL,18034
+Monday,DATE,18034
+Louisville,GPE,18034
+early Monday morning,TIME,18034
+Share Copy Link Copy,PERSON,18034
+Two,CARDINAL,18034
+Monday,DATE,18034
+Louisville,GPE,18034
+early Monday morning,TIME,18034
+Steve Conrad,PERSON,18034
+three,CARDINAL,18034
+Broadleaf Drive,GPE,18034
+around 1:30 a.m.,TIME,18034
+Conrad,PERSON,18034
+57,DATE,18034
+Londa Henderson,PERSON,18034
+"""And",PERSON,18034
+Henderson,PERSON,18034
+Conrad,ORG,18034
+two,CARDINAL,18034
+three,CARDINAL,18034
+third,ORDINAL,18034
+Conrad,PERSON,18034
+Henderson,PERSON,18034
+Conrad,PERSON,18034

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,14925
+Alabama,GPE,14925
+Alaska,GPE,14925
+Arizona,GPE,14925
+Arkansas,GPE,14925
+California,GPE,14925
+Colorado,GPE,14925
+Connecticut,GPE,14925
+Delaware,GPE,14925
+Florida,GPE,14925
+Georgia,GPE,14925
+Hawaii,GPE,14925
+Idaho,GPE,14925
+Indiana,GPE,14925
+Iowa,GPE,14925
+Kansas,GPE,14925
+Kentucky,GPE,14925
+Louisiana,GPE,14925
+Maine,GPE,14925
+Maryland,GPE,14925
+Massachusetts,GPE,14925
+Michigan,GPE,14925
+Minnesota,GPE,14925
+Mississippi,GPE,14925
+Missouri,GPE,14925
+Montana,GPE,14925
+Nebraska,GPE,14925
+Nevada,GPE,14925
+New Hampshire,GPE,14925
+New Jersey,GPE,14925
+Ohio,GPE,14925
+Oklahoma,GPE,14925
+Oregon,GPE,14925
+Pennsylvania,GPE,14925
+Rhode Island,GPE,14925
+Tennessee,GPE,14925
+Texas,GPE,14925
+Utah,GPE,14925
+Vermont,GPE,14925
+Virginia,GPE,14925
+Washington,GPE,14925
+Washington,GPE,14925
+D.C.,GPE,14925
+Wisconsin,GPE,14925
+Wyoming,GPE,14925
+US,GPE,14925
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,14925
+Marshall Islands American Samoa Federated States,ORG,14925
+Micronesia Guam,FAC,14925
+Alberta,GPE,14925
+Canada,GPE,14925
+British Columbia,GPE,14925
+Canada Manitoba,GPE,14925
+Canada,GPE,14925
+New Brunswick,GPE,14925
+Canada Newfoundland,PERSON,14925
+Canada,GPE,14925
+Canada,GPE,14925
+Canada Ontario,GPE,14925
+Canada,GPE,14925
+Edward Island,GPE,14925
+Canada Quebec,GPE,14925
+Canada,GPE,14925
+Saskatchewan,GPE,14925
+Canada Yukon Territory,ORG,14925
+Canada,GPE,14925
+Zip Code,PERSON,14925

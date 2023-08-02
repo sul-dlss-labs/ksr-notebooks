@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,8597
+Alabama,GPE,8597
+Alaska,GPE,8597
+Arizona,GPE,8597
+Arkansas,GPE,8597
+California,GPE,8597
+Colorado,GPE,8597
+Connecticut,GPE,8597
+Delaware,GPE,8597
+Florida,GPE,8597
+Georgia,GPE,8597
+Hawaii,GPE,8597
+Idaho,GPE,8597
+Indiana,GPE,8597
+Iowa,GPE,8597
+Kansas,GPE,8597
+Kentucky,GPE,8597
+Louisiana,GPE,8597
+Maine,GPE,8597
+Maryland,GPE,8597
+Massachusetts,GPE,8597
+Michigan,GPE,8597
+Minnesota,GPE,8597
+Mississippi,GPE,8597
+Missouri,GPE,8597
+Montana,GPE,8597
+Nebraska,GPE,8597
+Nevada,GPE,8597
+New Hampshire,GPE,8597
+New Jersey,GPE,8597
+Ohio,GPE,8597
+Oklahoma,GPE,8597
+Oregon,GPE,8597
+Pennsylvania,GPE,8597
+Rhode Island,GPE,8597
+Tennessee,GPE,8597
+Texas,GPE,8597
+Utah,GPE,8597
+Vermont,GPE,8597
+Virginia,GPE,8597
+Washington,GPE,8597
+Washington,GPE,8597
+D.C.,GPE,8597
+Wisconsin,GPE,8597
+Wyoming,GPE,8597
+US,GPE,8597
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,8597
+Marshall Islands American Samoa Federated States,ORG,8597
+Micronesia Guam,FAC,8597
+Alberta,GPE,8597
+Canada,GPE,8597
+British Columbia,GPE,8597
+Canada Manitoba,GPE,8597
+Canada,GPE,8597
+New Brunswick,GPE,8597
+Canada Newfoundland,PERSON,8597
+Canada,GPE,8597
+Canada,GPE,8597
+Canada Ontario,GPE,8597
+Canada,GPE,8597
+Edward Island,GPE,8597
+Canada Quebec,GPE,8597
+Canada,GPE,8597
+Saskatchewan,GPE,8597
+Canada Yukon Territory,ORG,8597
+Canada,GPE,8597
+Zip Code,PERSON,8597

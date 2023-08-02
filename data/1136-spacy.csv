@@ -1,0 +1,532 @@
+text,label,fe_id
+Terrye Martin,PERSON,1136
+Antonio G. Robinson,PERSON,1136
+North Kingshighway,GPE,1136
+38,MONEY,1136
+1988,DATE,1136
+Buick LeSabre,PERSON,1136
+Martin,PERSON,1136
+Buick,FAC,1136
+Martin,ORG,1136
+first,ORDINAL,1136
+Martin,PERSON,1136
+South Central Correctional Center,ORG,1136
+Licking,GPE,1136
+Missouri,GPE,1136
+Martin,PERSON,1136
+Kingshighway,GPE,1136
+Martin,PERSON,1136
+Martin,PERSON,1136
+Kingshighway,GPE,1136
+six,CARDINAL,1136
+Cote Brilliante Avenue,FAC,1136
+Toyota,ORG,1136
+Camry,PRODUCT,1136
+Tyrica Fowler,PERSON,1136
+three,CARDINAL,1136
+Martin,ORG,1136
+nearly 58 mph,QUANTITY,1136
+Six-year-old,DATE,1136
+Derion Brooks,PERSON,1136
+one,CARDINAL,1136
+Fowler,PERSON,1136
+Tyrice Dobbins,ORG,1136
+two years old,DATE,1136
+Nine-year-old,DATE,1136
+Eric Brooks,PERSON,1136
+several weeks,DATE,1136
+Martin,PERSON,1136
+25 years,DATE,1136
+"August 10, 2001",DATE,1136
+at least seventeen,CARDINAL,1136
+St. Louis,GPE,1136
+Missouri,GPE,1136
+seven,CARDINAL,1136
+each year,DATE,1136
+St. Louis,GPE,1136
+five,CARDINAL,1136
+eight,CARDINAL,1136
+Brooks,ORG,1136
+last year,DATE,1136
+at least three,CARDINAL,1136
+65,CARDINAL,1136
+St. Louis County,GPE,1136
+Brooks,ORG,1136
+Fowler,PERSON,1136
+St. Louis,GPE,1136
+today,DATE,1136
+Martin,ORG,1136
+two,CARDINAL,1136
+Robinson,PERSON,1136
+Buick,FAC,1136
+Fowler,PERSON,1136
+Joseph Mokwa,PERSON,1136
+Buick,FAC,1136
+the St. Louis Post-Dispatch,ORG,1136
+Buick,ORG,1136
+Fowler,PERSON,1136
+a few months,DATE,1136
+two,CARDINAL,1136
+January and March,DATE,1136
+Ed Hanlon,PERSON,1136
+Martin,PERSON,1136
+Robinson,PERSON,1136
+the St. Louis Metropolitan Police Department,ORG,1136
+Mokwa,PERSON,1136
+Paul Nocchiero,PERSON,1136
+Derion Brooks,PERSON,1136
+Nocchiero,PERSON,1136
+One,CARDINAL,1136
+decade,DATE,1136
+two,CARDINAL,1136
+about the days,DATE,1136
+Ken Gregory,PERSON,1136
+the St. Louis County and Municipal Police Academy,ORG,1136
+one,CARDINAL,1136
+Blues Brothers,ORG,1136
+Saturday,DATE,1136
+about ten years ago,DATE,1136
+St. Louis County,GPE,1136
+Jeep,ORG,1136
+I-270,FAC,1136
+25,CARDINAL,1136
+Jeep,ORG,1136
+65,CARDINAL,1136
+70 mph,QUANTITY,1136
+several miles,QUANTITY,1136
+three-dozen,CARDINAL,1136
+Jeep,ORG,1136
+I-70,GPE,1136
+Lambert Airport,FAC,1136
+one,CARDINAL,1136
+Jeep,ORG,1136
+30 to 40,CARDINAL,1136
+East St. Louis,GPE,1136
+Today,DATE,1136
+St. Louis County,GPE,1136
+two,CARDINAL,1136
+Gregory,ORG,1136
+those days,DATE,1136
+Geoffrey Alpert,PERSON,1136
+the University of South Carolina,ORG,1136
+one,CARDINAL,1136
+two,CARDINAL,1136
+Alpert,PERSON,1136
+One,CARDINAL,1136
+2000,CARDINAL,1136
+the National Institute of Justice,ORG,1136
+the U.S. Department of Justice,ORG,1136
+Alpert,PERSON,1136
+144,CARDINAL,1136
+32 percent,PERCENT,1136
+Twenty-eight percent,PERCENT,1136
+22 percent,PERCENT,1136
+Missouri,GPE,1136
+the Highway Patrol,FAC,1136
+between 70 and,CARDINAL,1136
+81 percent,PERCENT,1136
+between 1996 and 2001,DATE,1136
+fewer than 15 percent,PERCENT,1136
+2001,DATE,1136
+39 percent,PERCENT,1136
+The National Highway Traffic Safety Administration,ORG,1136
+about 40 percent,PERCENT,1136
+20 percent,PERCENT,1136
+1 percent,PERCENT,1136
+Between 1986 and 2001,DATE,1136
+the most recent year,DATE,1136
+323,CARDINAL,1136
+each year,DATE,1136
+NHTSA,ORG,1136
+David Klinger,PERSON,1136
+the University of Missouri-St. Louis,ORG,1136
+the past two years,DATE,1136
+the Los Angeles Police Department,ORG,1136
+Klinger,ORG,1136
+Klinger,PERSON,1136
+St. Louis County,GPE,1136
+quarterly,DATE,1136
+the past two years,DATE,1136
+no more than three,CARDINAL,1136
+three-month,DATE,1136
+"between 15,000 and 16,900",CARDINAL,1136
+quarterly,DATE,1136
+March,DATE,1136
+an incident,DATE,1136
+two years ago,DATE,1136
+North St. Louis County,GPE,1136
+Patterson Road,WORK_OF_ART,1136
+15 mph,QUANTITY,1136
+St. Louis,GPE,1136
+May 2002,DATE,1136
+Nocchiero,PERSON,1136
+37,CARDINAL,1136
+the nine quarters,DATE,1136
+as many as 60,CARDINAL,1136
+three-month,DATE,1136
+more than twenty,CARDINAL,1136
+Gregory,ORG,1136
+One,CARDINAL,1136
+today,DATE,1136
+90 mph,QUANTITY,1136
+Alpert,PERSON,1136
+The Missouri Highway Patrol,ORG,1136
+Jefferson City,GPE,1136
+five,CARDINAL,1136
+Henry Mansker,PERSON,1136
+the Hazelwood Police Department,ORG,1136
+the past year,DATE,1136
+Mansker,ORG,1136
+about four,CARDINAL,1136
+between ten and fifteen,CARDINAL,1136
+St. Louis County,GPE,1136
+Hazelwood,ORG,1136
+two,CARDINAL,1136
+45-minute,TIME,1136
+Hazelwood,ORG,1136
+St. Patrick's,GPE,1136
+Day,DATE,1136
+Overland,GPE,1136
+170,MONEY,1136
+North St. Louis County,GPE,1136
+as high as,CARDINAL,1136
+90 mph,QUANTITY,1136
+Berkeley,GPE,1136
+Frank McCall,PERSON,1136
+the Berkeley Police Department,ORG,1136
+Berkeley,GPE,1136
+McCall,PERSON,1136
+Berkeley,ORG,1136
+McCall,ORG,1136
+Hazelwood,GPE,1136
+Howdershell Road,FAC,1136
+I-270,FAC,1136
+McDonnell Boulevard,ORG,1136
+Hazelwood,ORG,1136
+Mansker,PERSON,1136
+one,CARDINAL,1136
+one,CARDINAL,1136
+Berkeley,GPE,1136
+McCall,PERSON,1136
+one day,DATE,1136
+Hazelwood,ORG,1136
+Mansker,ORG,1136
+Hazelwood,ORG,1136
+McCall,PERSON,1136
+more than five dozen,CARDINAL,1136
+St. Louis County,GPE,1136
+fewer than ten,CARDINAL,1136
+"fewer than 2,000",CARDINAL,1136
+one,CARDINAL,1136
+McCall,PERSON,1136
+September,DATE,1136
+Kinloch,PERSON,1136
+St. Louis County,GPE,1136
+Walter Wilson,PERSON,1136
+the Kinloch Police Department,ORG,1136
+Jason Grier,PERSON,1136
+Bridgeton,GPE,1136
+3:40 a.m.,TIME,1136
+Wilson,PERSON,1136
+second,ORDINAL,1136
+Grier,PERSON,1136
+Honda,ORG,1136
+Accord,PRODUCT,1136
+Grier,PERSON,1136
+Wilson,ORG,1136
+Grier,PERSON,1136
+Wilson,ORG,1136
+Grier 25 miles,QUANTITY,1136
+Berkeley,GPE,1136
+Edmundson,GPE,1136
+Maryland Heights,GPE,1136
+Wilson,ORG,1136
+Wilson,ORG,1136
+Edmundson,GPE,1136
+Berkeley,GPE,1136
+Honda,ORG,1136
+Maryland Heights,GPE,1136
+Grier,PERSON,1136
+Wilson,ORG,1136
+three,CARDINAL,1136
+Wilson,ORG,1136
+Grier,PERSON,1136
+Honda,ORG,1136
+Berkeley,ORG,1136
+Dan Polino,PERSON,1136
+Grier,PERSON,1136
+Wilson,ORG,1136
+Grier,PERSON,1136
+less than a mile,QUANTITY,1136
+Maryland Heights,GPE,1136
+Honda,ORG,1136
+Wilson,ORG,1136
+Grier,PERSON,1136
+first,ORDINAL,1136
+Wilson,ORG,1136
+Grier,PERSON,1136
+Honda,ORG,1136
+Grier,PERSON,1136
+Grier,PERSON,1136
+Wilson,ORG,1136
+Grier,PERSON,1136
+Wilson,ORG,1136
+first,ORDINAL,1136
+Wilson,ORG,1136
+Wellston,GPE,1136
+"Riverview, Pine Lawn",ORG,1136
+Hillsdale,GPE,1136
+the Kinloch Police Department,ORG,1136
+Wilson,ORG,1136
+Missouri,GPE,1136
+Twelve days,DATE,1136
+St. Louis County,GPE,1136
+Kinloch,PERSON,1136
+911,CARDINAL,1136
+Kinloch,PERSON,1136
+Ernest Meriwether,PERSON,1136
+Wilson,PERSON,1136
+Wilson,ORG,1136
+Wilson,ORG,1136
+September,DATE,1136
+Maryland Heights,GPE,1136
+Kinloch,PERSON,1136
+Edmundson,ORG,1136
+Berkeley,ORG,1136
+Kinloch,PERSON,1136
+McCall,ORG,1136
+Berkeley,ORG,1136
+about fifteen minutes,TIME,1136
+McCall,PERSON,1136
+St. Louis,GPE,1136
+St. Louis County,GPE,1136
+Alpert,PERSON,1136
+Alpert,PERSON,1136
+Ryan Lee King,PERSON,1136
+last Labor Day weekend,DATE,1136
+St. Peters,ORG,1136
+Todd Lewis,PERSON,1136
+11 p.m.,TIME,1136
+a holiday weekend,DATE,1136
+fifteen,CARDINAL,1136
+Sunday,DATE,1136
+Lewis,PERSON,1136
+Denny,GPE,1136
+Cave Springs,ORG,1136
+I-70,PRODUCT,1136
+Lewis,PERSON,1136
+Denny,GPE,1136
+Lewis,PERSON,1136
+October,DATE,1136
+Lewis,PERSON,1136
+three,CARDINAL,1136
+a half-mile,QUANTITY,1136
+first,ORDINAL,1136
+Cave Springs Road,FAC,1136
+Mexico Road,FAC,1136
+I-70,PRODUCT,1136
+between 65,DATE,1136
+70 mph,QUANTITY,1136
+35 mph,QUANTITY,1136
+Lewis,PERSON,1136
+Antoinette Eckman,PERSON,1136
+Cave Springs Road,ORG,1136
+four-year-old,DATE,1136
+St. Peters,GPE,1136
+St. Charles,GPE,1136
+Lewis,PERSON,1136
+Lewis,PERSON,1136
+King,PERSON,1136
+St. Charles,GPE,1136
+the St. Charles Police Department,ORG,1136
+Lewis,PERSON,1136
+two,CARDINAL,1136
+Matthew James Foster,PERSON,1136
+David Harrison,PERSON,1136
+Sandalwood Creek,FAC,1136
+73 mph,QUANTITY,1136
+nearly 30 mph,QUANTITY,1136
+45 mph,QUANTITY,1136
+Harrison,PERSON,1136
+69 mph,QUANTITY,1136
+Harrison,PERSON,1136
+Lewis,PERSON,1136
+approximately 1.3 miles,QUANTITY,1136
+between three-tenths,CARDINAL,1136
+four-tenths,CARDINAL,1136
+a mile,QUANTITY,1136
+first,ORDINAL,1136
+Lewis,PERSON,1136
+Paramedic Timothy Wersching,PERSON,1136
+King,PERSON,1136
+Harrison,PERSON,1136
+David Pitts,PERSON,1136
+Oldsmobile,ORG,1136
+Harrison,PERSON,1136
+Pitts,PERSON,1136
+Harrison,ORG,1136
+Harrison,PERSON,1136
+John Rader,PERSON,1136
+Harrison,PERSON,1136
+Oldsmobile,ORG,1136
+Rader,PERSON,1136
+Unfortunately for King,WORK_OF_ART,1136
+just four days,DATE,1136
+second,ORDINAL,1136
+first,ORDINAL,1136
+July,DATE,1136
+Valerie Held,PERSON,1136
+one,CARDINAL,1136
+St. Peters,GPE,1136
+Sergeant Dave Kuppler,PERSON,1136
+St. Peters,GPE,1136
+Lewis,PERSON,1136
+Kuppler,PERSON,1136
+Berkeley,GPE,1136
+St. Peters,GPE,1136
+Kuppler,PERSON,1136
+Alpert,PERSON,1136
+slightly more than two,CARDINAL,1136
+between two and two,CARDINAL,1136
+Alpert,PERSON,1136
+Nocchiero,PRODUCT,1136
+St. Louis,GPE,1136
+Alpert,PERSON,1136
+St. Louis,GPE,1136
+100,CARDINAL,1136
+Peters,PERSON,1136
+eight,CARDINAL,1136
+five,CARDINAL,1136
+St. Louis,GPE,1136
+at least three,CARDINAL,1136
+January 15,DATE,1136
+Eddie Robinson,PERSON,1136
+69,DATE,1136
+Amoco,ORG,1136
+Natural Bridge Road,FAC,1136
+Chrysler New Yorker,ORG,1136
+fifteen-year-old,DATE,1136
+Bel,PERSON,1136
+John Qualls,PERSON,1136
+9:45 a.m.,TIME,1136
+Qualls,ORG,1136
+Chrysler,ORG,1136
+Natural Bridge Road,FAC,1136
+50 mph,QUANTITY,1136
+30-mph,QUANTITY,1136
+approximately 65 mph,QUANTITY,1136
+Qualls,PERSON,1136
+Qualls,PERSON,1136
+"Normandy, Qualls",ORG,1136
+Chrysler,ORG,1136
+Qualls,PERSON,1136
+Chrysler,ORG,1136
+Robinson,PERSON,1136
+about a mile,QUANTITY,1136
+Quall,PERSON,1136
+Bel-Nor's,ORG,1136
+Matthew Lauer,PERSON,1136
+Quall,PERSON,1136
+Brad Kessler,PERSON,1136
+Kessler,PERSON,1136
+Jeannette Graviss,PERSON,1136
+St. Louis,GPE,1136
+Lauer,ORG,1136
+Qualls,ORG,1136
+Lauer,ORG,1136
+John Connolly,PERSON,1136
+Lauer,ORG,1136
+Connolly,PERSON,1136
+Lauer,ORG,1136
+Normandy,ORG,1136
+Lauer,ORG,1136
+Connolly,PERSON,1136
+Connolly,PERSON,1136
+Bel-Nor,GPE,1136
+"1,600",CARDINAL,1136
+Lauer,ORG,1136
+January,DATE,1136
+St. John,GPE,1136
+Nissan,ORG,1136
+Maxima,PRODUCT,1136
+December 20,DATE,1136
+Overland Church of Christ,ORG,1136
+"an estimated $80,000",MONEY,1136
+Maxima,PRODUCT,1136
+Midland,GPE,1136
+Maxima,PRODUCT,1136
+St. John,GPE,1136
+Robert Connell,PERSON,1136
+Maxima,PRODUCT,1136
+St. Charles Rock Road,ORG,1136
+shortly before 2 a.m.,TIME,1136
+J.R. Morris,PERSON,1136
+the St. John Police Department,ORG,1136
+Maxima,PRODUCT,1136
+Brown Road,WORK_OF_ART,1136
+Connell,ORG,1136
+two,CARDINAL,1136
+Thomas Rhine,PERSON,1136
+Connell,ORG,1136
+Nissan,ORG,1136
+100 mph,QUANTITY,1136
+Connell,ORG,1136
+Rhine,PERSON,1136
+Nissan,ORG,1136
+Morris,PERSON,1136
+Nissan,ORG,1136
+33 mph,QUANTITY,1136
+just three miles per hour,QUANTITY,1136
+Connell,ORG,1136
+35 mph,QUANTITY,1136
+Morris,PERSON,1136
+Connell,ORG,1136
+more than a,CARDINAL,1136
+about 30 seconds,TIME,1136
+Nissan,ORG,1136
+Trahann Smith,PERSON,1136
+Morris,PERSON,1136
+Morris,PERSON,1136
+Connell,PERSON,1136
+Smith,PERSON,1136
+May 29,DATE,1136
+Lauer,PERSON,1136
+two years,DATE,1136
+DWI,ORG,1136
+Morris,PERSON,1136
+Missouri,GPE,1136
+St. Louis County,GPE,1136
+Robert McCulloch,PERSON,1136
+St. Louis,GPE,1136
+Graviss,PERSON,1136
+Graviss,PERSON,1136
+thirteen,CARDINAL,1136
+Mississippi,GPE,1136
+2002,DATE,1136
+Mississippi,GPE,1136
+New Mexico,GPE,1136
+Legislature,ORG,1136
+this spring,DATE,1136
+sixteen hours,TIME,1136
+Missouri,GPE,1136
+May 20,DATE,1136
+St. Charles County,GPE,1136
+more than ten miles,QUANTITY,1136
+Chesterfield,GPE,1136
+four,CARDINAL,1136
+"1,610",MONEY,1136
+St. Peters,GPE,1136
+Craig McGuire,PERSON,1136
+the St. Charles County Sheriff's Department,ORG,1136
+100 mph,QUANTITY,1136
+I-70,PRODUCT,1136
+First,ORDINAL,1136
+Capitol Drive,ORG,1136
+McGuire,PERSON,1136
+at least a,DATE,1136
+quarter-mile,QUANTITY,1136
+McGuire,PERSON,1136
+Alpert,PERSON,1136
+One,CARDINAL,1136
+Number two,CARDINAL,1136
+one,CARDINAL,1136

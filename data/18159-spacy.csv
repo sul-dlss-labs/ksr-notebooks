@@ -1,0 +1,17 @@
+text,label,fe_id
+The Omaha Police Department,ORG,18159
+Saturday,DATE,18159
+morning,TIME,18159
+Two,CARDINAL,18159
+North 22nd,DATE,18159
+around 6:30 a.m.,TIME,18159
+one,CARDINAL,18159
+One,CARDINAL,18159
+34-year-old,DATE,18159
+Nathan Smith,PERSON,18159
+Smith,PERSON,18159
+Smith,PERSON,18159
+CHI Health Creighton University Medical Center,ORG,18159
+OPD,ORG,18159
+Officer-Involved Investigation Team,ORG,18159
+Smith,GPE,18159

@@ -1,0 +1,47 @@
+text,label,fe_id
+SWAT,ORG,11561
+Monte Diablo Avenue,ORG,11561
+Just after midnight,TIME,11561
+One,CARDINAL,11561
+second,ORDINAL,11561
+third,ORDINAL,11561
+Thursday,DATE,11561
+Joseph Brooks,PERSON,11561
+27,DATE,11561
+Hammer Lane,FAC,11561
+Monte Diable Avenue,FAC,11561
+one,CARDINAL,11561
+Darold Jarvis,PERSON,11561
+24,DATE,11561
+Darance Lead,PERSON,11561
+19,DATE,11561
+The Stockton Police Department,ORG,11561
+three,CARDINAL,11561
+two,CARDINAL,11561
+Stockton,GPE,11561
+11:30 p.m.,TIME,11561
+Wednesday,DATE,11561
+Stockton,PERSON,11561
+SWAT,ORG,11561
+Monte Diablo Avenue,ORG,11561
+midnight,TIME,11561
+One,CARDINAL,11561
+second,ORDINAL,11561
+third,ORDINAL,11561
+Thursday,DATE,11561
+Joseph Brooks,PERSON,11561
+27,DATE,11561
+Hammer Lane,FAC,11561
+I-5,PRODUCT,11561
+Monte Diable Avenue,FAC,11561
+one,CARDINAL,11561
+Darold Jarvis,PERSON,11561
+24,DATE,11561
+Darance Lead,PERSON,11561
+19,DATE,11561
+The Stockton Police Department,ORG,11561
+three,CARDINAL,11561
+two,CARDINAL,11561
+Stockton,GPE,11561
+11:30 p.m.,TIME,11561
+Wednesday,DATE,11561

@@ -1,0 +1,47 @@
+text,label,fe_id
+Pamela Turner,PERSON,26077
+8:47 a.m.,TIME,26077
+Thursday,DATE,26077
+"May 14, 2020",DATE,26077
+"May 13, 2019",DATE,26077
+Pamela Turner,PERSON,26077
+Baytown,NORP,26077
+two,CARDINAL,26077
+Baytown,GPE,26077
+Juan Delacruz,PERSON,26077
+Turner,ORG,26077
+Delacruz,PERSON,26077
+Taser,ORG,26077
+Taser,GPE,26077
+Turner,ORG,26077
+Houston Public Media,ORG,26077
+Baytown,GPE,26077
+Taser,ORG,26077
+Delacruz,PRODUCT,26077
+second,ORDINAL,26077
+Taser,ORG,26077
+Turner,ORG,26077
+Ben Crump,PERSON,26077
+Houston Public Media,ORG,26077
+Crump,PERSON,26077
+Taser,ORG,26077
+Wednesday,DATE,26077
+Pamela Turner's,PERSON,26077
+Chelsie Rubin,PERSON,26077
+Baytown,GPE,26077
+Rubin,PERSON,26077
+Crump,PERSON,26077
+the Harris County District,GPE,26077
+Office,ORG,26077
+Kim Ogg,PERSON,26077
+Pam Turner,PERSON,26077
+Crump,PERSON,26077
+The Baytown Police Department,ORG,26077
+Delacruz,GPE,26077
+Greg Cagle,PERSON,26077
+Taser,GPE,26077
+Taser,ORG,26077
+a half second or,TIME,26077
+second,ORDINAL,26077
+The Texas Rangers,ORG,26077
+Office,ORG,26077

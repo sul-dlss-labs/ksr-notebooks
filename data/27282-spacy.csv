@@ -1,0 +1,24 @@
+text,label,fe_id
+Chicago,GPE,27282
+Saturday,DATE,27282
+afternoon,TIME,27282
+Far Southeast Side,NORP,27282
+approximately 3:15 p.m.,TIME,27282
+2600,CARDINAL,27282
+East 79th Street,DATE,27282
+Chicago,GPE,27282
+second,ORDINAL,27282
+one,CARDINAL,27282
+Chicago Police Department,ORG,27282
+Fred Waller,PERSON,27282
+Waller,PERSON,27282
+second,ORDINAL,27282
+Eric Russell,PERSON,27282
+the University of Chicago Medical Center,ORG,27282
+Chief Waller,PERSON,27282
+approximately 3 to 4 feet,QUANTITY,27282
+Waller,PERSON,27282
+Russell,PERSON,27282
+30 days,DATE,27282
+Chicago,GPE,27282
+Civilian Office of Police Accountability,ORG,27282

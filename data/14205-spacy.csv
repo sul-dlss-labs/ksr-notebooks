@@ -1,0 +1,65 @@
+text,label,fe_id
+D.S. Woodfill,PERSON,14205
+Megan Cassidy,PERSON,14205
+Michael Kiefer,PERSON,14205
+Phoenix,GPE,14205
+Tuesday,DATE,14205
+morning,TIME,14205
+One,CARDINAL,14205
+morning,TIME,14205
+Interstate 17,FAC,14205
+Dunlap Road,FAC,14205
+CityScape,FAC,14205
+Central Avenue,FAC,14205
+Jefferson Street,FAC,14205
+CityScape,ORG,14205
+Jefferson Street,FAC,14205
+Late Tuesday,DATE,14205
+Jessica Hicks,PERSON,14205
+23,DATE,14205
+Fourth Avenue Jail,FAC,14205
+first,ORDINAL,14205
+first,ORDINAL,14205
+Sgt,PERSON,14205
+Trent Crump,PERSON,14205
+Phoenix,GPE,14205
+Ed Haramina,PERSON,14205
+First Avenue,FAC,14205
+Jefferson Street,FAC,14205
+Ford,ORG,14205
+CityScape,ORG,14205
+Jefferson Street,FAC,14205
+two,CARDINAL,14205
+Jefferson,GPE,14205
+First Avenue,FAC,14205
+Ford,ORG,14205
+Subway,LOC,14205
+Luhrs Building,FAC,14205
+Ford,ORG,14205
+Haramina,LOC,14205
+Mike Martin,PERSON,14205
+Luhrs,GPE,14205
+Defense,ORG,14205
+Richard Gierloff,PERSON,14205
+Luhrs,GPE,14205
+a dozen,CARDINAL,14205
+Gierloff,ORG,14205
+Gierloff,PERSON,14205
+early Tuesday,DATE,14205
+Crump,PERSON,14205
+Dodge,ORG,14205
+Dunlap Road,FAC,14205
+22nd Avenue,FAC,14205
+one,CARDINAL,14205
+I-17,PRODUCT,14205
+Crump,PERSON,14205
+Phoenix,GPE,14205
+CityScape,ORG,14205
+53-year-old,DATE,14205
+Jefferson Street,FAC,14205
+Crump,PERSON,14205
+Crump,PERSON,14205
+SWAT,ORG,14205
+Crump,PERSON,14205
+Sgt,PERSON,14205
+Trent Crump,PERSON,14205

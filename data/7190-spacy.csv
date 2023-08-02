@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7190
+Alabama,GPE,7190
+Alaska,GPE,7190
+Arizona,GPE,7190
+Arkansas,GPE,7190
+California,GPE,7190
+Colorado,GPE,7190
+Connecticut,GPE,7190
+Delaware,GPE,7190
+Florida,GPE,7190
+Georgia,GPE,7190
+Hawaii,GPE,7190
+Idaho,GPE,7190
+Indiana,GPE,7190
+Iowa,GPE,7190
+Kansas,GPE,7190
+Kentucky,GPE,7190
+Louisiana,GPE,7190
+Maine,GPE,7190
+Maryland,GPE,7190
+Massachusetts,GPE,7190
+Michigan,GPE,7190
+Minnesota,GPE,7190
+Mississippi,GPE,7190
+Missouri,GPE,7190
+Montana,GPE,7190
+Nebraska,GPE,7190
+Nevada,GPE,7190
+New Hampshire,GPE,7190
+New Jersey,GPE,7190
+Ohio,GPE,7190
+Oklahoma,GPE,7190
+Oregon,GPE,7190
+Pennsylvania,GPE,7190
+Rhode Island,GPE,7190
+Tennessee,GPE,7190
+Texas,GPE,7190
+Utah,GPE,7190
+Vermont,GPE,7190
+Virginia,GPE,7190
+Washington,GPE,7190
+Washington,GPE,7190
+D.C.,GPE,7190
+Wisconsin,GPE,7190
+Wyoming,GPE,7190
+US,GPE,7190
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7190
+Marshall Islands American Samoa Federated States,ORG,7190
+Micronesia Guam,FAC,7190
+Alberta,GPE,7190
+Canada,GPE,7190
+British Columbia,GPE,7190
+Canada Manitoba,GPE,7190
+Canada,GPE,7190
+New Brunswick,GPE,7190
+Canada Newfoundland,PERSON,7190
+Canada,GPE,7190
+Canada,GPE,7190
+Canada Ontario,GPE,7190
+Canada,GPE,7190
+Edward Island,GPE,7190
+Canada Quebec,GPE,7190
+Canada,GPE,7190
+Saskatchewan,GPE,7190
+Canada Yukon Territory,ORG,7190
+Canada,GPE,7190
+Zip Code,PERSON,7190

@@ -1,0 +1,16 @@
+text,label,fe_id
+two,CARDINAL,19157
+South Bend,LOC,19157
+16-year-old,DATE,19157
+Samuel Phillips,PERSON,19157
+15-year-old,DATE,19157
+Jermaine Fleming,PERSON,19157
+Phillips,PERSON,19157
+two,CARDINAL,19157
+third,ORDINAL,19157
+fourth,ORDINAL,19157
+early Tuesday morning,TIME,19157
+1500,CARDINAL,19157
+Lincolnway,GPE,19157
+Humboldt and College,ORG,19157
+EMT,ORG,19157

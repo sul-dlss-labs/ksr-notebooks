@@ -1,0 +1,31 @@
+text,label,fe_id
+One,CARDINAL,17002
+10,CARDINAL,17002
+Saturday,DATE,17002
+evening,TIME,17002
+three,CARDINAL,17002
+Chicago,GPE,17002
+Englewood,LOC,17002
+the South Side,LOC,17002
+about 5:45 p.m.,TIME,17002
+11,CARDINAL,17002
+71st Street,FAC,17002
+Carpenter Avenue,PERSON,17002
+Maria Carrion-Adame,PERSON,17002
+37-year-old,DATE,17002
+Stroger Hospital,PERSON,17002
+6:20 p.m.,TIME,17002
+Cook County,GPE,17002
+The Chicago Fire Department,ORG,17002
+11,CARDINAL,17002
+more than 50,CARDINAL,17002
+six,CARDINAL,17002
+"ages 3, 5",DATE,17002
+9,DATE,17002
+13,DATE,17002
+two,CARDINAL,17002
+15-year-olds,DATE,17002
+56-year old,DATE,17002
+Sunday,DATE,17002
+night,TIME,17002
+three,CARDINAL,17002

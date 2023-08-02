@@ -1,0 +1,15 @@
+text,label,fe_id
+yesterday,DATE,4652
+19-year-old,DATE,4652
+Tremont,GPE,4652
+Bronx,GPE,4652
+2 a.m.,TIME,4652
+2205,DATE,4652
+Creston Avenue,FAC,4652
+Creston Avenue,FAC,4652
+about 15,CARDINAL,4652
+second,ORDINAL,4652
+third,ORDINAL,4652
+second,ORDINAL,4652
+third,ORDINAL,4652
+first,ORDINAL,4652

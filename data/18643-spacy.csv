@@ -1,0 +1,36 @@
+text,label,fe_id
+Sam Costanza,PERSON,18643
+New York Daily News,ORG,18643
+Brooklyn,GPE,18643
+Tuesday,DATE,18643
+night,TIME,18643
+first,ORDINAL,18643
+E. 99th St.,ORG,18643
+Avenue J,FAC,18643
+Canarsie,GPE,18643
+9:40 p.m.,TIME,18643
+911,CARDINAL,18643
+63-year-old,DATE,18643
+James Owens,PERSON,18643
+13-inch,QUANTITY,18643
+One,CARDINAL,18643
+Taser,ORG,18643
+three,CARDINAL,18643
+Owens,PERSON,18643
+James Owens,PERSON,18643
+13-inch,QUANTITY,18643
+Breaking News As,WORK_OF_ART,18643
+Subscriber Terms & Conditions,ORG,18643
+Owens,PERSON,18643
+Kings County Hospital,FAC,18643
+FDNY,ORG,18643
+Neighbor Paul Edwards,FAC,18643
+44,DATE,18643
+Owens,PERSON,18643
+Kings County Hospital,FAC,18643
+Sam Costanza,PERSON,18643
+New York Daily News,ORG,18643
+two,CARDINAL,18643
+Edwards,PERSON,18643
+Owens,PERSON,18643
+Rocco Parascandola,PERSON,18643

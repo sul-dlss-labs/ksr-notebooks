@@ -1,0 +1,112 @@
+text,label,fe_id
+about 7 a.m.,TIME,984
+yesterday,DATE,984
+the Moanalua Golf Club,ORG,984
+Bill Kato,PERSON,984
+Honolulu Police Department Homicide Detail,ORG,984
+Salt Lake,GPE,984
+Lee Donohue,PERSON,984
+Honolulu,GPE,984
+Candelario,GPE,984
+Pearl City,GPE,984
+Pamoho Place,ORG,984
+Aiea,PERSON,984
+Candelario,PERSON,984
+Kato,PERSON,984
+Candelario,PERSON,984
+99,CARDINAL,984
+Kauhale St.,PERSON,984
+Aiea,PERSON,984
+Kato,PERSON,984
+Aiea High School Athletic,ORG,984
+Roy Miyoga,PERSON,984
+Roy Miyoga,PERSON,984
+about 8 a.m.,TIME,984
+two,CARDINAL,984
+Candelario,GPE,984
+Kauhale Street,FAC,984
+Kato,PERSON,984
+Candelario,PERSON,984
+one,CARDINAL,984
+Kato,PERSON,984
+one,CARDINAL,984
+Candelario,GPE,984
+Pearl City,GPE,984
+HPD,ORG,984
+Homicide Detail,ORG,984
+Internal Affairs Division,ORG,984
+Candelario,GPE,984
+28,DATE,984
+five,CARDINAL,984
+state Circuit Court,ORG,984
+the Hawaii Drug Court Program,ORG,984
+"Oct. 22, 2000",DATE,984
+March 19,DATE,984
+Candelario,PERSON,984
+March 14,DATE,984
+the Oahu Community Correctional Center,ORG,984
+Candelario,PERSON,984
+the month of January,DATE,984
+OCCC,ORG,984
+the month before,DATE,984
+three days,DATE,984
+five,CARDINAL,984
+first,ORDINAL,984
+second,ORDINAL,984
+Candelario,PERSON,984
+first,ORDINAL,984
+Kalihi,LOC,984
+"April 23, 2000",DATE,984
+second,ORDINAL,984
+Jeffrey Apaka's,PERSON,984
+Waikiki Community Center,ORG,984
+"Sept. 20, 2000",DATE,984
+Star-Bulletin,ORG,984
+20-year-old,DATE,984
+Dustan Long,PERSON,984
+"June 3, 2001",DATE,984
+Wahiawa,GPE,984
+Long,PERSON,984
+seven,CARDINAL,984
+two,CARDINAL,984
+27-year-old,DATE,984
+Levi Esperas,PERSON,984
+"April 17, 2001",DATE,984
+Esperas,ORG,984
+Robert Steiner,PERSON,984
+two,CARDINAL,984
+as many as 20,CARDINAL,984
+Michell Udani,ORG,984
+Udani,PERSON,984
+Cherry Ann Cachola,ORG,984
+"Jan. 13, 2001",DATE,984
+Udani,ORG,984
+Cachola,ORG,984
+third,ORDINAL,984
+Ala Moana Center,PERSON,984
+Udani,ORG,984
+Cachola,ORG,984
+Udani,ORG,984
+Bernard Crivello,PERSON,984
+Waikiki,PERSON,984
+"October 3, 2000",DATE,984
+Jeep,ORG,984
+Crivello,ORG,984
+Crivello,ORG,984
+Jeep,ORG,984
+Cushman,PRODUCT,984
+Crivello,ORG,984
+Cushman,PRODUCT,984
+Jeep,ORG,984
+Crivello,ORG,984
+Jeep,ORG,984
+Crivello,ORG,984
+Fortunato Barques III,PERSON,984
+Pupukea,GPE,984
+"May 4, 1998",DATE,984
+Barques,GPE,984
+Earlier this year,DATE,984
+Barques,PERSON,984
+"250,000",MONEY,984
+U.S.,GPE,984
+District Court,ORG,984

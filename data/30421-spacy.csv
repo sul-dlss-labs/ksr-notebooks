@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,30421
+Alabama,GPE,30421
+Alaska,GPE,30421
+Arizona,GPE,30421
+Arkansas,GPE,30421
+California,GPE,30421
+Colorado,GPE,30421
+Connecticut,GPE,30421
+Delaware,GPE,30421
+Florida,GPE,30421
+Georgia,GPE,30421
+Hawaii,GPE,30421
+Idaho,GPE,30421
+Indiana,GPE,30421
+Iowa,GPE,30421
+Kansas,GPE,30421
+Kentucky,GPE,30421
+Louisiana,GPE,30421
+Maine,GPE,30421
+Maryland,GPE,30421
+Massachusetts,GPE,30421
+Michigan,GPE,30421
+Minnesota,GPE,30421
+Mississippi,GPE,30421
+Missouri,GPE,30421
+Montana,GPE,30421
+Nebraska,GPE,30421
+Nevada,GPE,30421
+New Hampshire,GPE,30421
+New Jersey,GPE,30421
+Ohio,GPE,30421
+Oklahoma,GPE,30421
+Oregon,GPE,30421
+Pennsylvania,GPE,30421
+Rhode Island,GPE,30421
+Tennessee,GPE,30421
+Texas,GPE,30421
+Utah,GPE,30421
+Vermont,GPE,30421
+Virginia,GPE,30421
+Washington,GPE,30421
+Washington,GPE,30421
+D.C.,GPE,30421
+Wisconsin,GPE,30421
+Wyoming,GPE,30421
+US,GPE,30421
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,30421
+Marshall Islands American Samoa Federated States,ORG,30421
+Micronesia Guam,FAC,30421
+Alberta,GPE,30421
+Canada,GPE,30421
+British Columbia,GPE,30421
+Canada Manitoba,GPE,30421
+Canada,GPE,30421
+New Brunswick,GPE,30421
+Canada Newfoundland,PERSON,30421
+Canada,GPE,30421
+Canada,GPE,30421
+Canada Ontario,GPE,30421
+Canada,GPE,30421
+Edward Island,GPE,30421
+Canada Quebec,GPE,30421
+Canada,GPE,30421
+Saskatchewan,GPE,30421
+Canada Yukon Territory,ORG,30421
+Canada,GPE,30421
+Zip Code,PERSON,30421

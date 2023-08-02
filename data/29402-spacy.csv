@@ -1,0 +1,31 @@
+text,label,fe_id
+San Bernardino,GPE,29402
+Highland,GPE,29402
+"Dec. 29, 2020",DATE,29402
+LoudLabs,NORP,29402
+San Bernardino,GPE,29402
+Highland,GPE,29402
+Tuesday,DATE,29402
+afternoon,TIME,29402
+around 3:45 p.m.,TIME,29402
+Baseline,GPE,29402
+Elm,ORG,29402
+Highland,GPE,29402
+San Bernardino,GPE,29402
+American Tire Depot,ORG,29402
+Tuesday,DATE,29402
+evening,TIME,29402
+San Bernardino,GPE,29402
+Eric McBride,PERSON,29402
+the San Bernardino Sun,ORG,29402
+first,ORDINAL,29402
+Sun,LOC,29402
+San Bernardino County,GPE,29402
+Tuesday,DATE,29402
+second,ORDINAL,29402
+San Bernardino County,GPE,29402
+as many days,DATE,29402
+Hesperia,GPE,29402
+Monday,DATE,29402
+33-year-old,DATE,29402
+Barstow,PERSON,29402

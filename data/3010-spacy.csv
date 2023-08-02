@@ -1,0 +1,31 @@
+text,label,fe_id
+Times,ORG,3010
+20-year-old,DATE,3010
+Santa Ana,GPE,3010
+Monday,DATE,3010
+Luis Alberto Zayas,PERSON,3010
+Santa Ana,GPE,3010
+Western Medical Center-Santa Ana,ORG,3010
+10:30 p.m.,TIME,3010
+Sunday,DATE,3010
+two,CARDINAL,3010
+Ford,ORG,3010
+Bronco,PRODUCT,3010
+2500,CARDINAL,3010
+Bristol Avenue,FAC,3010
+Nov. 28,DATE,3010
+Orange County,GPE,3010
+Sunday,DATE,3010
+Zayas,PERSON,3010
+Santa Ana Police Sgt,ORG,3010
+Baltazar De La Riva,PERSON,3010
+Zayas,GPE,3010
+De La Riva,ORG,3010
+Zayas,PERSON,3010
+one,CARDINAL,3010
+November,DATE,3010
+Santa Ana,GPE,3010
+one,CARDINAL,3010
+Zayas,PERSON,3010
+the Nov. 28,DATE,3010
+De La Riva,ORG,3010

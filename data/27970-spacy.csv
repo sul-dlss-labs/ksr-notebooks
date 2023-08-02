@@ -1,0 +1,15 @@
+text,label,fe_id
+MEMPHIS,GPE,27970
+Tenn.,GPE,27970
+One,CARDINAL,27970
+Crenshaw,GPE,27970
+Mississippi,GPE,27970
+Sunday,DATE,27970
+afternoon,TIME,27970
+The Mississippi Highway Patrol,ORG,27970
+Marcus Stokes,PERSON,27970
+GMC Denali,ORG,27970
+Highway 310,FAC,27970
+Old Crenshaw Road,FAC,27970
+Stokes,PERSON,27970
+Stokes,ORG,27970

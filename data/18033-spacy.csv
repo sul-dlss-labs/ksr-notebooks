@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,18033
+Alabama,GPE,18033
+Alaska,GPE,18033
+Arizona,GPE,18033
+Arkansas,GPE,18033
+California,GPE,18033
+Colorado,GPE,18033
+Connecticut,GPE,18033
+Delaware,GPE,18033
+Florida,GPE,18033
+Georgia,GPE,18033
+Hawaii,GPE,18033
+Idaho,GPE,18033
+Indiana,GPE,18033
+Iowa,GPE,18033
+Kansas,GPE,18033
+Kentucky,GPE,18033
+Louisiana,GPE,18033
+Maine,GPE,18033
+Maryland,GPE,18033
+Massachusetts,GPE,18033
+Michigan,GPE,18033
+Minnesota,GPE,18033
+Mississippi,GPE,18033
+Missouri,GPE,18033
+Montana,GPE,18033
+Nebraska,GPE,18033
+Nevada,GPE,18033
+New Hampshire,GPE,18033
+New Jersey,GPE,18033
+Ohio,GPE,18033
+Oklahoma,GPE,18033
+Oregon,GPE,18033
+Pennsylvania,GPE,18033
+Rhode Island,GPE,18033
+Tennessee,GPE,18033
+Texas,GPE,18033
+Utah,GPE,18033
+Vermont,GPE,18033
+Virginia,GPE,18033
+Washington,GPE,18033
+Washington,GPE,18033
+D.C.,GPE,18033
+Wisconsin,GPE,18033
+Wyoming,GPE,18033
+US,GPE,18033
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,18033
+Marshall Islands American Samoa Federated States,ORG,18033
+Micronesia Guam,FAC,18033
+Alberta,GPE,18033
+Canada,GPE,18033
+British Columbia,GPE,18033
+Canada Manitoba,GPE,18033
+Canada,GPE,18033
+New Brunswick,GPE,18033
+Canada Newfoundland,PERSON,18033
+Canada,GPE,18033
+Canada,GPE,18033
+Canada Ontario,GPE,18033
+Canada,GPE,18033
+Edward Island,GPE,18033
+Canada Quebec,GPE,18033
+Canada,GPE,18033
+Saskatchewan,GPE,18033
+Canada Yukon Territory,ORG,18033
+Canada,GPE,18033
+Zip Code,PERSON,18033

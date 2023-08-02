@@ -1,0 +1,45 @@
+text,label,fe_id
+Peggy Kelly,PERSON,11630
+Santa Paula Police Department,ORG,11630
+second,ORDINAL,11630
+Saturday,DATE,11630
+evening,TIME,11630
+Santa Paula,GPE,11630
+one,CARDINAL,11630
+Ishmael Cordero,PERSON,11630
+July 28,DATE,11630
+approximately 7:40 p.m.,TIME,11630
+1100,DATE,11630
+New Street,GPE,11630
+East Main Street,LOC,11630
+Edgar Garcia,PERSON,11630
+25,DATE,11630
+Santa Paula,GPE,11630
+second,ORDINAL,11630
+Cordero,ORG,11630
+second,ORDINAL,11630
+Garcia,PERSON,11630
+Garcia,PERSON,11630
+Garcia,PERSON,11630
+8:08 p.m.,TIME,11630
+Santa Paula Fire,GPE,11630
+Ventura County Sheriff’s Department,ORG,11630
+VCSD,ORG,11630
+California Highway Patrol,FAC,11630
+second,ORDINAL,11630
+first,ORDINAL,11630
+the Mobile Command Unit,ORG,11630
+the Fire Department,ORG,11630
+about 8:50 p.m.,TIME,11630
+Saturday,DATE,11630
+6 a.m.,TIME,11630
+Sunday,DATE,11630
+four,CARDINAL,11630
+Cordero,ORG,11630
+the Ventura County Sheriff’s Department Major Crimes Unit,ORG,11630
+the Professional Standards Bureau,ORG,11630
+VCSD,ORG,11630
+Garcia,PERSON,11630
+VCSD Capt,ORG,11630
+Don Aguilar,PERSON,11630
+second,ORDINAL,11630

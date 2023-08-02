@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,16724
+Alabama,GPE,16724
+Alaska,GPE,16724
+Arizona,GPE,16724
+Arkansas,GPE,16724
+California,GPE,16724
+Colorado,GPE,16724
+Connecticut,GPE,16724
+Delaware,GPE,16724
+Florida,GPE,16724
+Georgia,GPE,16724
+Hawaii,GPE,16724
+Idaho,GPE,16724
+Indiana,GPE,16724
+Iowa,GPE,16724
+Kansas,GPE,16724
+Kentucky,GPE,16724
+Louisiana,GPE,16724
+Maine,GPE,16724
+Maryland,GPE,16724
+Massachusetts,GPE,16724
+Michigan,GPE,16724
+Minnesota,GPE,16724
+Mississippi,GPE,16724
+Missouri,GPE,16724
+Montana,GPE,16724
+Nebraska,GPE,16724
+Nevada,GPE,16724
+New Hampshire,GPE,16724
+New Jersey,GPE,16724
+Ohio,GPE,16724
+Oklahoma,GPE,16724
+Oregon,GPE,16724
+Pennsylvania,GPE,16724
+Rhode Island,GPE,16724
+Tennessee,GPE,16724
+Texas,GPE,16724
+Utah,GPE,16724
+Vermont,GPE,16724
+Virginia,GPE,16724
+Washington,GPE,16724
+Washington,GPE,16724
+D.C.,GPE,16724
+Wisconsin,GPE,16724
+Wyoming,GPE,16724
+US,GPE,16724
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,16724
+Marshall Islands American Samoa Federated States,ORG,16724
+Micronesia Guam,FAC,16724
+Alberta,GPE,16724
+Canada,GPE,16724
+British Columbia,GPE,16724
+Canada Manitoba,GPE,16724
+Canada,GPE,16724
+New Brunswick,GPE,16724
+Canada Newfoundland,PERSON,16724
+Canada,GPE,16724
+Canada,GPE,16724
+Canada Ontario,GPE,16724
+Canada,GPE,16724
+Edward Island,GPE,16724
+Canada Quebec,GPE,16724
+Canada,GPE,16724
+Saskatchewan,GPE,16724
+Canada Yukon Territory,ORG,16724
+Canada,GPE,16724
+Zip Code,PERSON,16724

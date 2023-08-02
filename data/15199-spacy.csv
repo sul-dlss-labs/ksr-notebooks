@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,15199
+Alabama,GPE,15199
+Alaska,GPE,15199
+Arizona,GPE,15199
+Arkansas,GPE,15199
+California,GPE,15199
+Colorado,GPE,15199
+Connecticut,GPE,15199
+Delaware,GPE,15199
+Florida,GPE,15199
+Georgia,GPE,15199
+Hawaii,GPE,15199
+Idaho,GPE,15199
+Indiana,GPE,15199
+Iowa,GPE,15199
+Kansas,GPE,15199
+Kentucky,GPE,15199
+Louisiana,GPE,15199
+Maine,GPE,15199
+Maryland,GPE,15199
+Massachusetts,GPE,15199
+Michigan,GPE,15199
+Minnesota,GPE,15199
+Mississippi,GPE,15199
+Missouri,GPE,15199
+Montana,GPE,15199
+Nebraska,GPE,15199
+Nevada,GPE,15199
+New Hampshire,GPE,15199
+New Jersey,GPE,15199
+Ohio,GPE,15199
+Oklahoma,GPE,15199
+Oregon,GPE,15199
+Pennsylvania,GPE,15199
+Rhode Island,GPE,15199
+Tennessee,GPE,15199
+Texas,GPE,15199
+Utah,GPE,15199
+Vermont,GPE,15199
+Virginia,GPE,15199
+Washington,GPE,15199
+Washington,GPE,15199
+D.C.,GPE,15199
+Wisconsin,GPE,15199
+Wyoming,GPE,15199
+US,GPE,15199
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,15199
+Marshall Islands American Samoa Federated States,ORG,15199
+Micronesia Guam,FAC,15199
+Alberta,GPE,15199
+Canada,GPE,15199
+British Columbia,GPE,15199
+Canada Manitoba,GPE,15199
+Canada,GPE,15199
+New Brunswick,GPE,15199
+Canada Newfoundland,PERSON,15199
+Canada,GPE,15199
+Canada,GPE,15199
+Canada Ontario,GPE,15199
+Canada,GPE,15199
+Edward Island,GPE,15199
+Canada Quebec,GPE,15199
+Canada,GPE,15199
+Saskatchewan,GPE,15199
+Canada Yukon Territory,ORG,15199
+Canada,GPE,15199
+Zip Code,PERSON,15199

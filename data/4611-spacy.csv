@@ -1,0 +1,29 @@
+text,label,fe_id
+Chicago,GPE,4611
+Sunday afternoon,TIME,4611
+two,CARDINAL,4611
+about 1:40 p.m.,TIME,4611
+1100,DATE,4611
+West Pratt Boulevard,ORG,4611
+the Far North Side,LOC,4611
+two,CARDINAL,4611
+Pat Camden,PERSON,4611
+first,ORDINAL,4611
+Camden,GPE,4611
+Camden,GPE,4611
+Camden,GPE,4611
+Camden,GPE,4611
+Howard Jones,PERSON,4611
+65,DATE,4611
+St. Francis Hospital,ORG,4611
+Evanston,ORG,4611
+5:15 p.m.,TIME,4611
+Cook County,GPE,4611
+Bonnie Jones,PERSON,4611
+65,DATE,4611
+St. Francis,GPE,4611
+30s,DATE,4611
+Camden,GPE,4611
+Camden,GPE,4611
+St. Francis,GPE,4611
+Howard Jones,PERSON,4611

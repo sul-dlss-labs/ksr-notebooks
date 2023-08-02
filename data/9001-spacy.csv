@@ -1,0 +1,67 @@
+text,label,fe_id
+Maggie Ybarra,PERSON,9001
+El Paso Times,ORG,9001
+04/07/2010 12:00:00 AM,TIME,9001
+MDT,PERSON,9001
+14-year-old,DATE,9001
+Sunday,DATE,9001
+West Texas,LOC,9001
+Anthony Lucas,PERSON,9001
+Kay Lucas,PERSON,9001
+Tuesday,DATE,9001
+Lucas,GPE,9001
+Anthony,PERSON,9001
+Kay Lucas,PERSON,9001
+first,ORDINAL,9001
+BB,GPE,9001
+7 years old,DATE,9001
+Anthony,PERSON,9001
+three,CARDINAL,9001
+the day,DATE,9001
+Gunsight Ranch,ORG,9001
+Hudspeth County,GPE,9001
+Kay Lucas,PERSON,9001
+Hudspeth County Sheriff Arvin West,FAC,9001
+Tuesday,DATE,9001
+Anthony,PERSON,9001
+Anthony,PERSON,9001
+earlier that day,DATE,9001
+Monday,DATE,9001
+Anthony,PERSON,9001
+Tuesday,DATE,9001
+Anthony,PERSON,9001
+Kay Lucas,PERSON,9001
+two,CARDINAL,9001
+Kay Lucas,ORG,9001
+Anthony,PERSON,9001
+Anthony,PERSON,9001
+two,CARDINAL,9001
+the Gunsight Ranch,FAC,9001
+Kay Lucas,PERSON,9001
+Kevin Jessup's,PERSON,9001
+Western,NORP,9001
+Anthony,PERSON,9001
+one,CARDINAL,9001
+Kay Lucas,PERSON,9001
+Anthony,GPE,9001
+Anthony,PERSON,9001
+Anthony,PERSON,9001
+West,PERSON,9001
+Anthony,PERSON,9001
+about 30 yards,QUANTITY,9001
+West,PERSON,9001
+Kay Lucas,PERSON,9001
+Anthony,PERSON,9001
+Anthony,PERSON,9001
+West,PERSON,9001
+Kay Lucas,ORG,9001
+Kay Lucas,PERSON,9001
+Anthony,PERSON,9001
+Joseph Elder,PERSON,9001
+33,DATE,9001
+Anthony,PERSON,9001
+Elder,PERSON,9001
+two days,DATE,9001
+Elder,PERSON,9001
+Anthony,PERSON,9001
+Aaaaaaaaaaaaaaaand,PERSON,9001

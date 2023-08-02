@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6605
+Alabama,GPE,6605
+Alaska,GPE,6605
+Arizona,GPE,6605
+Arkansas,GPE,6605
+California,GPE,6605
+Colorado,GPE,6605
+Connecticut,GPE,6605
+Delaware,GPE,6605
+Florida,GPE,6605
+Georgia,GPE,6605
+Hawaii,GPE,6605
+Idaho,GPE,6605
+Indiana,GPE,6605
+Iowa,GPE,6605
+Kansas,GPE,6605
+Kentucky,GPE,6605
+Louisiana,GPE,6605
+Maine,GPE,6605
+Maryland,GPE,6605
+Massachusetts,GPE,6605
+Michigan,GPE,6605
+Minnesota,GPE,6605
+Mississippi,GPE,6605
+Missouri,GPE,6605
+Montana,GPE,6605
+Nebraska,GPE,6605
+Nevada,GPE,6605
+New Hampshire,GPE,6605
+New Jersey,GPE,6605
+Ohio,GPE,6605
+Oklahoma,GPE,6605
+Oregon,GPE,6605
+Pennsylvania,GPE,6605
+Rhode Island,GPE,6605
+Tennessee,GPE,6605
+Texas,GPE,6605
+Utah,GPE,6605
+Vermont,GPE,6605
+Virginia,GPE,6605
+Washington,GPE,6605
+Washington,GPE,6605
+D.C.,GPE,6605
+Wisconsin,GPE,6605
+Wyoming,GPE,6605
+US,GPE,6605
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6605
+Marshall Islands American Samoa Federated States,ORG,6605
+Micronesia Guam,FAC,6605
+Alberta,GPE,6605
+Canada,GPE,6605
+British Columbia,GPE,6605
+Canada Manitoba,GPE,6605
+Canada,GPE,6605
+New Brunswick,GPE,6605
+Canada Newfoundland,PERSON,6605
+Canada,GPE,6605
+Canada,GPE,6605
+Canada Ontario,GPE,6605
+Canada,GPE,6605
+Edward Island,GPE,6605
+Canada Quebec,GPE,6605
+Canada,GPE,6605
+Saskatchewan,GPE,6605
+Canada Yukon Territory,ORG,6605
+Canada,GPE,6605
+Zip Code,PERSON,6605

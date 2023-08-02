@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,16149
+Alabama,GPE,16149
+Alaska,GPE,16149
+Arizona,GPE,16149
+Arkansas,GPE,16149
+California,GPE,16149
+Colorado,GPE,16149
+Connecticut,GPE,16149
+Delaware,GPE,16149
+Florida,GPE,16149
+Georgia,GPE,16149
+Hawaii,GPE,16149
+Idaho,GPE,16149
+Indiana,GPE,16149
+Iowa,GPE,16149
+Kansas,GPE,16149
+Kentucky,GPE,16149
+Louisiana,GPE,16149
+Maine,GPE,16149
+Maryland,GPE,16149
+Massachusetts,GPE,16149
+Michigan,GPE,16149
+Minnesota,GPE,16149
+Mississippi,GPE,16149
+Missouri,GPE,16149
+Montana,GPE,16149
+Nebraska,GPE,16149
+Nevada,GPE,16149
+New Hampshire,GPE,16149
+New Jersey,GPE,16149
+Ohio,GPE,16149
+Oklahoma,GPE,16149
+Oregon,GPE,16149
+Pennsylvania,GPE,16149
+Rhode Island,GPE,16149
+Tennessee,GPE,16149
+Texas,GPE,16149
+Utah,GPE,16149
+Vermont,GPE,16149
+Virginia,GPE,16149
+Washington,GPE,16149
+Washington,GPE,16149
+D.C.,GPE,16149
+Wisconsin,GPE,16149
+Wyoming,GPE,16149
+US,GPE,16149
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,16149
+Marshall Islands American Samoa Federated States,ORG,16149
+Micronesia Guam,FAC,16149
+Alberta,GPE,16149
+Canada,GPE,16149
+British Columbia,GPE,16149
+Canada Manitoba,GPE,16149
+Canada,GPE,16149
+New Brunswick,GPE,16149
+Canada Newfoundland,PERSON,16149
+Canada,GPE,16149
+Canada,GPE,16149
+Canada Ontario,GPE,16149
+Canada,GPE,16149
+Edward Island,GPE,16149
+Canada Quebec,GPE,16149
+Canada,GPE,16149
+Saskatchewan,GPE,16149
+Canada Yukon Territory,ORG,16149
+Canada,GPE,16149
+Zip Code,PERSON,16149

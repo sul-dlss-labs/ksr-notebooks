@@ -1,0 +1,32 @@
+text,label,fe_id
+this afternoon,TIME,9203
+the weekend,DATE,9203
+Birmingham,GPE,9203
+William Owens,PERSON,9203
+17,DATE,9203
+Taser,ORG,9203
+Herzing University,ORG,9203
+about 1 a.m.,TIME,9203
+Sunday,DATE,9203
+UAB Hospital,ORG,9203
+less than two hours,TIME,9203
+the Jefferson County Medical Examiner's Office,ORG,9203
+the Alabama Bureau of Investigation,ORG,9203
+Jefferson County,GPE,9203
+Office,ORG,9203
+Homewood Lt,PERSON,9203
+Ken Atkinson,PERSON,9203
+200,CARDINAL,9203
+West Valley Avenue,LOC,9203
+just before 1 a.m.,TIME,9203
+first,ORDINAL,9203
+Two,CARDINAL,9203
+Owens,PERSON,9203
+Owens,PERSON,9203
+1:03 a.m.,TIME,9203
+Curry,PERSON,9203
+UAB Hospital,ORG,9203
+1:46 a.m.,TIME,9203
+Homewood,GPE,9203
+Andrew Didcoct,PERSON,9203
+today,DATE,9203

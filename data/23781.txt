@@ -1,0 +1,43 @@
+A 36-year-old man shot and injured his sister before killing himself near Winter Springs early Thursday morning, according to the Seminole County Sheriff’s Office.
+
+Deputies were called at about 7:20 p.m. Wednesday to a home in the 1300 block of Via Villanova Way, which is in the Rising Sun subdivision near Red Bug Lake and Tuskawilla roads.
+
+The suspect was armed with a handgun and fired several rounds at his 31-year-old sister, striking her multiple times, sheriff’s office spokeswoman Kim Cannaday said.
+
+The victim escaped and ran to a neighbor’s house. She was hospitalized and is in stable condition.
+
+The suspect and his mother, who is 72, refused to leave the home. Crisis negotiators communicated with him for almost five hours before he shot and killed himself at about 1:20 a.m. Thursday, Cannaday said.
+
+The mother was not injured, Cannaday said.
+
+dharris@orlandosentinel.com, 407-420-5471 or @DavidHarrisOS
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #dd1300;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Central Florida Crime Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

@@ -1,0 +1,43 @@
+text,label,fe_id
+"POLICE Department
+
+Investigation",ORG,23404
+3300,CARDINAL,23404
+"December 5,",DATE,23404
+2017,DATE,23404
+Houston,GPE,23404
+3300,CARDINAL,23404
+3:30 a.m.,TIME,23404
+today,DATE,23404
+the Harris County Institute of Forensic Sciences,ORG,23404
+HPD Homicide Division,ORG,23404
+H. Chavez,PERSON,23404
+R. Delarosa,PERSON,23404
+O. Garcia-Chavez,PERSON,23404
+Monday,DATE,23404
+Dec. 4,DATE,23404
+Harris County Precinct,PERSON,23404
+1,CARDINAL,23404
+Constables,ORG,23404
+HPD,ORG,23404
+HPD,ORG,23404
+3200,CARDINAL,23404
+Omega St.,GPE,23404
+HPD,ORG,23404
+Hinton St.,ORG,23404
+one,CARDINAL,23404
+Omega St.,GPE,23404
+Hinton St.,PERSON,23404
+E. 33rd,LOC,23404
+Omega St.,GPE,23404
+Honda,ORG,23404
+CRX,ORG,23404
+the Special Weapons and Tactics Team,ORG,23404
+SWAT,ORG,23404
+the Hostage Negotiation Team,ORG,23404
+several hours,TIME,23404
+SWAT,ORG,23404
+SWAT,ORG,23404
+HPD,ORG,23404
+the HPD Special Investigations Unit,ORG,23404
+the Internal Affairs Division,ORG,23404

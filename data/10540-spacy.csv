@@ -1,0 +1,23 @@
+text,label,fe_id
+Antonio Diaz,PERSON,10540
+49-year-old,DATE,10540
+"Tuesday, Sept. 6",DATE,10540
+100,CARDINAL,10540
+West 101st Street,GPE,10540
+Broadway-Manchester,FAC,10540
+Los Angeles County,GPE,10540
+about 9 p.m.,TIME,10540
+Los Angeles Police Department,ORG,10540
+Diaz,PERSON,10540
+Diaz,PERSON,10540
+Diaz,PERSON,10540
+Diaz,PERSON,10540
+Diaz,PERSON,10540
+Coroner,ORG,10540
+Diaz,PERSON,10540
+Force Investigation Division,ORG,10540
+Diaz,PERSON,10540
+877,CARDINAL,10540
+Crime Stoppers,PERSON,10540
+222,CARDINAL,10540
+Los Angeles Times,ORG,10540

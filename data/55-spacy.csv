@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,55
+Alabama,GPE,55
+Alaska,GPE,55
+Arizona,GPE,55
+Arkansas,GPE,55
+California,GPE,55
+Colorado,GPE,55
+Connecticut,GPE,55
+Delaware,GPE,55
+Florida,GPE,55
+Georgia,GPE,55
+Hawaii,GPE,55
+Idaho,GPE,55
+Indiana,GPE,55
+Iowa,GPE,55
+Kansas,GPE,55
+Kentucky,GPE,55
+Louisiana,GPE,55
+Maine,GPE,55
+Maryland,GPE,55
+Massachusetts,GPE,55
+Michigan,GPE,55
+Minnesota,GPE,55
+Mississippi,GPE,55
+Missouri,GPE,55
+Montana,GPE,55
+Nebraska,GPE,55
+Nevada,GPE,55
+New Hampshire,GPE,55
+New Jersey,GPE,55
+Ohio,GPE,55
+Oklahoma,GPE,55
+Oregon,GPE,55
+Pennsylvania,GPE,55
+Rhode Island,GPE,55
+Tennessee,GPE,55
+Texas,GPE,55
+Utah,GPE,55
+Vermont,GPE,55
+Virginia,GPE,55
+Washington,GPE,55
+Washington,GPE,55
+D.C.,GPE,55
+Wisconsin,GPE,55
+Wyoming,GPE,55
+US,GPE,55
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,55
+Marshall Islands American Samoa Federated States,ORG,55
+Micronesia Guam,FAC,55
+Alberta,GPE,55
+Canada,GPE,55
+British Columbia,GPE,55
+Canada Manitoba,GPE,55
+Canada,GPE,55
+New Brunswick,GPE,55
+Canada Newfoundland,PERSON,55
+Canada,GPE,55
+Canada,GPE,55
+Canada Ontario,GPE,55
+Canada,GPE,55
+Edward Island,GPE,55
+Canada Quebec,GPE,55
+Canada,GPE,55
+Saskatchewan,GPE,55
+Canada Yukon Territory,ORG,55
+Canada,GPE,55
+Zip Code,PERSON,55

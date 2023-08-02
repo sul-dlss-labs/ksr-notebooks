@@ -1,0 +1,38 @@
+text,label,fe_id
+One,CARDINAL,12312
+Fort Worth,GPE,12312
+Haltom City,GPE,12312
+Tuesday,DATE,12312
+afternoon,TIME,12312
+Haltom City,GPE,12312
+Cpl,PERSON,12312
+Joe Hackfeld,PERSON,12312
+Carson Street,FAC,12312
+Highway 121,PERSON,12312
+Haltom City,GPE,12312
+Officer Sharron Neal,ORG,12312
+the Fort Worth Police Department,ORG,12312
+three,CARDINAL,12312
+Fort Worth,GPE,12312
+2nd,DATE,12312
+Neal,PERSON,12312
+Neal,PERSON,12312
+32-year-old,DATE,12312
+Cody Loron,PERSON,12312
+Fort Worth,GPE,12312
+John Bell,PERSON,12312
+"March, 1992",DATE,12312
+Bell,ORG,12312
+three,CARDINAL,12312
+Loron,PERSON,12312
+the Tarrant County Medical Examiner,ORG,12312
+John Peter Smith Hospital,PERSON,12312
+Loron,ORG,12312
+Fort Worth,GPE,12312
+Cpl,PERSON,12312
+Tracey Knight,PERSON,12312
+the Fort Worth Police Department,ORG,12312
+NBC,ORG,12312
+5,CARDINAL,12312
+Ben Russell,PERSON,12312
+Chris Van Horne,PERSON,12312

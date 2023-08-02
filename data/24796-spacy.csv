@@ -1,0 +1,30 @@
+text,label,fe_id
+1:30PM,TIME,24796
+Monday night,TIME,24796
+hours,TIME,24796
+1600,CARDINAL,24796
+Hamill Ave,GPE,24796
+North View,GPE,24796
+Clarksburg,GPE,24796
+Clarksburg,GPE,24796
+9/3/18 9:10 p.m.,TIME,24796
+6:11 p.m.,TIME,24796
+the Harrison County Sheriff,ORG,24796
+50-year-old,DATE,24796
+SWAT,ORG,24796
+at least an hour,TIME,24796
+UHC,ORG,24796
+9/3/18 9:05 p.m.,TIME,24796
+5,CARDINAL,24796
+9/3/18 8:25 p.m.,TIME,24796
+Clarksburg,GPE,24796
+SWAT,ORG,24796
+North 16th Street,DATE,24796
+Hamill Avenue,FAC,24796
+North View,GPE,24796
+911,CARDINAL,24796
+The Clarksburg Police Department,ORG,24796
+Harrison County Sheriff's Department,ORG,24796
+SWAT,ORG,24796
+Harrison County,GPE,24796
+5,CARDINAL,24796

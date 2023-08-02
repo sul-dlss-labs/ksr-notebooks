@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7298
+Alabama,GPE,7298
+Alaska,GPE,7298
+Arizona,GPE,7298
+Arkansas,GPE,7298
+California,GPE,7298
+Colorado,GPE,7298
+Connecticut,GPE,7298
+Delaware,GPE,7298
+Florida,GPE,7298
+Georgia,GPE,7298
+Hawaii,GPE,7298
+Idaho,GPE,7298
+Indiana,GPE,7298
+Iowa,GPE,7298
+Kansas,GPE,7298
+Kentucky,GPE,7298
+Louisiana,GPE,7298
+Maine,GPE,7298
+Maryland,GPE,7298
+Massachusetts,GPE,7298
+Michigan,GPE,7298
+Minnesota,GPE,7298
+Mississippi,GPE,7298
+Missouri,GPE,7298
+Montana,GPE,7298
+Nebraska,GPE,7298
+Nevada,GPE,7298
+New Hampshire,GPE,7298
+New Jersey,GPE,7298
+Ohio,GPE,7298
+Oklahoma,GPE,7298
+Oregon,GPE,7298
+Pennsylvania,GPE,7298
+Rhode Island,GPE,7298
+Tennessee,GPE,7298
+Texas,GPE,7298
+Utah,GPE,7298
+Vermont,GPE,7298
+Virginia,GPE,7298
+Washington,GPE,7298
+Washington,GPE,7298
+D.C.,GPE,7298
+Wisconsin,GPE,7298
+Wyoming,GPE,7298
+US,GPE,7298
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7298
+Marshall Islands American Samoa Federated States,ORG,7298
+Micronesia Guam,FAC,7298
+Alberta,GPE,7298
+Canada,GPE,7298
+British Columbia,GPE,7298
+Canada Manitoba,GPE,7298
+Canada,GPE,7298
+New Brunswick,GPE,7298
+Canada Newfoundland,PERSON,7298
+Canada,GPE,7298
+Canada,GPE,7298
+Canada Ontario,GPE,7298
+Canada,GPE,7298
+Edward Island,GPE,7298
+Canada Quebec,GPE,7298
+Canada,GPE,7298
+Saskatchewan,GPE,7298
+Canada Yukon Territory,ORG,7298
+Canada,GPE,7298
+Zip Code,PERSON,7298

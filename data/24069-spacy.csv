@@ -1,0 +1,9 @@
+text,label,fe_id
+The Colorado Bureau of Investigation,ORG,24069
+Thursday,DATE,24069
+night,TIME,24069
+just after 9,CARDINAL,24069
+the Trinidad Police Department,ORG,24069
+705,CARDINAL,24069
+W. Adams Street,PERSON,24069
+Trinidad,GPE,24069

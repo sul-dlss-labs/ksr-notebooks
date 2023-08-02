@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,2169
+Alabama,GPE,2169
+Alaska,GPE,2169
+Arizona,GPE,2169
+Arkansas,GPE,2169
+California,GPE,2169
+Colorado,GPE,2169
+Connecticut,GPE,2169
+Delaware,GPE,2169
+Florida,GPE,2169
+Georgia,GPE,2169
+Hawaii,GPE,2169
+Idaho,GPE,2169
+Indiana,GPE,2169
+Iowa,GPE,2169
+Kansas,GPE,2169
+Kentucky,GPE,2169
+Louisiana,GPE,2169
+Maine,GPE,2169
+Maryland,GPE,2169
+Massachusetts,GPE,2169
+Michigan,GPE,2169
+Minnesota,GPE,2169
+Mississippi,GPE,2169
+Missouri,GPE,2169
+Montana,GPE,2169
+Nebraska,GPE,2169
+Nevada,GPE,2169
+New Hampshire,GPE,2169
+New Jersey,GPE,2169
+Ohio,GPE,2169
+Oklahoma,GPE,2169
+Oregon,GPE,2169
+Pennsylvania,GPE,2169
+Rhode Island,GPE,2169
+Tennessee,GPE,2169
+Texas,GPE,2169
+Utah,GPE,2169
+Vermont,GPE,2169
+Virginia,GPE,2169
+Washington,GPE,2169
+Washington,GPE,2169
+D.C.,GPE,2169
+Wisconsin,GPE,2169
+Wyoming,GPE,2169
+US,GPE,2169
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,2169
+Marshall Islands American Samoa Federated States,ORG,2169
+Micronesia Guam,FAC,2169
+Alberta,GPE,2169
+Canada,GPE,2169
+British Columbia,GPE,2169
+Canada Manitoba,GPE,2169
+Canada,GPE,2169
+New Brunswick,GPE,2169
+Canada Newfoundland,PERSON,2169
+Canada,GPE,2169
+Canada,GPE,2169
+Canada Ontario,GPE,2169
+Canada,GPE,2169
+Edward Island,GPE,2169
+Canada Quebec,GPE,2169
+Canada,GPE,2169
+Saskatchewan,GPE,2169
+Canada Yukon Territory,ORG,2169
+Canada,GPE,2169
+Zip Code,PERSON,2169

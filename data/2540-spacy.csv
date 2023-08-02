@@ -1,0 +1,387 @@
+text,label,fe_id
+John Eric Henderson,PERSON,2540
+Federal Court,ORG,2540
+East Chattanooga,GPE,2540
+Chris Gaynor,PERSON,2540
+Moreland Wilson,PERSON,2540
+Jimmie Dotson,PERSON,2540
+Chattanooga,LANGUAGE,2540
+Officer Gaynor,GPE,2540
+John Wolfe,PERSON,2540
+UNITED STATES,GPE,2540
+TENNESSEE,GPE,2540
+HENDERSON,GPE,2540
+ANDRE HENDERSON,LOC,2540
+JOHN E. *,PERSON,2540
+HENDERSON,GPE,2540
+JR,PERSON,2540
+ERICA HENDERSON,PERSON,2540
+JOSHUA HENDERSON,PERSON,2540
+HENDERSON,GPE,2540
+NEGLIGENCE,ORG,2540
+CHRISTOPHER L. GAYNOR,PERSON,2540
+JAMES DOTSON,PERSON,2540
+MORELAND WILSON,PERSON,2540
+TENNESSEE,ORG,2540
+Tennessee,GPE,2540
+COMPLAINT,ORG,2540
+JURISDICTION,PERSON,2540
+VENUE,ORG,2540
+1,CARDINAL,2540
+42,CARDINAL,2540
+1983,DATE,2540
+John Eric Henderson,PERSON,2540
+Fourth,ORDINAL,2540
+the United States,GPE,2540
+Court,ORG,2540
+28,CARDINAL,2540
+Court,ORG,2540
+28,CARDINAL,2540
+2,CARDINAL,2540
+the United States,GPE,2540
+District Court,ORG,2540
+Eastern District,LOC,2540
+Tennessee,GPE,2540
+28,CARDINAL,2540
+3,CARDINAL,2540
+Defendants,ORG,2540
+4,CARDINAL,2540
+Robbie R. Brown,PERSON,2540
+Hamilton County,GPE,2540
+Tennessee,GPE,2540
+the Administrator of the Estate of John Eric Henderson,ORG,2540
+John Eric Henderson,PERSON,2540
+John Eric Henderson’s,PERSON,2540
+four,CARDINAL,2540
+Andre Henderson,PERSON,2540
+John Henderson,PERSON,2540
+Jr.,GPE,2540
+Joshua Henderson,PERSON,2540
+Erica Henderson,PERSON,2540
+5,CARDINAL,2540
+Hamilton County,GPE,2540
+Tennessee,GPE,2540
+John Eric Henderson,PERSON,2540
+6,CARDINAL,2540
+Christopher L. Gaynor,PERSON,2540
+the Defendant City of Chattanooga,GPE,2540
+John Eric Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+7,CARDINAL,2540
+James Dotson,PERSON,2540
+the Defendant City of Chattanooga,GPE,2540
+"February, 2004",DATE,2540
+Defendant Dotson,PERSON,2540
+Defendant Dotson,PERSON,2540
+8,CARDINAL,2540
+Moreland Wilson,PERSON,2540
+a City of Chattanooga Police Officer,GPE,2540
+the Defendant City of Chattanooga,GPE,2540
+Wilson,PERSON,2540
+Defendant Wilson,PERSON,2540
+9,CARDINAL,2540
+the State of Tennessee,ORG,2540
+Complaint,ORG,2540
+Defendant Gaynor’s,ORG,2540
+John Eric Henderson,PERSON,2540
+City of Chattanooga Police Officers,ORG,2540
+the Defendant City’s,GPE,2540
+Fourth,GPE,2540
+Fourteenth Amendment,LAW,2540
+Defendant Gaynor’s,ORG,2540
+Henderson,PERSON,2540
+the Defendant City’s,GPE,2540
+Defendant Gaynor’s,ORG,2540
+Henderson,PERSON,2540
+10,CARDINAL,2540
+Complaint,ORG,2540
+11,CARDINAL,2540
+"May 29, 2003",DATE,2540
+Henderson,PERSON,2540
+12,CARDINAL,2540
+Henderson,PERSON,2540
+African-American,NORP,2540
+the Defendant Gaynor,ORG,2540
+the Chattanooga Police Department,ORG,2540
+13,CARDINAL,2540
+four,CARDINAL,2540
+4) days,DATE,2540
+14,CARDINAL,2540
+Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+15,CARDINAL,2540
+Moreland Wilson,PERSON,2540
+Defendants Wilson,ORG,2540
+John Eric Henderson,PERSON,2540
+Henderson,PERSON,2540
+Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+16,CARDINAL,2540
+Henderson,PERSON,2540
+John Eric Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+Plantiffs,GPE,2540
+Henderson,PERSON,2540
+17,CARDINAL,2540
+John Eric Henderson,PERSON,2540
+John Eric Henderson,PERSON,2540
+18,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+19,CARDINAL,2540
+John Eric Henderson,PERSON,2540
+20,CARDINAL,2540
+The next day,DATE,2540
+Defendant Dotson,PERSON,2540
+the Chattanooga Police Department,ORG,2540
+Defendant Gaynor’s,ORG,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+21,DATE,2540
+Paragraph 20,DATE,2540
+Defendant Dotson,PERSON,2540
+Defendant Dotson,PERSON,2540
+just hours,TIME,2540
+John Eric Henderson,PERSON,2540
+Defendant Gaynor’s,ORG,2540
+22,CARDINAL,2540
+"May 30, 2003",DATE,2540
+Police Department Spokesperson,ORG,2540
+Edward Buice,PERSON,2540
+Henderson,PERSON,2540
+23,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+Hamilton County,GPE,2540
+Tennessee,GPE,2540
+"April 20, 2004",DATE,2540
+24,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+the Chattanooga Police Department,ORG,2540
+Torris Harris,PERSON,2540
+Harris,PERSON,2540
+Torris Harris,PERSON,2540
+25,CARDINAL,2540
+The Defendant City of Chattanooga,GPE,2540
+Defendant Gaynor’s,ORG,2540
+Torris Harris,PERSON,2540
+26,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+27,CARDINAL,2540
+28,CARDINAL,2540
+Defendants,ORG,2540
+Court,ORG,2540
+29,CARDINAL,2540
+The Defendant City,GPE,2540
+30,CARDINAL,2540
+the Defendant City,GPE,2540
+31,DATE,2540
+the Defendant City,GPE,2540
+32,CARDINAL,2540
+the Defendant City,GPE,2540
+33,CARDINAL,2540
+34,CARDINAL,2540
+Defendant City,GPE,2540
+James Dotson,PERSON,2540
+Steven Parks,PERSON,2540
+Police Department,ORG,2540
+Edward Buice,PERSON,2540
+Robert Corker,PERSON,2540
+35,CARDINAL,2540
+Defendants,ORG,2540
+John Eric Henderson,PERSON,2540
+Fourth,ORDINAL,2540
+the United States Constitution,GPE,2540
+36,CARDINAL,2540
+Defendants,ORG,2540
+John Eric Henderson,PERSON,2540
+42,CARDINAL,2540
+U.S.C,ORG,2540
+§1983,DATE,2540
+37,CARDINAL,2540
+1-36,CARDINAL,2540
+Complaint,ORG,2540
+38,CARDINAL,2540
+Defendant City,GPE,2540
+39,CARDINAL,2540
+the Defendant City of Chattanooga,GPE,2540
+John Eric Henderson,PERSON,2540
+Fourth,ORDINAL,2540
+the United States,GPE,2540
+the United States,GPE,2540
+40,CARDINAL,2540
+"May 29, 2003",DATE,2540
+Defendant Gaynor,ORG,2540
+John Eric Henderson,PERSON,2540
+Henderson,PERSON,2540
+41,CARDINAL,2540
+the Defendant City of Chattanooga,GPE,2540
+Defendant City of Chattanooga,GPE,2540
+the City of Chattanooga Police Department,GPE,2540
+42,CARDINAL,2540
+"May 29, 2003",DATE,2540
+Defendant City,GPE,2540
+Defendant Gaynor,ORG,2540
+third,ORDINAL,2540
+Defendant City of Chattanooga,GPE,2540
+Defendant Gaynor’s,ORG,2540
+the Defendant City of Chattanooga,GPE,2540
+Defendant Gaynor,ORG,2540
+third,ORDINAL,2540
+Fourth Amendment,PRODUCT,2540
+Defendant City,GPE,2540
+John Eric Henderson,PERSON,2540
+43,CARDINAL,2540
+John Eric Henderson,PERSON,2540
+John Eric Henderson,PERSON,2540
+the Defendant City of Chattanooga,GPE,2540
+John Eric Henderson,PERSON,2540
+the Defendant City of Chattanooga,GPE,2540
+Defendant Gaynor’s,ORG,2540
+John Eric Henderson,PERSON,2540
+Defendant Gaynor’s,ORG,2540
+Defendant Gaynor,ORG,2540
+Defendant Gaynor’s,PERSON,2540
+the Defendant City of Chattanooga,GPE,2540
+44,DATE,2540
+John Eric Henderson’s,PERSON,2540
+Defendant City,GPE,2540
+John Eric Henderson,PERSON,2540
+John Eric Henderson’s,PERSON,2540
+45,CARDINAL,2540
+John Eric Henderson,PERSON,2540
+the Fourth Amendment,LAW,2540
+Fifth,ORDINAL,2540
+Fourteenth Amendments,ORG,2540
+the United States,GPE,2540
+42,CARDINAL,2540
+1983,DATE,2540
+Defendants,ORG,2540
+John Eric Henderson,PERSON,2540
+46,DATE,2540
+Defendants,ORG,2540
+John Eric Henderson,PERSON,2540
+Plaintiffs,PERSON,2540
+47,DATE,2540
+John Eric Henderson,PERSON,2540
+WILSON,ORG,2540
+T.C.A,ORG,2540
+§,PRODUCT,2540
+20-5-106,DATE,2540
+48,DATE,2540
+1,CARDINAL,2540
+Complaint,ORG,2540
+49,DATE,2540
+Defendant Gaynor,ORG,2540
+John Eric Henderson,PERSON,2540
+John Eric Henderson,PERSON,2540
+Andre Henderson,PERSON,2540
+John Henderson,PERSON,2540
+Jr.,GPE,2540
+Joshua Henderson,PERSON,2540
+Erica Henderson,PERSON,2540
+Rodeaner Rochelle Henderson,PERSON,2540
+WILSON,ORG,2540
+CONSORTIUM,ORG,2540
+50,CARDINAL,2540
+Complaint,ORG,2540
+51,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+John Eric Henderson,PERSON,2540
+52,CARDINAL,2540
+Defendant,ORG,2540
+John Eric Henderson,PERSON,2540
+Andre Henderson,PERSON,2540
+John Henderson,PERSON,2540
+Jr.,GPE,2540
+Joshua Henderson,PERSON,2540
+Erica Henderson,PERSON,2540
+Rodeaner Rochelle Henderson,PERSON,2540
+53,CARDINAL,2540
+Complaint,ORG,2540
+54,DATE,2540
+T.C.A,ORG,2540
+4-21-701,DATE,2540
+55,CARDINAL,2540
+Christopher Gaynor,PERSON,2540
+Henderson,PERSON,2540
+Henderson,PERSON,2540
+John Eric Henderson,PERSON,2540
+56,CARDINAL,2540
+Defendants,ORG,2540
+NEGLIGENCE,ORG,2540
+57,CARDINAL,2540
+Complaint,ORG,2540
+58,CARDINAL,2540
+Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+Henderson,PERSON,2540
+John Eric Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+59,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+Henderson,PERSON,2540
+60,CARDINAL,2540
+Complaint,ORG,2540
+61,CARDINAL,2540
+The Defendant City of Chattanooga,GPE,2540
+62,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+the Chattanooga Police Department,ORG,2540
+Torris Harris,PERSON,2540
+Harris,PERSON,2540
+Torris Harris,PERSON,2540
+63,DATE,2540
+The Defendant City of Chattanooga,GPE,2540
+Defendant Gaynor’s,ORG,2540
+Torris Harris,PERSON,2540
+Defendant Gaynor,ORG,2540
+64,CARDINAL,2540
+The Defendant City of Chattanooga,GPE,2540
+Defendant Gaynor,FAC,2540
+Defendant Gaynor,ORG,2540
+65,CARDINAL,2540
+The Defendant City of Chattanooga,GPE,2540
+Defendant Gaynor,ORG,2540
+66,CARDINAL,2540
+Defendant City of Chattanooga,GPE,2540
+John Eric Henderson,PERSON,2540
+Defendant Gaynor,ORG,2540
+Defendant City of Chattanooga,GPE,2540
+John Eric Henderson,PERSON,2540
+67,CARDINAL,2540
+Complaint,ORG,2540
+68,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+John Eric Henderson,PERSON,2540
+69,CARDINAL,2540
+Defendant Gaynor,ORG,2540
+Henderson,PERSON,2540
+Henderson,PERSON,2540
+Court,ORG,2540
+Defendants,ORG,2540
+Defendants,ORG,2540
+42,CARDINAL,2540
+1988,DATE,2540
+4-21-701,DATE,2540
+F. Declare Defendants,ORG,2540
+G. Grant,PERSON,2540
+Respectfully Submitted,GPE,2540
+John M. Wolfe,PERSON,2540
+Jr.,PERSON,2540
+Amelia C. Roberts,PERSON,2540
+707,CARDINAL,2540
+Georgia Avenue,FAC,2540
+Suite,ORG,2540
+201,CARDINAL,2540
+Chattanooga,PRODUCT,2540
+TN 37402,DATE,2540
+423,CARDINAL,2540
+266,CARDINAL,2540

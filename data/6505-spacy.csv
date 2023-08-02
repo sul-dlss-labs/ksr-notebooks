@@ -1,0 +1,33 @@
+text,label,fe_id
+Times,ORG,6505
+Orange County,GPE,6505
+Monday,DATE,6505
+25-year-old,DATE,6505
+Sunday night,TIME,6505
+Anaheim,ORG,6505
+Jorge Renteria Terrquiz,PRODUCT,6505
+Sunday night,TIME,6505
+two,CARDINAL,6505
+400,CARDINAL,6505
+North Armando Street,LOC,6505
+Anaheim Police Sgt,ORG,6505
+Juan Reveles,PERSON,6505
+Terrquiz,PRODUCT,6505
+Taser,ORG,6505
+Reveles,PERSON,6505
+Reveles,PERSON,6505
+Kaiser Permanente Hospital,ORG,6505
+Anaheim,GPE,6505
+Reveles,PERSON,6505
+at least one,CARDINAL,6505
+weeks,DATE,6505
+Reveles,PERSON,6505
+Sunday night,TIME,6505
+Farrah Emami,PERSON,6505
+Anaheim,ORG,6505
+three years ago,DATE,6505
+more than 90%,PERCENT,6505
+two,CARDINAL,6505
+"50,000",CARDINAL,6505
+five-second,TIME,6505
+Taser International,ORG,6505

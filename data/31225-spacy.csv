@@ -1,0 +1,51 @@
+text,label,fe_id
+Kalamazoo,GPE,31225
+KALAMAZOO,GPE,31225
+16-hour,TIME,31225
+Alex Rawls,PERSON,31225
+35,DATE,31225
+Kalamazoo,GPE,31225
+16-hour,TIME,31225
+1500,CARDINAL,31225
+Washington Avenue,FAC,31225
+around 10:45 a.m.,TIME,31225
+Nov. 8,DATE,31225
+around 3 a.m.,TIME,31225
+Nov. 9,DATE,31225
+Michigan State Police,ORG,31225
+one,CARDINAL,31225
+two,CARDINAL,31225
+SWAT,ORG,31225
+MSP,ORG,31225
+Kalamazoo,GPE,31225
+24 hours,TIME,31225
+One,CARDINAL,31225
+Kalamazoo Public Safety,ORG,31225
+one,CARDINAL,31225
+Kalamazoo County Sheriff’s,ORG,31225
+Rawls,PERSON,31225
+second,ORDINAL,31225
+Rawls,PERSON,31225
+the Kalamazoo County Prosecutor,ORG,31225
+Rawls,LOC,31225
+one week earlier,DATE,31225
+600,CARDINAL,31225
+West Ransom Street,LOC,31225
+around 1:45 p.m.,TIME,31225
+Nov. 1,DATE,31225
+afternoon,TIME,31225
+Kalamazoo,GPE,31225
+Rawls,PERSON,31225
+November 2019,DATE,31225
+third,ORDINAL,31225
+Michigan Department of Corrections,ORG,31225
+6 p.m. Nov. 9,TIME,31225
+Michigan,GPE,31225
+Republican,NORP,31225
+Fred Upton,PERSON,31225
+Congress,ORG,31225
+Trash,PERSON,31225
+Grand Rapids,GPE,31225
+Western Michigan,LOC,31225
+7.1%,PERCENT,31225
+years,DATE,31225

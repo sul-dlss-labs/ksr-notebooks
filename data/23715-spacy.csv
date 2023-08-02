@@ -1,0 +1,29 @@
+text,label,fe_id
+this week,DATE,23715
+Lake Los Angeles,GPE,23715
+4:30 p.m. Feb. 3,TIME,23715
+40000,CARDINAL,23715
+176th Street East,LOC,23715
+Armando Vierra Jr.,PERSON,23715
+the Sheriff’s Information Bureau,ORG,23715
+Jeremy Spencer,PERSON,23715
+47,DATE,23715
+Lake Los Angeles,LOC,23715
+Spencer,PERSON,23715
+Wally Bracks,PERSON,23715
+the Sheriff’s Information Bureau,ORG,23715
+Spencer,PERSON,23715
+two,CARDINAL,23715
+Bracks,ORG,23715
+Bracks,ORG,23715
+Spencer,PERSON,23715
+Bracks,ORG,23715
+second,ORDINAL,23715
+Bracks,ORG,23715
+Spencer,PERSON,23715
+Bracks,ORG,23715
+CPR,ORG,23715
+two,CARDINAL,23715
+Bracks,ORG,23715
+323,CARDINAL,23715
+890-5500,CARDINAL,23715

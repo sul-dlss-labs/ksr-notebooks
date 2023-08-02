@@ -1,0 +1,596 @@
+text,label,fe_id
+two,CARDINAL,7829
+one,CARDINAL,7829
+the Quad-Cities,ORG,7829
+Davenport,GPE,7829
+Sharnice Johnson,PERSON,7829
+21,DATE,7829
+Friday,DATE,7829
+7:20 a.m.,TIME,7829
+1st Street,FAC,7829
+Linwood Avenue,FAC,7829
+Pachino Hill,GPE,7829
+30,DATE,7829
+the Jeep Grand Cherokee,ORG,7829
+80 mph,QUANTITY,7829
+seven,CARDINAL,7829
+Travis Rush,PERSON,7829
+18,DATE,7829
+Davenport,GPE,7829
+earlier this week,DATE,7829
+three,CARDINAL,7829
+early Friday,DATE,7829
+7200,CARDINAL,7829
+Hillandale Road,FAC,7829
+Jeep,ORG,7829
+Rush,PERSON,7829
+University Hospitals,ORG,7829
+Iowa,GPE,7829
+Hill,ORG,7829
+Genesis Medical Center,ORG,7829
+Davenport,GPE,7829
+4:27 a.m.,TIME,7829
+At least two,CARDINAL,7829
+Jeep,ORG,7829
+Cherokee,PRODUCT,7829
+Rush,PERSON,7829
+two,CARDINAL,7829
+Jeep,ORG,7829
+Cherokee,PRODUCT,7829
+3rd,ORDINAL,7829
+Division,ORG,7829
+Jeep,ORG,7829
+Cherokee,PRODUCT,7829
+Jeep,ORG,7829
+Division,ORG,7829
+1st Street,FAC,7829
+Five,CARDINAL,7829
+Jeep,ORG,7829
+25 mph,QUANTITY,7829
+Jeep,ORG,7829
+up to 10 years,DATE,7829
+five-year,DATE,7829
+Hill,ORG,7829
+Scott County,GPE,7829
+Mike Walton,PERSON,7829
+up to 25 years,DATE,7829
+Frank Donchez,PERSON,7829
+Donchez,PERSON,7829
+morning,TIME,7829
+Sharnice Johnson,PERSON,7829
+Davenport,GPE,7829
+21 years old,DATE,7829
+Sharnice Johnson,PERSON,7829
+Jan. 11,DATE,7829
+One,CARDINAL,7829
+the Quad-Cities,ORG,7829
+this morning,TIME,7829
+Pachino Hill,LOC,7829
+the Jeep Grand Cherokee,ORG,7829
+1st Street,FAC,7829
+Linwood Avenue,FAC,7829
+Davenport,GPE,7829
+the VFW Hall,FAC,7829
+shortly after 7:15 a.m.,TIME,7829
+Hill,ORG,7829
+Travis Rush,PERSON,7829
+18,DATE,7829
+Davenport,GPE,7829
+earlier this week,DATE,7829
+three,CARDINAL,7829
+early today,TIME,7829
+7200,CARDINAL,7829
+Hillandale Road,FAC,7829
+seven,CARDINAL,7829
+3rd,ORDINAL,7829
+Division,ORG,7829
+7:18 a.m.,TIME,7829
+Hill,PERSON,7829
+around 80 mph,QUANTITY,7829
+25 mph,QUANTITY,7829
+three,CARDINAL,7829
+Jeep,ORG,7829
+University Hospitals,ORG,7829
+Iowa,GPE,7829
+Hill,ORG,7829
+Genesis Medical Center,ORG,7829
+Davenport,GPE,7829
+4:27 a.m.,TIME,7829
+At least two,CARDINAL,7829
+Jeep,ORG,7829
+Cherokee,PRODUCT,7829
+Rush,PERSON,7829
+two,CARDINAL,7829
+Jeep,ORG,7829
+Cherokee,PRODUCT,7829
+3rd,ORDINAL,7829
+Division,ORG,7829
+Jeep,ORG,7829
+Cherokee,PRODUCT,7829
+Jeep,ORG,7829
+Division,ORG,7829
+1st Street,FAC,7829
+Five,CARDINAL,7829
+Jeep,ORG,7829
+Hill,PERSON,7829
+up to 10 years,DATE,7829
+five-year,DATE,7829
+Rush and Hill,ORG,7829
+Hill,ORG,7829
+Scott County,GPE,7829
+Mike Walton,PERSON,7829
+up to 25 years,DATE,7829
+Frank Donchez,PERSON,7829
+Donchez,PERSON,7829
+Christin Worton,PERSON,7829
+1st Street,FAC,7829
+Davenport,GPE,7829
+Worton,PERSON,7829
+Worton,PERSON,7829
+third,ORDINAL,7829
+early Friday,DATE,7829
+SWAT,ORG,7829
+Rush,PERSON,7829
+Tuesday,DATE,7829
+Vincent C. Reid III,PERSON,7829
+18,DATE,7829
+the Castlewood Apartments,ORG,7829
+2100,DATE,7829
+Emerald Drive,PERSON,7829
+Rush,PERSON,7829
+May 2008,DATE,7829
+Davenport,GPE,7829
+Rush,PERSON,7829
+two,CARDINAL,7829
+328 E. 14th,DATE,7829
+the Davenport Police Department’s,ORG,7829
+Hill,ORG,7829
+Hill,PERSON,7829
+14,DATE,7829
+first,ORDINAL,7829
+Lawrence Brown Johnson,PERSON,7829
+15 years,DATE,7829
+December 2002,DATE,7829
+Hill,ORG,7829
+one,CARDINAL,7829
+three,CARDINAL,7829
+Davenport,GPE,7829
+One,CARDINAL,7829
+Cpl,PERSON,7829
+Dennis Colclasure,PERSON,7829
+six inches,QUANTITY,7829
+Scott County,GPE,7829
+Hill,PERSON,7829
+October 2004,DATE,7829
+Hill,PERSON,7829
+Bryan Mitchell,PERSON,7829
+Davenport,GPE,7829
+Grayling Church,ORG,7829
+20,DATE,7829
+Davenport,GPE,7829
+March 2006,DATE,7829
+Hill,PERSON,7829
+28-year-old,DATE,7829
+one year,DATE,7829
+250,MONEY,7829
+April 2006,DATE,7829
+July 2006,DATE,7829
+August 2006,DATE,7829
+two,CARDINAL,7829
+July 2007,DATE,7829
+the Centennial Bridge,FAC,7829
+March,DATE,7829
+eight consecutive weeks,DATE,7829
+October 2007,DATE,7829
+Hill,PERSON,7829
+Fifth Street,FAC,7829
+Rock Island,LOC,7829
+Rock Island County Sheriff’s,LOC,7829
+Justin Chisholm,PERSON,7829
+Hill,ORG,7829
+Chisholm,PERSON,7829
+the Dodge Neon,ORG,7829
+Hill,PERSON,7829
+the Centennial Bridge,ORG,7829
+Hill,PERSON,7829
+Chisholm,PERSON,7829
+2nd Street,FAC,7829
+Davenport,GPE,7829
+Main Street,FAC,7829
+Brady Street,ORG,7829
+Chisholm,PERSON,7829
+Hill,ORG,7829
+Pershing Avenue,FAC,7829
+Hill,PERSON,7829
+Chisholm,ORG,7829
+two,CARDINAL,7829
+Iowa Avenue,FAC,7829
+Taser,ORG,7829
+Hill,ORG,7829
+Hill,PERSON,7829
+May,DATE,7829
+Hill,ORG,7829
+more than two years,DATE,7829
+Christine Dalton,PERSON,7829
+30 days,DATE,7829
+Hill,ORG,7829
+Hill,PERSON,7829
+tens of thousands,CARDINAL,7829
+Deirdre Cox Baker,PERSON,7829
+Pachino Hill,LOC,7829
+morning,TIME,7829
+One,CARDINAL,7829
+the Quad-Cities,ORG,7829
+Pachino Hill,LOC,7829
+the Jeep Grand Cherokee,ORG,7829
+1st Street,FAC,7829
+Linwood Avenue,FAC,7829
+Davenport,GPE,7829
+the VFW Hall,FAC,7829
+shortly after 7:15 a.m.,TIME,7829
+Hill,ORG,7829
+Travis Rush,PERSON,7829
+18,DATE,7829
+Davenport,GPE,7829
+earlier this week,DATE,7829
+3rd,ORDINAL,7829
+Division,ORG,7829
+shortly after 7 a.m.,TIME,7829
+Jeep,ORG,7829
+Rush,PERSON,7829
+Rush,PERSON,7829
+4:27 a.m.,TIME,7829
+today,DATE,7829
+two,CARDINAL,7829
+7200,CARDINAL,7829
+Hillandale Road,FAC,7829
+Two,CARDINAL,7829
+two,CARDINAL,7829
+Rush,PERSON,7829
+Tuesday,DATE,7829
+Vincent C. Reid III,PERSON,7829
+18,DATE,7829
+the Castlewood Apartments,ORG,7829
+2100,DATE,7829
+Emerald Drive,PERSON,7829
+Rush,PERSON,7829
+May 2008,DATE,7829
+Davenport,GPE,7829
+Rush,PERSON,7829
+two,CARDINAL,7829
+328 E. 14th,DATE,7829
+the Davenport Police Department’s,ORG,7829
+University of Iowa Hospitals,ORG,7829
+Iowa,GPE,7829
+Hill,ORG,7829
+Hill,PERSON,7829
+14,DATE,7829
+first,ORDINAL,7829
+Lawrence Brown Johnson,PERSON,7829
+Clyde Edwards Jr. Hill,PERSON,7829
+15 years,DATE,7829
+December 2002,DATE,7829
+Hill,ORG,7829
+one,CARDINAL,7829
+three,CARDINAL,7829
+Davenport,GPE,7829
+One,CARDINAL,7829
+Cpl,PERSON,7829
+Dennis Colclasure,PERSON,7829
+six inches,QUANTITY,7829
+Scott County,GPE,7829
+Hill,PERSON,7829
+October 2004,DATE,7829
+Hill,PERSON,7829
+Bryan Mitchell,PERSON,7829
+Davenport,GPE,7829
+Grayling Church,ORG,7829
+20,DATE,7829
+Davenport,GPE,7829
+March 2006,DATE,7829
+Hill,PERSON,7829
+28-year-old,DATE,7829
+one year,DATE,7829
+250,MONEY,7829
+April 2006,DATE,7829
+July 2006,DATE,7829
+August 2006,DATE,7829
+two,CARDINAL,7829
+July 2007,DATE,7829
+the Centennial Bridge,FAC,7829
+March,DATE,7829
+October 2007,DATE,7829
+Christin Worton,PERSON,7829
+First Street,ORG,7829
+Davenport,GPE,7829
+Worton,PERSON,7829
+Worton,PERSON,7829
+third,ORDINAL,7829
+early Friday,DATE,7829
+SWAT,ORG,7829
+Deirdre Cox Baker,PERSON,7829
+Johnson,PERSON,7829
+Johnson,PERSON,7829
+two,CARDINAL,7829
+3-week-old,DATE,7829
+1,CARDINAL,7829
+November,DATE,7829
+Johnson,PERSON,7829
+Friday,DATE,7829
+MySpace,ORG,7829
+Johnson,PERSON,7829
+number one,CARDINAL,7829
+Johnson,PERSON,7829
+the age of 14,DATE,7829
+the Toledo School for Girls,ORG,7829
+marijuana,PERSON,7829
+early Friday,DATE,7829
+Rush,PERSON,7829
+Tuesday,DATE,7829
+Vincent C. Reid III,PERSON,7829
+18,DATE,7829
+the Castlewood Apartments,ORG,7829
+2100,DATE,7829
+Emerald Drive,PERSON,7829
+Rush,PERSON,7829
+May 2008,DATE,7829
+Davenport,GPE,7829
+Scott County District Court,ORG,7829
+Rush,PERSON,7829
+13 years old,DATE,7829
+October 2003,DATE,7829
+fifth,ORDINAL,7829
+fifth,ORDINAL,7829
+25 hours,TIME,7829
+9 p.m.,TIME,7829
+March 2004,DATE,7829
+8 p.m.,TIME,7829
+25 hours,TIME,7829
+18th,ORDINAL,7829
+March 2005,DATE,7829
+age 14,DATE,7829
+two,CARDINAL,7829
+third,ORDINAL,7829
+July of that year,DATE,7829
+Clarinda Academy,ORG,7829
+Clarinda,GPE,7829
+Iowa,GPE,7829
+October 2006,DATE,7829
+Eldora,ORG,7829
+March 2007,DATE,7829
+Rush,PERSON,7829
+16,DATE,7829
+three,CARDINAL,7829
+Davenport,GPE,7829
+240-day,DATE,7829
+Sept. 5,DATE,7829
+Rush,PERSON,7829
+May 16,DATE,7829
+Jeremy Booth,PERSON,7829
+300,CARDINAL,7829
+East 14th Street,LOC,7829
+Davenport,GPE,7829
+October,DATE,7829
+Rush,PERSON,7829
+five years,DATE,7829
+"Pachino Hill
+
+Hill",LOC,7829
+14,DATE,7829
+first,ORDINAL,7829
+Lawrence Brown Johnson,PERSON,7829
+15 years,DATE,7829
+December 2002,DATE,7829
+Hill,ORG,7829
+one,CARDINAL,7829
+three,CARDINAL,7829
+Davenport,GPE,7829
+One,CARDINAL,7829
+Cpl,PERSON,7829
+Dennis Colclasure,PERSON,7829
+six inches,QUANTITY,7829
+Scott County,GPE,7829
+Hill,PERSON,7829
+October 2004,DATE,7829
+Hill,PERSON,7829
+Bryan Mitchell,PERSON,7829
+Davenport,GPE,7829
+Grayling Church,ORG,7829
+20,DATE,7829
+Davenport,GPE,7829
+March 2006,DATE,7829
+Hill,PERSON,7829
+28-year-old,DATE,7829
+one year,DATE,7829
+250,MONEY,7829
+April 2006,DATE,7829
+July 2006,DATE,7829
+August 2006,DATE,7829
+two,CARDINAL,7829
+July 2007,DATE,7829
+the Centennial Bridge,FAC,7829
+March,DATE,7829
+eight consecutive weeks,DATE,7829
+October 2007,DATE,7829
+Hill,PERSON,7829
+Fifth Street,FAC,7829
+Rock Island,GPE,7829
+Rock Island County Sheriff’s,LOC,7829
+Justin Chisholm,PERSON,7829
+Hill,ORG,7829
+Chisholm,PERSON,7829
+the Dodge Neon,ORG,7829
+Hill,PERSON,7829
+the Centennial Bridge,ORG,7829
+Hill,PERSON,7829
+Chisholm,PERSON,7829
+2nd Street,FAC,7829
+Davenport,GPE,7829
+Main Street,FAC,7829
+Brady Street,ORG,7829
+Chisholm,PERSON,7829
+Hill,ORG,7829
+Pershing Avenue,FAC,7829
+Hill,PERSON,7829
+Chisholm,ORG,7829
+two,CARDINAL,7829
+Iowa Avenue,FAC,7829
+Taser,ORG,7829
+Hill,ORG,7829
+Hill,PERSON,7829
+May,DATE,7829
+Hill,ORG,7829
+more than two years,DATE,7829
+Christine Dalton,PERSON,7829
+30 days,DATE,7829
+Hill,ORG,7829
+Hill,PERSON,7829
+tens of thousands,CARDINAL,7829
+Pachino Hill,LOC,7829
+One,CARDINAL,7829
+the Quad-Cities,ORG,7829
+this morning,TIME,7829
+The Jeep Grand Cherokee,ORG,7829
+1st,ORDINAL,7829
+Linwood,ORG,7829
+Davenport,GPE,7829
+the VFW Hall,FAC,7829
+7 a.m.,TIME,7829
+Hill,ORG,7829
+Travis Rush,PERSON,7829
+18,DATE,7829
+Davenport,GPE,7829
+earlier this week,DATE,7829
+4th,ORDINAL,7829
+Division,ORG,7829
+shortly after 7 a.m.,TIME,7829
+Jeep,ORG,7829
+Rush,PERSON,7829
+Rush,PERSON,7829
+Tuesday,DATE,7829
+Vincent C. Reid III,PERSON,7829
+18,DATE,7829
+the Castlewood Apartments,ORG,7829
+2100,DATE,7829
+Emerald Drive,PERSON,7829
+Rush,PERSON,7829
+May 2008,DATE,7829
+Davenport,GPE,7829
+Rush,PERSON,7829
+two,CARDINAL,7829
+328 E. 14th,DATE,7829
+the Davenport Police Department’s,ORG,7829
+University of Iowa Hospitals,ORG,7829
+Iowa,GPE,7829
+Hill,PERSON,7829
+14,DATE,7829
+first,ORDINAL,7829
+Lawrence Brown Johnson,PERSON,7829
+Clyde Edwards Jr. Hill,PERSON,7829
+15 years,DATE,7829
+December 2002,DATE,7829
+Hill,ORG,7829
+one,CARDINAL,7829
+three,CARDINAL,7829
+Davenport,GPE,7829
+One,CARDINAL,7829
+Cpl,PERSON,7829
+Dennis Colclasure,PERSON,7829
+six inches,QUANTITY,7829
+Scott County,GPE,7829
+Hill,PERSON,7829
+October 2004,DATE,7829
+Hill,PERSON,7829
+Bryan Mitchell,PERSON,7829
+Davenport,GPE,7829
+Grayling Church,ORG,7829
+20,DATE,7829
+Davenport,GPE,7829
+March 2006,DATE,7829
+Hill,PERSON,7829
+28-year-old,DATE,7829
+one year,DATE,7829
+250,MONEY,7829
+April 2006,DATE,7829
+July 2006,DATE,7829
+August 2006,DATE,7829
+two,CARDINAL,7829
+July 2007,DATE,7829
+the Centennial Bridge,FAC,7829
+March,DATE,7829
+October 2007,DATE,7829
+Christin Worton,PERSON,7829
+First Street,ORG,7829
+Davenport,GPE,7829
+Worton,PERSON,7829
+Worton,PERSON,7829
+third,ORDINAL,7829
+early Friday,DATE,7829
+SWAT,ORG,7829
+2,CARDINAL,7829
+Davenport,GPE,7829
+two,CARDINAL,7829
+this morning,TIME,7829
+Davenport,GPE,7829
+Travis Shelby Rush,PERSON,7829
+18,DATE,7829
+Pachino Hill of Davenport,ORG,7829
+Genesis Medical Center,ORG,7829
+Davenport,GPE,7829
+Hill,PERSON,7829
+Rush,PERSON,7829
+invasion overnight,TIME,7829
+early this morning,TIME,7829
+4th,ORDINAL,7829
+Division,ORG,7829
+1st Street,FAC,7829
+Linwood Avenue,FAC,7829
+Rush,PERSON,7829
+Tuesday,DATE,7829
+Vincent C. Reid III,PERSON,7829
+18,DATE,7829
+the Castlewood Apartments,ORG,7829
+2100,DATE,7829
+Emerald Drive,PERSON,7829
+Rush,PERSON,7829
+May 2008,DATE,7829
+Davenport,GPE,7829
+Rush,PERSON,7829
+two,CARDINAL,7829
+328 E. 14th,DATE,7829
+1,CARDINAL,7829
+Davenport,GPE,7829
+West Davenport,LOC,7829
+this morning,TIME,7829
+Travis Shelby Rush,PERSON,7829
+18,DATE,7829
+Davenport,GPE,7829
+Rush,PERSON,7829
+May 2008,DATE,7829
+Davenport,GPE,7829
+Rush,PERSON,7829
+two,CARDINAL,7829
+328 E. 14th,DATE,7829
+Tuesday,DATE,7829
+Vincent C. Reid III,PERSON,7829
+18,DATE,7829
+the Castlewood Apartments,ORG,7829
+2100,DATE,7829
+Emerald Drive,PERSON,7829
+early this morning,TIME,7829
+Davenport,GPE,7829
+1st Street,FAC,7829
+Linwood Avenue,FAC,7829
+Jeep Grand Cherokee,ORG,7829
+University Hospitals,ORG,7829
+Iowa City,GPE,7829
+1,CARDINAL,7829
+Davenport,GPE,7829
+this morning,TIME,7829
+Davenport,GPE,7829
+one,CARDINAL,7829
+two,CARDINAL,7829
+about 7:15 a.m.,TIME,7829
+1st Street,FAC,7829
+Linwood Avenue,FAC,7829
+earlier in the morning,TIME,7829

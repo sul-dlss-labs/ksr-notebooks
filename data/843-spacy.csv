@@ -1,0 +1,25 @@
+text,label,fe_id
+Chicago,GPE,843
+Wednesday,DATE,843
+two,CARDINAL,843
+North Side,NORP,843
+George Montoya,PERSON,843
+20,DATE,843
+Tuesday,DATE,843
+evening,TIME,843
+6300,CARDINAL,843
+North Rockwell Street,GPE,843
+911,CARDINAL,843
+Montoya,GPE,843
+6100,CARDINAL,843
+North Talman Avenue,GPE,843
+Montoya,GPE,843
+Pat Camden,PERSON,843
+One,CARDINAL,843
+Montoya,GPE,843
+Montoya kneeling,ORG,843
+Camden,GPE,843
+Montoya,GPE,843
+second,ORDINAL,843
+Montoya,GPE,843
+Camden,GPE,843

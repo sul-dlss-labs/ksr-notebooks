@@ -1,0 +1,37 @@
+text,label,fe_id
+Two,CARDINAL,15995
+Hemet,GPE,15995
+Friday,DATE,15995
+April 17,DATE,15995
+about 7:45 p.m.,TIME,15995
+Girard Street,FAC,15995
+Acacia Avenue,FAC,15995
+About 150,CARDINAL,15995
+Hemet,NORP,15995
+Riverside County,GPE,15995
+California Highway Patrol,FAC,15995
+Sgt,PERSON,15995
+Mike Manning,PERSON,15995
+Manning,ORG,15995
+Riverside County,GPE,15995
+Coroner,PERSON,15995
+Manning,PERSON,15995
+15,CARDINAL,15995
+Kay Harris,PERSON,15995
+33,DATE,15995
+one,CARDINAL,15995
+Cornerstone Church,ORG,15995
+About 150,CARDINAL,15995
+11,CARDINAL,15995
+Bob Meisel,PERSON,15995
+Cornerstone,ORG,15995
+about 100 yards,QUANTITY,15995
+Meisel,ORG,15995
+one,CARDINAL,15995
+about a half-dozen,CARDINAL,15995
+a few minutes,TIME,15995
+Meisel,ORG,15995
+Meisel,ORG,15995
+about 10:30 p.m.,TIME,15995
+Meisel,ORG,15995
+Meisel,ORG,15995

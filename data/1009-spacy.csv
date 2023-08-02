@@ -1,0 +1,41 @@
+text,label,fe_id
+Officer-Involved Shooting in,ORG,1009
+"June 11, 2001",DATE,1009
+Los Angeles,GPE,1009
+"June 9, 2001",DATE,1009
+approximately 11:00 p.m.,TIME,1009
+Chevy,ORG,1009
+Suburban,PRODUCT,1009
+Marina Del Rey,LOC,1009
+Operations-West Bureau,ORG,1009
+Community Law Enforcement and Recovery (CLEAR,ORG,1009
+Two,CARDINAL,1009
+two,CARDINAL,1009
+Rose Avenue,FAC,1009
+Pacific Avenue,FAC,1009
+Santa Monica,GPE,1009
+Malibu,GPE,1009
+Oxnard,ORG,1009
+Santa Monica Police Department,ORG,1009
+California Highway Patrol and,FAC,1009
+Oxnard Police Department,ORG,1009
+the City of Oxnard,GPE,1009
+Oxnard Boulevard and Gonzales Road,FAC,1009
+two,CARDINAL,1009
+Officers S. Gregory,PERSON,1009
+30 years of age,DATE,1009
+five years,DATE,1009
+L. Lussier,PERSON,1009
+30 years of age,DATE,1009
+five years,DATE,1009
+E. Dagley,PERSON,1009
+30 years of age,DATE,1009
+five years,DATE,1009
+Department,ORG,1009
+Beau Blain,PERSON,1009
+28 years of age,DATE,1009
+Los Angeles,GPE,1009
+Critical Incident Investigation Division,ORG,1009
+Officer-Involved Shooting Section Detectives,ORG,1009
+Media Relations Section,ORG,1009
+213 485-3586,CARDINAL,1009

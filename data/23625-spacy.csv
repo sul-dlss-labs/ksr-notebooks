@@ -1,0 +1,43 @@
+text,label,fe_id
+22-year-old,DATE,23625
+early Sunday morning,TIME,23625
+El Sereno,GPE,23625
+one,CARDINAL,23625
+two,CARDINAL,23625
+Los Angeles Police Department,ORG,23625
+Hollenbeck,ORG,23625
+3400,CARDINAL,23625
+Amethyst Street,FAC,23625
+Topaz Street,FAC,23625
+Huntington Drive,PERSON,23625
+Christian Escobedo,LOC,23625
+about 6:30 a.m.,TIME,23625
+two,CARDINAL,23625
+one,CARDINAL,23625
+Los Angeles Fire Department,ORG,23625
+#,CARDINAL,23625
+OIS,ORG,23625
+earlier today,TIME,23625
+@LAPDHQ,ORG,23625
+"January 14, 2018",DATE,23625
+LAPD,ORG,23625
+specialized Force Investigation Division,ORG,23625
+Sunday,DATE,23625
+first,ORDINAL,23625
+2018,DATE,23625
+first,ORDINAL,23625
+Hollenbeck,ORG,23625
+June 2017,DATE,23625
+El Sereno,GPE,23625
+18-year-old,DATE,23625
+Pedro Echeverría,PERSON,23625
+two,CARDINAL,23625
+Hollenbeck,ORG,23625
+2017,DATE,23625
+March 24,DATE,23625
+Fred Barragán,PERSON,23625
+Boyle Heights,GPE,23625
+Hollenbeck,ORG,23625
+2016,DATE,23625
+five,CARDINAL,23625
+Boyle Heights,GPE,23625

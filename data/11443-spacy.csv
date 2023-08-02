@@ -1,0 +1,23 @@
+text,label,fe_id
+taco,ORG,11443
+two,CARDINAL,11443
+Thursday,DATE,11443
+35 years,DATE,11443
+Elba Jimenez,PERSON,11443
+38,DATE,11443
+second,ORDINAL,11443
+June 2012,DATE,11443
+Cesar Chavez Avenue,PERSON,11443
+Los Angeles,GPE,11443
+Upland,ORG,11443
+California Highway Patrol,FAC,11443
+Marlene Alatorre,PERSON,11443
+19,DATE,11443
+Claudia Fernandez,PERSON,11443
+38,DATE,11443
+Thursday,DATE,11443
+Alatorre,PERSON,11443
+the Los Angeles Convention Center,ORG,11443
+CHP,ORG,11443
+Alatorre,PERSON,11443
+Fernandez,PERSON,11443

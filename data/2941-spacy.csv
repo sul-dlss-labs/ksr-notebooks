@@ -1,0 +1,21 @@
+text,label,fe_id
+Three,CARDINAL,2941
+LOS ANGELES,GPE,2941
+California,GPE,2941
+CNN,ORG,2941
+Three,CARDINAL,2941
+Friday,DATE,2941
+Los Angeles,GPE,2941
+California Highway Patrol,FAC,2941
+Chevrolet Tahoe,ORG,2941
+Boyle Heights,GPE,2941
+Los Angeles,GPE,2941
+United Parcel Service,ORG,2941
+Francisco Villalobos,PERSON,2941
+Villalobos,PERSON,2941
+Los Angeles County Medical Center,ORG,2941
+third,ORDINAL,2941
+Huntington Memorial Hospital,ORG,2941
+Pasadena,GPE,2941
+UPS,ORG,2941
+Villalobos,PERSON,2941

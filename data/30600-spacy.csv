@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,30600
+Alabama,GPE,30600
+Alaska,GPE,30600
+Arizona,GPE,30600
+Arkansas,GPE,30600
+California,GPE,30600
+Colorado,GPE,30600
+Connecticut,GPE,30600
+Delaware,GPE,30600
+Florida,GPE,30600
+Georgia,GPE,30600
+Hawaii,GPE,30600
+Idaho,GPE,30600
+Indiana,GPE,30600
+Iowa,GPE,30600
+Kansas,GPE,30600
+Kentucky,GPE,30600
+Louisiana,GPE,30600
+Maine,GPE,30600
+Maryland,GPE,30600
+Massachusetts,GPE,30600
+Michigan,GPE,30600
+Minnesota,GPE,30600
+Mississippi,GPE,30600
+Missouri,GPE,30600
+Montana,GPE,30600
+Nebraska,GPE,30600
+Nevada,GPE,30600
+New Hampshire,GPE,30600
+New Jersey,GPE,30600
+Ohio,GPE,30600
+Oklahoma,GPE,30600
+Oregon,GPE,30600
+Pennsylvania,GPE,30600
+Rhode Island,GPE,30600
+Tennessee,GPE,30600
+Texas,GPE,30600
+Utah,GPE,30600
+Vermont,GPE,30600
+Virginia,GPE,30600
+Washington,GPE,30600
+Washington,GPE,30600
+D.C.,GPE,30600
+Wisconsin,GPE,30600
+Wyoming,GPE,30600
+US,GPE,30600
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,30600
+Marshall Islands American Samoa Federated States,ORG,30600
+Micronesia Guam,FAC,30600
+Alberta,GPE,30600
+Canada,GPE,30600
+British Columbia,GPE,30600
+Canada Manitoba,GPE,30600
+Canada,GPE,30600
+New Brunswick,GPE,30600
+Canada Newfoundland,PERSON,30600
+Canada,GPE,30600
+Canada,GPE,30600
+Canada Ontario,GPE,30600
+Canada,GPE,30600
+Edward Island,GPE,30600
+Canada Quebec,GPE,30600
+Canada,GPE,30600
+Saskatchewan,GPE,30600
+Canada Yukon Territory,ORG,30600
+Canada,GPE,30600
+Zip Code,PERSON,30600

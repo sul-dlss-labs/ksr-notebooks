@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,28481
+Alabama,GPE,28481
+Alaska,GPE,28481
+Arizona,GPE,28481
+Arkansas,GPE,28481
+California,GPE,28481
+Colorado,GPE,28481
+Connecticut,GPE,28481
+Delaware,GPE,28481
+Florida,GPE,28481
+Georgia,GPE,28481
+Hawaii,GPE,28481
+Idaho,GPE,28481
+Indiana,GPE,28481
+Iowa,GPE,28481
+Kansas,GPE,28481
+Kentucky,GPE,28481
+Louisiana,GPE,28481
+Maine,GPE,28481
+Maryland,GPE,28481
+Massachusetts,GPE,28481
+Michigan,GPE,28481
+Minnesota,GPE,28481
+Mississippi,GPE,28481
+Missouri,GPE,28481
+Montana,GPE,28481
+Nebraska,GPE,28481
+Nevada,GPE,28481
+New Hampshire,GPE,28481
+New Jersey,GPE,28481
+Ohio,GPE,28481
+Oklahoma,GPE,28481
+Oregon,GPE,28481
+Pennsylvania,GPE,28481
+Rhode Island,GPE,28481
+Tennessee,GPE,28481
+Texas,GPE,28481
+Utah,GPE,28481
+Vermont,GPE,28481
+Virginia,GPE,28481
+Washington,GPE,28481
+Washington,GPE,28481
+D.C.,GPE,28481
+Wisconsin,GPE,28481
+Wyoming,GPE,28481
+US,GPE,28481
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,28481
+Marshall Islands American Samoa Federated States,ORG,28481
+Micronesia Guam,FAC,28481
+Alberta,GPE,28481
+Canada,GPE,28481
+British Columbia,GPE,28481
+Canada Manitoba,GPE,28481
+Canada,GPE,28481
+New Brunswick,GPE,28481
+Canada Newfoundland,PERSON,28481
+Canada,GPE,28481
+Canada,GPE,28481
+Canada Ontario,GPE,28481
+Canada,GPE,28481
+Edward Island,GPE,28481
+Canada Quebec,GPE,28481
+Canada,GPE,28481
+Saskatchewan,GPE,28481
+Canada Yukon Territory,ORG,28481
+Canada,GPE,28481
+Zip Code,PERSON,28481

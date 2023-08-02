@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,23301
+United States,GPE,23301
+Canada Mexico,GPE,23301
+United Mexican,GPE,23301
+Bahamas,GPE,23301
+Commonwealth,GPE,23301
+Cuba,GPE,23301
+"Republic of Dominican Republic Haiti,",GPE,23301
+Republic of Jamaica,GPE,23301
+Afghanistan,GPE,23301
+Albania,GPE,23301
+People's Socialist Republic,ORG,23301
+Algeria,GPE,23301
+People's Democratic Republic of American,GPE,23301
+Angola,GPE,23301
+Republic of Anguilla Antarctica,ORG,23301
+South,LOC,23301
+Barbuda Argentina,PERSON,23301
+Argentine Republic,GPE,23301
+Armenia Aruba,PERSON,23301
+Australia,GPE,23301
+Commonwealth,GPE,23301
+Austria,GPE,23301
+Republic of Bahrain,ORG,23301
+Belgium,GPE,23301
+Kingdom of Belize Benin,ORG,23301
+People's Republic of Bermuda Bhutan,GPE,23301
+Kingdom of Bolivia,GPE,23301
+Republic of Bosnia,GPE,23301
+Botswana,GPE,23301
+Republic of Bouvet Island,ORG,23301
+Bouvetoya,GPE,23301
+Brazil,GPE,23301
+Federative Republic,GPE,23301
+British Virgin,GPE,23301
+Bulgaria,GPE,23301
+People's Republic of Burkina Faso Burundi,GPE,23301
+Republic of Cambodia,GPE,23301
+Kingdom of Cameroon,GPE,23301
+United Republic of Cape Verde,GPE,23301
+"Republic of Cayman Islands Central African Republic Chad,",ORG,23301
+Republic of Chile,ORG,23301
+Republic of China,ORG,23301
+People's Republic of Christmas Island,GPE,23301
+Colombia,GPE,23301
+Union of the Congo,ORG,23301
+Democratic Republic of Congo,GPE,23301
+People's Republic of Cook,GPE,23301
+Costa Rica,GPE,23301
+Ivory Coast,GPE,23301
+Republic Denmark,GPE,23301
+Kingdom of Djibouti,GPE,23301
+Republic of Dominica,GPE,23301
+Commonwealth,GPE,23301
+Ecuador,GPE,23301
+Republic of Egypt,GPE,23301
+Arab Republic,GPE,23301
+El Salvador,GPE,23301
+Republic of Equatorial Guinea,GPE,23301
+Republic of Eritrea,GPE,23301
+Estonia,GPE,23301
+Ethiopia,GPE,23301
+Malvinas,GPE,23301
+Fiji,GPE,23301
+Republic of the Fiji Islands Finland,ORG,23301
+Republic of France,GPE,23301
+French,NORP,23301
+French,NORP,23301
+Guiana,PERSON,23301
+French,NORP,23301
+Polynesia,GPE,23301
+Southern Territories Gabon,PRODUCT,23301
+Gabonese Republic Gambia,GPE,23301
+Georgia,GPE,23301
+Germany,GPE,23301
+Ghana,GPE,23301
+Republic of Gibraltar Greece,ORG,23301
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,23301
+Republic of Guinea,GPE,23301
+Revolutionary People's Rep'c,ORG,23301
+Guinea-Bissau,ORG,23301
+Republic of Heard,ORG,23301
+McDonald Islands Holy See,ORG,23301
+Vatican City State,GPE,23301
+Honduras,GPE,23301
+Republic of Hong Kong,GPE,23301
+Special Administrative Region of China,ORG,23301
+Hrvatska,PERSON,23301
+Croatia,GPE,23301
+Hungary,GPE,23301
+Hungarian People's Republic Iceland,PERSON,23301
+Republic of India,GPE,23301
+Republic of Indonesia,GPE,23301
+Republic of Iran,GPE,23301
+Islamic Republic of Iraq,GPE,23301
+Republic of Ireland,GPE,23301
+Israel,GPE,23301
+State of Italy,GPE,23301
+Italian,NORP,23301
+Japan,GPE,23301
+Jordan,GPE,23301
+Hashemite Kingdom of Kazakhstan,GPE,23301
+Republic of Kiribati,GPE,23301
+Republic of Korea,GPE,23301
+Democratic,NORP,23301
+Republic of Kuwait,ORG,23301
+Lao People's,PERSON,23301
+Latvia,GPE,23301
+Lebanon,GPE,23301
+Lebanese Republic Lesotho,GPE,23301
+Kingdom of Liberia,GPE,23301
+Lithuania Luxembourg,GPE,23301
+Special Administrative Region of China Macedonia,ORG,23301
+Yugoslav Republic of Madagascar,GPE,23301
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,23301
+Islamic Republic,GPE,23301
+Mayotte Micronesia,PERSON,23301
+Federated States,GPE,23301
+Moldova,GPE,23301
+Republic of Monaco,ORG,23301
+Principality,NORP,23301
+Morocco,GPE,23301
+Kingdom of Mozambique,ORG,23301
+Republic of Nepal,GPE,23301
+Netherlands,GPE,23301
+Kingdom,GPE,23301
+the New Caledonia New Zealand,ORG,23301
+Nicaragua,GPE,23301
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,23301
+Norway,GPE,23301
+Kingdom of Oman,GPE,23301
+Pakistan,GPE,23301
+Islamic Republic of,GPE,23301
+Occupied Panama,GPE,23301
+Republic of Peru,GPE,23301
+Republic of Philippines,GPE,23301
+Republic of the Pitcairn Island Poland,ORG,23301
+Polish,NORP,23301
+Republic Portugal,GPE,23301
+Portuguese Republic,GPE,23301
+Puerto Rico Qatar,GPE,23301
+State of Reunion Romania,ORG,23301
+Socialist Republic,GPE,23301
+Rwanda,GPE,23301
+Rwandese Republic Samoa,GPE,23301
+Independent State of San Marino,ORG,23301
+Republic of Sao Tome,ORG,23301
+Principe,GPE,23301
+Democratic Republic of Saudi Arabia,GPE,23301
+"Kingdom of Senegal, Republic of Serbia",GPE,23301
+Montenegro Seychelles,PERSON,23301
+Republic of Sierra Leone,ORG,23301
+Republic of Singapore,ORG,23301
+Republic of Slovakia,ORG,23301
+Slovak Republic,GPE,23301
+Slovenia Solomon Islands,GPE,23301
+Somalia,GPE,23301
+Somali Republic South Africa,GPE,23301
+Republic of South Georgia,GPE,23301
+Spain,GPE,23301
+Spanish,NORP,23301
+Sri Lanka,GPE,23301
+Democratic,NORP,23301
+Miquelon St. Vincent,PERSON,23301
+Democratic Republic,GPE,23301
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,23301
+Kingdom of Sweden,GPE,23301
+Kingdom of Switzerland,GPE,23301
+Swiss Confederation Syrian Arab Republic,ORG,23301
+Taiwan,GPE,23301
+China,GPE,23301
+Tanzania,GPE,23301
+United Republic of Thailand,GPE,23301
+Kingdom of Timor-Leste,GPE,23301
+Democratic Republic of Togo,GPE,23301
+Togolese Republic Tokelau,ORG,23301
+Tokelau,GPE,23301
+Tonga,GPE,23301
+Kingdom of Trinidad,ORG,23301
+Tobago,GPE,23301
+Republic of Tunisia,ORG,23301
+Republic of Turkey,GPE,23301
+Republic of Turkmenistan Turks,ORG,23301
+Uganda,GPE,23301
+Republic of Ukraine United Arab Emirates,GPE,23301
+United Kingdom of Great,GPE,23301
+Eastern Republic,GPE,23301
+Venezuela,GPE,23301
+Bolivarian Republic,GPE,23301
+Viet Nam,GPE,23301
+Socialist Republic,GPE,23301
+Yemen,GPE,23301
+Zambia,GPE,23301
+Republic of Zimbabwe,GPE,23301

@@ -1,0 +1,56 @@
+text,label,fe_id
+AP,ORG,963
+early Friday,DATE,963
+the Bozeman Police Department,ORG,963
+Mark Lachapelle,PERSON,963
+Stan Ottosen,PERSON,963
+31,DATE,963
+about 2:30 a.m.,TIME,963
+Ottosen,PERSON,963
+Lachapelle,PERSON,963
+Ottosen,PERSON,963
+Jeffrey Deen Shipp,PERSON,963
+42,DATE,963
+Bozeman,GPE,963
+Shipp,PERSON,963
+Gallatin County,PERSON,963
+Coroner Roger Layton,PERSON,963
+Mark Tymrak,PERSON,963
+Ottosen,PERSON,963
+Shipp,PERSON,963
+Bozeman,ORG,963
+Ottosen,PERSON,963
+Shipp,PERSON,963
+about three,CARDINAL,963
+Shipp,PERSON,963
+Tymrak,ORG,963
+Shipp,PERSON,963
+Ottosen,PERSON,963
+the Bozeman Police Department,ORG,963
+five years,DATE,963
+Bozeman Deaconess Hospital,ORG,963
+Ottosen,PERSON,963
+Gallatin County,GPE,963
+the state Division of Criminal Investigation,ORG,963
+Lachapelle,PERSON,963
+Shipp,PERSON,963
+Shipp,PERSON,963
+Saturday,DATE,963
+Layton,PERSON,963
+third,ORDINAL,963
+Gallatin County,GPE,963
+the last year,DATE,963
+March 2,DATE,963
+Eric Albright,PERSON,963
+David Patrick Curtin,PERSON,963
+29,CARDINAL,963
+Curtin,ORG,963
+AK-47,PRODUCT,963
+Albright,PERSON,963
+"June 3, 2000",DATE,963
+Gallatin County Sgt,GPE,963
+Rick West,PERSON,963
+Tommy Miller,PERSON,963
+48,DATE,963
+Miller,PERSON,963
+9 mm,QUANTITY,963

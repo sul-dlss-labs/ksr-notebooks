@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,3262
+Alabama,GPE,3262
+Alaska,GPE,3262
+Arizona,GPE,3262
+Arkansas,GPE,3262
+California,GPE,3262
+Colorado,GPE,3262
+Connecticut,GPE,3262
+Delaware,GPE,3262
+Florida,GPE,3262
+Georgia,GPE,3262
+Hawaii,GPE,3262
+Idaho,GPE,3262
+Indiana,GPE,3262
+Iowa,GPE,3262
+Kansas,GPE,3262
+Kentucky,GPE,3262
+Louisiana,GPE,3262
+Maine,GPE,3262
+Maryland,GPE,3262
+Massachusetts,GPE,3262
+Michigan,GPE,3262
+Minnesota,GPE,3262
+Mississippi,GPE,3262
+Missouri,GPE,3262
+Montana,GPE,3262
+Nebraska,GPE,3262
+Nevada,GPE,3262
+New Hampshire,GPE,3262
+New Jersey,GPE,3262
+Ohio,GPE,3262
+Oklahoma,GPE,3262
+Oregon,GPE,3262
+Pennsylvania,GPE,3262
+Rhode Island,GPE,3262
+Tennessee,GPE,3262
+Texas,GPE,3262
+Utah,GPE,3262
+Vermont,GPE,3262
+Virginia,GPE,3262
+Washington,GPE,3262
+Washington,GPE,3262
+D.C.,GPE,3262
+Wisconsin,GPE,3262
+Wyoming,GPE,3262
+US,GPE,3262
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,3262
+Marshall Islands American Samoa Federated States,ORG,3262
+Micronesia Guam,FAC,3262
+Alberta,GPE,3262
+Canada,GPE,3262
+British Columbia,GPE,3262
+Canada Manitoba,GPE,3262
+Canada,GPE,3262
+New Brunswick,GPE,3262
+Canada Newfoundland,PERSON,3262
+Canada,GPE,3262
+Canada,GPE,3262
+Canada Ontario,GPE,3262
+Canada,GPE,3262
+Edward Island,GPE,3262
+Canada Quebec,GPE,3262
+Canada,GPE,3262
+Saskatchewan,GPE,3262
+Canada Yukon Territory,ORG,3262
+Canada,GPE,3262
+Zip Code,PERSON,3262

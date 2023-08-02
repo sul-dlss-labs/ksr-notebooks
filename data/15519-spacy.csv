@@ -1,0 +1,23 @@
+text,label,fe_id
+early morning,TIME,15519
+Riverside,LOC,15519
+two,CARDINAL,15519
+1:38 a.m.,TIME,15519
+"Friday, Dec. 19",DATE,15519
+one,CARDINAL,15519
+Lemon Street,FAC,15519
+Mission Avenue,FAC,15519
+Javier Cabrera,PERSON,15519
+28-year-old,DATE,15519
+Mike Santoyo,PERSON,15519
+University Avenue,FAC,15519
+Santoyo,ORG,15519
+"University, Cabrera",ORG,15519
+80 mph,QUANTITY,15519
+Santoyo,ORG,15519
+University and Eucalyptus,ORG,15519
+half,CARDINAL,15519
+Santoyo,PERSON,15519
+7:55 p.m.,TIME,15519
+several hours,TIME,15519
+951-526-5700,CARDINAL,15519

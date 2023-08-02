@@ -1,0 +1,38 @@
+text,label,fe_id
+One,CARDINAL,23513
+Friday,DATE,23513
+evening,TIME,23513
+Harrisburg,GPE,23513
+around 4 p.m.,TIME,23513
+Friday,DATE,23513
+afternoon,TIME,23513
+Third Street,LOC,23513
+Pennsylvania,GPE,23513
+Capitol,FAC,23513
+Capitol,FAC,23513
+Harrisburg,GPE,23513
+State Street,FAC,23513
+State Street,FAC,23513
+Third,ORDINAL,23513
+Third Street,LOC,23513
+second,ORDINAL,23513
+at least one,CARDINAL,23513
+Capitol,FAC,23513
+Troy Thompson,PERSON,23513
+the state Department of General Services,ORG,23513
+Capitol,FAC,23513
+Capitol,ORG,23513
+Harrisburg,GPE,23513
+Allison Hill,PERSON,23513
+Fifth,ORDINAL,23513
+Market Streets,ORG,23513
+Fifth,ORDINAL,23513
+Market,ORG,23513
+Mulberry Streets,PERSON,23513
+around 5 p.m.,TIME,23513
+Dauphin County,GPE,23513
+Edward Marsico,PERSON,23513
+Marsico,PERSON,23513
+late Friday,DATE,23513
+evening,TIME,23513
+Marsico,PERSON,23513

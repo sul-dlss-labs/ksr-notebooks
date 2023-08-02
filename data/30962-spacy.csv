@@ -1,0 +1,63 @@
+text,label,fe_id
+11:30 a.m.,TIME,30962
+Wednesday,DATE,30962
+Officer Blaize Madrid-Evans,ORG,30962
+22,DATE,30962
+2400,CARDINAL,30962
+Northern Boulevard,LOC,30962
+Missouri State Highway Patrol Sgt,ORG,30962
+Andy Bell,PERSON,30962
+11:30 a.m.,TIME,30962
+Madrid-Evans,ORG,30962
+second,ORDINAL,30962
+Madrid-Evans,ORG,30962
+Bell,ORG,30962
+Madrid-Evans,ORG,30962
+January,DATE,30962
+"July 8.""After",DATE,30962
+Officer Madrid-Evans,ORG,30962
+IPD,ORG,30962
+Field Training Officer,ORG,30962
+FTO,ORG,30962
+Eileen Weir,PERSON,30962
+"a statement:""Every day",DATE,30962
+the Independence Police Department,ORG,30962
+daily,DATE,30962
+Today,DATE,30962
+the Independence Police Department,ORG,30962
+first,ORDINAL,30962
+Wednesday,DATE,30962
+22,DATE,30962
+2400,CARDINAL,30962
+Northern Boulevard,LOC,30962
+Missouri State Highway Patrol Sgt,ORG,30962
+Andy Bell,PERSON,30962
+11:30 a.m.,TIME,30962
+Madrid-Evans,ORG,30962
+second,ORDINAL,30962
+Madrid-Evans,ORG,30962
+Bell,ORG,30962
+Madrid-Evans,ORG,30962
+January,DATE,30962
+July 8,DATE,30962
+Officer Madrid-Evans,ORG,30962
+IPD,ORG,30962
+Field Training Officer,ORG,30962
+FTO,ORG,30962
+Eileen Weir,PERSON,30962
+the Independence Police Department,ORG,30962
+daily,DATE,30962
+Today,DATE,30962
+the Independence Police Department,ORG,30962
+first,ORDINAL,30962
+Twitter,PRODUCT,30962
+One,CARDINAL,30962
+IPD,ORG,30962
+shot & seriously,ORG,30962
+One,CARDINAL,30962
+shot & pronounced deceased@MSHPTrooperDDCC,ORG,30962
+OIS,ORG,30962
+Boost Mobile,ORG,30962
+15min,CARDINAL,30962
+"September 15, 2021",DATE,30962
+Twitter,PRODUCT,30962

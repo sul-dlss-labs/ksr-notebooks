@@ -1,0 +1,15 @@
+text,label,fe_id
+Chicago,GPE,1200
+one,CARDINAL,1200
+two,CARDINAL,1200
+Cook County,GPE,1200
+attorney?s,ORG,1200
+one,CARDINAL,1200
+two,CARDINAL,1200
+the Office of Professional Standards,ORG,1200
+an hour,TIME,1200
+days,DATE,1200
+weeks,DATE,1200
+the Office of Professional Standards,ORG,1200
+the Independent Police Review Authority,ORG,1200
+months,DATE,1200

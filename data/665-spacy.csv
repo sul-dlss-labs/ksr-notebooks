@@ -1,0 +1,31 @@
+text,label,fe_id
+Police1 Staff Report,ORG,665
+last week,DATE,665
+Larry Andolina,PERSON,665
+Monday,DATE,665
+David Gebhardt,PERSON,665
+last Thursday,DATE,665
+Gebhardt,PERSON,665
+Vernard Davis,PERSON,665
+21,DATE,665
+Davis,PERSON,665
+180,CARDINAL,665
+924,CARDINAL,665
+Joseph Ave,PERSON,665
+72,CARDINAL,665
+Davis,PERSON,665
+Democrat,NORP,665
+Gebhardt,PERSON,665
+Gebhardt,PERSON,665
+Ronald Evangelista,PERSON,665
+Locust Club,ORG,665
+Andolina,GPE,665
+Evangelista,PERSON,665
+Democrat,NORP,665
+Golberth Davis,PERSON,665
+Golberth Davis,PERSON,665
+Robert Duffy,PERSON,665
+Andolina,ORG,665
+Gebhardt,PERSON,665
+Davis,PERSON,665
+Andolina,GPE,665

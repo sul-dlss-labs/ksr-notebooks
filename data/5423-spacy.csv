@@ -1,0 +1,7 @@
+text,label,fe_id
+Andres Garcia,PERSON,5423
+58-year-old,DATE,5423
+Latino,PERSON,5423
+"Monday, Aug. 28",DATE,5423
+Santa Clarita,GPE,5423
+Los Angeles County,GPE,5423

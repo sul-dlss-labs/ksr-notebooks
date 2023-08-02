@@ -1,0 +1,230 @@
+text,label,fe_id
+four,CARDINAL,284
+Washington,GPE,284
+Washington,GPE,284
+several years,DATE,284
+last week,DATE,284
+Tribune,ORG,284
+Cook County,GPE,284
+Washington,GPE,284
+John Gorman,PERSON,284
+Washington,GPE,284
+One,CARDINAL,284
+Breathalyzer,PERSON,284
+hours,TIME,284
+3 a.m.,TIME,284
+Washington,GPE,284
+Chicago,GPE,284
+one,CARDINAL,284
+two,CARDINAL,284
+Cook County,GPE,284
+attorney?s,ORG,284
+one,CARDINAL,284
+two,CARDINAL,284
+the Office of Professional Standards,ORG,284
+an hour,TIME,284
+days,DATE,284
+weeks,DATE,284
+the Office of Professional Standards,ORG,284
+the Independent Police Review Authority,ORG,284
+months,DATE,284
+Tribune,ORG,284
+Chicago,GPE,284
+About one quarter,DATE,284
+eight-month,DATE,284
+the past decade,DATE,284
+Chicago,GPE,284
+11,CARDINAL,284
+45,CARDINAL,284
+2006,DATE,284
+the last year,DATE,284
+2005,DATE,284
+11,CARDINAL,284
+39,CARDINAL,284
+the Police Department,ORG,284
+the Office of Professional Standards,ORG,284
+Thomas Smith,PERSON,284
+FBI,ORG,284
+1998,DATE,284
+early 2002,DATE,284
+Detective Francisco Roman,WORK_OF_ART,284
+1997,DATE,284
+Roman,PERSON,284
+3:30 a.m.,TIME,284
+Roman,NORP,284
+Pilsen,ORG,284
+Halloween,DATE,284
+Roman,ORG,284
+Roman,ORG,284
+first,ORDINAL,284
+Roman,NORP,284
+Roman,ORG,284
+"625,000",MONEY,284
+Chicago,GPE,284
+Breathalyzer,ORG,284
+Chicago,GPE,284
+Milwaukee,GPE,284
+two,CARDINAL,284
+Breathalyzer,ORG,284
+John Balcerzak,PERSON,284
+Milwaukee,GPE,284
+last year,DATE,284
+New York City,GPE,284
+Chicago,GPE,284
+Smith,PERSON,284
+hours,TIME,284
+one 2003,DATE,284
+a River North,LOC,284
+more than 5 hours,TIME,284
+3:30 a.m.,TIME,284
+Smith,PERSON,284
+Javon Boyd,PERSON,284
+November 2000,DATE,284
+Rodney's Cocktail Lounge,ORG,284
+Michigan Avenue,FAC,284
+East 71st Street,DATE,284
+Carrothers,PRODUCT,284
+Boyd,PERSON,284
+three,CARDINAL,284
+Boyd,PERSON,284
+one,CARDINAL,284
+Boyd,PERSON,284
+23,DATE,284
+Boyd,PERSON,284
+Boyd,PERSON,284
+Carrothers,PERSON,284
+10 a.m.,TIME,284
+about seven hours,TIME,284
+Carrothers,PERSON,284
+1 1/2,CARDINAL,284
+0.02,DATE,284
+0.08,CARDINAL,284
+Carrothers,PERSON,284
+at least 0.11,CARDINAL,284
+as high as 0.15,CARDINAL,284
+hours,TIME,284
+Boyd,PERSON,284
+Boyd,PERSON,284
+Smith,PERSON,284
+Callie Baird,PERSON,284
+OPS,ORG,284
+30-day,DATE,284
+December 2001,DATE,284
+Baird,LOC,284
+the Independent Police Review Authority,ORG,284
+Baird,GPE,284
+Cook County,GPE,284
+Boyd,PERSON,284
+Carrothers,PERSON,284
+the Police Department,ORG,284
+Law Department,ORG,284
+J. Ernest Mincy,PERSON,284
+Carrothers,PERSON,284
+Darrell Carrothers,ORG,284
+Mincy,PERSON,284
+James Thompson,PERSON,284
+only two,CARDINAL,284
+Darrell Carrothers,ORG,284
+that night,TIME,284
+Thompson,ORG,284
+Carrothers,PERSON,284
+Boyd,PERSON,284
+Wednesday,DATE,284
+the Illinois Appellate Court,ORG,284
+Boyd,PERSON,284
+Boyd,PERSON,284
+Autopsy,PERSON,284
+Sunday,DATE,284
+morning,TIME,284
+June 2000,DATE,284
+Mitra Kalelkar,PERSON,284
+Cook County,GPE,284
+17-year-old,DATE,284
+Robert Washington,PERSON,284
+Kalelkar,PERSON,284
+Phyllis Clinkscales,PERSON,284
+months,DATE,284
+Sunday,DATE,284
+Cadillac,ORG,284
+Englewood,LOC,284
+Washington,GPE,284
+48,DATE,284
+Washington,GPE,284
+OPS,ORG,284
+Washington,GPE,284
+Washington,GPE,284
+Kalelkar,PERSON,284
+one,CARDINAL,284
+Washington,GPE,284
+four,CARDINAL,284
+Washington,GPE,284
+One,CARDINAL,284
+Tribune,ORG,284
+Washington,GPE,284
+James Lukas,PERSON,284
+Kalelkar,PERSON,284
+Lukas,NORP,284
+Washington,GPE,284
+Noting Clinkscales,ORG,284
+one,CARDINAL,284
+5 to 10 feet,QUANTITY,284
+Washington,GPE,284
+Lukas,NORP,284
+1 to 2 feet,QUANTITY,284
+Lukas,ORG,284
+morgue photos indicated Clinkscales,ORG,284
+Washington,GPE,284
+Lukas,ORG,284
+Washington,PERSON,284
+About two weeks,DATE,284
+Lukas,ORG,284
+Baird,LOC,284
+April 2001,DATE,284
+Washington,GPE,284
+Washington,PERSON,284
+Officer Clinkscales,ORG,284
+Lukas,NORP,284
+two,CARDINAL,284
+Tribune,ORG,284
+July of that year,DATE,284
+Tribune,ORG,284
+Baird,NORP,284
+Clinkscales',ORG,284
+Baird,PERSON,284
+Clinkscales,ORG,284
+Washington,GPE,284
+less than six months later,DATE,284
+Clinkscales,PERSON,284
+First,ORDINAL,284
+Baird,NORP,284
+30-day,DATE,284
+Supt,PERSON,284
+Terry Hillard,PERSON,284
+Baird,PERSON,284
+Baird,GPE,284
+Tribune,ORG,284
+Law Department,ORG,284
+Clinkscales,ORG,284
+nine months later,DATE,284
+James Mauer,PERSON,284
+July 2002,DATE,284
+Department of Aviation,ORG,284
+Nearly a year,DATE,284
+Mauer,PERSON,284
+Lori Lightfoot,PERSON,284
+Washington,GPE,284
+Lightfoot,NORP,284
+30 days,DATE,284
+Clinkscales,ORG,284
+Kalelkar,PERSON,284
+Clinkscales,ORG,284
+Tribune,ORG,284
+Clinkscales,ORG,284
+first,ORDINAL,284
+Washington,GPE,284
+Washington,GPE,284
+Clinkscales,ORG,284
+Gorman,PERSON,284
+Chicago,GPE,284
+1998,DATE,284
+Sam Roe,PERSON,284

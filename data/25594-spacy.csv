@@ -1,0 +1,18 @@
+text,label,fe_id
+Los Angeles,GPE,25594
+7th,ORDINAL,25594
+Street/Metro Center,ORG,25594
+Metro,FAC,25594
+LAPD,ORG,25594
+LOS ANGELES,GPE,25594
+KABC,ORG,25594
+Los Angeles,GPE,25594
+Thursday,DATE,25594
+morning,TIME,25594
+7th,ORDINAL,25594
+Street/Metro Center,ORG,25594
+shortly before 7 a.m.,TIME,25594
+Chris Ramirez,PERSON,25594
+LAPD,ORG,25594
+30s,DATE,25594
+40s,DATE,25594

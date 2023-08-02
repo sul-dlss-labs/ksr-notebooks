@@ -1,0 +1,25 @@
+text,label,fe_id
+Interstate 41,FAC,29781
+Thursday,DATE,29781
+night,TIME,29781
+Wauwatosa,PERSON,29781
+I-41,PRODUCT,29781
+more than nine hours,TIME,29781
+7 p.m.,TIME,29781
+Thursday,DATE,29781
+20 minutes,TIME,29781
+Best Buy,GPE,29781
+2401,DATE,29781
+Wauwatosa,GPE,29781
+Thursday,DATE,29781
+Kevin Wilke,PERSON,29781
+35,DATE,29781
+Milwaukee,GPE,29781
+the Milwaukee County Medical Examiner's Office,ORG,29781
+the Wauwatosa Police Department,ORG,29781
+one,CARDINAL,29781
+three,CARDINAL,29781
+I-41,LOC,29781
+West North Avenue,LOC,29781
+two,CARDINAL,29781
+The Milwaukee County Sheriff’s Office,ORG,29781

@@ -1,0 +1,27 @@
+text,label,fe_id
+Temecula,GPE,25033
+Friday,DATE,25033
+night,TIME,25033
+Jacob Rodriguez,PERSON,25033
+Interstate 15,FAC,25033
+Deer Springs Road,FAC,25033
+around 11 p.m.,TIME,25033
+the California Highway Patrol,ORG,25033
+CHP,ORG,25033
+State Route,FAC,25033
+76,DATE,25033
+Hyundai,ORG,25033
+Elantra,PRODUCT,25033
+Honda,ORG,25033
+Civic,PRODUCT,25033
+the Rainbow Valley Boulevard,LOC,25033
+around 11:15 p.m.,TIME,25033
+CHP,ORG,25033
+Civic,PRODUCT,25033
+20-year-old,DATE,25033
+Jessica Neumeyer,PERSON,25033
+Murrieta,ORG,25033
+Palomar Medical Center,ORG,25033
+CHP,ORG,25033
+I-15,PRODUCT,25033
+2:30 a.m.,TIME,25033

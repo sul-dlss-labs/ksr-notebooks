@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,3440
+Alabama,GPE,3440
+Alaska,GPE,3440
+Arizona,GPE,3440
+Arkansas,GPE,3440
+California,GPE,3440
+Colorado,GPE,3440
+Connecticut,GPE,3440
+Delaware,GPE,3440
+Florida,GPE,3440
+Georgia,GPE,3440
+Hawaii,GPE,3440
+Idaho,GPE,3440
+Indiana,GPE,3440
+Iowa,GPE,3440
+Kansas,GPE,3440
+Kentucky,GPE,3440
+Louisiana,GPE,3440
+Maine,GPE,3440
+Maryland,GPE,3440
+Massachusetts,GPE,3440
+Michigan,GPE,3440
+Minnesota,GPE,3440
+Mississippi,GPE,3440
+Missouri,GPE,3440
+Montana,GPE,3440
+Nebraska,GPE,3440
+Nevada,GPE,3440
+New Hampshire,GPE,3440
+New Jersey,GPE,3440
+Ohio,GPE,3440
+Oklahoma,GPE,3440
+Oregon,GPE,3440
+Pennsylvania,GPE,3440
+Rhode Island,GPE,3440
+Tennessee,GPE,3440
+Texas,GPE,3440
+Utah,GPE,3440
+Vermont,GPE,3440
+Virginia,GPE,3440
+Washington,GPE,3440
+Washington,GPE,3440
+D.C.,GPE,3440
+Wisconsin,GPE,3440
+Wyoming,GPE,3440
+US,GPE,3440
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,3440
+Marshall Islands American Samoa Federated States,ORG,3440
+Micronesia Guam,FAC,3440
+Alberta,GPE,3440
+Canada,GPE,3440
+British Columbia,GPE,3440
+Canada Manitoba,GPE,3440
+Canada,GPE,3440
+New Brunswick,GPE,3440
+Canada Newfoundland,PERSON,3440
+Canada,GPE,3440
+Canada,GPE,3440
+Canada Ontario,GPE,3440
+Canada,GPE,3440
+Edward Island,GPE,3440
+Canada Quebec,GPE,3440
+Canada,GPE,3440
+Saskatchewan,GPE,3440
+Canada Yukon Territory,ORG,3440
+Canada,GPE,3440
+Zip Code,PERSON,3440

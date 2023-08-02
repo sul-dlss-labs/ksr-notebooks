@@ -1,0 +1,59 @@
+text,label,fe_id
+23-year-old,DATE,1162
+Wednesday,DATE,1162
+Robert Lee Jones,PERSON,1162
+$50 million,MONEY,1162
+the U.S. District Court,ORG,1162
+Los Angeles,GPE,1162
+Stephen Yagman,PERSON,1162
+Robert Jones Sr.,PERSON,1162
+Eugene,GPE,1162
+Ore.,GPE,1162
+the Police Department,ORG,1162
+Jones,PERSON,1162
+Yagman,PERSON,1162
+two weeks ago,DATE,1162
+fifth,ORDINAL,1162
+Oxnard,ORG,1162
+this year,DATE,1162
+sixth,ORDINAL,1162
+four,CARDINAL,1162
+City Atty,PERSON,1162
+Gary Gillig,PERSON,1162
+Gillig,ORG,1162
+the City Council’s,ORG,1162
+Tuesday,DATE,1162
+the City Council,ORG,1162
+Art Lopez,PERSON,1162
+Jones,PERSON,1162
+Oxnard,ORG,1162
+Jones,PERSON,1162
+13-inch,QUANTITY,1162
+Ventura County,GPE,1162
+Jones,PERSON,1162
+Ida Perkins,PERSON,1162
+Oxnard,ORG,1162
+the next month,DATE,1162
+Yagman,PERSON,1162
+Wednesday,DATE,1162
+Jones,PERSON,1162
+One,CARDINAL,1162
+Yagman,PERSON,1162
+Jones,PERSON,1162
+a week,DATE,1162
+the Police Department,ORG,1162
+the Oxnard Police Department,ORG,1162
+Yagman,PERSON,1162
+Ventura County’s,GPE,1162
+Yagman,PERSON,1162
+last week,DATE,1162
+Jones,PERSON,1162
+Oxnard African American,NORP,1162
+The National Assn,ORG,1162
+the Advancement of Colored People,ORG,1162
+Jones,PERSON,1162
+earlier this year,DATE,1162
+one,CARDINAL,1162
+second,ORDINAL,1162
+two,CARDINAL,1162
+Jones,PERSON,1162

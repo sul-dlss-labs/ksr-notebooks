@@ -1,0 +1,68 @@
+text,label,fe_id
+Robber Sentenced,PERSON,7646
+21 Years,DATE,7646
+Prison,GPE,7646
+November 2008,DATE,7646
+One,CARDINAL,7646
+Shootout,PERSON,7646
+Lengthy Chase,PERSON,7646
+"Multiple Agencies
+
+FOR IMMEDIATE RELEASE",ORG,7646
+"December 11, 2009",DATE,7646
+Baltimore,GPE,7646
+Maryland,GPE,7646
+U.S.,GPE,7646
+William D. Quarles,PERSON,7646
+Lakhan Sukhu,PERSON,7646
+age 43,DATE,7646
+Silver Spring,GPE,7646
+today,DATE,7646
+255 months,DATE,7646
+four years,DATE,7646
+United States,GPE,7646
+Rod J. Rosenstein,PERSON,7646
+Sukhu,NORP,7646
+two,CARDINAL,7646
+Sharman Said,PERSON,7646
+Omar Burnett,PERSON,7646
+"November 20, 2008",DATE,7646
+the Bank of America,ORG,7646
+Ten Oaks Road,ORG,7646
+Clarksville,GPE,7646
+Maryland,GPE,7646
+That same morning,TIME,7646
+Sukhu,GPE,7646
+Burnett,PERSON,7646
+12,CARDINAL,7646
+Sukhu,NORP,7646
+Said,PERSON,7646
+"23,471",MONEY,7646
+911,CARDINAL,7646
+four,CARDINAL,7646
+Montgomery County,GPE,7646
+Said,GPE,7646
+Burnett,PERSON,7646
+second,ORDINAL,7646
+Burnett,GPE,7646
+Said,PERSON,7646
+"January 8, 2009",DATE,7646
+911,CARDINAL,7646
+Sukhu,ORG,7646
+Sharman Said,PERSON,7646
+age 27,DATE,7646
+Burtonsville,GPE,7646
+Maryland,GPE,7646
+"December 18, 2009",DATE,7646
+2:00 p.m.,TIME,7646
+United States,GPE,7646
+Rod J. Rosenstein,PERSON,7646
+the Federal Bureau of Investigation,ORG,7646
+the Howard County Police Department,ORG,7646
+the Montgomery County Police Department,ORG,7646
+Anne Arundel County Police Department,ORG,7646
+the Maryland State Police,ORG,7646
+Rosenstein,PERSON,7646
+United States,GPE,7646
+Rachel Yasser,PERSON,7646
+Sandra Wilkinson,PERSON,7646

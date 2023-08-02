@@ -1,0 +1,47 @@
+text,label,fe_id
+Paul Pfingst,PERSON,1565
+San Diego,GPE,1565
+Monday,DATE,1565
+two,CARDINAL,1565
+one,CARDINAL,1565
+three,CARDINAL,1565
+James Olson,PERSON,1565
+44,DATE,1565
+second,ORDINAL,1565
+seven,CARDINAL,1565
+31,CARDINAL,1565
+Alejandro Jimenez,PERSON,1565
+24,DATE,1565
+Burger King,ORG,1565
+the American Friends Service Committee,ORG,1565
+San Diego,GPE,1565
+Christian Ramirez,PERSON,1565
+The San Diego Police Department,ORG,1565
+Pfingst,GPE,1565
+Alvin Gomez,PERSON,1565
+Jimenez,ORG,1565
+Maria,PERSON,1565
+Gomez,PERSON,1565
+the county Department of Mental Health,ORG,1565
+first,ORDINAL,1565
+Bruce Debord,PERSON,1565
+March 12,DATE,1565
+Olson,PERSON,1565
+10-year,DATE,1565
+Olson,ORG,1565
+six-pound,QUANTITY,1565
+two,CARDINAL,1565
+Olson,PERSON,1565
+Debord,ORG,1565
+three,CARDINAL,1565
+Ten days later,DATE,1565
+Jimenez,PERSON,1565
+about 11 p.m.,TIME,1565
+Jimenez,ORG,1565
+several years,DATE,1565
+Gomez,PERSON,1565
+39,CARDINAL,1565
+seven,CARDINAL,1565
+Jimenez,PERSON,1565
+31,CARDINAL,1565
+Jimenez,PERSON,1565

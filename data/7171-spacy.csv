@@ -1,0 +1,26 @@
+text,label,fe_id
+Tuesday,DATE,7171
+more than 17 hours,TIME,7171
+Waukegan,PERSON,7171
+Terry Galmore,PERSON,7171
+23,DATE,7171
+1600,CARDINAL,7171
+11th Street,FAC,7171
+3 a.m.,TIME,7171
+hours,TIME,7171
+about 8:30 p.m.,TIME,7171
+Galmore,PERSON,7171
+Galmore,PERSON,7171
+one,CARDINAL,7171
+one,CARDINAL,7171
+three,CARDINAL,7171
+Monday,DATE,7171
+night,TIME,7171
+2300,CARDINAL,7171
+North Corona Road,LOC,7171
+Waukegan,GPE,7171
+second,ORDINAL,7171
+third,ORDINAL,7171
+Wednesday,DATE,7171
+afternoon,TIME,7171
+Galmore,PERSON,7171

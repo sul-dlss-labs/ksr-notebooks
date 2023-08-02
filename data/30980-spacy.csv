@@ -1,0 +1,9 @@
+text,label,fe_id
+Just after midnight,TIME,30980
+Friday,DATE,30980
+911,CARDINAL,30980
+4592,CARDINAL,30980
+North Landing Drive,LOC,30980
+Northeast Cobb,GPE,30980
+Cobb County,FAC,30980
+the Georgia Bureau of Investigations,ORG,30980

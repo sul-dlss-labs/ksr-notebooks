@@ -1,0 +1,34 @@
+text,label,fe_id
+one,CARDINAL,900
+Bay St. Louis,LOC,900
+today,DATE,900
+two,CARDINAL,900
+43 year old,DATE,900
+Orvel Simons,ORG,900
+39-year-old,DATE,900
+Charles Richard Strong,PERSON,900
+Strong,PERSON,900
+Strong,GPE,900
+James Stevens,PERSON,900
+one,CARDINAL,900
+three,CARDINAL,900
+State,ORG,900
+Tulme Streets,PERSON,900
+Stevens,PERSON,900
+43-year-old,DATE,900
+Orvel Simons,ORG,900
+at least ten,CARDINAL,900
+39 year old,DATE,900
+Charles Strong,PERSON,900
+first,ORDINAL,900
+Law,PERSON,900
+half,CARDINAL,900
+Stevens,PERSON,900
+Stevens,PERSON,900
+20 minute,TIME,900
+Frank McNeil,PERSON,900
+the Bay St. Louis Police Department,FAC,900
+K-9,ORG,900
+two,CARDINAL,900
+three,CARDINAL,900
+Stevens,PERSON,900

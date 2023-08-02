@@ -1,0 +1,57 @@
+(2008)
+
+Angie PARKER, Administratrix of the Estate of Billy Ray Cook, Plaintiff,
+
+v.
+
+BLADEN COUNTY, et al., Defendants.
+
+No. 7:08-CV-69-D.
+
+United States District Court, E.D. North Carolina, Southern Division.
+
+June 27, 2008.
+
+ORDER
+
+JAMES C. DEVER III, District Judge.
+
+Angie Parker ("plaintiff" or "Parker"), in her representative capacity as administratrix of the estate of Billy Ray Cook ("decedent" or "Cook"), filed this action pursuant to 42 U.S.C. §§ 1983 and 1988. Parker alleges that Sergeant Gary Edwards ("Edwards"), Deputy Deborah Nelson ("Nelson"), and Deputy Anthony David Smith ("Smith"), all of the Bladen County Sheriff's Department, used excessive force when using tasers on decedent. Parker's amended complaint added Bladen County Sheriff Steve Bunn ("Bunn") and RLI Insurance Company as defendants. Parker alleges a wrongful death claim, a negligence claim, and a section 1983 claim. On May 4, 2008, defendants removed the action to this court. On May 9, 2008, defendants Bladen County and the Bladen County Sheriff's Department filed a motion to dismiss the amended complaint pursuant to Federal Rule of Civil Procedure 12(b)(6). Plaintiff opposes the motion, and the moving defendants have replied. As explained below, defendants' motion to dismiss is granted, and Bladen County and the Bladen County Sheriff's Department are dismissed as defendants.
+
+I.
+
+According to the complaint, on the evening of April 16, 2006, Sergeant Edwards and Deputy Nelson of the Bladen County Sheriff's Department responded to a disturbance at 600 Governor's Estate Drive in Elizabethtown, North Carolina. Compl. ¶ 7.[1] The officers were informed that a person was running in the street screaming "please don't shoot me." Id. When Sergeant Edwards and Deputy Nelson arrived at the scene, they observed Cook crawling on his stomach yelling "please don't let them shoot me." Id. ¶ 9. Cook was incoherent, delusional, and under the influence of impairing substances. Id. ¶ 10.
+
+Meanwhile, Deputy Smith, also of the Bladen County Sheriffs Department, arrived at the scene. Id. ¶ 12. Sergeant Edwards told Cook that he was going to handcuff him until the officers assessed the situation. Id. Sergeant Edwards and Deputies Nelson and Smith attempted to handcuff Cook, but Cook resisted. Id. ¶ 13. The officers administered numerous taser shocks upon Cook, and ultimately succeeded in handcuffing and shackling him. Id. ¶¶ 15-16. Some time after detaining Cook, the officers noticed that he had stopped breathing and called Emergency Medical Services ("EMS"). Id. ¶ 17. At no time did Edwards, Nelson, or Smith attempt to resuscitate Cook or administer other lifesaving measures. Id. EMS arrived at the scene and transported Cook to Bladen Memorial Hospital, where he was pronounced dead on April 17, 2006. Id. ¶ 18. The Office of the Chief Medical Examiner later determined that Cook's "physical altercation" with the officers "may have been a contributing proximate cause of [Cook]'s death." Id. ¶ 24 (emphasis in original). Defendants contend, however, that the Chief Medical Examiner determined the main cause of death to be cocaine intoxication. See Answer ¶ 24.
+
+Some time thereafter, the North Carolina State Bureau of Investigation ("SBI") investigated the incident. In interviews with SBI investigators, Sergeant Edwards stated that he shocked Cook twice with his taser gun, Deputy Nelson stated that she shocked Cook four times, and Deputy Smith stated that he shocked Cook three times. Compl. ¶ 19. Sergeant Edwards also stated that he called EMS before finding Cook unconscious because of the number of taser shocks delivered upon Cook. Id. Data downloaded from the officers' tasers indicated that the officers triggered their tasers a total of 38 times. Id. ¶ 20. Additionally, the officers had recently been certified to use the tasers, and use of their tasers upon Cook was the first time any of the officers had used the tasers in a non-training situation. Id. ¶¶ 21-22.
+
+On March 25, 2008, Parker filed suit in Bladen County Superior Court alleging wrongful death, negligence, and a section 1983 claim. Parker sued Bladen County and the Bladen County Sheriffs Department, and also sued Sergeant Edwards, Deputy Nelson, and Deputy Smith, both individually and in their official capacities as officers for the Bladen County Sheriffs Department. On April 10, 2008, Parker amended her complaint to name Bladen County Sheriff Steve Bunn and RLI Insurance Company as defendants. See Am. Compl. ¶ 1. On May 4, 2008, all defendants removed the action to this court. Defendants Bladen County and the Bladen County Sheriffs Department move to dismiss the complaint against them pursuant to Federal Rule of Civil Procedure 12(b)(6).
+
+II.
+
+In analyzing a motion to dismiss a complaint under Rule 12(b)(6) for "failure to state a claim upon which relief can be granted," a court must determine whether the complaint is legally and factually sufficient. See Bell Atl. Corp. v. Twombly, 550 U.S. 544, 127 S.Ct. 1955, 1968-70, 167 L.Ed.2d 929 (2007); Giarratano v. Johnson, 521 F.3d 298, 302 (4th Cir.2008); Goodman v. Praxair, Inc., 494 F.3d 458, 464 (4th Cir.2007) (en banc); Kloth v. Microsoft Corp., 444 F.3d 312, 319 (4th Cir. 2006); accord Erickson v. Pardus, 551 U.S. 89, 127 S.Ct. 2197, 2200, 167 L.Ed.2d 1081 (2007) (per curiam). "[W]hen ruling on a defendant's motion to dismiss, a judge must accept as true all of the factual allegations contained in the complaint." Erickson, 127 S.Ct. at 2200. Nonetheless, the court "need not accept the legal conclusions drawn from the facts" and "need not accept as true unwarranted inferences, unreasonable conclusions, or arguments." Kloth, 444 F.3d at 319 (quotation omitted).
+
+A.
+
+Bladen County contends that it cannot be held liable for the alleged conduct of Sheriff Bunn, Sergeant Edwards, or Deputies Nelson and Smith. "A county may only be held liable for acts for which the county has final policymaking authority." Little v. Smith, 114 F.Supp.2d 437, 446 (W.D.N.C.2000); cf. McMillian v. Monroe County, 520 U.S. 781, 784, 117 S.Ct. 1734, 138 L.Ed.2d 1 (1997) ("[A] local government is liable under § 1983 for its policies that cause constitutional torts."). Whether a county has final policymaking authority in a specific area is a question of state law. See City of St. Louis v. Praprotnik, 485 U.S. 112, 123, 108 S.Ct. 915, 99 L.Ed.2d 107 (1988). The key inquiry in determining whether a county may be liable for a sheriffs actions is how state law allocates power and responsibility. McMillian, 520 U.S. at 786, 117 S.Ct. 1734; Knight v. Vernon, 214 F.3d 544, 552 (4th Cir.2000); Little, 114 F.Supp.2d at 446.
+
+Under North Carolina law, sheriffs have substantial independence from county government. Sheriffs are directly elected, hold office for four-year terms, and are not employed by the Board of County Commissioners. See N.C. Gen. Stat. § 162-1. Each elected sheriff "has the exclusive right to hire, discharge, and supervise the employees in his office." Id. § 153A-103(1). The sheriff may not delegate this authority to another person or entity. Id. § 162-24. Thus, under North Carolina law, the sheriff, not the county encompassing his jurisdiction, has final policymaking authority over hiring, supervising, and discharging personnel in the sheriffs office. Worrell v. Bedsole, No. 95-2816, 1997 WL 153830, at *5 (4th Cir. Apr.3, 1997) (unpublished); Little, 114 F.Supp.2d at 446; Clark v. Burke County, 117 N.C.App. 85, 89, 450 S.E.2d 747, 749 (1994). In other words, under North Carolina law, a sheriffs deputy "is an employee of the sheriff, not the county," Clark, 117 N.C.App. at 89, 450 S.E.2d at 749, and "the control of employees hired by the sheriff is vested exclusively in the sheriff." Peele v. Provident Mut. Life Ins. Co., 90 N.C.App. 447, 450, 368 S.E.2d 892, 894 (1988).
+
+Here, plaintiff alleges that Sergeant Edwards and Deputies Nelson and Smith of the Bladen County Sheriffs Department used excessive force in attempting to detain Cook. Plaintiff also alleges that Sheriff Bunn, Bladen County, and the Bladen County Sheriffs Department failed to train and supervise these employees and acted negligently and in violation of Cook's constitutional rights in failing to have a policy on the use of tasers. These allegations are employment- and trainingrelated, and constitute personnel decisions or other law enforcement polices over which the Bladen County Sheriff (not Bladen County) maintains exclusive authority. See Little, 114 F.Supp.2d at 446; Clark, 117 N.C.App. at 89-90, 450 S.E.2d at 749; cf. Knight, 214 F.3d at 552-53; Worrell, 1997 WL 153830, at *5-*6. That authority (and any resulting liability) is not attributable to Bladen County. See Clark, 117 N.C.App. at 89, 450 S.E.2d at 749 ("[A]ny injury resulting from [the deputy]'s actions... cannot result in liability for Burke County...."). Accordingly, defendants' motion to dismiss the amended complaint as to Bladen County is granted.[2]
+
+B.
+
+Defendants also seek to dismiss the claims against the Bladen County Sheriff's Department, and plaintiff does not appear to contest dismissal as to this defendant. "State law dictates whether a [state] governmental agency has the capacity to be sued in federal court." Efird v. Riley, 342 F.Supp.2d 413, 419-20 (M.D.N.C.2004) (citing Avery v. Burke, 660 F.2d 111, 113-14 (4th Cir.1981)). For example, N.C. Gen.Stat. § 153A-11 acknowledges that a county is a legal entity which may be sued. However, there is no corresponding statute authorizing suit against a North Carolina county's sheriffs department. Accordingly, the Bladen County Sheriffs Department lacks legal capacity to be sued. See Efird, 342 F.Supp.2d at 420 (dismissing claims against county sheriffs department for lack of capacity); see also Moore v. City of Asheville, 290 F.Supp.2d 664, 673 (W.D.N.C.2003), aff'd, 396 F.3d 385 (4th Cir.2005) (dismissing claims against city police department for lack of capacity). Defendants' motion to dismiss all claims against the Bladen County Sheriff's Department is granted.
+
+III.
+
+In sum, defendants' motion to dismiss the amended complaint as to Bladen County and the Bladen County Sheriff's Department [D.E. 4] is GRANTED. Bladen County and the Bladen County Sheriff's Department are hereby DISMISSED as defendants in this action.
+
+SO ORDERED.
+
+NOTES
+
+[1] On April 10, 2008, plaintiff filed an amended complaint to name two additional defendants. The amended complaint fails to state any factual allegations and simply incorporates the allegations from the original complaint by reference. See Am. Compl. ¶ 1. Accordingly, cites are to plaintiff's original complaint unless otherwise indicated.
+
+[2] Plaintiff's reliance on Flood v. Hardy, 868 F.Supp. 809 (E.D.N.C.1994), which in turn relies on Dotson v. Chester, 937 F.2d 920 (4th Cir.1991), is misplaced. Dotson and Flood held that where a county sheriff serves as the final county policymaker for operating the county-funded county jail, the county may be liable under section 1983. Dotson, 937 F.2d at 932; Flood, 868 F.Supp. at 812-13. This case, of course, is distinguishable. See, e.g., Harter v. Vernon, 953 F.Supp. 685, 693 & n. 8 (M.D.N.C.) (drawing distinction between county sheriff's policymaking authority over running a county-funded county jail and sheriff's policymaking authority over employment decisions within the sheriff's office), aff'd, 101 F.3d 334 (4th Cir.1996).

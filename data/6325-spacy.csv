@@ -1,0 +1,104 @@
+text,label,fe_id
+Frank Ruiz,PERSON,6325
+Monday,DATE,6325
+Laura Yanez,PERSON,6325
+Ruiz,GPE,6325
+Tucson,PRODUCT,6325
+more than 20 years,DATE,6325
+day,DATE,6325
+Ruiz,GPE,6325
+West Side,LOC,6325
+Pima County,GPE,6325
+Sgt,PERSON,6325
+John Stuckey,PERSON,6325
+30 yards,QUANTITY,6325
+Ruiz,FAC,6325
+56,DATE,6325
+second,ORDINAL,6325
+this year,DATE,6325
+Stuckey,ORG,6325
+12-year,DATE,6325
+Stuckey,ORG,6325
+Pima County Sheriff's Department,ORG,6325
+SWAT,ORG,6325
+911,CARDINAL,6325
+Ruiz,FAC,6325
+the last couple of years,DATE,6325
+recent days,DATE,6325
+Palmer Evans,PERSON,6325
+Evans,PERSON,6325
+Tucson Medical Center,ORG,6325
+Just last week,DATE,6325
+some 25 years,DATE,6325
+about 18 months ago,DATE,6325
+his hours,TIME,6325
+Evans,PERSON,6325
+Monday,DATE,6325
+about 1 p.m.,TIME,6325
+911,CARDINAL,6325
+1500,CARDINAL,6325
+North Coral Bells Drive,ORG,6325
+Michael O'Connor,PERSON,6325
+911,CARDINAL,6325
+the day,DATE,6325
+O'Connor,PERSON,6325
+Ruiz,FAC,6325
+the next day,DATE,6325
+SWAT,ORG,6325
+the Los Arroyos del Oeste,ORG,6325
+O'Connor,PERSON,6325
+Ruiz,PRODUCT,6325
+O'Connor,PERSON,6325
+O'Connor,PERSON,6325
+Stuckey,ORG,6325
+Ruiz,GPE,6325
+Stuckey,ORG,6325
+about 30 yards,QUANTITY,6325
+O'Connor,PERSON,6325
+Stuckey,ORG,6325
+about 45 minutes,TIME,6325
+Ruiz,PERSON,6325
+Tuesday,DATE,6325
+Ruiz,GPE,6325
+second,ORDINAL,6325
+two,CARDINAL,6325
+first,ORDINAL,6325
+at least two,CARDINAL,6325
+Alexandria Massaro,PERSON,6325
+27,DATE,6325
+Ruiz,FAC,6325
+first,ORDINAL,6325
+last year,DATE,6325
+Ruiz,WORK_OF_ART,6325
+Erik Estrada,PERSON,6325
+John Moseley,PERSON,6325
+Ruiz,WORK_OF_ART,6325
+the Thomas-Davis Clinic,FAC,6325
+the 1990s,DATE,6325
+six,CARDINAL,6325
+Sheldon Marks,PERSON,6325
+Tucson,GPE,6325
+Ruiz,FAC,6325
+Thomas-Davis,PERSON,6325
+2 a.m.,TIME,6325
+earlier this year,DATE,6325
+Stuckey,ORG,6325
+Jan. 7,DATE,6325
+Glen C. Pearson,PERSON,6325
+62,DATE,6325
+Green Valley,LOC,6325
+first,ORDINAL,6325
+Pearson,PRODUCT,6325
+Stuckey,NORP,6325
+a day later,DATE,6325
+Pearson,PRODUCT,6325
+Stuckey,ORG,6325
+one,CARDINAL,6325
+three,CARDINAL,6325
+19-year-old,DATE,6325
+Tucsonan,GPE,6325
+April 1996,DATE,6325
+Northwest Side,ORG,6325
+Stuckey,ORG,6325
+O'Connor,PERSON,6325
+StarNet,ORG,6325

@@ -1,0 +1,44 @@
+text,label,fe_id
+DENVER,GPE,30090
+KDVR,ORG,30090
+The Denver Police Department,ORG,30090
+Thursday,DATE,30090
+morning,TIME,30090
+Auraria,PERSON,30090
+DPD,ORG,30090
+Auraria,PERSON,30090
+around 2 a.m.,TIME,30090
+the Springhill Suites Hotel,FAC,30090
+1190,DATE,30090
+Auraria,PERSON,30090
+Alameda Avenue,FAC,30090
+Kalamath Street,FAC,30090
+one,CARDINAL,30090
+late Thursday,TIME,30090
+morning,TIME,30090
+the Auraria Campus,ORG,30090
+Early this morning,TIME,30090
+the Springhill Suites Hotel,FAC,30090
+the Auraria Campus Police Department,ORG,30090
+W. Alameda Ave,LOC,30090
+S. Kalamath St. One,PERSON,30090
+The Auraria Campus Police Department,ORG,30090
+Denver Police Department,ORG,30090
+the Auraria Campus,ORG,30090
+the Auraria Parkway,FAC,30090
+second,ORDINAL,30090
+W. Alameda Ave,ORG,30090
+S. Kalamath Street,PERSON,30090
+Denver,GPE,30090
+America,GPE,30090
+50,CARDINAL,30090
+Colleen Walker,PERSON,30090
+Auraria Higher,PERSON,30090
+Ph.D.,WORK_OF_ART,30090
+Community College of Denver,ORG,30090
+Janine Davidson,PERSON,30090
+Ph.D.,WORK_OF_ART,30090
+Metropolitan State University of Denver,ORG,30090
+Michelle Marks,PERSON,30090
+Ph.D.,WORK_OF_ART,30090
+University of Colorado Denver,ORG,30090

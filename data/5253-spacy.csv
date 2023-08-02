@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,5253
+Alabama,GPE,5253
+Alaska,GPE,5253
+Arizona,GPE,5253
+Arkansas,GPE,5253
+California,GPE,5253
+Colorado,GPE,5253
+Connecticut,GPE,5253
+Delaware,GPE,5253
+Florida,GPE,5253
+Georgia,GPE,5253
+Hawaii,GPE,5253
+Idaho,GPE,5253
+Indiana,GPE,5253
+Iowa,GPE,5253
+Kansas,GPE,5253
+Kentucky,GPE,5253
+Louisiana,GPE,5253
+Maine,GPE,5253
+Maryland,GPE,5253
+Massachusetts,GPE,5253
+Michigan,GPE,5253
+Minnesota,GPE,5253
+Mississippi,GPE,5253
+Missouri,GPE,5253
+Montana,GPE,5253
+Nebraska,GPE,5253
+Nevada,GPE,5253
+New Hampshire,GPE,5253
+New Jersey,GPE,5253
+Ohio,GPE,5253
+Oklahoma,GPE,5253
+Oregon,GPE,5253
+Pennsylvania,GPE,5253
+Rhode Island,GPE,5253
+Tennessee,GPE,5253
+Texas,GPE,5253
+Utah,GPE,5253
+Vermont,GPE,5253
+Virginia,GPE,5253
+Washington,GPE,5253
+Washington,GPE,5253
+D.C.,GPE,5253
+Wisconsin,GPE,5253
+Wyoming,GPE,5253
+US,GPE,5253
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,5253
+Marshall Islands American Samoa Federated States,ORG,5253
+Micronesia Guam,FAC,5253
+Alberta,GPE,5253
+Canada,GPE,5253
+British Columbia,GPE,5253
+Canada Manitoba,GPE,5253
+Canada,GPE,5253
+New Brunswick,GPE,5253
+Canada Newfoundland,PERSON,5253
+Canada,GPE,5253
+Canada,GPE,5253
+Canada Ontario,GPE,5253
+Canada,GPE,5253
+Edward Island,GPE,5253
+Canada Quebec,GPE,5253
+Canada,GPE,5253
+Saskatchewan,GPE,5253
+Canada Yukon Territory,ORG,5253
+Canada,GPE,5253
+Zip Code,PERSON,5253

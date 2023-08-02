@@ -1,0 +1,19 @@
+text,label,fe_id
+Richard Dale,PERSON,7071
+54-year-old,DATE,7071
+"Saturday, April 19",DATE,7071
+Dave Crespin,PERSON,7071
+2200,CARDINAL,7071
+Torrance Boulevard,FAC,7071
+Torrance,GPE,7071
+12,CARDINAL,7071
+45 a.m.,TIME,7071
+A few minutes later,TIME,7071
+second,ORDINAL,7071
+Crespin,PERSON,7071
+Dale,PERSON,7071
+Dale,PERSON,7071
+Dale,PERSON,7071
+1:52 a.m.,TIME,7071
+the Torrance Fire Department,ORG,7071
+Dale,PERSON,7071

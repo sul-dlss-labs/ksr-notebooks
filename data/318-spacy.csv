@@ -1,0 +1,22 @@
+text,label,fe_id
+A day,DATE,318
+two,CARDINAL,318
+Queens,GPE,318
+yesterday,DATE,318
+two,CARDINAL,318
+Dandre Darnell Cisco,PERSON,318
+25,DATE,318
+about 6:20 p.m.,TIME,318
+Friday,DATE,318
+Grand Central Parkway,FAC,318
+Francis Lewis Boulevard,FAC,318
+Cisco,PERSON,318
+Glen Cove,GPE,318
+N.Y.,GPE,318
+about 40 miles per hour,QUANTITY,318
+two,CARDINAL,318
+two,CARDINAL,318
+Cisco,PERSON,318
+the Police Department's Internal Affairs Bureau,ORG,318
+the Queens Homicide Squad,ORG,318
+Queens,GPE,318

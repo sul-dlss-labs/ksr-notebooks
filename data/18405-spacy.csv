@@ -1,0 +1,36 @@
+text,label,fe_id
+31-year-old,DATE,18405
+two,CARDINAL,18405
+Monday,DATE,18405
+night,TIME,18405
+North Philadelphia,GPE,18405
+Huntingdon,GPE,18405
+Pa.,GPE,18405
+44-year-old,DATE,18405
+North Philadelphia,GPE,18405
+late Monday afternoon,TIME,18405
+Scott Small,PERSON,18405
+Around 5:40 p.m.,TIME,18405
+Temple University Hospital,ORG,18405
+700,CARDINAL,18405
+West Clearfield Street,LOC,18405
+3100,CARDINAL,18405
+Darien Street,FAC,18405
+"Between 6:30 and 7 p.m., 25th",DATE,18405
+Darien,GPE,18405
+3100,CARDINAL,18405
+North Ninth Street,LOC,18405
+Small,PERSON,18405
+Two,CARDINAL,18405
+two,CARDINAL,18405
+two,CARDINAL,18405
+one,CARDINAL,18405
+Small,PERSON,18405
+Small,PERSON,18405
+7 p.m.,TIME,18405
+Temple University Hospital,ORG,18405
+7:18,TIME,18405
+two,CARDINAL,18405
+Small,PERSON,18405
+Clearfield,GPE,18405
+215,CARDINAL,18405

@@ -1,0 +1,8 @@
+text,label,fe_id
+Smith,GPE,28473
+Salt Lake City,GPE,28473
+Smith's,ORG,28473
+Grocery Store,WORK_OF_ART,28473
+"Saturday, July 25",DATE,28473
+two,CARDINAL,28473
+SLCPD,ORG,28473

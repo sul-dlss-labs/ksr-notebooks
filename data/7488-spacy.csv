@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,7488
+Alabama,GPE,7488
+Alaska,GPE,7488
+Arizona,GPE,7488
+Arkansas,GPE,7488
+California,GPE,7488
+Colorado,GPE,7488
+Connecticut,GPE,7488
+Delaware,GPE,7488
+Florida,GPE,7488
+Georgia,GPE,7488
+Hawaii,GPE,7488
+Idaho,GPE,7488
+Indiana,GPE,7488
+Iowa,GPE,7488
+Kansas,GPE,7488
+Kentucky,GPE,7488
+Louisiana,GPE,7488
+Maine,GPE,7488
+Maryland,GPE,7488
+Massachusetts,GPE,7488
+Michigan,GPE,7488
+Minnesota,GPE,7488
+Mississippi,GPE,7488
+Missouri,GPE,7488
+Montana,GPE,7488
+Nebraska,GPE,7488
+Nevada,GPE,7488
+New Hampshire,GPE,7488
+New Jersey,GPE,7488
+Ohio,GPE,7488
+Oklahoma,GPE,7488
+Oregon,GPE,7488
+Pennsylvania,GPE,7488
+Rhode Island,GPE,7488
+Tennessee,GPE,7488
+Texas,GPE,7488
+Utah,GPE,7488
+Vermont,GPE,7488
+Virginia,GPE,7488
+Washington,GPE,7488
+Washington,GPE,7488
+D.C.,GPE,7488
+Wisconsin,GPE,7488
+Wyoming,GPE,7488
+US,GPE,7488
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,7488
+Marshall Islands American Samoa Federated States,ORG,7488
+Micronesia Guam,FAC,7488
+Alberta,GPE,7488
+Canada,GPE,7488
+British Columbia,GPE,7488
+Canada Manitoba,GPE,7488
+Canada,GPE,7488
+New Brunswick,GPE,7488
+Canada Newfoundland,PERSON,7488
+Canada,GPE,7488
+Canada,GPE,7488
+Canada Ontario,GPE,7488
+Canada,GPE,7488
+Edward Island,GPE,7488
+Canada Quebec,GPE,7488
+Canada,GPE,7488
+Saskatchewan,GPE,7488
+Canada Yukon Territory,ORG,7488
+Canada,GPE,7488
+Zip Code,PERSON,7488

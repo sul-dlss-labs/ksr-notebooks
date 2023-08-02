@@ -1,0 +1,26 @@
+text,label,fe_id
+Jose Solorio,PERSON,10116
+46-year-old,DATE,10116
+Latino,PERSON,10116
+"Wednesday, April 27",DATE,10116
+1700,CARDINAL,10116
+East 115th Street,LOC,10116
+Watts,LOC,10116
+Los Angeles County,GPE,10116
+about 8:20 a.m.,TIME,10116
+LAPD,ORG,10116
+Jose Solorio,PERSON,10116
+Solorio,GPE,10116
+Solorio,GPE,10116
+Solorio,GPE,10116
+one,CARDINAL,10116
+Solorio,GPE,10116
+Solorio,GPE,10116
+Solorio,GPE,10116
+Solorio,GPE,10116
+LAPD Force Investigation Division,ORG,10116
+213,CARDINAL,10116
+972-7813,DATE,10116
+Crime Stoppers,PERSON,10116
+222,CARDINAL,10116
+Los Angeles Times,ORG,10116

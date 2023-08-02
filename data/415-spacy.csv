@@ -1,0 +1,47 @@
+text,label,fe_id
+$1-million,MONEY,415
+Army,ORG,415
+Los Angeles,GPE,415
+Thursday,DATE,415
+Anthony Eady,PERSON,415
+52,DATE,415
+three days,DATE,415
+"Aug. 26, 2000",DATE,415
+Amar Eady,PERSON,415
+28,DATE,415
+"669,100",MONEY,415
+Rashidah Thomas-Eady,PERSON,415
+24,DATE,415
+"350,000",MONEY,415
+Wednesday,DATE,415
+Compton,ORG,415
+Los Angeles County Superior Court,GPE,415
+Marlene Kristovich,PERSON,415
+Jeffrey Wilson,PERSON,415
+Randy McMurray,PERSON,415
+City Atty,PERSON,415
+Richard M. Arias,PERSON,415
+Eady,PERSON,415
+0.448,CARDINAL,415
+more than five,CARDINAL,415
+Arias,PERSON,415
+Wilson,ORG,415
+LAPD,ORG,415
+Arias,PERSON,415
+Thursday,DATE,415
+two,CARDINAL,415
+African American,NORP,415
+Wilson,ORG,415
+three,CARDINAL,415
+Latinos,ORG,415
+four,CARDINAL,415
+five,CARDINAL,415
+Arias,PERSON,415
+Louis Pena,PERSON,415
+McMurray,ORG,415
+Arias,PERSON,415
+Pena,PERSON,415
+McMurray,ORG,415
+"100,000",MONEY,415
+McMurray,PERSON,415
+"at least $750,000",MONEY,415

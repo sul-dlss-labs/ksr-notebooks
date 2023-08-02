@@ -1,0 +1,490 @@
+[7Wx-Headline] [ANCHOR=Kim] [NEWSCAST=Cut-ins]
+
+[WRITER=kor]
+
+[TAPE#=none]
+
+[GRAPHIC=Mornin' Report]
+
+
+
+
+
+Good morning, I'm Kimberly McBroom.
+
+Partly cloudy this afternoon with highs in the mid 50s.
+
+Meteorologist Leo Hirsbrunner has the Monday forecast, coming up.
+
+
+
+
+
+
+
+
+
+
+
+[7-11-581-Ax]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=am cutins]
+
+[WRITER=rle]
+
+[TAPE#=03-55 TC-1:56:33]
+
+[GRAPHIC=Accident]
+
+
+
+
+
+[ENG#=1]
+
+
+
+
+
+An accident on Interstate 81 sends one person to the hospital.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Roanoke;]
+
+According to witnesses, shortly after nine o'clock last night the driver of this car was trying to merge into the right hand lane near Valley View when they lost control and went into a skid. The vehicle ended up UNDER a tractor trailer, and traffic quickly backed up on the interstate. One woman was taken to the hospital for injuries. No word on her condition.
+
+(------------)
+
+
+
+
+
+[7-11Vinton-Ax]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=am cutins]
+
+[WRITER=rle]
+
+[TAPE#=03-54 TC-2:03:38]
+
+[GRAPHIC=Accident]
+
+
+
+
+
+[ENG#=2]
+
+
+
+
+
+A man was sent to a hospital after an accident in Vinton.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Vinton;]
+
+Police say a 90-year-old man was backing into a garage around 11-thirty yesterday morning.
+
+According to police, the man thought he had put the car in park, but it was actually in reverse. The car then went down a bank, over a rock retaining wall, and hit an apartment building. The man was treated for minor injuries. No charges have been filed.
+
+(------------)
+
+[7-11Craig-Beating]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=am cutins]
+
+[WRITER=rle]
+
+[TAPE#=none]
+
+[GRAPHIC=none]
+
+
+
+A Craig County man is dead following a fight early Sunday morning. Authorities say 49 year old Stanley Ray Crawford suffered "severe head injuries" during an altercation around midnight. He died shortly after five o-clock yesterday morning at Roanoke Memorial Hospital. 32 year old Jay Gallimore of New Castle was arrested and charged with malicious wounding. He's being held at the Botetourt County Jail without bond. The Commonwealth's Attorney will review the case, and could file more charges.
+
+[7-Tazewell-Robbery]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=Mornin]
+
+[WRITER=tco]
+
+[TAPE#=None]
+
+[GRAPHIC=none]
+
+
+
+Tazewell County authorities are searching for a robbery suspect. Sheriff's deputies responded to the call that a white male entered the Pounding Mill Quick Mart on Saturday and demanded money. Authorities say the suspect then fled on foot then got in a large gray S-U-V. Witnesses describe the suspect as 6 feet tall, about 200 pounds, with brown eyes and a brown mustache. He was seen wearing a dark ski mask and a khaki long sleeve jacket with a wide red stripe across the back. If you have any information, you are asked to contact the Tazewell County Sheriff's office.
+
+
+
+
+
+
+
+[7-11D-Day-Plaques]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=am cutins]
+
+[WRITER=jus]
+
+[TAPE#=04-10 TC-21:51]
+
+[GRAPHIC=D-Day]
+
+
+
+
+
+[ENG#=3]
+
+
+
+
+
+The D-Day Memorial in Bedford has come up with another way to honor those who made the ultimate sacrifice.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Bedford]
+
+
+
+Since last Memorial Day, the D-Day Foundation has been working to put up plagues as part of its Memorial Wall.
+
+On it, lists the names of those who died on D-Day.
+
+The wall will eventually contain 46-hundred names, 25-hundred of which are Americans.
+
+(///// SOT /////)
+
+[SOT 5:10:55]
+
+[IN Q=Our Memorial plaque]
+
+((JOE BANNER/D-DAY MEMORIAL FOUNDATION: OUR MEMORIAL PLAQUE PROJECT IS EXCITING SINCE IT IS THE ONLY MEMORIAL IN THE WORLD TO A COMPLIED AND STUDY AND DISPLAYED THE NAMES OF THOSE SOLDIERS, SAILORS, AND AIRMAN KILLED ON D-DAY.))
+
+[SUPER=01-Joe Banner/D-Day Memorial Foundation; :]
+
+[RUNS=:09]
+
+[OUT Q=killed on D-Day]
+
+(------------)
+
+[VO-NAT]
+
+
+
+Currently, there are 112 plaques mounted.
+
+The Foundation hopes to raise enough money to put up 232 plaques.
+
+Each one costs 5-thousand dollars and it's completely being paid for through donations.
+
+(------------)
+
+
+
+[55-WXHeads]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=Cut-ins]
+
+[WRITER=kor]
+
+[TAPE#=none]
+
+[GRAPHIC=Mornin' Report]
+
+
+
+
+
+Good morning, I'm Kimberly McBroom......
+
+A mixture of clouds and sun today with cooler temperatures.
+
+Highs will only reach the 50s today.
+
+Meteorologist Leo Hirsbrunner has the complete forecast, coming up. [55-Shooting-Pitts]
+
+[ANCHOR=Kimberly]
+
+[NEWSCAST=am cutins]
+
+[WRITER=tco]
+
+[TAPE#=net]
+
+[GRAPHIC=Fatal Shooting]
+
+
+
+
+
+A Pittsylvania County man was shot and killed over the weekend by a sheriff's deputy. The family of 51-year-old Allen Lee Carter says the entire incident could have been prevented. Authorities were called to Whispering Pines Road on Saturday for a domestic dispute.
+
+(++++++++)
+
+[take map fs]
+
+Deputies found Carter in his back yard where they say he pulled a knife and acted aggressively towards them. The officers sprayed Carter with pepper spray, but say he continued to approach them. One of the deputies then shot and killed Carter.
+
+(++++++++)
+
+[ENG#=1]
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Pittsylvania Co.]
+
+Family members say they were enjoying the afternoon when Carter got agitated and threatened is brother with a knife. That's when one of Carter's family members called 9-1-1.
+
+(///// SOT /////)
+
+[SOT]
+
+[IN Q=I explained...]
+
+((CRYSTAL SMITH/CARTER'S NIECE: I EXPLAINED TO THE WOMAN THAT I SPOKE TO... I COULDN'T GET THE ADDRESS CORRECT BECAUSE I WAS NERVOUS AND I TOLD HER HE WAS MENTALLY ILL.))
+
+[SUPER=01-Crystal Smith/Carter's Niece;]
+
+[RUNS=]
+
+[OUT Q=...was mentally ill.]
+
+(------------)
+
+[VO-NAT]
+
+Smith says her uncle was schizophrenic, but refused to take medication. Smith says officers have been called to calm Carter down multiple times, but force was never required. On Saturday when the deputies arrived Smith says one stayed a distance behind while the other tried to talk to Carter and eventually shot him several times.
+
+(///// SOT /////)
+
+[SOT]
+
+[IN Q=You would think...]
+
+((JERRY FONTAINE: YOU WOULD THINK THAT AN OFFICER WOULD HAVE A LITTLE MORE PROFESSIONALISM TO DE-ESCALATE A SITUATION IN TERMS OF DEALING WITH SOMEONE WHO HAS A MENTAL OR SCHIZOPHRENIC BACKGROUND.))
+
+[SUPER=01-Jerry Fontaine/Family Member;]
+
+[RUNS=11]
+
+[OUT Q=...or schizophrenic background.]
+
+(------------)
+
+[VO-NAT]
+
+Both deputies have been placed on adminstrative leave with pay. Their names have not been released. Pittsylvania County officials declined to comment. The state police are investigating.
+
+(-------------)
+
+
+
+[55-11Church-Anniversary]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=am cutins]
+
+[WRITER=sba]
+
+[TAPE#=04-03 TC-54:01]
+
+[GRAPHIC=none]
+
+
+
+
+
+[ENG#=2]
+
+
+
+A major milestone was celebrated at a Roanoke County church yesterday.
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Roanoke Co.;]
+
+Cave Spring United Methodist Church celebrated its 150th anniversary. The church originally began in the building, which now houses the Honeytree Learning Center. It moved to its current location in the 1950s, and has been growing ever since.
+
+(///// SOT /////)
+
+[SOT@21:44:39:02]
+
+[IN Q=The focus...]
+
+((BOB MCADEN, FORMER PREACHER: THE FOCUS IS THE SAME- TO GET PEOPLE TO KNOW CHRIST AND TO FOLLOW CHRIST. SO THE COMMUNITY CHANGES, PASTORS COME AND GO, MEMBERS HERE DIE OR MOVE AWAY, BUT THE PURPOSE AND THE FOCUS OF THE CHURCH REMAINS THE SAME.))
+
+[SUPER=01-Bob McAden/Former Preacher]
+
+[RUNS=:16]
+
+[OUT Q=.. THE SAME.]
+
+(------------)
+
+[VO-NAT]
+
+As part of a yearlong celebration, the church hosted six former pastors and even portrayed how parishioners may have acted in 1854.
+
+(------------)
+
+
+
+[8Wx-Headline]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=Cut-ins]
+
+[WRITER=kor]
+
+[TAPE#=none]
+
+[GRAPHIC=Mornin' Report]
+
+
+
+
+
+Good morning, I'm Kimberly McBroom......
+
+The warm weekend weather is gone-- We'll see highs in the 50s today, but only reaching the 40s tomorrow.
+
+Meteorologist Leo Hirsbrunner has the work week forecast, coming up.
+
+
+
+
+
+
+
+
+
+[8-Tazewell-Robbery]
+
+[ANCHOR=Kim]
+
+[NEWSCAST=Mornin]
+
+[WRITER=tco]
+
+[TAPE#=None]
+
+[GRAPHIC=none]
+
+
+
+Tazewell County authorities are looking for a man suspected in a robbery on Saturday. Sheriff's deputies responded to the call that a white male entered the Pounding Mill Quick Mart and demanded money. Authorities say the suspect then fled on foot then got in a large gray S-U-V. Witnesses describe the suspect as 6 feet tall, about 200 pounds, with brown eyes and a brown mustache. He was seen wearing a dark ski mask and a khaki long sleeve jacket with a red stripe across the back. If you have any information, you are asked to contact the Tazewell County Sheriff's office.
+
+
+
+
+
+
+
+[8-Shooting-Pitts]
+
+[ANCHOR=Kimberly]
+
+[NEWSCAST=am cutins]
+
+[WRITER=tco]
+
+[TAPE#=net]
+
+[GRAPHIC=Fatal Shooting]
+
+
+
+
+
+A Pittsylvania County man was shot and killed on Saturday by a sheriff's deputy. The family of 51-year-old Allen Lee Carter says the entire incident could have been prevented.
+
+(++++++++)
+
+[take map fs] Authorities were called to Whispering Pines Road for a domestic dispute. Deputies found Carter in his back yard where they say he pulled a knife and acted aggressively towards them. The officers sprayed Carter with pepper spray, but say he continued to approach them. One of the deputies then shot and killed Carter.
+
+[ENG#=1]
+
+(------------)
+
+[VO-NAT]
+
+[SUPER=03-Pittsylvania Co.]
+
+Family members say they were enjoying the afternoon when Carter got agitated and threatened is brother with a knife. That's when one of Carter's family members called 9-1-1.
+
+(///// SOT /////)
+
+[SOT]
+
+[IN Q=I explained...]
+
+((CRYSTAL SMITH/CARTER'S NIECE: I EXPLAINED TO THE WOMAN THAT I SPOKE TO... I COULDN'T GET THE ADDRESS CORRECT BECAUSE I WAS NERVOUS AND I TOLD HER HE WAS MENTALLY ILL.))
+
+[SUPER=01-Crystal Smith/Carter's Niece;]
+
+[RUNS=10]
+
+[OUT Q=...was mentally ill.]
+
+(------------)
+
+[VO-NAT]
+
+Smith says her uncle was schizophrenic, but refused to take medication. Smith says officers have been called to calm Carter down multiple times, but force was never required. On Saturday when the deputies arrived Smith says one stayed a distance behind while the other tried to talk to Carter and eventually shot him several times.
+
+(///// SOT /////)
+
+[SOT]
+
+[IN Q=You would think...]
+
+((JERRY FONTAINE: YOU WOULD THINK THAT AN OFFICER WOULD HAVE A LITTLE MORE PROFESSIONALISM TO DE-ESCALATE A SITUATION IN TERMS OF DEALING WITH SOMEONE WHO HAS A MENTAL OR SCHIZOPHRENIC BACKGROUND.))
+
+[SUPER=01-Jerry Fontaine/Family Member;]
+
+[RUNS=11]
+
+[OUT Q=...or schizophrenic background.]
+
+(------------)
+
+[VO-NAT]
+
+Both deputies have been placed on adminstrative leave with pay. Their names have not been released. Pittsylvania County officials declined to comment. The state police are investigating.
+
+(-------------)
+

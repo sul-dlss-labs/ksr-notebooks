@@ -1,0 +1,45 @@
+MEMORANDUM AND ORDER RE: MOTION TO DISMISS
+
+This case arises out of the death of Harry Velez ("Velez"). Velez's mother, Maria Lazada, and son, Andre O'Hara, (collectively "plaintiffs") filed this action on behalf of themselves and decedent against Sheriff Dave Hencratt, Sergeant Steve Hoag, Deputy Robert Bakken ("Deputy Bakken"), Deputy Dustin Maria ("Deputy Maria"), the State of California, the City of Dairyville, Tehama County, and the Tehama County Sheriff's Department, alleging that Deputies Bakken and Maria used excessive force while arresting Velez, causing his death. Presently before the court is the Motion of defendants Bakken, Maria, and the County of Tehama to Dismiss plaintiffs' First Amended Complaint ("FAC"). (Docket No. 17)
+
+I. Factual and Procedural History
+
+On September 21, 2016, the Tehama County Sheriff's Department responded to a 911 call made by Velez, who claimed he had been drugged by his girlfriend Natasha Finck ("Finck"). (FAC ¶ 5.) Deputy Bakken and Deputy Maria responded to the call. ( Id. ) After speaking with Velez and Finck, Deputy Bakken allegedly pushed Velez to the ground and handcuffed him. ( Id. ¶¶ 6-7.) Plaintiffs allege that Velez then rose to his feet and was again tackled by Deputies Bakken and Maria, who repeatedly tased and punched Velez. ( Id. ¶ 8.) During the attack, plaintiffs purport that Velez yelled for help. ( Id. ¶ 9.) At all times during the incident, plaintiffs allege that Velez had no weapons, made no threats to the deputies, and did not resist arrest. ( Id. ¶ 13.)
+
+Velez was transported to the hospital where he died from Hypoxic Encephalopathy (lack of oxygen to the brain) with Multisystem Organ Failure. ( Id. ¶¶ 11-12.) According to the autopsy, Velez was tased at least ten times. ( Id. ¶ 8.) The autopsy also reports that Velez had abrasions on his face, forearms, knee, toes, and wrists, and had contusions on his fingers, chest, and abdominal walls. ( Id. ¶ 12.)
+
+On October 13, 2016, plaintiffs presented California Tort Claims Act ("CTCA") claims to the County of Tehama on behalf of themselves and the decedent regarding the September 21, 2016 incident. (Decl. of Sean Houghtby ("Houghtby Decl.") ¶ 5, Ex. A (Docket No. 17-2).) On November 1, 2016, the County of Tehama Board of Directors rejected these claims. ( Id. ¶ 6, Ex. B.) On November 2, 2016, Tehama County drafted California Tort Claims Act rejection notices addressed to both plaintiff. Each rejection notice included the following language: "WARNING; Subject to certain expectations, you have only six (6) months from the date this notice was personally delivered or deposited in the mail to file a court action on this claim. See Government Code Section 945.6." ( Id. ) That same day, these rejection notices were placed in prepaid envelopes addressed to plaintiffs, and the envelopes were placed for collection and mailing with the United States Postal Service. ( Id. ¶¶ 7-9.)
+
+The court takes judicial notice of the CTCA claims because judicial notice may be taken of records of state administrative and judicial agencies, Mack v. S. Bay Beer Distributors, Inc. , 798 F.2d 1279, 1282 (9th Cir.1986) (abrogated on other grounds by Astoria Fed. Sav. & Loan Ass'n v. Solimino , 501 U.S. 104, 111 (1991)), including governmental claim submissions and responses, Clarke v. Upton , 703 F. Supp. 2d 1037, 1042 (E.D. Cal. 2010) (judicial notice of claim filings may be considered on a Rule 12(b)(6) motion to dismiss).
+
+The court takes judicial notice of these rejection notices for the same reasons explained in footnote 1.
+
+Plaintiffs submitted their complaint to the court on May 1, 2017, seeking damages for injuries to the decedent and to compensate the family members for mental anguish and pecuniary injuries. The complaint was not officially filed by the Clerk until May 5, 2017. (Docket No. 1.) On October 11, 2017, the court granted defendants' Motion for a More Definite Statement and dismissed plaintiffs' complaint with leave to amend. (Docket No. 11.) On November 10, 2017, plaintiffs filed their First Amended Complaint. (Docket No. 15.) The First Amended Complaint contains eight claims for relief: (1) a § 1983 claim for violation of plaintiffs' Fourth Amendment rights; (2) a § 1983 claim for violation of plaintiffs' First Amendment rights; (3) assault; (4) battery; (5) false arrest/imprisonment; (6) intentional infliction of emotional distress; (7) negligent hiring, training, supervision or retention of employees; (8) and wrongful death.
+
+II. Discussion
+
+A. State Law Claims
+
+Defendants seek dismissal of all state law claims (i.e. claims three through eight), alleging that plaintiffs failed to comply with the timing requirements mandated by Cal. Govt. Code § 945.6 of the California Tort Claims Act. Under those requirements, all claims alleged against public entities and their employees must be brought within 6 months or 182 days, whichever is earlier, from the date the notice rejections were deposited in the mail. Cal. Govt. Code § 945.6; Gonzales v. County of Los Angeles , 199 Cal. App. 3d 601, 604 (2d Dist. 1988). This six month period "is mandatory and strict compliance is required." Clarke v. Upton , 703 F. Supp. 2d 1037, 1044 (E.D. Cal. 2010) (citing Julian v. City of San Diego , 183 Cal. App. 3d 169, 176 (4th Dist. 1986)).
+
+Tehama County sent plaintiffs their rejection notices on November 3, 2016. (Houghtby Decl. ¶ 5, Ex. A.) Six months from this date was May 3, 2017, and 182 days later was May 4, 2017. Although plaintiffs' complaint was not filed by the Clerk until May 5, 2017, it was received and entered by the Clerk on May 1, 2017, days before the statute of limitations was set to expire on these claims. The delay was due to the fact that plaintiffs did not pay the requisite court filing fees until May 5. However, the Ninth Circuit has determined that "a complaint is filed when it is placed in the actual or constructive custody of the clerk of the court, despite any subsequent rejection by the clerk of the pleading for non-compliance with a provision of the local rules." Ordonez v. Johnson , 254 F. 3d 814, 816 (9th Cir. 2001). Accordingly, because here the "complaint arrive[d] in the custody of the clerk within the statutory period," the "court should regard [it] as filed.'" Smith v. Frank , 923 F.2d 139, 141 (9th Cir. 1991), citing Loya v. Desert Sands Unified School Dist. , 721 F.2d 279, 281 (9th Cir. 1983). Therefore, the court concludes that plaintiffs complied with the statute of limitations and will deny defendants' Motion to Dismiss on that ground.
+
+The court will take judicial notice of these dates because such facts are "capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned." Fed. R. Evid. 201(b). --------
+
+B. Claims One through Seven
+
+Claims one through seven are survival claims brought on behalf of the decedent by O'Hara, his purported successor in interest. A "party seeking to bring a survival action under § 1983 bears the burden of demonstrating that a particular state's law authorizes a survival action and that the plaintiff meets the state's requirements for bringing a survival action." 42 U.S.C. § 1983; Hayes v. County of San Diego , 736 F.3d 1223, 1228 (9th Cir. 2013)(internal citation omitted). Therefore, O'Hara has the burden of alleging and proving both that California law allows for survival actions and also that he has satisfied California's requirements for bringing this action.
+
+Under California law, any person seeking to commence an action, or to continue a pending action, as the decedent's successor in interest must execute and file an affidavit or declaration "that conforms with the enumerated requirements of § 377.32(a)." Cotta v. County of Kings , 79 F. Supp. 3d 1148, 1159 (E.D. Cal. 2015). Here, O'Hara brings claims as Velez's successor in interest ( see FAC ¶ 4), but he has not filed the requisite affidavit or declarant. However, "[r]ather than directing plaintiffs to file a second amended complaint at this point . . . the court orders [O'Hara] to file a declaration establishing that [he] has the capacity to proceed on behalf of [decedent]." See Estate of Burkhart v. U.S. , No. C. 07-5467 PJH, 2008 WL 4067429 (N.D. Cal. Aug. 26, 2008).
+
+IT IS THEREFORE ORDERED that defendants' Motion to Dismiss (Docket No. 17) be, and the same hereby is, DENIED. Plaintiffs have thirty days from the date this Order is signed to file the requisite affidavit in order to comply with Cal. Code Civ. Proc. § 377.32. Dated: February 6, 2018
+
+/s/ _________
+
+
+
+WILLIAM B. SHUBB
+
+
+
+UNITED STATES DISTRICT JUDGE

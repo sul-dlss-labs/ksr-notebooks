@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,13200
+Alabama,GPE,13200
+Alaska,GPE,13200
+Arizona,GPE,13200
+Arkansas,GPE,13200
+California,GPE,13200
+Colorado,GPE,13200
+Connecticut,GPE,13200
+Delaware,GPE,13200
+Florida,GPE,13200
+Georgia,GPE,13200
+Hawaii,GPE,13200
+Idaho,GPE,13200
+Indiana,GPE,13200
+Iowa,GPE,13200
+Kansas,GPE,13200
+Kentucky,GPE,13200
+Louisiana,GPE,13200
+Maine,GPE,13200
+Maryland,GPE,13200
+Massachusetts,GPE,13200
+Michigan,GPE,13200
+Minnesota,GPE,13200
+Mississippi,GPE,13200
+Missouri,GPE,13200
+Montana,GPE,13200
+Nebraska,GPE,13200
+Nevada,GPE,13200
+New Hampshire,GPE,13200
+New Jersey,GPE,13200
+Ohio,GPE,13200
+Oklahoma,GPE,13200
+Oregon,GPE,13200
+Pennsylvania,GPE,13200
+Rhode Island,GPE,13200
+Tennessee,GPE,13200
+Texas,GPE,13200
+Utah,GPE,13200
+Vermont,GPE,13200
+Virginia,GPE,13200
+Washington,GPE,13200
+Washington,GPE,13200
+D.C.,GPE,13200
+Wisconsin,GPE,13200
+Wyoming,GPE,13200
+US,GPE,13200
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,13200
+Marshall Islands American Samoa Federated States,ORG,13200
+Micronesia Guam,FAC,13200
+Alberta,GPE,13200
+Canada,GPE,13200
+British Columbia,GPE,13200
+Canada Manitoba,GPE,13200
+Canada,GPE,13200
+New Brunswick,GPE,13200
+Canada Newfoundland,PERSON,13200
+Canada,GPE,13200
+Canada,GPE,13200
+Canada Ontario,GPE,13200
+Canada,GPE,13200
+Edward Island,GPE,13200
+Canada Quebec,GPE,13200
+Canada,GPE,13200
+Saskatchewan,GPE,13200
+Canada Yukon Territory,ORG,13200
+Canada,GPE,13200
+Zip Code,PERSON,13200

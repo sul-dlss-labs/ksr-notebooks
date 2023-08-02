@@ -1,0 +1,24 @@
+text,label,fe_id
+75-year-old,DATE,4231
+12,CARDINAL,4231
+Long Island,LOC,4231
+Little Booker,PERSON,4231
+second,ORDINAL,4231
+Friday,DATE,4231
+night,TIME,4231
+Wyandanch,GPE,4231
+around 11 p.m.,TIME,4231
+Suffolk,GPE,4231
+Detective Sgt,GPE,4231
+Edward Fandrey,PERSON,4231
+Fandrey,PERSON,4231
+Booker,ORG,4231
+Patton Avenue,FAC,4231
+Tina Dennis,PERSON,4231
+one,CARDINAL,4231
+five,CARDINAL,4231
+Booker,ORG,4231
+Kenny Dennis,PERSON,4231
+41,DATE,4231
+Dennis,PERSON,4231
+Tracey McDuffie,PERSON,4231

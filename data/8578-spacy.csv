@@ -1,0 +1,32 @@
+text,label,fe_id
+three-hour,TIME,8578
+Thursday,DATE,8578
+night,TIME,8578
+Irvine,GPE,8578
+SWAT,ORG,8578
+Patrick Sanchez,PERSON,8578
+44,DATE,8578
+several hours,TIME,8578
+two,CARDINAL,8578
+400,CARDINAL,8578
+Hayes,PRODUCT,8578
+25,CARDINAL,8578
+Seven,CARDINAL,8578
+Sanchez,GPE,8578
+4:20 p.m.,TIME,8578
+Sanchez,LOC,8578
+today,DATE,8578
+Thursday,DATE,8578
+first,ORDINAL,8578
+Sanchez,GPE,8578
+this week,DATE,8578
+Wednesday,DATE,8578
+evening,TIME,8578
+Sanchez,GPE,8578
+Irvine,PERSON,8578
+Henry Boggs,PERSON,8578
+Sanchez,PERSON,8578
+Sanchez,GPE,8578
+Boggs,PERSON,8578
+Sanchez,GPE,8578
+Boggs,PERSON,8578

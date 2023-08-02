@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,14957
+United States,GPE,14957
+Canada Mexico,GPE,14957
+United Mexican,GPE,14957
+Bahamas,GPE,14957
+Commonwealth,GPE,14957
+Cuba,GPE,14957
+"Republic of Dominican Republic Haiti,",GPE,14957
+Republic of Jamaica,GPE,14957
+Afghanistan,GPE,14957
+Albania,GPE,14957
+People's Socialist Republic,ORG,14957
+Algeria,GPE,14957
+People's Democratic Republic of American,GPE,14957
+Angola,GPE,14957
+Republic of Anguilla Antarctica,ORG,14957
+South,LOC,14957
+Barbuda Argentina,PERSON,14957
+Argentine Republic,GPE,14957
+Armenia Aruba,PERSON,14957
+Australia,GPE,14957
+Commonwealth,GPE,14957
+Austria,GPE,14957
+Republic of Bahrain,ORG,14957
+Belgium,GPE,14957
+Kingdom of Belize Benin,ORG,14957
+People's Republic of Bermuda Bhutan,GPE,14957
+Kingdom of Bolivia,GPE,14957
+Republic of Bosnia,GPE,14957
+Botswana,GPE,14957
+Republic of Bouvet Island,ORG,14957
+Bouvetoya,GPE,14957
+Brazil,GPE,14957
+Federative Republic,GPE,14957
+British Virgin,GPE,14957
+Bulgaria,GPE,14957
+People's Republic of Burkina Faso Burundi,GPE,14957
+Republic of Cambodia,GPE,14957
+Kingdom of Cameroon,GPE,14957
+United Republic of Cape Verde,GPE,14957
+"Republic of Cayman Islands Central African Republic Chad,",ORG,14957
+Republic of Chile,ORG,14957
+Republic of China,ORG,14957
+People's Republic of Christmas Island,GPE,14957
+Colombia,GPE,14957
+Union of the Congo,ORG,14957
+Democratic Republic of Congo,GPE,14957
+People's Republic of Cook,GPE,14957
+Costa Rica,GPE,14957
+Ivory Coast,GPE,14957
+Republic Denmark,GPE,14957
+Kingdom of Djibouti,GPE,14957
+Republic of Dominica,GPE,14957
+Commonwealth,GPE,14957
+Ecuador,GPE,14957
+Republic of Egypt,GPE,14957
+Arab Republic,GPE,14957
+El Salvador,GPE,14957
+Republic of Equatorial Guinea,GPE,14957
+Republic of Eritrea,GPE,14957
+Estonia,GPE,14957
+Ethiopia,GPE,14957
+Malvinas,GPE,14957
+Fiji,GPE,14957
+Republic of the Fiji Islands Finland,ORG,14957
+Republic of France,GPE,14957
+French,NORP,14957
+French,NORP,14957
+Guiana,PERSON,14957
+French,NORP,14957
+Polynesia,GPE,14957
+Southern Territories Gabon,PRODUCT,14957
+Gabonese Republic Gambia,GPE,14957
+Georgia,GPE,14957
+Germany,GPE,14957
+Ghana,GPE,14957
+Republic of Gibraltar Greece,ORG,14957
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,14957
+Republic of Guinea,GPE,14957
+Revolutionary People's Rep'c,ORG,14957
+Guinea-Bissau,ORG,14957
+Republic of Heard,ORG,14957
+McDonald Islands Holy See,ORG,14957
+Vatican City State,GPE,14957
+Honduras,GPE,14957
+Republic of Hong Kong,GPE,14957
+Special Administrative Region of China,ORG,14957
+Hrvatska,PERSON,14957
+Croatia,GPE,14957
+Hungary,GPE,14957
+Hungarian People's Republic Iceland,PERSON,14957
+Republic of India,GPE,14957
+Republic of Indonesia,GPE,14957
+Republic of Iran,GPE,14957
+Islamic Republic of Iraq,GPE,14957
+Republic of Ireland,GPE,14957
+Israel,GPE,14957
+State of Italy,GPE,14957
+Italian,NORP,14957
+Japan,GPE,14957
+Jordan,GPE,14957
+Hashemite Kingdom of Kazakhstan,GPE,14957
+Republic of Kiribati,GPE,14957
+Republic of Korea,GPE,14957
+Democratic,NORP,14957
+Republic of Kuwait,ORG,14957
+Lao People's,PERSON,14957
+Latvia,GPE,14957
+Lebanon,GPE,14957
+Lebanese Republic Lesotho,GPE,14957
+Kingdom of Liberia,GPE,14957
+Lithuania Luxembourg,GPE,14957
+Special Administrative Region of China Macedonia,ORG,14957
+Yugoslav Republic of Madagascar,GPE,14957
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,14957
+Islamic Republic,GPE,14957
+Mayotte Micronesia,PERSON,14957
+Federated States,GPE,14957
+Moldova,GPE,14957
+Republic of Monaco,ORG,14957
+Principality,NORP,14957
+Morocco,GPE,14957
+Kingdom of Mozambique,ORG,14957
+Republic of Nepal,GPE,14957
+Netherlands,GPE,14957
+Kingdom,GPE,14957
+the New Caledonia New Zealand,ORG,14957
+Nicaragua,GPE,14957
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,14957
+Norway,GPE,14957
+Kingdom of Oman,GPE,14957
+Pakistan,GPE,14957
+Islamic Republic of,GPE,14957
+Occupied Panama,GPE,14957
+Republic of Peru,GPE,14957
+Republic of Philippines,GPE,14957
+Republic of the Pitcairn Island Poland,ORG,14957
+Polish,NORP,14957
+Republic Portugal,GPE,14957
+Portuguese Republic,GPE,14957
+Puerto Rico Qatar,GPE,14957
+State of Reunion Romania,ORG,14957
+Socialist Republic,GPE,14957
+Rwanda,GPE,14957
+Rwandese Republic Samoa,GPE,14957
+Independent State of San Marino,ORG,14957
+Republic of Sao Tome,ORG,14957
+Principe,GPE,14957
+Democratic Republic of Saudi Arabia,GPE,14957
+"Kingdom of Senegal, Republic of Serbia",GPE,14957
+Montenegro Seychelles,PERSON,14957
+Republic of Sierra Leone,ORG,14957
+Republic of Singapore,ORG,14957
+Republic of Slovakia,ORG,14957
+Slovak Republic,GPE,14957
+Slovenia Solomon Islands,GPE,14957
+Somalia,GPE,14957
+Somali Republic South Africa,GPE,14957
+Republic of South Georgia,GPE,14957
+Spain,GPE,14957
+Spanish,NORP,14957
+Sri Lanka,GPE,14957
+Democratic,NORP,14957
+Miquelon St. Vincent,PERSON,14957
+Democratic Republic,GPE,14957
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,14957
+Kingdom of Sweden,GPE,14957
+Kingdom of Switzerland,GPE,14957
+Swiss Confederation Syrian Arab Republic,ORG,14957
+Taiwan,GPE,14957
+China,GPE,14957
+Tanzania,GPE,14957
+United Republic of Thailand,GPE,14957
+Kingdom of Timor-Leste,GPE,14957
+Democratic Republic of Togo,GPE,14957
+Togolese Republic Tokelau,ORG,14957
+Tokelau,GPE,14957
+Tonga,GPE,14957
+Kingdom of Trinidad,ORG,14957
+Tobago,GPE,14957
+Republic of Tunisia,ORG,14957
+Republic of Turkey,GPE,14957
+Republic of Turkmenistan Turks,ORG,14957
+Uganda,GPE,14957
+Republic of Ukraine United Arab Emirates,GPE,14957
+United Kingdom of Great,GPE,14957
+Eastern Republic,GPE,14957
+Venezuela,GPE,14957
+Bolivarian Republic,GPE,14957
+Viet Nam,GPE,14957
+Socialist Republic,GPE,14957
+Yemen,GPE,14957
+Zambia,GPE,14957
+Republic of Zimbabwe,GPE,14957

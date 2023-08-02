@@ -1,0 +1,32 @@
+text,label,fe_id
+"June 22, 2021",DATE,30484
+approximately 8:30 PM,TIME,30484
+U.S. Border Patrol Agents,ORG,30484
+the Eagle Pass,ORG,30484
+TX,ORG,30484
+Border Patrol Station,ORG,30484
+Eagle Pass,ORG,30484
+TX,ORG,30484
+several hours,TIME,30484
+approximately 20 miles,QUANTITY,30484
+Eagle Pass,ORG,30484
+TX,ORG,30484
+"the early morning hours of June 23, 2021",TIME,30484
+BPAs,ORG,30484
+several minutes,TIME,30484
+BPAs,ORG,30484
+two,CARDINAL,30484
+one,CARDINAL,30484
+Guatemalan,NORP,30484
+CPR,ORG,30484
+EMS,ORG,30484
+CPR,ORG,30484
+approximately 32 minutes,TIME,30484
+the Maverick County Justice,ORG,30484
+Peace,FAC,30484
+the Border Patrol Search Trauma and Rescue Team,ORG,30484
+second,ORDINAL,30484
+Guatemalan,NORP,30484
+The Maverick County Sheriff’s Department,ORG,30484
+the CBP Office of Professional Responsibility,ORG,30484
+The DHS Office of Inspector General,ORG,30484

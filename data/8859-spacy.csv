@@ -1,0 +1,14 @@
+text,label,fe_id
+Weather Alert,PERSON,8859
+8 PM,TIME,8859
+CDT,ORG,8859
+between 105 and 112,CARDINAL,8859
+Central Texas,LOC,8859
+8 PM,TIME,8859
+CDT,PERSON,8859
+Wednesday,DATE,8859
+PRECAUTIONARY,ORG,8859
+early morning,TIME,8859
+evening,TIME,8859
+the Occupational Safety and Health Administration,ORG,8859
+&&,ORG,8859

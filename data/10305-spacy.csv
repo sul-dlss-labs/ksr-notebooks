@@ -1,0 +1,20 @@
+text,label,fe_id
+Mario Vanegas,PERSON,10305
+45-year-old,DATE,10305
+"Wednesday, June 22",DATE,10305
+3800,CARDINAL,10305
+West 27th Street,DATE,10305
+Jefferson Park,GPE,10305
+Los Angeles County,GPE,10305
+9:30 p.m.,TIME,10305
+Rosario Herrera,PERSON,10305
+the Los Angeles Police Department,ORG,10305
+Vanegas,GPE,10305
+Vanegas,PERSON,10305
+Herrera,ORG,10305
+Vanegas,PERSON,10305
+Brian Schneider,PERSON,10305
+Jose Gonzalez,PERSON,10305
+Leonardo Olea,PERSON,10305
+The LAPD Force Investigation Division,ORG,10305
+Ricardo Lopez,PERSON,10305

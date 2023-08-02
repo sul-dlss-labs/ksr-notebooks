@@ -1,0 +1,23 @@
+text,label,fe_id
+Charlie Wilson,PERSON,6335
+20,DATE,6335
+one,CARDINAL,6335
+two,CARDINAL,6335
+"2:38 p.m. Saturday, July 14",TIME,6335
+2600,CARDINAL,6335
+231st Street,FAC,6335
+Shaun McCoy,PERSON,6335
+22,DATE,6335
+Rod Irvine,PERSON,6335
+2600,CARDINAL,6335
+231st Street,FAC,6335
+Chevrolet,ORG,6335
+Cavalier,PRODUCT,6335
+Cavalier,PRODUCT,6335
+Elm Avenue,FAC,6335
+232nd Street,FAC,6335
+Erin Jamahl Madden,PERSON,6335
+19,DATE,6335
+Harbor City,GPE,6335
+Long Beach,GPE,6335
+Manhattan Beach,GPE,6335

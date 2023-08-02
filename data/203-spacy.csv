@@ -1,0 +1,21 @@
+text,label,fe_id
+Wednesday,DATE,203
+three,CARDINAL,203
+45-year-old,DATE,203
+Burbank,ORG,203
+Guadalupe Avila,PERSON,203
+Tuesday,DATE,203
+about 6:30 p.m.,TIME,203
+Van Nuys Boulevard,FAC,203
+third,ORDINAL,203
+Van Nuys,ORG,203
+Det,PERSON,203
+Steve Schiltz,PERSON,203
+Duane Aikins,PERSON,203
+33,DATE,203
+Schiltz,ORG,203
+Thomas Martorano,PERSON,203
+81,DATE,203
+Sherman Oaks,GPE,203
+third,ORDINAL,203
+Schiltz,ORG,203

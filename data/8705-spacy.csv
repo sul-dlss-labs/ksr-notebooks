@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,8705
+Alabama,GPE,8705
+Alaska,GPE,8705
+Arizona,GPE,8705
+Arkansas,GPE,8705
+California,GPE,8705
+Colorado,GPE,8705
+Connecticut,GPE,8705
+Delaware,GPE,8705
+Florida,GPE,8705
+Georgia,GPE,8705
+Hawaii,GPE,8705
+Idaho,GPE,8705
+Indiana,GPE,8705
+Iowa,GPE,8705
+Kansas,GPE,8705
+Kentucky,GPE,8705
+Louisiana,GPE,8705
+Maine,GPE,8705
+Maryland,GPE,8705
+Massachusetts,GPE,8705
+Michigan,GPE,8705
+Minnesota,GPE,8705
+Mississippi,GPE,8705
+Missouri,GPE,8705
+Montana,GPE,8705
+Nebraska,GPE,8705
+Nevada,GPE,8705
+New Hampshire,GPE,8705
+New Jersey,GPE,8705
+Ohio,GPE,8705
+Oklahoma,GPE,8705
+Oregon,GPE,8705
+Pennsylvania,GPE,8705
+Rhode Island,GPE,8705
+Tennessee,GPE,8705
+Texas,GPE,8705
+Utah,GPE,8705
+Vermont,GPE,8705
+Virginia,GPE,8705
+Washington,GPE,8705
+Washington,GPE,8705
+D.C.,GPE,8705
+Wisconsin,GPE,8705
+Wyoming,GPE,8705
+US,GPE,8705
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,8705
+Marshall Islands American Samoa Federated States,ORG,8705
+Micronesia Guam,FAC,8705
+Alberta,GPE,8705
+Canada,GPE,8705
+British Columbia,GPE,8705
+Canada Manitoba,GPE,8705
+Canada,GPE,8705
+New Brunswick,GPE,8705
+Canada Newfoundland,PERSON,8705
+Canada,GPE,8705
+Canada,GPE,8705
+Canada Ontario,GPE,8705
+Canada,GPE,8705
+Edward Island,GPE,8705
+Canada Quebec,GPE,8705
+Canada,GPE,8705
+Saskatchewan,GPE,8705
+Canada Yukon Territory,ORG,8705
+Canada,GPE,8705
+Zip Code,PERSON,8705

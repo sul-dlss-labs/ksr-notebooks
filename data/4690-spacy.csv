@@ -1,0 +1,22 @@
+text,label,fe_id
+17-year-old,DATE,4690
+Sunday,DATE,4690
+130 feet,QUANTITY,4690
+15,CARDINAL,4690
+Francisco Lopez,PERSON,4690
+City Heights,GPE,4690
+San Diego,GPE,4690
+18300,DATE,4690
+West Bernardo Drive,LOC,4690
+1 a.m.,TIME,4690
+Escondido PoliceLt,PERSON,4690
+David Mankin,PERSON,4690
+third,ORDINAL,4690
+17,DATE,4690
+Mankin,PERSON,4690
+1994,DATE,4690
+Acura Integra,PERSON,4690
+Club Fusion,ORG,4690
+Highway 78,FAC,4690
+I-15,PRODUCT,4690
+Mankin,PERSON,4690

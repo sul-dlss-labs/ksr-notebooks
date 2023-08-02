@@ -1,0 +1,33 @@
+text,label,fe_id
+Houston Police Department,ORG,4344
+10200,DATE,4344
+"July 1, 2005",DATE,4344
+two,CARDINAL,4344
+Houston,GPE,4344
+10200,DATE,4344
+about 2:30 a.m.,TIME,4344
+today,DATE,4344
+July 1,DATE,4344
+the Harris County Medical Examiner's,ORG,4344
+HPD Homicide Division Sergeant L.A. Flores,ORG,4344
+I.F. Flores,PERSON,4344
+L. Baez,PERSON,4344
+Honda,ORG,4344
+10100,DATE,4344
+10200 Forum West,EVENT,4344
+J.H. Kennedy,PERSON,4344
+T.E. Hardin,PERSON,4344
+two,CARDINAL,4344
+Ben Taub General Hospital,ORG,4344
+Officer Kennedy,PERSON,4344
+Houston,GPE,4344
+June 2002,DATE,4344
+Hardin,PERSON,4344
+December 2001,DATE,4344
+the Westside Patrol Division,ORG,4344
+the HPD Homicide Division,ORG,4344
+713-308-3600,CARDINAL,4344
+JFC/DWR,ORG,4344
+#100573705,DATE,4344
+the HPD Public Affairs Division,ORG,4344
+713-308-3200,CARDINAL,4344

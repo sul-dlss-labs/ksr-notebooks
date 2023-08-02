@@ -1,0 +1,30 @@
+text,label,fe_id
+Los Angeles Police Department,ORG,30104
+Hollywood,GPE,30104
+Saturday,DATE,30104
+second,ORDINAL,30104
+two days,DATE,30104
+2:37 p.m.,TIME,30104
+Sunset Boulevard,FAC,30104
+Fairfax Avenue,FAC,30104
+two,CARDINAL,30104
+three,CARDINAL,30104
+Sunset Boulevard,FAC,30104
+Det,PERSON,30104
+Meghan Aguilar,PERSON,30104
+"Women Rule""",WORK_OF_ART,30104
+New World Order,WORK_OF_ART,30104
+Detectives,ORG,30104
+Early Friday,DATE,30104
+the Valley Village,LOC,30104
+early Friday,DATE,30104
+around 2:30 a.m.,TIME,30104
+Friday,DATE,30104
+5200,CARDINAL,30104
+Whitsett Avenue,FAC,30104
+Magnolia Boulevard,FAC,30104
+OIS,ORG,30104
+2020,DATE,30104
+CBS Broadcasting Inc.,ORG,30104
+All Rights Reserved,WORK_OF_ART,30104
+City News Service,ORG,30104

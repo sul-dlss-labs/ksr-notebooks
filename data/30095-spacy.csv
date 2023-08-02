@@ -1,0 +1,21 @@
+text,label,fe_id
+One,CARDINAL,30095
+Rosenberg,GPE,30095
+Friday,DATE,30095
+night,TIME,30095
+ROSENBERG,ORG,30095
+Texas,GPE,30095
+KTRK,PERSON,30095
+Rosenberg,GPE,30095
+Friday,DATE,30095
+night,TIME,30095
+Twitter,PERSON,30095
+Rosenberg,PERSON,30095
+Jonathan White,PERSON,30095
+1700,CARDINAL,30095
+8th street,LOC,30095
+911,CARDINAL,30095
+40s,DATE,30095
+three,CARDINAL,30095
+The Texas Department of Public Safety,ORG,30095
+the Fort Bend County Sheriff's Office,FAC,30095

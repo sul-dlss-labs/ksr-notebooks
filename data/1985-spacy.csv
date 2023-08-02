@@ -1,0 +1,30 @@
+text,label,fe_id
+late Sunday,DATE,1985
+one,CARDINAL,1985
+two,CARDINAL,1985
+two,CARDINAL,1985
+Anaheim,ORG,1985
+Monday,DATE,1985
+Luis Daniel Cabrera,PERSON,1985
+24,DATE,1985
+Los Angeles,GPE,1985
+two,CARDINAL,1985
+11:52 p.m.,TIME,1985
+Sunday,DATE,1985
+Anaheim Police Sgt,ORG,1985
+Mike Hidalgo,PERSON,1985
+Hidalgo,ORG,1985
+Cabrera,PERSON,1985
+4900,CARDINAL,1985
+East La Palma Avenue,LOC,1985
+Two,CARDINAL,1985
+Hidalgo,ORG,1985
+Cabrera,PERSON,1985
+second,ORDINAL,1985
+Eduardo Ochoa,PERSON,1985
+22,DATE,1985
+Los Angeles,GPE,1985
+Riverside Freeway,FAC,1985
+Ochoa,PERSON,1985
+Ochoa,PERSON,1985
+Anaheim City Jail,GPE,1985

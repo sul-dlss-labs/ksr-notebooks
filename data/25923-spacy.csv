@@ -1,0 +1,45 @@
+text,label,fe_id
+WASHINGTON HEIGHTS,GPE,25923
+Manhattan,GPE,25923
+NYPD,ORG,25923
+Washington Heights,GPE,25923
+West 187th Street,GPE,25923
+Wadsworth Avenue,FAC,25923
+around 4:30 p.m.,TIME,25923
+Thursday,DATE,25923
+two,CARDINAL,25923
+34th,ORDINAL,25923
+three,CARDINAL,25923
+one,CARDINAL,25923
+34-year-old,DATE,25923
+Justin Vartanian,PERSON,25923
+34 Precinct Anti-Crime,QUANTITY,25923
+NYPD,ORG,25923
+James O'Neill,PERSON,25923
+One,CARDINAL,25923
+second,ORDINAL,25923
+three,CARDINAL,25923
+Citizen App,ORG,25923
+42-year-old,DATE,25923
+Luiz Leizado,PERSON,25923
+Vartanian,PERSON,25923
+St. Luke's Hospital,ORG,25923
+Friday,DATE,25923
+just before 11 a.m.,TIME,25923
+New York City,GPE,25923
+Bill de Blasio,PERSON,25923
+O'Neill,ORG,25923
+overnight,TIME,25923
+five and a half year,DATE,25923
+NYPD,ORG,25923
+Leizado,GPE,25923
+two,CARDINAL,25923
+2006,DATE,25923
+second,ORDINAL,25923
+Brooklyn,GPE,25923
+two years,DATE,25923
+2013,DATE,25923
+Manhattan,GPE,25923
+another year,DATE,25923
+Manhattan,GPE,25923
+YouTube,NORP,25923

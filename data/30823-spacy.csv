@@ -1,0 +1,87 @@
+text,label,fe_id
+Wednesday night,TIME,30823
+27-year-old,DATE,30823
+Antwan Gilmore,PERSON,30823
+Capitol Heights,GPE,30823
+Maryland,GPE,30823
+WASHINGTON,GPE,30823
+D.C.,GPE,30823
+Northeast D.C.,LOC,30823
+Wednesday,DATE,30823
+morning,TIME,30823
+D.C.,GPE,30823
+Robert Contee,PERSON,30823
+Wednesday,DATE,30823
+night,TIME,30823
+27-year-old,DATE,30823
+Antwan Gilmore,PERSON,30823
+Capitol Heights,GPE,30823
+MD,GPE,30823
+3 a.m.,TIME,30823
+Florida Avenue,FAC,30823
+New York Avenue,GPE,30823
+Contee,ORG,30823
+waistband,GPE,30823
+Contee,ORG,30823
+Contee,ORG,30823
+Jordan White,PERSON,30823
+D.C.,GPE,30823
+3 a.m.,TIME,30823
+first,ORDINAL,30823
+two,CARDINAL,30823
+third,ORDINAL,30823
+a few seconds,TIME,30823
+WUSA9,PERSON,30823
+10,CARDINAL,30823
+At least four to five,CARDINAL,30823
+Contee,ORG,30823
+only one,CARDINAL,30823
+White,ORG,30823
+WUSA9,PERSON,30823
+at least eight,CARDINAL,30823
+Contee,ORG,30823
+one,CARDINAL,30823
+Contee,ORG,30823
+Contee,ORG,30823
+Contee,ORG,30823
+WUSA9,PERSON,30823
+Wednesday night,TIME,30823
+8-year-old,DATE,30823
+one,CARDINAL,30823
+D.C.,GPE,30823
+72 hours,TIME,30823
+second,ORDINAL,30823
+DC,GPE,30823
+24 hours,TIME,30823
+Contee,ORG,30823
+Contee,ORG,30823
+MPD,ORG,30823
+"more than 1,400",CARDINAL,30823
+D.C.,GPE,30823
+this year,DATE,30823
+New York Avenue Northeast,FAC,30823
+4th Street Northeast,FAC,30823
+North Capitol Streets,ORG,30823
+8:30 a.m.,TIME,30823
+New York Ave,GPE,30823
+#getupdc,MONEY,30823
+Matt Gregory,PERSON,30823
+"August 25, 2021
+
+",DATE,30823
+New York Avenue,FAC,30823
+Eastbound,PERSON,30823
+4th Street,FAC,30823
+North Capitol Streets NE,ORG,30823
+DC Police Department,ORG,30823
+"August 25, 2021
+
+",DATE,30823
+D.C.,GPE,30823
+the Metropolitan Police Department,ORG,30823
+Southeast,NORP,30823
+D.C.,GPE,30823
+Robert Contee,PERSON,30823
+Tuesday,DATE,30823
+Contee,ORG,30823
+Contee,ORG,30823

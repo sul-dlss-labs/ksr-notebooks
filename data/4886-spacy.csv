@@ -1,0 +1,966 @@
+text,label,fe_id
+THE UNITED STATES,GPE,4886
+LEE WILLIAMS,PERSON,4886
+JR,PERSON,4886
+DECEASED,GPE,4886
+LEGAL,ORG,4886
+TERRY WILLIAMS,PERSON,4886
+LEE WILLIAMS,PERSON,4886
+JR,PERSON,4886
+PLAINTIFF,ORG,4886
+VS,PRODUCT,4886
+MISSISSIPPI,ORG,4886
+Board of Supervisors HARRISON COUNTY SHERIFF DEPARTMENT,ORG,4886
+SHERIFF GEORGE PAYNE,PERSON,4886
+RICK GASTON,PERSON,4886
+PHIL TAYLOR,PERSON,4886
+CENTRAL CONTROL OFFICER LEAH RICHARDSON,ORG,4886
+LEO DEGEORGE,ORG,4886
+DAVID DECELLE,PERSON,4886
+JANE DOES A-Z,PERSON,4886
+Plaintiff,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Deceased,PERSON,4886
+Terry Williams,PERSON,4886
+the Administrator of the Estate of Jessie Lee Williams,ORG,4886
+Jr.,PERSON,4886
+Michael W. Crosby,PERSON,4886
+Complaint,ORG,4886
+Defendants,PRODUCT,4886
+1,CARDINAL,4886
+Plaintiff,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+"February 4, 2006",DATE,4886
+the Memorial Hospital at Gulfport,FAC,4886
+Deceased,PERSON,4886
+Harrison County Deputies,GPE,4886
+"February 6, 2006",DATE,4886
+Deceased,PERSON,4886
+42,CARDINAL,4886
+1983,DATE,4886
+1985,DATE,4886
+1986,DATE,4886
+the Constitutions of the United States of America,ORG,4886
+the State of Mississippi,GPE,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+six,CARDINAL,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Administrator of the Estate,ORG,4886
+Terry Williams,PERSON,4886
+FACTS,ORG,4886
+2,CARDINAL,4886
+"Prior to February 4, 2006, years and months",DATE,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+"August 25, 2005",DATE,4886
+Caucasian,NORP,4886
+African‑American,NORP,4886
+3,CARDINAL,4886
+"October 3, 2005",DATE,4886
+Hispanic,NORP,4886
+English,LANGUAGE,4886
+English,LANGUAGE,4886
+Hispanic,NORP,4886
+4,CARDINAL,4886
+One,CARDINAL,4886
+two,CARDINAL,4886
+Caucasian,NORP,4886
+Caucasian,NORP,4886
+5,CARDINAL,4886
+6,CARDINAL,4886
+Ryan Teel,ORG,4886
+less than 30 days,DATE,4886
+Jessie Williams,PERSON,4886
+"January 7, 2006",DATE,4886
+African American,NORP,4886
+7,CARDINAL,4886
+Teel,ORG,4886
+Ryan Teel,PERSON,4886
+8,CARDINAL,4886
+February 4,DATE,4886
+Jessie Lee Williams,PERSON,4886
+the Gulfport Police Department,ORG,4886
+the Harrison County Adult Detention Facility,FAC,4886
+Gulfport,ORG,4886
+Ryan Teel,PERSON,4886
+Regina Rhodes,LOC,4886
+9,CARDINAL,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+two,CARDINAL,4886
+Hispanic,NORP,4886
+Jessie,PERSON,4886
+Teel,PRODUCT,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Regina Rhodes,PERSON,4886
+Jessie,PERSON,4886
+one,CARDINAL,4886
+one,CARDINAL,4886
+Ryan Teel,PERSON,4886
+a few minutes,TIME,4886
+10,CARDINAL,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Teel,ORG,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+11,CARDINAL,4886
+Jessie,PERSON,4886
+Teel,FAC,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Regina Rhodes,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Regina Rhodes,LOC,4886
+Jessie,PERSON,4886
+Regina Rhodes,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+12,CARDINAL,4886
+Jessie,PERSON,4886
+first,ORDINAL,4886
+first,ORDINAL,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+13,CARDINAL,4886
+the evening,TIME,4886
+"February 4, 2006",DATE,4886
+the Harrison County Sheriff Department,ORG,4886
+one,CARDINAL,4886
+Long Beach,FAC,4886
+the Harrison County Sheriff Department,ORG,4886
+two,CARDINAL,4886
+Health Assurance LLP,ORG,4886
+Harrison County,GPE,4886
+the Harrison County Adult Detention Center,FAC,4886
+Jessie,PERSON,4886
+14,DATE,4886
+Plaintiff,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Terry Williams,PERSON,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the United States of America,GPE,4886
+the State of Mississippi,GPE,4886
+Harrison County,GPE,4886
+First Judicial District,ORG,4886
+Deceased,PERSON,4886
+the Harrison County Adult Detention Center in Gulfport,ORG,4886
+Mississippi,GPE,4886
+Center,ORG,4886
+Defendant,PERSON,4886
+George Payne,PERSON,4886
+15,CARDINAL,4886
+Defendant,PERSON,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the State of Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+the Board of Supervisors,ORG,4886
+Connie Rocko,PERSON,4886
+the Chancery Clerk,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+John McAdams,PERSON,4886
+Harrison County Courthouse,FAC,4886
+Gulfport,GPE,4886
+Mississippi,GPE,4886
+16,CARDINAL,4886
+Defendant,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+Sheriff George Payne,ORG,4886
+the Harrison County Courthouse,FAC,4886
+Gulfport,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Adult Detention Center,FAC,4886
+10451,DATE,4886
+Larkin Smith Drive Gulfport,PERSON,4886
+Mississippi,GPE,4886
+17,CARDINAL,4886
+Defendant,PERSON,4886
+George Payne,PERSON,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+First Judicial District,ORG,4886
+Defendant,PERSON,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+Deceased,PERSON,4886
+Jessie Lee Williams Jr.,PERSON,4886
+the Harrison County Courthouse,FAC,4886
+Gulfport,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Courthouse,FAC,4886
+Gulfport,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Adult Detention Center,FAC,4886
+10451,DATE,4886
+Larkin Smith Drive Gulfport,PERSON,4886
+Mississippi,GPE,4886
+18,CARDINAL,4886
+Defendant,PERSON,4886
+Dianne Gaston-Riley,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+19,CARDINAL,4886
+Defendant,PERSON,4886
+Rick Gaston,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+20,CARDINAL,4886
+Phil Taylor,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+21,CARDINAL,4886
+Defendant,PERSON,4886
+Leah Richardson,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+the Central Control Officer,ORG,4886
+the Harrison County Adult Detention Center,FAC,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+22,CARDINAL,4886
+Defendant,PERSON,4886
+Leo DeGeorge,ORG,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+23,CARDINAL,4886
+Defendant,PERSON,4886
+Evan Hubbard,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+24,CARDINAL,4886
+Defendant,PERSON,4886
+David Decelle,PERSON,4886
+the Medical Administrator for the Harrison County Adult Detention Center,ORG,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+25,CARDINAL,4886
+Defendant,PERSON,4886
+Regina Rhodes,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+26,CARDINAL,4886
+Defendant,PERSON,4886
+Ryan Teel,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+27,CARDINAL,4886
+Defendant,PERSON,4886
+Morgan Thompson,ORG,4886
+Harrison County Mississippi,GPE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+28,CARDINAL,4886
+Defendant,PERSON,4886
+the Harrison County Adult Detention Center,FAC,4886
+5903 Ridgewood Road,FAC,4886
+320,CARDINAL,4886
+Jackson,GPE,4886
+39211,DATE,4886
+the Harrison County Adult Detention Center,FAC,4886
+Larkin Smith,PERSON,4886
+Mississippi,GPE,4886
+Melvin Priester,PERSON,4886
+371,CARDINAL,4886
+Drive Jackson,PERSON,4886
+29,CARDINAL,4886
+Defendants,ORG,4886
+Jane,PERSON,4886
+Harrison County Mississippi,GPE,4886
+Plaintiff,ORG,4886
+this Honorable Court,ORG,4886
+Complaint,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+Health Assurance,ORG,4886
+LLC,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,GPE,4886
+JURISDICTION,GPE,4886
+30,CARDINAL,4886
+Plaintiff,ORG,4886
+Honorable Court,ORG,4886
+28,CARDINAL,4886
+U.S.C. Sections 1331 & 1343,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Fifth,ORDINAL,4886
+Eighth,DATE,4886
+the United States of America,GPE,4886
+Federal,ORG,4886
+42,CARDINAL,4886
+1983,DATE,4886
+1986 & 1988,DATE,4886
+this Honorable Court,ORG,4886
+Plaintiff,ORG,4886
+Plaintiff,ORG,4886
+28,CARDINAL,4886
+U.S.C. Sections 2201 & 2202,ORG,4886
+VENUE,ORG,4886
+31,CARDINAL,4886
+28,CARDINAL,4886
+Plaintiff,ORG,4886
+42 U.S.C. SECTION 1983,DATE,4886
+32,CARDINAL,4886
+Plaintiff,ORG,4886
+33,CARDINAL,4886
+Defendants,ORG,4886
+the United States of America,GPE,4886
+the State of Mississippi,GPE,4886
+Defendants,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the United States of America,GPE,4886
+the Fourteenth Amendment,LAW,4886
+the United States of America,GPE,4886
+the Constitution of the State of Mississippi,LAW,4886
+Fifth,ORDINAL,4886
+Fourteenth Amendments,ORG,4886
+the United States of America,GPE,4886
+the Eighth Amendment,LAW,4886
+the United States of America,GPE,4886
+Complaint,ORG,4886
+Defendants,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+34,CARDINAL,4886
+Defendants,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Constitution of the United States of America,LAW,4886
+the State of Mississippi,GPE,4886
+Jessie Lee Williams,PERSON,4886
+Jr,PERSON,4886
+Fifth,GPE,4886
+Fourteenth Amendment,PRODUCT,4886
+Defendants,ORG,4886
+Eighth Amendment,LAW,4886
+35,CARDINAL,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+Dianne Gaston-Riley,PERSON,4886
+Rick Gaston,PERSON,4886
+Defendants,PRODUCT,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+George Payne,PERSON,4886
+36,CARDINAL,4886
+George Payne,PERSON,4886
+Dianne Gaston-Riley,PERSON,4886
+Rick Gaston,PERSON,4886
+Defendants,PRODUCT,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+37,DATE,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Constitution of the United States of America,LAW,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Defendant Deputies of Harrison County,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+42 U.S.C. SECTION 1985,DATE,4886
+38,CARDINAL,4886
+Plaintiff,ORG,4886
+39,CARDINAL,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Sheriff Department's,ORG,4886
+the Gulfport Police Department,ORG,4886
+Thompson,ORG,4886
+John,PERSON,4886
+Jane,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+Deceased,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,FAC,4886
+Richardson,PERSON,4886
+the Central Control,ORG,4886
+40,CARDINAL,4886
+the Harrison County Adult Detention Center,FAC,4886
+Deputies Rhodes,PERSON,4886
+Thompson,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+"Richardson, DeGeorge, Hubbard",ORG,4886
+Health Assurance,ORG,4886
+LLP,ORG,4886
+Jessie,PERSON,4886
+41,CARDINAL,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Deputies Rhodes,PERSON,4886
+Thompson,ORG,4886
+Sheriff George Payne,ORG,4886
+evening,TIME,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+George Payne's,PERSON,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+42,CARDINAL,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Sheriff George Payne,ORG,4886
+the Harrison County Sheriff Department and/or Health Assurance,ORG,4886
+LLP,ORG,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+43,CARDINAL,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Rhodes,PERSON,4886
+"Thompson, DeGeorge, Hubbard and Teel",ORG,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+the Plaintiff for the injuries,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+42 U.S.C. SECTION 1986,DATE,4886
+44,DATE,4886
+Plaintiff,ORG,4886
+45,CARDINAL,4886
+George Payne,PERSON,4886
+Corrections Dianne Gaston-Riley,PERSON,4886
+Booking,ORG,4886
+Rick Gaston,PERSON,4886
+Health Assurance,ORG,4886
+LLP,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+ACA,ORG,4886
+ACA,ORG,4886
+46,DATE,4886
+last year,DATE,4886
+the Harrison County Adult Detention Center,ORG,4886
+the preceding 12 months,DATE,4886
+54,CARDINAL,4886
+22,CARDINAL,4886
+approximately 11,CARDINAL,4886
+one,CARDINAL,4886
+the Summer of 2005,DATE,4886
+quarterly,DATE,4886
+Rhodes,PRODUCT,4886
+47,DATE,4886
+Sheriff George Payne,PERSON,4886
+Dianne Gaston-Riley,PERSON,4886
+Rick Gaston,PERSON,4886
+Health Assurance,ORG,4886
+LLP,ORG,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+today,DATE,4886
+48,CARDINAL,4886
+George Payne,PERSON,4886
+Corrections Dianne Gaston-Riley,PERSON,4886
+Booking,ORG,4886
+Rick Gaston,PERSON,4886
+Health Assurance,ORG,4886
+LLP,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+State,ORG,4886
+Defendants,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr,PERSON,4886
+ADEQUATELY TRAIN & SUPERVISE DEPUTIES,ORG,4886
+49,DATE,4886
+Plaintiff,ORG,4886
+50,CARDINAL,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+Harrison County Sheriff Department,ORG,4886
+George Payne,PERSON,4886
+Corrections Dianne Gaston-Riley,PERSON,4886
+Booking,ORG,4886
+Rick Gaston,PERSON,4886
+Phil Taylor,PERSON,4886
+the Defendant Deputies,ORG,4886
+Jessie,PERSON,4886
+the Harrison County Adult Detention Center,FAC,4886
+51,CARDINAL,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+George Payne,PERSON,4886
+Defendants,ORG,4886
+Jessie,PERSON,4886
+52,CARDINAL,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendant,PERSON,4886
+Jessie,PERSON,4886
+53,DATE,4886
+Plaintiff,ORG,4886
+54,DATE,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+Harrison County Sheriff Department,ORG,4886
+George Payne,PERSON,4886
+Corrections Dianne Gaston-Riley,PERSON,4886
+Booking,ORG,4886
+Rick Gaston,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+Jessie,PERSON,4886
+George Payne,PERSON,4886
+55,CARDINAL,4886
+Plaintiff,ORG,4886
+the past eighteen,DATE,4886
+18) months,DATE,4886
+Rhodes,PERSON,4886
+the Defendants Harrison County Sheriff Department,ORG,4886
+George Payne,PERSON,4886
+Corrections Dianne Gaston-Riley,PERSON,4886
+Booking,ORG,4886
+Rick Gaston,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+56,DATE,4886
+Plaintiff,ORG,4886
+57,CARDINAL,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+the Harrison County Adult Detention Center,ORG,4886
+Defendants,ORG,4886
+Jessie,PERSON,4886
+Jessie,PERSON,4886
+58,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Jessie,PERSON,4886
+Plaintiff,ORG,4886
+Estate,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+59,CARDINAL,4886
+Plaintiff,ORG,4886
+60,CARDINAL,4886
+"February 4, 2006",DATE,4886
+the Harrison County Adult Detention Center,FAC,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Rhodes,PERSON,4886
+Thompson,ORG,4886
+61,CARDINAL,4886
+Defendants,ORG,4886
+the Plaintiff for the assault,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Estate,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Jessie Lee Williams Jr.,PERSON,4886
+62,CARDINAL,4886
+Plaintiff,ORG,4886
+63,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+64,DATE,4886
+Defendants,ORG,4886
+the Plaintiff for the civil conspiracy,ORG,4886
+State,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Estate,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+D.,NORP,4886
+65,CARDINAL,4886
+Plaintiff,ORG,4886
+66,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+George Payne,PERSON,4886
+the Harrison County Adult Detention Center,ORG,4886
+67,CARDINAL,4886
+Defendants,ORG,4886
+the Plaintiff for the breach,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Plaintiff,ORG,4886
+Estate,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+68,DATE,4886
+Plaintiff,ORG,4886
+69,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Defendants,ORG,4886
+Emmet Till,PERSON,4886
+1955,DATE,4886
+South Mississippi,LOC,4886
+70,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Estate,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+71,CARDINAL,4886
+Plaintiff,ORG,4886
+72,DATE,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Jessie,PERSON,4886
+73,CARDINAL,4886
+Defendants,ORG,4886
+the Plaintiff for the intentional infliction of emotional distress and mental,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Estate,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+G. WRONGFUL,PERSON,4886
+74,CARDINAL,4886
+Plaintiff,ORG,4886
+75,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Plaintiff,ORG,4886
+Estate,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+76,DATE,4886
+Plaintiff,ORG,4886
+77,CARDINAL,4886
+George Payne,PERSON,4886
+the Harrison County Sheriff Department,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Defendants,FAC,4886
+Deceased,PERSON,4886
+Defendants,ORG,4886
+78,CARDINAL,4886
+the evening,TIME,4886
+"February 4, 2006",DATE,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+79,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Defendants,ORG,4886
+80,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+81,CARDINAL,4886
+Plaintiff,ORG,4886
+82,CARDINAL,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+George Payne,PERSON,4886
+Defendants,ORG,4886
+"January 12, 1995",DATE,4886
+83,CARDINAL,4886
+Defendants,PRODUCT,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+Board of Supervisors,ORG,4886
+the Harrison County Sheriff Department,ORG,4886
+the Sheriff of Harrison County,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Harrison County,GPE,4886
+the Civil Rights of Institutionalized Persons Act,LAW,4886
+42,CARDINAL,4886
+84,CARDINAL,4886
+Plaintiff,ORG,4886
+Honorable Court,ORG,4886
+Court,ORG,4886
+"January 12, 1995",DATE,4886
+Court,ORG,4886
+Defendants,ORG,4886
+Plaintiff,ORG,4886
+this Honorable Court,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+Plaintiff,ORG,4886
+Defendants,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+the Harrison County Sheriff Department,ORG,4886
+the Sheriff of Harrison County,ORG,4886
+"1,000.00",MONEY,4886
+each day,DATE,4886
+"February 4, 2006",DATE,4886
+Plaintiff,ORG,4886
+the Board of Supervisors,ORG,4886
+the Harrison County Adult Detention Center,ORG,4886
+85,CARDINAL,4886
+Plaintiff,ORG,4886
+this Honorable Court,ORG,4886
+Plaintiff,ORG,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+86,CARDINAL,4886
+Plaintiff,ORG,4886
+Court,ORG,4886
+the Harrison County Adult Detention Center,FAC,4886
+the Board of Supervisors of Harrison County,ORG,4886
+Mississippi,GPE,4886
+Center,ORG,4886
+Harrison County,GPE,4886
+Plaintiff,ORG,4886
+Terry Williams,PERSON,4886
+the Estate of the Deceased,ORG,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,GPE,4886
+this Honorable Court,ORG,4886
+Plaintiff,ORG,4886
+Defendants,ORG,4886
+the Harrison County Adult Detention Center,FAC,4886
+Defendants,ORG,4886
+"January 12, 1995",DATE,4886
+Center,ORG,4886
+c. issue,PERSON,4886
+Defendants,ORG,4886
+Citizen Police Review and Reconciliation Panel,ORG,4886
+the Harrison County Adult Detention Center,FAC,4886
+the Board of Supervisors of Harrison County,ORG,4886
+Mississippi,GPE,4886
+Center,ORG,4886
+Harrison County,GPE,4886
+Mississippi,GPE,4886
+d.,NORP,4886
+Plaintiff,ORG,4886
+Defendants,ORG,4886
+Deceased,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+Jr.,PERSON,4886
+42,CARDINAL,4886
+1983,DATE,4886
+1985,DATE,4886
+1986,DATE,4886
+1988,DATE,4886
+Fifth,ORDINAL,4886
+Eighth,DATE,4886
+the United States of America,GPE,4886
+Defendants,ORG,4886
+"less than $50,000,000.00",MONEY,4886
+Plaintiff,ORG,4886
+Defendants,ORG,4886
+Jessie Lee Williams,PERSON,4886
+"less than $100,000,000.00",MONEY,4886
+Plaintiff,ORG,4886
+Defendants,ORG,4886
+Plaintiff,ORG,4886
+42,CARDINAL,4886
+Court,ORG,4886
+premises,LOC,4886
+"day of March, 2006",DATE,4886
+Terry Williams,PERSON,4886
+Jessie Lee Williams,PERSON,4886
+MICHAEL W. CROSBY,PERSON,4886
+MS BAR# 7888,ORG,4886
+JOHN H. WHITFIELD,PERSON,4886
+2111 25,DATE,4886
+TH AVENUE,ORG,4886

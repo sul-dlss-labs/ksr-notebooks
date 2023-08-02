@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,2159
+Alabama,GPE,2159
+Alaska,GPE,2159
+Arizona,GPE,2159
+Arkansas,GPE,2159
+California,GPE,2159
+Colorado,GPE,2159
+Connecticut,GPE,2159
+Delaware,GPE,2159
+Florida,GPE,2159
+Georgia,GPE,2159
+Hawaii,GPE,2159
+Idaho,GPE,2159
+Indiana,GPE,2159
+Iowa,GPE,2159
+Kansas,GPE,2159
+Kentucky,GPE,2159
+Louisiana,GPE,2159
+Maine,GPE,2159
+Maryland,GPE,2159
+Massachusetts,GPE,2159
+Michigan,GPE,2159
+Minnesota,GPE,2159
+Mississippi,GPE,2159
+Missouri,GPE,2159
+Montana,GPE,2159
+Nebraska,GPE,2159
+Nevada,GPE,2159
+New Hampshire,GPE,2159
+New Jersey,GPE,2159
+Ohio,GPE,2159
+Oklahoma,GPE,2159
+Oregon,GPE,2159
+Pennsylvania,GPE,2159
+Rhode Island,GPE,2159
+Tennessee,GPE,2159
+Texas,GPE,2159
+Utah,GPE,2159
+Vermont,GPE,2159
+Virginia,GPE,2159
+Washington,GPE,2159
+Washington,GPE,2159
+D.C.,GPE,2159
+Wisconsin,GPE,2159
+Wyoming,GPE,2159
+US,GPE,2159
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,2159
+Marshall Islands American Samoa Federated States,ORG,2159
+Micronesia Guam,FAC,2159
+Alberta,GPE,2159
+Canada,GPE,2159
+British Columbia,GPE,2159
+Canada Manitoba,GPE,2159
+Canada,GPE,2159
+New Brunswick,GPE,2159
+Canada Newfoundland,PERSON,2159
+Canada,GPE,2159
+Canada,GPE,2159
+Canada Ontario,GPE,2159
+Canada,GPE,2159
+Edward Island,GPE,2159
+Canada Quebec,GPE,2159
+Canada,GPE,2159
+Saskatchewan,GPE,2159
+Canada Yukon Territory,ORG,2159
+Canada,GPE,2159
+Zip Code,PERSON,2159

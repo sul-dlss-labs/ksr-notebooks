@@ -1,0 +1,23 @@
+text,label,fe_id
+The Springfield Police Department,ORG,25630
+Monday night,TIME,25630
+Bryan Ryder,PERSON,25630
+38,DATE,25630
+Springfield,GPE,25630
+2752,DATE,25630
+S. Meadowbrook Ave,PERSON,25630
+about 7:30 p.m.,TIME,25630
+second,ORDINAL,25630
+Ryder,ORG,25630
+Springfield,GPE,25630
+one,CARDINAL,25630
+Ryder,ORG,25630
+Ryder,ORG,25630
+the end of the week,DATE,25630
+Monday night,TIME,25630
+the Springfield Police Department,ORG,25630
+417-864-1810,CARDINAL,25630
+Crime Stoppers,PERSON,25630
+417-869-TIPS,CARDINAL,25630
+8477,DATE,25630
+Springfield,GPE,25630

@@ -1,0 +1,51 @@
+text,label,fe_id
+Friday,DATE,7575
+months,DATE,7575
+half,CARDINAL,7575
+Artende Gjeli,PERSON,7575
+26,DATE,7575
+Lodi,GPE,7575
+14,CARDINAL,7575
+Gjeli,ORG,7575
+Aleksander Vacaj,PERSON,7575
+Gjeli,ORG,7575
+first,ORDINAL,7575
+Wednesday,DATE,7575
+Gjeli,ORG,7575
+New York,GPE,7575
+Martin Carrano,PERSON,7575
+Long Island,LOC,7575
+Vacaj,ORG,7575
+32,DATE,7575
+Gjeli,ORG,7575
+two,CARDINAL,7575
+the Baxter St.,FAC,7575
+Carrano,PERSON,7575
+Gjeli,ORG,7575
+months,DATE,7575
+February,DATE,7575
+Sunday,DATE,7575
+Gjeli,ORG,7575
+May 17,DATE,7575
+Astoria,GPE,7575
+Wednesday,DATE,7575
+afternoon,TIME,7575
+Vacaj,PERSON,7575
+Queens',ORG,7575
+May 17,DATE,7575
+Gjeli,ORG,7575
+20-year,DATE,7575
+NYPD,ORG,7575
+Gjeli,PERSON,7575
+Carrano,PERSON,7575
+Eugene Morales,PERSON,7575
+Andres Martinez,PERSON,7575
+22,DATE,7575
+Carrano,PERSON,7575
+Gjeli,ORG,7575
+Carrano,PERSON,7575
+10,CARDINAL,7575
+Martinez,PERSON,7575
+St. Vincent's Hospital,FAC,7575
+Gjeli,PERSON,7575
+14,CARDINAL,7575

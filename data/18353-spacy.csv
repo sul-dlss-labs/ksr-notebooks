@@ -1,0 +1,40 @@
+text,label,fe_id
+The Oklahoma State Bureau of Investigation,ORG,18353
+Bartlesville,GPE,18353
+Wednesday,DATE,18353
+night,TIME,18353
+William Cole,PERSON,18353
+36,DATE,18353
+Cole,PRODUCT,18353
+Edgewood Avenue,FAC,18353
+Frank Phillips Boulevard,ORG,18353
+one,CARDINAL,18353
+Cole,PRODUCT,18353
+Neighbor Joshua Carey,PERSON,18353
+Wednesday,DATE,18353
+first,ORDINAL,18353
+the last two years,DATE,18353
+Bartlesville,GPE,18353
+Cole,PRODUCT,18353
+first,ORDINAL,18353
+Related Story:,WORK_OF_ART,18353
+"OSBI Investigating Fatal Officer-Involved Shooting
+
+Neighbors",ORG,18353
+Cole,PRODUCT,18353
+Carey,PERSON,18353
+911,CARDINAL,18353
+Carey,PERSON,18353
+second,ORDINAL,18353
+Cole,PRODUCT,18353
+Carey,PERSON,18353
+Taser,ORG,18353
+Cole,PRODUCT,18353
+Bartlesville,GPE,18353
+Cole,PRODUCT,18353
+Cole,PRODUCT,18353
+Cole,PRODUCT,18353
+Tulsa,GPE,18353
+Carey,PERSON,18353
+OSBI,ORG,18353
+Cole,PRODUCT,18353

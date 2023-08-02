@@ -1,0 +1,21 @@
+text,label,fe_id
+Clark County Jail,GPE,20277
+Thursday,DATE,20277
+morning,TIME,20277
+PeaceHealth Southwest Medical Center,ORG,20277
+the Clark County Sheriff’s Office,ORG,20277
+10:41 a.m.,TIME,20277
+at least one,CARDINAL,20277
+two,CARDINAL,20277
+Fred Neiman,PERSON,20277
+fifth,ORDINAL,20277
+the Firstenburg Tower,FAC,20277
+the hour,TIME,20277
+PeaceHealth,ORG,20277
+Randy Querin,PERSON,20277
+66-year-old,DATE,20277
+Wednesday,DATE,20277
+morning,TIME,20277
+overnight,TIME,20277
+Neiman,ORG,20277
+the U.S. Marshals Service,ORG,20277

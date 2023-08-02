@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,13383
+Alabama,GPE,13383
+Alaska,GPE,13383
+Arizona,GPE,13383
+Arkansas,GPE,13383
+California,GPE,13383
+Colorado,GPE,13383
+Connecticut,GPE,13383
+Delaware,GPE,13383
+Florida,GPE,13383
+Georgia,GPE,13383
+Hawaii,GPE,13383
+Idaho,GPE,13383
+Indiana,GPE,13383
+Iowa,GPE,13383
+Kansas,GPE,13383
+Kentucky,GPE,13383
+Louisiana,GPE,13383
+Maine,GPE,13383
+Maryland,GPE,13383
+Massachusetts,GPE,13383
+Michigan,GPE,13383
+Minnesota,GPE,13383
+Mississippi,GPE,13383
+Missouri,GPE,13383
+Montana,GPE,13383
+Nebraska,GPE,13383
+Nevada,GPE,13383
+New Hampshire,GPE,13383
+New Jersey,GPE,13383
+Ohio,GPE,13383
+Oklahoma,GPE,13383
+Oregon,GPE,13383
+Pennsylvania,GPE,13383
+Rhode Island,GPE,13383
+Tennessee,GPE,13383
+Texas,GPE,13383
+Utah,GPE,13383
+Vermont,GPE,13383
+Virginia,GPE,13383
+Washington,GPE,13383
+Washington,GPE,13383
+D.C.,GPE,13383
+Wisconsin,GPE,13383
+Wyoming,GPE,13383
+US,GPE,13383
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,13383
+Marshall Islands American Samoa Federated States,ORG,13383
+Micronesia Guam,FAC,13383
+Alberta,GPE,13383
+Canada,GPE,13383
+British Columbia,GPE,13383
+Canada Manitoba,GPE,13383
+Canada,GPE,13383
+New Brunswick,GPE,13383
+Canada Newfoundland,PERSON,13383
+Canada,GPE,13383
+Canada,GPE,13383
+Canada Ontario,GPE,13383
+Canada,GPE,13383
+Edward Island,GPE,13383
+Canada Quebec,GPE,13383
+Canada,GPE,13383
+Saskatchewan,GPE,13383
+Canada Yukon Territory,ORG,13383
+Canada,GPE,13383
+Zip Code,PERSON,13383

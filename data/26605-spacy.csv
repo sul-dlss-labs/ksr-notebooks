@@ -1,0 +1,21 @@
+text,label,fe_id
+the Metropolitan Police Department’s,ORG,26605
+Internal Affairs Bureau,ORG,26605
+"Monday, September 16, 2019",DATE,26605
+2200,CARDINAL,26605
+Savannah Terrace,GPE,26605
+approximately 7:03 pm,TIME,26605
+Seventh,ORDINAL,26605
+DC Fire and Emergency Medical Services,ORG,26605
+MPD,ORG,26605
+DC Fire,ORG,26605
+EMS,ORG,26605
+the Office of the Chief Medical Examiner,ORG,26605
+53 year-old,DATE,26605
+Eric Carter,PERSON,26605
+"Southeast, DC",GPE,26605
+55 year-old,DATE,26605
+Alphonzo Carter,PERSON,26605
+"Southeast, DC",GPE,26605
+202,CARDINAL,26605
+727,CARDINAL,26605

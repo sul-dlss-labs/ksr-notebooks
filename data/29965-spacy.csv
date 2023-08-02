@@ -1,0 +1,34 @@
+text,label,fe_id
+Corvallis,PERSON,29965
+early Saturday morning,TIME,29965
+Ore.,GPE,29965
+Days Inn,ORG,29965
+Corvallis,GPE,29965
+Saturday,DATE,29965
+morning,TIME,29965
+The Corvallis Police Department,ORG,29965
+CPD,ORG,29965
+Saturday,DATE,29965
+morning,TIME,29965
+CPD,ORG,29965
+1113,DATE,29965
+Northwest 9th Street,ORG,29965
+3:30 a.m.,TIME,29965
+CPD,ORG,29965
+Jeffrey Appelt,PERSON,29965
+32,DATE,29965
+Philomath,GPE,29965
+Appelt,PERSON,29965
+Appelt,GPE,29965
+second,ORDINAL,29965
+third,ORDINAL,29965
+Appelt,PERSON,29965
+two,CARDINAL,29965
+CPD,ORG,29965
+Benton County,GPE,29965
+Saturday,DATE,29965
+evening,TIME,29965
+the Albany Police Department,ORG,29965
+APD,ORG,29965
+Benton County,GPE,29965
+CPD,ORG,29965

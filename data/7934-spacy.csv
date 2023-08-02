@@ -1,0 +1,32 @@
+text,label,fe_id
+Cesar Ramirez,PERSON,7934
+25-year-old,DATE,7934
+Latino,PERSON,7934
+"Wednesday, March 11",DATE,7934
+2600,CARDINAL,7934
+Menlo Avenue,FAC,7934
+University Park,GPE,7934
+Los Angeles County,GPE,7934
+Southwest Area,LOC,7934
+about 8:30 p.m.,TIME,7934
+1500,CARDINAL,7934
+West Adams Boulevard,PERSON,7934
+LAPD,ORG,7934
+four,CARDINAL,7934
+Ruben DelCastillo,PERSON,7934
+Ramirez,PERSON,7934
+DelCastillo,ORG,7934
+DelCastillo,ORG,7934
+Ramirez,PERSON,7934
+Adams Boulevard,FAC,7934
+Menlo Avenue,GPE,7934
+Ramirez,PERSON,7934
+about 10,CARDINAL,7934
+Ramirez,PERSON,7934
+Menlo Avenue,FAC,7934
+several hundred feet,QUANTITY,7934
+three,CARDINAL,7934
+Ramirez,PERSON,7934
+Two,CARDINAL,7934
+three,CARDINAL,7934
+Sarah Ardalani,PERSON,7934

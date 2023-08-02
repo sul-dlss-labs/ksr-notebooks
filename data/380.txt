@@ -1,0 +1,123 @@
+In The
+
+Court of Appeals
+
+For The
+
+First District of Texas
+
+____________
+
+NO. 01-02-00241-CR
+
+____________
+
+MARIO ALBERTO MEDRANO, Appellant
+
+V.
+
+THE STATE OF TEXAS, Appellee
+
+On Appeal from the 208th District Court
+
+Harris County, Texas
+
+Trial Court Cause No. 852709
+
+MEMORANDUM OPINION
+
+A jury found appellant, Mario Alberto Medrano, guilty of the felony offense of aggravated robbery and assessed punishment at 99 years confinement. Appellant argues that (1) the trial court erred by admitting hearsay evidence, (2) the trial court excluded evidence in favor of the defense, (3) the evidence is legally insufficient to support a conviction as either a principal or as a party, and (4) the evidence is factually insufficient to support a conviction as either a principal or as a party. We affirm.
+
+Background
+
+In August 2000, Officer Roberts of the Harris County Sheriff s Department, with the aid of a confidential informant, arranged to purchase five kilograms of cocaine and 100 pounds of marihuana.
+
+On August 10, 2000, Officer Roberts spoke on the telephone with Ricky Garcia about purchasing illegal narcotics. Garcia told Officer Roberts that he completed illegal narcotics transactions by taking a prospective purchaser s vehicle, placing the illegal narcotics in the vehicle, and then returning the vehicle to the purchaser. He also told Officer Roberts to obtain a hotel room in North Harris County where the transaction could take place. They agreed on a purchase price of $145,000 for five kilograms of cocaine and 100 pounds of marihuana.
+
+On August 11, 2000, Officer Roberts obtained $145,000 in cash, and rented a vehicle for Garcia to use in the transaction. Several additional officers maintained surveillance of the transaction in the adjacent hotel room.
+
+After the hotel room was wired and set-up for surveillance, Officer Roberts and the informant contacted Garcia. When Garcia came to the hotel room, Officer Roberts gave Garcia the keys to the rental car, and the informant told Garcia to place the illegal narcotics in the rental car. Garcia then wanted to change the format of the transaction. Instead of delivering all of the illegal narcotics in a single trip, he wanted to make several trips delivering smaller quantities in each trip. Garcia also wanted to deliver all of the marihuana before delivering the cocaine. Officer Roberts would not accept this arrangement, and after some discussion, the parties agreed that Garcia would bring 40 pounds of marihuana and two kilograms of cocaine on the first trip. During the conversation, Garcia informed Officer Roberts not to leave the hotel room because his associate would hurt anyone leaving the room without Garcia. Officer Roberts looked outside the window and saw another person standing at the rear of Garcia s truck. Before Garcia left, Officer Roberts showed him $145,000 in cash.
+
+After some time, Garcia called the informant and said he had five kilograms of cocaine and was on his way to the hotel, but he never showed up. Several attempts were made to contact Garcia by telephone, but no one answered. Fearful that someone might attempt to steal the money because of the amount of time that had passed, the officers moved the money to the adjacent hotel room where Officer Petruska was maintaining surveillance.
+
+Eventually, when the officers believed that no illegal narcotics transaction would take place, they prepared to leave. While the officers began to shut down the surveillance, someone knocked on the door of the hotel room. The informant looked outside, saw Garcia, and opened the door. He then immediately tried to shut the door. Two armed men burst into the room, claimed that they were the police, and demanded the money. Appellant, who was one of the armed gunmen, ran towards Officer Roberts and pointed his gun at him. Officer Roberts attempted to gain cover by moving towards the bathroom. When he drew his gun, appellant and the other gunman, Noe Lopez, began firing their weapons.
+
+The officers in the adjacent room drew their weapons and made their way to the room where Officer Roberts and the informant were located. Lopez, who was standing in the doorway of the hotel room, stated that he and appellant were the police, and he fired his gun at the officers who were attempting to rescue Officer Roberts and the informant. Once Lopez s gun was out of ammunition, he ran out of the hotel room and jumped over the balcony rail. One of the other officers shot and killed Lopez as he was fleeing.
+
+Officer Petruska then entered the hotel room and called for Officer Roberts, but there was no response. He made his way to the bathroom of the hotel room, where he saw appellant hiding and still holding his gun. Officer Petruska ordered appellant to show his hands, but appellant did not let go of his gun. Appellant then stepped out of the bathroom holding his gun and said, Don t shoot. Don t shoot. Once again, Officer Petruska ordered appellant to show his hands, and appellant finally dropped his gun. Officer Petruska ordered appellant to get down, but instead appellant began walking towards him. Officer Petruska grabbed appellant and threw him on the bed, and another officer took custody of appellant. It ultimately took two officers to subdue and handcuff appellant, who refused to cooperate. After appellant was handcuffed, he was placed in the back seat of a patrol car.
+
+Officer Petruska went into the bathroom and found Officer Roberts seated against the wall. He had sustained a gunshot wound to the head. An ambulance was called, and Officer Roberts was eventually life-flighted to the hospital where he underwent extensive and multiple surgeries to his face, right eye, and brain.
+
+Hearsay Evidence
+
+In his first point of error, appellant argues that the trial court committed reversible error in overruling his hearsay objection to the videotape recording of the drug transfer negotiation between Officer Roberts, the confidential informant, and Garcia. We review a trial court s decision to admit or exclude evidence under an abuse of discretion standard. Torres v. State, 71 S.W.3d 758, 760 (Tex. Crim. App. 2002). We will not reverse a trial court s ruling unless that ruling falls outside the zone of reasonable disagreement. Id.
+
+During a pre-trial hearing, appellant argued that the videotape was hearsay because it was offered for the truth of the matter asserted: that there was a planned transaction for illegal narcotics. Tex. R. Evid. 801(d). The State responded that it was by definition not hearsay, because it was a statement by a co-conspirator of a party during the course and in furtherance of a conspiracy. Tex. R. Evid. 801(e)(2)(E); Meador v. State, 812 S.W.2d 330, 332-34 (Tex. Crim. App. 1991); Wilkerson v. State, 933 S.W.2d 276, 279-80 (Tex. App. Houston [1st Dist.] 1996, pet. ref d).
+
+The elements of a conspiracy are (1) a person, (2) with intent that a felony be committed, (3) agrees with one or more persons that they or one or more of them engage in conduct that would constitute the offense, and (4) he or one or more of them performs an overt act in pursuance of the agreement. Tex. Pen. Code Ann. 15.02(a) (Vernon 2003); Williams v. State, 646 S.W.2d 221, 222 (Tex. Crim. App. 1983). Commission of the underlying substantive offense is not an essential element of conspiracy. Tex. Pen. Code Ann 15.02(c)(5)(Vernon 2003); McCann v. State, 606 S.W.2d 897, 898 (Tex. Crim. App. [Panel Op.] 1980). The essential element of criminal conspiracy is an agreement to commit a crime. Williams, 646 S.W.2d at 222. The agreement may be shown by either direct or circumstantial evidence. Farrington v. State, 489 S.W.2d 607, 609 (Tex. Crim. App. 1972); Wilkerson, 933 S.W.2d at 279 (citing Bourjaily v. United States, 483 U.S. 171, 175, 107 S. Ct. 2775, 2778-89 (1987)).
+
+Arguably, appellant, Lopez, and Garcia were engaged in a conspiracy to rob Officer Roberts and the informant of the $145,000 in cash. The videotape established the context: possession of a large amount of cash by the undercover officer to transact an illegal narcotics purchase. It is reasonable to conclude that there was a conspiracy between appellant, Lopez, and Garcia to rob Officer Roberts and the informant. Therefore, the statements on the videotape were admissible against a co-conspirator. Tex. R. Evid. 801(e)(2)(E); Murdock v. State, 840 S.W.2d 558, 562-64 (Tex. App. Texarkana 1992), vacated on other grounds, 845 S.W.2d 915 (Tex. Crim. App. 1993) (an undercover police officer s statements in a tape-recorded conversation are admissible as a statement of a co-conspirator); Davis v. State, 791 S.W.2d 308, 309 (Tex. App. Corpus Christi 1990, pet. ref d) (a co-conspirator s taped conversation with undercover officer is admissible); Eminger v. State, 718 S.W.2d 406, 407-08 (Tex. App. Fort Worth 1986, no pet.) (a confidential informant s statements in a tape-recorded conversation are admissible under the co-conspirator exception to the hearsay rule).
+
+Appellant argues that the statements on the videotape are hearsay because he was not present during the negotiations to purchase illegal narcotics. Officer Roberts and the informant negotiated only with Garcia. However, Officer Roberts showed Garcia $145,000 in cash. Garcia had changed the form of the transaction to be completed over an extended period of time instead of one transaction. Garcia called and said he was on his way with five kilograms of cocaine. Garcia did not show up until several hours later. The length of time was sufficient for the police to decide to (1) move the money because of concerns of a potential rip off, and (2) end the surveillance because they felt that the transaction was not going to take place. When Garcia knocked on the door, the informant opened it because he recognized Garcia. Two armed men burst through the door, claimed to be police officers, shot at Officer Roberts and the informant, and demanded the money. It is reasonable to infer that appellant and Lopez would not have known there was $145,000 in cash in this hotel room unless Garcia had told them. The trial court did not abuse its discretion in concluding that there was a conspiracy between appellant, Garcia, and Lopez to rob Officer Roberts and the informant. Therefore, Garcia s statements on the videotape showing the negotiation for illegal narcotics are not hearsay because they were statements of a co-conspirator in the furtherance of a conspiracy.
+
+We overrule appellant s first point of error.
+
+Exclusion of Evidence
+
+In his second point of error, appellant argues that the trial court committed reversible error in denying his request to introduce evidence that he was injured by the police after his arrest. He argues that this evidence was admissible under the rule of optional completeness, // because the State s evidence regarding appellant s conduct during the arrest was misleading. //
+
+We review a trial court s decision to admit or exclude evidence under an abuse of discretion standard. Torres, 71 S.W.3d at 760. A ruling is not error unless it falls outside the zone of reasonable disagreement. Id.
+
+Appellant contends that the State created a misleading picture when it introduced evidence that appellant was uncooperative when the officers tried to arrest him. He argues that, without evidence that he himself was injured after his arrest, his lack of cooperation could not be properly evaluated. We hold it was not an abuse of discretion for the trial court to deny appellant the opportunity to present evidence about his injuries that occurred after his arrest. Because appellant s injuries occurred after his arrest, the trial court could have reasonably concluded that such evidence was not helpful in determining appellant s guilt or innocence; nor did it create an incomplete or misleading picture of the events occurring prior to his arrest. Jones v. State, 963 S.W.2d 177, 182 (Tex. App. Fort Worth, 1998, pet. ref d).
+
+We overrule appellant s second point of error.
+
+Legal Insufficiency
+
+In his third and fifth points of error, appellant argues that the evidence was legally insufficient to support his conviction for aggravated robbery because the State failed to prove that appellant was guilty of the shooting of Officer Roberts either as a principal or as a party. We review the legal sufficiency of the evidence by viewing the evidence in the light most favorable to the verdict to determine whether a rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. Jackson v. Virginia, 443 U.S. 307, 319, 99 S. Ct. 2781, 2789 (1979); Taylor v. State, 10 S.W.3d 673, 685 (Tex. Crim. App. 2000). The standard is the same for both direct and circumstantial evidence. Sutherlin v. State, 682 S.W.2d 546, 549 (Tex. Crim. App. 1984). The essential elements of aggravated robbery are:
+
+1) a person
+
+2) in the course of committing theft
+
+3) with intent to obtain and maintain control of property
+
+4) knowingly and intentionally
+
+5) threatened or placed another in fear of imminent bodily injury or
+
+death and
+
+6) uses or exhibits a deadly weapon.
+
+Robinson v. State, 596 S.W.2d 130, 132 (Tex. Crim. App. 1980) (en banc); Tex. Pen. Code Ann. 29.02(a) & 29.03(a) (Vernon 2003).
+
+Under section 7.01 of the Penal Code, known as the law of parties, a person is criminally responsible as a party to an offense committed by his own conduct, by the conduct of another for which he is criminally responsible, or by both. Tex. Pen. Code Ann. 7.01(a) (Vernon 2003). A person is criminally responsible for the offense committed by another if acting with intent to promote or assist the commission of the offense, he solicits, encourages, directs, aids, or attempts to aid the other person to commit the offense. Tex. Pen. Code Ann. 7.02(a)(2) (Vernon 2003). Each party may be charged with the offense, and each party may be charged and convicted without alleging that he acted as a principal or accomplice. Id. at 7.01(b)-(c).
+
+Appellant and Lopez burst through the door of the hotel room. They demanded Robert s money, claiming to be police officers. They both pointed guns at Officer Roberts and the informant. Appellant moved towards Officer Roberts, and gun shots were heard. Appellant then moved away from Officer Roberts and towards Lopez. Both men fired in the direction of Officer Roberts. Officer Roberts was shot by one of the two men. Viewing the evidence in the light most favorable to the verdict, we find that a rational trier of fact could have found that appellant was guilty of aggravated robbery under the law of parties.
+
+Therefore, we overrule appellant s third and fifth points of error.
+
+Factual Sufficiency
+
+In his fourth and sixth points of error, appellant argues that the evidence was factually insufficient to support his conviction for aggravated robbery either as a principal or as a party. In reviewing the factual sufficiency of the evidence, we examine all evidence neutrally, and ask whether the proof of guilt is so obviously weak or greatly outweighed by contrary proof as to indicate that a manifest injustice has occurred. King v. State, 29 S.W.3d 556, 563 (Tex. Crim. App. 2000). In conducting our analysis, we must avoid substituting our judgment for that of the fact-finder. Id.
+
+Appellant argues that the State did not prove beyond a reasonable doubt that appellant shot Officer Roberts, because (1) the State could not prove by scientific evidence which gun fired the bullet that struck Officer Roberts, and (2) the State produced no eyewitnesses to testify as to who shot Officer Roberts. Appellant further argues the State failed to establish his guilt under the law of parties because he did not say anything to indicate to Lopez that Lopez should shoot Officer Roberts, and he did not participate in the gun battle between Lopez and the officers.
+
+Appellant and Lopez burst into the hotel room with guns drawn, claimed to be police officers, and demanded the money. Appellant ran towards Officer Roberts. When appellant confronted Officer Roberts, shots were fired. Appellant stepped back next to Lopez, and the two of them continued to fire in the direction of Officer Roberts. Appellant then visually confirmed that Officer Roberts was dead, and he and Lopez demanded that the informant take them to the money.
+
+Appellant contends that, at most, he committed armed robbery with Lopez. He further alleges there is no evidence that shows he encouraged the use of guns. However, the testimony shows that appellant fired his gun a minimum of two times in the direction of Officer Roberts. When appellant first approached Officer Roberts the gun fire began. Appellant and Lopez fired in the direction of Officer Roberts. There is no evidence in the record that supports appellant s position. The evidence is not so obviously weak or greatly outweighed by contrary proof as to indicate that a manifest injustice has occurred. King, 29 S.W.3d at 563.
+
+We overrule appellant s fourth and sixth points of error.
+
+Conclusion
+
+We affirm the judgment of the trial court.
+
+Adele Hedges
+
+Justice
+
+Panel consists of Justices Hedges, Alcala, and Jennings.
+
+Do not publish. Tex. R. App. P. 47.

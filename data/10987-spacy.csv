@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,10987
+Alabama,GPE,10987
+Alaska,GPE,10987
+Arizona,GPE,10987
+Arkansas,GPE,10987
+California,GPE,10987
+Colorado,GPE,10987
+Connecticut,GPE,10987
+Delaware,GPE,10987
+Florida,GPE,10987
+Georgia,GPE,10987
+Hawaii,GPE,10987
+Idaho,GPE,10987
+Indiana,GPE,10987
+Iowa,GPE,10987
+Kansas,GPE,10987
+Kentucky,GPE,10987
+Louisiana,GPE,10987
+Maine,GPE,10987
+Maryland,GPE,10987
+Massachusetts,GPE,10987
+Michigan,GPE,10987
+Minnesota,GPE,10987
+Mississippi,GPE,10987
+Missouri,GPE,10987
+Montana,GPE,10987
+Nebraska,GPE,10987
+Nevada,GPE,10987
+New Hampshire,GPE,10987
+New Jersey,GPE,10987
+Ohio,GPE,10987
+Oklahoma,GPE,10987
+Oregon,GPE,10987
+Pennsylvania,GPE,10987
+Rhode Island,GPE,10987
+Tennessee,GPE,10987
+Texas,GPE,10987
+Utah,GPE,10987
+Vermont,GPE,10987
+Virginia,GPE,10987
+Washington,GPE,10987
+Washington,GPE,10987
+D.C.,GPE,10987
+Wisconsin,GPE,10987
+Wyoming,GPE,10987
+US,GPE,10987
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,10987
+Marshall Islands American Samoa Federated States,ORG,10987
+Micronesia Guam,FAC,10987
+Alberta,GPE,10987
+Canada,GPE,10987
+British Columbia,GPE,10987
+Canada Manitoba,GPE,10987
+Canada,GPE,10987
+New Brunswick,GPE,10987
+Canada Newfoundland,PERSON,10987
+Canada,GPE,10987
+Canada,GPE,10987
+Canada Ontario,GPE,10987
+Canada,GPE,10987
+Edward Island,GPE,10987
+Canada Quebec,GPE,10987
+Canada,GPE,10987
+Saskatchewan,GPE,10987
+Canada Yukon Territory,ORG,10987
+Canada,GPE,10987
+Zip Code,PERSON,10987

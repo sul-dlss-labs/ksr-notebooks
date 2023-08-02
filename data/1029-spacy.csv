@@ -1,0 +1,57 @@
+text,label,fe_id
+More than a day,DATE,1029
+70-year-old,DATE,1029
+Wisconsin,GPE,1029
+La Grange,ORG,1029
+Sunday,DATE,1029
+two,CARDINAL,1029
+Phil Zakrzewicz,PERSON,1029
+one,CARDINAL,1029
+seven,CARDINAL,1029
+Dorothy Zakrzewicz,PERSON,1029
+Thorp,GPE,1029
+Wis.,GPE,1029
+late Saturday,TIME,1029
+Hillside,GPE,1029
+Eugene,PERSON,1029
+Connie Szak,ORG,1029
+Anthony Szak,PERSON,1029
+Loyola University Medical Center,ORG,1029
+second,ORDINAL,1029
+Phil Zakrzewicz,PERSON,1029
+La Grange,GPE,1029
+La Grange Police Lt,ORG,1029
+Patrick O'Connor,PERSON,1029
+Monday,DATE,1029
+two,CARDINAL,1029
+Hillside,ORG,1029
+La Grange,GPE,1029
+O'Connor,PERSON,1029
+La Grange Village,GPE,1029
+Tim Hansen,PERSON,1029
+Sunday,DATE,1029
+Roosevelt,GPE,1029
+Mannheim Roads,GPE,1029
+late Sunday,DATE,1029
+Dorothy Zakrzewicz,PERSON,1029
+Sunday,DATE,1029
+Navy Pier,FAC,1029
+Forest Park,FAC,1029
+Sunday,DATE,1029
+Eugene Zakrzewicz Jr.,PERSON,1029
+Dorothy,PERSON,1029
+Anthony Szak,PERSON,1029
+Dorothy Zakrzewicz,PERSON,1029
+Westchester Fire Capt,ORG,1029
+Richard Belmonte,PERSON,1029
+Dorothy Zakrzewicz,PERSON,1029
+Eugene Jr.,PERSON,1029
+third,ORDINAL,1029
+300-acre,QUANTITY,1029
+about 40 miles,QUANTITY,1029
+Eau Claire,GPE,1029
+Wis.,GPE,1029
+Zakrzewicz,PERSON,1029
+Dave,PERSON,1029
+Dorothy Zakrzewicz,PERSON,1029
+Phil Zakrzewicz,PERSON,1029

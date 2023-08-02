@@ -1,0 +1,29 @@
+text,label,fe_id
+8-year-old,DATE,21481
+last year,DATE,21481
+120 mph,QUANTITY,21481
+Atlanta,GPE,21481
+Bolton,PERSON,21481
+22,DATE,21481
+"the June 27, 2016",DATE,21481
+Jamaris Davis,PERSON,21481
+Davis,PERSON,21481
+two days,DATE,21481
+The Atlanta Journal-Constitution,ORG,21481
+five years,DATE,21481
+Fulton County District,GPE,21481
+Nakell Williams,PERSON,21481
+Bolton,PERSON,21481
+Dodge,ORG,21481
+Atlanta,GPE,21481
+East Point,GPE,21481
+Camp Creek Parkway,FAC,21481
+East Point,LOC,21481
+Bolton,PERSON,21481
+Bolton,PERSON,21481
+five,CARDINAL,21481
+Davis,PERSON,21481
+Bolton,PERSON,21481
+13,CARDINAL,21481
+first,ORDINAL,21481
+a later date,DATE,21481

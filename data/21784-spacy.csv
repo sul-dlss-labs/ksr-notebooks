@@ -1,0 +1,37 @@
+text,label,fe_id
+One,CARDINAL,21784
+Wednesday,DATE,21784
+night,TIME,21784
+DeLand,ORG,21784
+The Florida Highway Patrol,ORG,21784
+two,CARDINAL,21784
+Woodland Boulevard,PERSON,21784
+South Street,LOC,21784
+shortly before 11:30 p.m.,TIME,21784
+Tony Tagle,PERSON,21784
+Woodland Avenue,FAC,21784
+58-year-old,DATE,21784
+Florida Hospital DeLand,ORG,21784
+50-year-old,DATE,21784
+June 2014,DATE,21784
+the FHP.The DeLand Police Department,ORG,21784
+FHP,ORG,21784
+One,CARDINAL,21784
+Wednesday,DATE,21784
+night,TIME,21784
+DeLand,ORG,21784
+The Florida Highway Patrol,ORG,21784
+two,CARDINAL,21784
+Woodland Boulevard,PERSON,21784
+South Street,LOC,21784
+shortly before 11:30 p.m.,TIME,21784
+Tony Tagle,PERSON,21784
+Woodland Avenue,FAC,21784
+58-year-old,DATE,21784
+Florida Hospital DeLand,ORG,21784
+50-year-old,DATE,21784
+Tagle,PRODUCT,21784
+June 2014,DATE,21784
+FHP,ORG,21784
+The DeLand Police Department,ORG,21784
+FHP,ORG,21784

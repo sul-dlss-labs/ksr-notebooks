@@ -1,0 +1,23 @@
+text,label,fe_id
+Richard Hughes,PERSON,10930
+38-year-old,DATE,10930
+"Thursday, Jan. 5",DATE,10930
+1700,CARDINAL,10930
+Riverside Drive,FAC,10930
+Glendale,GPE,10930
+Los Angeles County,GPE,10930
+about 1 p.m.,TIME,10930
+Hughes,ORG,10930
+911,CARDINAL,10930
+Sgt,PERSON,10930
+Tom Lorenz,PERSON,10930
+the Glendale Police Department,ORG,10930
+Hughes,ORG,10930
+Lorenz,PERSON,10930
+One,CARDINAL,10930
+Lorenz,PERSON,10930
+Times,ORG,10930
+Crime Stoppers,PERSON,10930
+222,CARDINAL,10930
+Andrew Blankstein,PERSON,10930
+Robert J. Lopez,PERSON,10930

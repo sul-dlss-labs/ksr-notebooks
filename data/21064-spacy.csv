@@ -1,0 +1,32 @@
+text,label,fe_id
+about 10 a.m.,TIME,21064
+Sunday,DATE,21064
+more than 12 hours,TIME,21064
+39-year-old,DATE,21064
+Rodney Johnson,PERSON,21064
+24000,CARDINAL,21064
+Hanover,GPE,21064
+Telegraph Road,FAC,21064
+Johnson,PERSON,21064
+3-year-old,DATE,21064
+two,CARDINAL,21064
+Heritage Hospital,ORG,21064
+Taylor,PERSON,21064
+University of Michigan Hospital,ORG,21064
+Ann Arbor,GPE,21064
+Dearborn Heights,PERSON,21064
+Michael Gust,PERSON,21064
+Johnson,PERSON,21064
+Johnson,PERSON,21064
+Gary Tomkiewicz,PERSON,21064
+Dearborn Heights,GPE,21064
+M16,PERSON,21064
+about 10 p.m.,TIME,21064
+Johnson,PERSON,21064
+more than five hours,TIME,21064
+Johnson,PERSON,21064
+Tomkiewicz,PERSON,21064
+about four,CARDINAL,21064
+between seven and eight,CARDINAL,21064
+three,CARDINAL,21064
+Tomkiewicz,PERSON,21064

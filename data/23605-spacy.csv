@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,23605
+Alabama,GPE,23605
+Alaska,GPE,23605
+Arizona,GPE,23605
+Arkansas,GPE,23605
+California,GPE,23605
+Colorado,GPE,23605
+Connecticut,GPE,23605
+Delaware,GPE,23605
+Florida,GPE,23605
+Georgia,GPE,23605
+Hawaii,GPE,23605
+Idaho,GPE,23605
+Indiana,GPE,23605
+Iowa,GPE,23605
+Kansas,GPE,23605
+Kentucky,GPE,23605
+Louisiana,GPE,23605
+Maine,GPE,23605
+Maryland,GPE,23605
+Massachusetts,GPE,23605
+Michigan,GPE,23605
+Minnesota,GPE,23605
+Mississippi,GPE,23605
+Missouri,GPE,23605
+Montana,GPE,23605
+Nebraska,GPE,23605
+Nevada,GPE,23605
+New Hampshire,GPE,23605
+New Jersey,GPE,23605
+Ohio,GPE,23605
+Oklahoma,GPE,23605
+Oregon,GPE,23605
+Pennsylvania,GPE,23605
+Rhode Island,GPE,23605
+Tennessee,GPE,23605
+Texas,GPE,23605
+Utah,GPE,23605
+Vermont,GPE,23605
+Virginia,GPE,23605
+Washington,GPE,23605
+Washington,GPE,23605
+D.C.,GPE,23605
+Wisconsin,GPE,23605
+Wyoming,GPE,23605
+US,GPE,23605
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,23605
+Marshall Islands American Samoa Federated States,ORG,23605
+Micronesia Guam,FAC,23605
+Alberta,GPE,23605
+Canada,GPE,23605
+British Columbia,GPE,23605
+Canada Manitoba,GPE,23605
+Canada,GPE,23605
+New Brunswick,GPE,23605
+Canada Newfoundland,PERSON,23605
+Canada,GPE,23605
+Canada,GPE,23605
+Canada Ontario,GPE,23605
+Canada,GPE,23605
+Edward Island,GPE,23605
+Canada Quebec,GPE,23605
+Canada,GPE,23605
+Saskatchewan,GPE,23605
+Canada Yukon Territory,ORG,23605
+Canada,GPE,23605
+Zip Code,PERSON,23605

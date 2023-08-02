@@ -1,0 +1,65 @@
+text,label,fe_id
+nine,CARDINAL,6845
+Tuesday,DATE,6845
+evening,TIME,6845
+31-year-old,DATE,6845
+Boulder,PERSON,6845
+January,DATE,6845
+Francis Michael Stately,PERSON,6845
+12-gauge,QUANTITY,6845
+Cleveland Street,FAC,6845
+911,CARDINAL,6845
+about 3:45 a.m.,TIME,6845
+Jan. 19,DATE,6845
+About 14 minutes later,TIME,6845
+two,CARDINAL,6845
+Jefferson County,GPE,6845
+Dave Kosola,PERSON,6845
+Taser,ORG,6845
+Tuesday,DATE,6845
+St. Peter's Hospital,ORG,6845
+about 8 a.m.,TIME,6845
+Kosola,GPE,6845
+first,ORDINAL,6845
+Rick Streib,PERSON,6845
+the Boulder City Police,ORG,6845
+Streib,PERSON,6845
+Cleveland Street,FAC,6845
+Stately,ORG,6845
+Streib,PERSON,6845
+Streib,PERSON,6845
+Streib,PERSON,6845
+Streib,PERSON,6845
+Steve Marquis,PERSON,6845
+Marquis,PERSON,6845
+Marquis,PERSON,6845
+one,CARDINAL,6845
+Marquis,PERSON,6845
+Kosola,PERSON,6845
+a half-hour,TIME,6845
+two,CARDINAL,6845
+Kosola,PERSON,6845
+about 20 feet,QUANTITY,6845
+Marquis,PERSON,6845
+four,CARDINAL,6845
+Kosola,PERSON,6845
+Kosola,PERSON,6845
+Taser,GPE,6845
+about 15 feet,QUANTITY,6845
+"Stately, Kosola's",ORG,6845
+second,ORDINAL,6845
+Taser,ORG,6845
+Kosola,PERSON,6845
+Kosola,PERSON,6845
+Kosola,PERSON,6845
+two,CARDINAL,6845
+first,ORDINAL,6845
+Kosola,PERSON,6845
+about a month later,DATE,6845
+Sheriff Craig Doolittle,PERSON,6845
+Marquis,PERSON,6845
+Taser,ORG,6845
+one,CARDINAL,6845
+at least three,CARDINAL,6845
+four,CARDINAL,6845
+911,CARDINAL,6845

@@ -1,0 +1,37 @@
+text,label,fe_id
+EAST ORANGE,NORP,12245
+32-year-old,DATE,12245
+East Orange,NORP,12245
+this morning,TIME,12245
+Around 7:30 Monday morning,TIME,12245
+East Orange,NORP,12245
+400,CARDINAL,12245
+Norwood Avenue,FAC,12245
+Katherine Carter,PERSON,12245
+the Essex County Prosecutor's Office,ORG,12245
+Karlando Roberts,PERSON,12245
+Carter,PERSON,12245
+Roberts,PERSON,12245
+two,CARDINAL,12245
+Carter,PERSON,12245
+Roberts,PERSON,12245
+University Hospital,ORG,12245
+Carter,PERSON,12245
+the Essex County Prosecutor's Office,ORG,12245
+Sgt,PERSON,12245
+Andrew Dielmo,PERSON,12245
+East Orange,LOC,12245
+Roberts,PERSON,12245
+second,ORDINAL,12245
+East Orange,LOC,12245
+the past 24 hours,TIME,12245
+two,CARDINAL,12245
+Lukoil,ORG,12245
+500,CARDINAL,12245
+William Street,FAC,12245
+around 6 p.m.,TIME,12245
+Sunday,DATE,12245
+night,TIME,12245
+Dielmo,GPE,12245
+Dielmo,PERSON,12245
+Carter,PERSON,12245

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,27321
+Alabama,GPE,27321
+Alaska,GPE,27321
+Arizona,GPE,27321
+Arkansas,GPE,27321
+California,GPE,27321
+Colorado,GPE,27321
+Connecticut,GPE,27321
+Delaware,GPE,27321
+Florida,GPE,27321
+Georgia,GPE,27321
+Hawaii,GPE,27321
+Idaho,GPE,27321
+Indiana,GPE,27321
+Iowa,GPE,27321
+Kansas,GPE,27321
+Kentucky,GPE,27321
+Louisiana,GPE,27321
+Maine,GPE,27321
+Maryland,GPE,27321
+Massachusetts,GPE,27321
+Michigan,GPE,27321
+Minnesota,GPE,27321
+Mississippi,GPE,27321
+Missouri,GPE,27321
+Montana,GPE,27321
+Nebraska,GPE,27321
+Nevada,GPE,27321
+New Hampshire,GPE,27321
+New Jersey,GPE,27321
+Ohio,GPE,27321
+Oklahoma,GPE,27321
+Oregon,GPE,27321
+Pennsylvania,GPE,27321
+Rhode Island,GPE,27321
+Tennessee,GPE,27321
+Texas,GPE,27321
+Utah,GPE,27321
+Vermont,GPE,27321
+Virginia,GPE,27321
+Washington,GPE,27321
+Washington,GPE,27321
+D.C.,GPE,27321
+Wisconsin,GPE,27321
+Wyoming,GPE,27321
+US,GPE,27321
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,27321
+Marshall Islands American Samoa Federated States,ORG,27321
+Micronesia Guam,FAC,27321
+Alberta,GPE,27321
+Canada,GPE,27321
+British Columbia,GPE,27321
+Canada Manitoba,GPE,27321
+Canada,GPE,27321
+New Brunswick,GPE,27321
+Canada Newfoundland,PERSON,27321
+Canada,GPE,27321
+Canada,GPE,27321
+Canada Ontario,GPE,27321
+Canada,GPE,27321
+Edward Island,GPE,27321
+Canada Quebec,GPE,27321
+Canada,GPE,27321
+Saskatchewan,GPE,27321
+Canada Yukon Territory,ORG,27321
+Canada,GPE,27321
+Zip Code,PERSON,27321

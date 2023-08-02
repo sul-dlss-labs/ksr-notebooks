@@ -1,0 +1,21 @@
+text,label,fe_id
+Juan Ola,PERSON,8357
+26-year-old,DATE,8357
+Latino,PERSON,8357
+"Wednesday, Dec. 30",DATE,8357
+5900,CARDINAL,8357
+South Vermont Avenue,LOC,8357
+Vermont-Slauson,FAC,8357
+Los Angeles County,GPE,8357
+Ola,PERSON,8357
+about 2 a.m.,TIME,8357
+Aurelio Ramirez,PERSON,8357
+55-year-old,DATE,8357
+Latino,PERSON,8357
+Los Angeles Police Department,ORG,8357
+Ramirez stabbed Ola,FAC,8357
+3:26 a.m.,TIME,8357
+Ramirez,PERSON,8357
+3:50 p.m.,TIME,8357
+$1 million,MONEY,8357
+Anthony Pesce,PERSON,8357

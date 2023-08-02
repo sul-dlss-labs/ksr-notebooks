@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,27363
+Alabama,GPE,27363
+Alaska,GPE,27363
+Arizona,GPE,27363
+Arkansas,GPE,27363
+California,GPE,27363
+Colorado,GPE,27363
+Connecticut,GPE,27363
+Delaware,GPE,27363
+Florida,GPE,27363
+Georgia,GPE,27363
+Hawaii,GPE,27363
+Idaho,GPE,27363
+Indiana,GPE,27363
+Iowa,GPE,27363
+Kansas,GPE,27363
+Kentucky,GPE,27363
+Louisiana,GPE,27363
+Maine,GPE,27363
+Maryland,GPE,27363
+Massachusetts,GPE,27363
+Michigan,GPE,27363
+Minnesota,GPE,27363
+Mississippi,GPE,27363
+Missouri,GPE,27363
+Montana,GPE,27363
+Nebraska,GPE,27363
+Nevada,GPE,27363
+New Hampshire,GPE,27363
+New Jersey,GPE,27363
+Ohio,GPE,27363
+Oklahoma,GPE,27363
+Oregon,GPE,27363
+Pennsylvania,GPE,27363
+Rhode Island,GPE,27363
+Tennessee,GPE,27363
+Texas,GPE,27363
+Utah,GPE,27363
+Vermont,GPE,27363
+Virginia,GPE,27363
+Washington,GPE,27363
+Washington,GPE,27363
+D.C.,GPE,27363
+Wisconsin,GPE,27363
+Wyoming,GPE,27363
+US,GPE,27363
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,27363
+Marshall Islands American Samoa Federated States,ORG,27363
+Micronesia Guam,FAC,27363
+Alberta,GPE,27363
+Canada,GPE,27363
+British Columbia,GPE,27363
+Canada Manitoba,GPE,27363
+Canada,GPE,27363
+New Brunswick,GPE,27363
+Canada Newfoundland,PERSON,27363
+Canada,GPE,27363
+Canada,GPE,27363
+Canada Ontario,GPE,27363
+Canada,GPE,27363
+Edward Island,GPE,27363
+Canada Quebec,GPE,27363
+Canada,GPE,27363
+Saskatchewan,GPE,27363
+Canada Yukon Territory,ORG,27363
+Canada,GPE,27363
+Zip Code,PERSON,27363

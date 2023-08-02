@@ -1,0 +1,24 @@
+text,label,fe_id
+Brooklyn,GPE,1001
+Friday,DATE,1001
+yesterday,DATE,1001
+Curtis Merriweather,PERSON,1001
+45,DATE,1001
+9-mm,QUANTITY,1001
+two,CARDINAL,1001
+Avenue D,FAC,1001
+Nostrand Ave,PERSON,1001
+Merriweather,PERSON,1001
+Wayne Williamson,PERSON,1001
+Merriweather,PERSON,1001
+Williamson,PERSON,1001
+Williamson,PERSON,1001
+Williamson,ORG,1001
+29,DATE,1001
+six,CARDINAL,1001
+Merriweather,ORG,1001
+Williamson,PERSON,1001
+Kings County Hospital,FAC,1001
+Merriweather,PERSON,1001
+Ditmas,GPE,1001
+17,CARDINAL,1001

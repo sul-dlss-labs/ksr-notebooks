@@ -1,0 +1,11 @@
+text,label,fe_id
+one-year,DATE,30640
+first,ORDINAL,30640
+at least one year,DATE,30640
+Jackson County,GPE,30640
+the Cherokee Indian Reservation,ORG,30640
+"Friday, Aug. 2, 2019",DATE,30640
+Visa,ORG,30640
+Mastercard,GPE,30640
+Discover,GPE,30640
+AMEX,ORG,30640

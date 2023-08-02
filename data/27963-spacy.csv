@@ -1,0 +1,45 @@
+text,label,fe_id
+five-hour,TIME,27963
+CTA,ORG,27963
+Taser,GPE,27963
+Saturday,DATE,27963
+night,TIME,27963
+27,DATE,27963
+Chicago,GPE,27963
+shortly after 3 p.m.,TIME,27963
+just after 8 p.m.,TIME,27963
+Red Line,ORG,27963
+the Dan Ryan Expressway,ORG,27963
+first,ORDINAL,27963
+Taser,ORG,27963
+shortly after 8 p.m.,TIME,27963
+the University of Chicago Medical Center,ORG,27963
+9:49 p.m.,TIME,27963
+about 3 p.m.,TIME,27963
+79th Street,FAC,27963
+Chicago,GPE,27963
+about 7:30 p.m.,TIME,27963
+SWAT,ORG,27963
+Officer Michelle Tannehill,PERSON,27963
+20s,DATE,27963
+30s,DATE,27963
+a “couple feet,QUANTITY,27963
+Tannehill,PERSON,27963
+Spicuzza,PERSON,27963
+CTA,ORG,27963
+Illinois State Police,ORG,27963
+9:40 p.m.,TIME,27963
+ISP,ORG,27963
+ISP,ORG,27963
+Ryan,ORG,27963
+79th Street,FAC,27963
+the Chicago Police Department,ORG,27963
+Red Line,ORG,27963
+95th,ORDINAL,27963
+Garfield,PERSON,27963
+Howard,PERSON,27963
+Garfield,PERSON,27963
+CTA,ORG,27963
+the Green Line,LOC,27963
+29,MONEY,27963
+CTA,ORG,27963

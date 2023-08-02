@@ -1,0 +1,43 @@
+text,label,fe_id
+One,CARDINAL,31442
+CSPD,ORG,31442
+Palace Drive,FAC,31442
+around 9:30 Wednesday night,TIME,31442
+CSPD,ORG,31442
+CSPD’s Tactical Enforcement Unit,ORG,31442
+at least one,CARDINAL,31442
+At least one,CARDINAL,31442
+at least one,CARDINAL,31442
+CSPD,ORG,31442
+the El Paso County Sheriff’s Office,GPE,31442
+EPSO,ORG,31442
+CSPD,ORG,31442
+Wednesday,DATE,31442
+night,TIME,31442
+Palace Drive,FAC,31442
+the morning,TIME,31442
+the afternoon,TIME,31442
+CSPD,ORG,31442
+around 7 a.m.,TIME,31442
+EPSO,ORG,31442
+this Officer Involved Shooting,EVENT,31442
+OIS,ORG,31442
+PIO,ORG,31442
+Deb Mynatt,PERSON,31442
+King Soopers,ORG,31442
+6900,CARDINAL,31442
+N. Academy Blvd,ORG,31442
+CSPD,ORG,31442
+PIO SGT Newton,ORG,31442
+"December 23, 2021",DATE,31442
+Palace Drive,FAC,31442
+6900,CARDINAL,31442
+Palace Drive,FAC,31442
+6900,CARDINAL,31442
+Palace Dr.,ORG,31442
+PIO,ORG,31442
+Colorado Springs Police Department,ORG,31442
+@CSPDPIO,ORG,31442
+"December 23, 2021
+
+",DATE,31442

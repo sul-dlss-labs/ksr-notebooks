@@ -1,0 +1,38 @@
+text,label,fe_id
+Tuesday,DATE,10232
+evening,TIME,10232
+44-year-old,DATE,10232
+Santa Barbara,GPE,10232
+Duane Chapman,PERSON,10232
+"today, June 2",DATE,10232
+Cottage Hospital,ORG,10232
+around 5:30 p.m.,TIME,10232
+May 31,DATE,10232
+Chapman,PERSON,10232
+second,ORDINAL,10232
+26,CARDINAL,10232
+Chapala Street,FAC,10232
+Chapman,PERSON,10232
+Police Department spokesperson Lt,ORG,10232
+Paul McCaffrey,PERSON,10232
+Chapman,PERSON,10232
+two,CARDINAL,10232
+McCaffrey,PERSON,10232
+Chapman,ORG,10232
+Chapman,PERSON,10232
+911,CARDINAL,10232
+McCaffrey,ORG,10232
+Chapman,PERSON,10232
+8-inch,QUANTITY,10232
+first,ORDINAL,10232
+Chapman,ORG,10232
+Chapman,PERSON,10232
+Chapman,PERSON,10232
+McCaffrey,PERSON,10232
+Chapman,PERSON,10232
+Cottage Hospital,ORG,10232
+ICU,ORG,10232
+Chapman,PERSON,10232
+McCaffrey,PERSON,10232
+marijuana,PERSON,10232
+Chapman,PERSON,10232

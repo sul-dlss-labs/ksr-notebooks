@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,4001
+Alabama,GPE,4001
+Alaska,GPE,4001
+Arizona,GPE,4001
+Arkansas,GPE,4001
+California,GPE,4001
+Colorado,GPE,4001
+Connecticut,GPE,4001
+Delaware,GPE,4001
+Florida,GPE,4001
+Georgia,GPE,4001
+Hawaii,GPE,4001
+Idaho,GPE,4001
+Indiana,GPE,4001
+Iowa,GPE,4001
+Kansas,GPE,4001
+Kentucky,GPE,4001
+Louisiana,GPE,4001
+Maine,GPE,4001
+Maryland,GPE,4001
+Massachusetts,GPE,4001
+Michigan,GPE,4001
+Minnesota,GPE,4001
+Mississippi,GPE,4001
+Missouri,GPE,4001
+Montana,GPE,4001
+Nebraska,GPE,4001
+Nevada,GPE,4001
+New Hampshire,GPE,4001
+New Jersey,GPE,4001
+Ohio,GPE,4001
+Oklahoma,GPE,4001
+Oregon,GPE,4001
+Pennsylvania,GPE,4001
+Rhode Island,GPE,4001
+Tennessee,GPE,4001
+Texas,GPE,4001
+Utah,GPE,4001
+Vermont,GPE,4001
+Virginia,GPE,4001
+Washington,GPE,4001
+Washington,GPE,4001
+D.C.,GPE,4001
+Wisconsin,GPE,4001
+Wyoming,GPE,4001
+US,GPE,4001
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,4001
+Marshall Islands American Samoa Federated States,ORG,4001
+Micronesia Guam,FAC,4001
+Alberta,GPE,4001
+Canada,GPE,4001
+British Columbia,GPE,4001
+Canada Manitoba,GPE,4001
+Canada,GPE,4001
+New Brunswick,GPE,4001
+Canada Newfoundland,PERSON,4001
+Canada,GPE,4001
+Canada,GPE,4001
+Canada Ontario,GPE,4001
+Canada,GPE,4001
+Edward Island,GPE,4001
+Canada Quebec,GPE,4001
+Canada,GPE,4001
+Saskatchewan,GPE,4001
+Canada Yukon Territory,ORG,4001
+Canada,GPE,4001
+Zip Code,PERSON,4001

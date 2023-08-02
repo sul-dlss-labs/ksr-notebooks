@@ -1,0 +1,33 @@
+text,label,fe_id
+Macon,GPE,30141
+Saturday,DATE,30141
+morning,TIME,30141
+the Georgia State Patrol,ORG,30141
+about 12:30 a.m.,TIME,30141
+Ford,ORG,30141
+Riverside Drive,FAC,30141
+I-75,FAC,30141
+Macon,GPE,30141
+Angelo D’wan Martin,PERSON,30141
+72 mph,QUANTITY,30141
+45 mph,QUANTITY,30141
+GSP,ORG,30141
+Franka Young,PERSON,30141
+Martin,ORG,30141
+Corbin Avenue,FAC,30141
+North Nancelon Circle,LOC,30141
+Martin,PERSON,30141
+Young,PERSON,30141
+Martin,PERSON,30141
+the Georgia Department of Public Safety,ORG,30141
+Martin,PERSON,30141
+35-year-old,DATE,30141
+Bibb County,GPE,30141
+Leon Jones,PERSON,30141
+the Macon Telegraph,ORG,30141
+Saturday,DATE,30141
+morning,TIME,30141
+less than a week,DATE,30141
+DeKalb County,GPE,30141
+60-year-old,DATE,30141
+first,ORDINAL,30141

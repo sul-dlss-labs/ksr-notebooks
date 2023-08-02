@@ -1,0 +1,230 @@
+text,label,fe_id
+31,CARDINAL,2302
+February 13,DATE,2302
+2003,DATE,2302
+Mike Baird,PERSON,2302
+Jaime Powell,PERSON,2302
+Paleo Conservative,ORG,2302
+15,DATE,2302
+Mike Baird,PERSON,2302
+Jaime Powell Caller-Times,PERSON,2302
+"February 13, 2003",DATE,2302
+Corpus Christi,WORK_OF_ART,2302
+four,CARDINAL,2302
+FBI,ORG,2302
+New York City,GPE,2302
+34-year-old,DATE,2302
+Donald Wilcox,PERSON,2302
+15-year-old,DATE,2302
+New York City,GPE,2302
+Wilcox,ORG,2302
+Corpus Christi,PERSON,2302
+Weldon,GPE,2302
+Charlotte Parker,PERSON,2302
+Louis Mokry,PERSON,2302
+Oklahoma,GPE,2302
+Luther Butler,PERSON,2302
+a week,DATE,2302
+late Wednesday,TIME,2302
+Timeline Feb. 11,EVENT,2302
+1:01 p.m.,TIME,2302
+Weldon,GPE,2302
+Charlotte Parker,PERSON,2302
+Carbon Plant Road,ORG,2302
+Feb. 11,DATE,2302
+about 9:30 p.m.,TIME,2302
+Parker,ORG,2302
+Louis Mokry,PERSON,2302
+Feb. 11,DATE,2302
+about 11:11 p.m.,TIME,2302
+15-year-old,DATE,2302
+Parker,ORG,2302
+the Nueces County Juvenile Justice Center,GPE,2302
+Feb. 12,DATE,2302
+midnight,TIME,2302
+the Padre Motel,ORG,2302
+9401,DATE,2302
+Feb. 12,DATE,2302
+about 2:12 a.m.,TIME,2302
+SWAT,ORG,2302
+154,CARDINAL,2302
+the Padre Motel,ORG,2302
+87-year-old,DATE,2302
+87-year-old,DATE,2302
+SWAT,ORG,2302
+2:12 a.m.,TIME,2302
+Wednesday,DATE,2302
+four,CARDINAL,2302
+SWAT,ORG,2302
+Wilcox,ORG,2302
+the Padre Motel,ORG,2302
+Flour Bluff,GPE,2302
+Wilcox,PERSON,2302
+Wilcox,ORG,2302
+Parkers,PERSON,2302
+Mokry,PERSON,2302
+Wednesday,DATE,2302
+Butler,ORG,2302
+Parkers,PERSON,2302
+Wilcox,ORG,2302
+Parkers,NORP,2302
+Butler,ORG,2302
+87,DATE,2302
+Weldon Parker,PERSON,2302
+79,DATE,2302
+Charlotte Parker,PERSON,2302
+77,DATE,2302
+Mokry,PERSON,2302
+61,DATE,2302
+the Padre Motel,ORG,2302
+Mokry,PERSON,2302
+61,DATE,2302
+2:30 p.m.,TIME,2302
+Monday,DATE,2302
+6800,CARDINAL,2302
+South Staples Street,LOC,2302
+Parkers,PERSON,2302
+about 1 p.m.,TIME,2302
+Tuesday,DATE,2302
+Corpus Christi,PRODUCT,2302
+3800,CARDINAL,2302
+Carbon Plant Road,ORG,2302
+Saturday,DATE,2302
+Parkers,PERSON,2302
+Thursday,DATE,2302
+Saturday,DATE,2302
+Tuesday,DATE,2302
+night,TIME,2302
+11:11 p.m.,TIME,2302
+the Harbor Bridge,FAC,2302
+Pete Alvarez,PERSON,2302
+less than an hour,TIME,2302
+Wilcox,ORG,2302
+Jack Hunter,PERSON,2302
+1:40 a.m.,TIME,2302
+Wednesday,DATE,2302
+Parker,ORG,2302
+$1 million,MONEY,2302
+the Padre Motel,ORG,2302
+four,CARDINAL,2302
+SWAT,ORG,2302
+Wilcox,ORG,2302
+Butler,ORG,2302
+Ford,ORG,2302
+Wilcox,ORG,2302
+Wilcox,ORG,2302
+Corpus Christi,WORK_OF_ART,2302
+mid-January,DATE,2302
+Carlos Valdez,PERSON,2302
+Valdez,PERSON,2302
+at least two weeks,DATE,2302
+Wednesday,DATE,2302
+David Langenfeld,PERSON,2302
+5th,ORDINAL,2302
+"February, 2003",DATE,2302
+Donald Carhart Wilcox,PERSON,2302
+Weldon Parker,PERSON,2302
+Charlotte,PERSON,2302
+3900,CARDINAL,2302
+Carbon Plant Rd,ORG,2302
+Corpus Christi,ORG,2302
+Nueces County,GPE,2302
+Texas,GPE,2302
+two,CARDINAL,2302
+Donald Carhart Wilcox,PERSON,2302
+Donald Carhart Wilcox,PERSON,2302
+3900,CARDINAL,2302
+Carbon Plant Rd,ORG,2302
+last month,DATE,2302
+Langenfeld,GPE,2302
+Wednesday,DATE,2302
+Langenfeld,PERSON,2302
+Wilcox,PERSON,2302
+last month,DATE,2302
+Pennsylvania,GPE,2302
+four years,DATE,2302
+Louisiana,GPE,2302
+Langenfeld,PERSON,2302
+New York City,GPE,2302
+New York City,GPE,2302
+Langenfeld,GPE,2302
+Robert F. Barnes,PERSON,2302
+Wednesday,DATE,2302
+Barnes,ORG,2302
+Langenfeld,GPE,2302
+Alvarez,PERSON,2302
+FBI,ORG,2302
+Unsolved,ORG,2302
+FBI,ORG,2302
+Bob Doguim,PERSON,2302
+FBI,ORG,2302
+last night,TIME,2302
+Wilcox,ORG,2302
+Doguim,PERSON,2302
+Wilcox,ORG,2302
+Doguim,ORG,2302
+Wilcox,ORG,2302
+US,GPE,2302
+New York,GPE,2302
+US,GPE,2302
+Pennsylvania,GPE,2302
+US,GPE,2302
+Texas,GPE,2302
+Pennsylvania,GPE,2302
+New York,GPE,2302
+four,CARDINAL,2302
+the Corpus Christi,PRODUCT,2302
+Texas,GPE,2302
+last week,DATE,2302
+FBI,ORG,2302
+David Hunter,PERSON,2302
+34-year-old,DATE,2302
+Donald Wilcox,PERSON,2302
+15-year-old,DATE,2302
+New York City,GPE,2302
+First,ORDINAL,2302
+3,CARDINAL,2302
+onby,CARDINAL,2302
+Clinton,PERSON,2302
+Bush,PERSON,2302
+Republicans,NORP,2302
+Paleo Conservative,ORG,2302
+666beast,CARDINAL,2302
+Geezerette,PERSON,2302
+one,CARDINAL,2302
+NYU,ORG,2302
+Pennsylvania,GPE,2302
+10 years,DATE,2302
+Texans,NORP,2302
+Huntsville,GPE,2302
+9,CARDINAL,2302
+SADdam,PERSON,2302
+Stalin,PERSON,2302
+Hades,LOC,2302
+Bush,PERSON,2302
+Republicans,NORP,2302
+10,CARDINAL,2302
+SADdam,PERSON,2302
+Stalin,PERSON,2302
+Hades,LOC,2302
+LBJ,ORG,2302
+West Texas,LOC,2302
+Agriculture,ORG,2302
+the Billie Saul Estes,FAC,2302
+six,CARDINAL,2302
+years later,DATE,2302
+six,CARDINAL,2302
+Bill Clinton,PERSON,2302
+LBJ,ORG,2302
+20,CARDINAL,2302
+LBJ,ORG,2302
+MPAA,ORG,2302
+Free Republic,GPE,2302
+Free Republic,GPE,2302
+FreeRepublic,ORG,2302
+LLC,ORG,2302
+PO BOX 9771,ORG,2302
+FRESNO,ORG,2302
+CA 93794,ORG,2302
+2000-2008,DATE,2302
+John Robinson,PERSON,2302

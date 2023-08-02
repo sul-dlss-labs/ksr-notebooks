@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,11278
+Alabama,GPE,11278
+Alaska,GPE,11278
+Arizona,GPE,11278
+Arkansas,GPE,11278
+California,GPE,11278
+Colorado,GPE,11278
+Connecticut,GPE,11278
+Delaware,GPE,11278
+Florida,GPE,11278
+Georgia,GPE,11278
+Hawaii,GPE,11278
+Idaho,GPE,11278
+Indiana,GPE,11278
+Iowa,GPE,11278
+Kansas,GPE,11278
+Kentucky,GPE,11278
+Louisiana,GPE,11278
+Maine,GPE,11278
+Maryland,GPE,11278
+Massachusetts,GPE,11278
+Michigan,GPE,11278
+Minnesota,GPE,11278
+Mississippi,GPE,11278
+Missouri,GPE,11278
+Montana,GPE,11278
+Nebraska,GPE,11278
+Nevada,GPE,11278
+New Hampshire,GPE,11278
+New Jersey,GPE,11278
+Ohio,GPE,11278
+Oklahoma,GPE,11278
+Oregon,GPE,11278
+Pennsylvania,GPE,11278
+Rhode Island,GPE,11278
+Tennessee,GPE,11278
+Texas,GPE,11278
+Utah,GPE,11278
+Vermont,GPE,11278
+Virginia,GPE,11278
+Washington,GPE,11278
+Washington,GPE,11278
+D.C.,GPE,11278
+Wisconsin,GPE,11278
+Wyoming,GPE,11278
+US,GPE,11278
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,11278
+Marshall Islands American Samoa Federated States,ORG,11278
+Micronesia Guam,FAC,11278
+Alberta,GPE,11278
+Canada,GPE,11278
+British Columbia,GPE,11278
+Canada Manitoba,GPE,11278
+Canada,GPE,11278
+New Brunswick,GPE,11278
+Canada Newfoundland,PERSON,11278
+Canada,GPE,11278
+Canada,GPE,11278
+Canada Ontario,GPE,11278
+Canada,GPE,11278
+Edward Island,GPE,11278
+Canada Quebec,GPE,11278
+Canada,GPE,11278
+Saskatchewan,GPE,11278
+Canada Yukon Territory,ORG,11278
+Canada,GPE,11278
+Zip Code,PERSON,11278

@@ -1,0 +1,55 @@
+A man shot and killed his girlfriend, then himself early Monday as an Orange County deputy investigating an earlier argument was outside the woman’s apartment writing a report, records show.
+
+Deputies said Patrick Battistello, 50, killed his 24-year-old girlfriend, Kimberly Cuni, in her apartment on Meadow Bend Loop about 2 a.m. before taking his own life.
+
+Orange County spokeswoman Cpl. Rose Silva said Tuesday it was too early to know whether the Sheriff’s Office Professional Standards Section will review what happened early Monday.
+
+Deputy Edgar Castillo wrote that he got to the apartment about 1 a.m.
+
+Cuni told him Battistello was drunk and they were arguing, but said they were not physically fighting.
+
+Castillo said Cuni insisted that she did not want to press charges against her boyfriend. She told the deputy her boyfriend broke her phone during an argument and had a gun, but she just wanted deputies to leave, according to the incident report.
+
+“It should be noted that while speaking to Kimberly I did not observe any visible injuries on her,” Castillo wrote.
+
+Castillo and another deputy, Cpl. Michael Rowland, looked through the apartment and didn’t find anything dangerous, only a broken door jamb Cuni already told them about, the report said. The deputies went back outside.
+
+Castillo wrote that he was waiting for a maintenance worker to come fix Cuni’s door when he heard three gunshots.
+
+“Deputies immediately responded to surround the apartment building,” Castillo wrote. They tried to get Battistello to come outside but didn’t get a response, he wrote. Then they went into the apartment, where they found Cuni and Battistello dead.
+
+The deaths are still under investigation.
+
+glotan@orlandosentinel.com or 407-420-5774
+
+Please consider supporting local journalism by purchasing a digital subscription to the Orlando Sentinel. Click here to get one today.
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #dd1300;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Central Florida Crime Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

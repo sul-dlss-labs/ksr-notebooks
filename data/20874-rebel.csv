@@ -1,0 +1,6 @@
+subject,predicate,object,head,type,tail,fe_id
+East Little Havana,located in the administrative territorial entity,Miami,,,,20874
+,,,Miami,capital of,City of Miami Police Department,20874
+City of Miami Police Department,applies to jurisdiction,Miami,,,,20874
+,,,East Little Havana,located in the administrative territorial entity,Miami,20874
+Miami-Dade Crime Stoppers,located in the administrative territorial entity,Miami,,,,20874

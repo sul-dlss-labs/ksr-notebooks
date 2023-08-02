@@ -1,0 +1,53 @@
+text,label,fe_id
+early morning,TIME,6818
+St. Charles,GPE,6818
+Wednesday,DATE,6818
+one,CARDINAL,6818
+two,CARDINAL,6818
+William D. Steele,PERSON,6818
+28,DATE,6818
+700,CARDINAL,6818
+Ponce Ave,ORG,6818
+St. Louis,GPE,6818
+Steele,PERSON,6818
+Jack Field,PERSON,6818
+21,DATE,6818
+2400,CARDINAL,6818
+Sundance in O'Fallon,ORG,6818
+William D. Steele,PERSON,6818
+28,DATE,6818
+700,CARDINAL,6818
+Ponce Ave,ORG,6818
+St. Louis,GPE,6818
+the Convenient Food Mart,ORG,6818
+2700,CARDINAL,6818
+Droste Road,FAC,6818
+early Wednesday,DATE,6818
+Sgt,PERSON,6818
+Donovan Kenton,PERSON,6818
+the St. Charles Police Department,ORG,6818
+the food mart,ORG,6818
+12:40 a.m.,TIME,6818
+St. Charles,GPE,6818
+Droste Road,WORK_OF_ART,6818
+Steele,PERSON,6818
+Frenchtown,GPE,6818
+St. Charles,GPE,6818
+Steele,PERSON,6818
+Kenton,GPE,6818
+Steele,PERSON,6818
+Third,ORDINAL,6818
+Tecumseh,ORG,6818
+Kenton,PERSON,6818
+Steele,PERSON,6818
+Steele,PERSON,6818
+15-year,DATE,6818
+Kenton,GPE,6818
+Steele,PERSON,6818
+first,ORDINAL,6818
+Steele,PERSON,6818
+"500,000",MONEY,6818
+Felony,ORG,6818
+first,ORDINAL,6818
+10 years,DATE,6818
+three or more years,DATE,6818

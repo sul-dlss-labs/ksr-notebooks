@@ -1,0 +1,37 @@
+text,label,fe_id
+Monday,DATE,24352
+two,CARDINAL,24352
+San Diego,GPE,24352
+two,CARDINAL,24352
+San Diego,GPE,24352
+David Nisleit,PERSON,24352
+Office,ORG,24352
+Shawn Boggeman,PERSON,24352
+Francisco Roman,PERSON,24352
+Joseph,PERSON,24352
+28-year-old,DATE,24352
+around 10:15 p.m.,TIME,24352
+"June 23, 2018",DATE,24352
+Darwish,NORP,24352
+"DA’s Office Clears Two San Diego Officers In Fatal College-Area Shooting
+
+Firefighters",ORG,24352
+Darwish,ORG,24352
+last year,DATE,24352
+18-year,DATE,24352
+Dan Bihum,PERSON,24352
+Boggeman,PERSON,24352
+Roman,ORG,24352
+Roman,NORP,24352
+40,CARDINAL,24352
+Darwish,NORP,24352
+at least 22,CARDINAL,24352
+Darwish,NORP,24352
+Boggeman,PERSON,24352
+9mm,QUANTITY,24352
+D.A.,ORG,24352
+Darwish,ORG,24352
+around 20 minutes,TIME,24352
+Boggeman,PERSON,24352
+about 30,CARDINAL,24352
+Summer Stephan,PERSON,24352

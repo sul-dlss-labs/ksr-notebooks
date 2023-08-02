@@ -1,0 +1,14 @@
+text,label,fe_id
+two,CARDINAL,21262
+third,ORDINAL,21262
+third,ORDINAL,21262
+two,CARDINAL,21262
+16-year-old,DATE,21262
+Benjamin Hamblin,PERSON,21262
+18-year-old,DATE,21262
+Christopher Darice Brown,PERSON,21262
+Dodge Ram,ORG,21262
+Kroger,ORG,21262
+two,CARDINAL,21262
+Kroger,ORG,21262
+James Berlin,PERSON,21262

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,19020
+Alabama,GPE,19020
+Alaska,GPE,19020
+Arizona,GPE,19020
+Arkansas,GPE,19020
+California,GPE,19020
+Colorado,GPE,19020
+Connecticut,GPE,19020
+Delaware,GPE,19020
+Florida,GPE,19020
+Georgia,GPE,19020
+Hawaii,GPE,19020
+Idaho,GPE,19020
+Indiana,GPE,19020
+Iowa,GPE,19020
+Kansas,GPE,19020
+Kentucky,GPE,19020
+Louisiana,GPE,19020
+Maine,GPE,19020
+Maryland,GPE,19020
+Massachusetts,GPE,19020
+Michigan,GPE,19020
+Minnesota,GPE,19020
+Mississippi,GPE,19020
+Missouri,GPE,19020
+Montana,GPE,19020
+Nebraska,GPE,19020
+Nevada,GPE,19020
+New Hampshire,GPE,19020
+New Jersey,GPE,19020
+Ohio,GPE,19020
+Oklahoma,GPE,19020
+Oregon,GPE,19020
+Pennsylvania,GPE,19020
+Rhode Island,GPE,19020
+Tennessee,GPE,19020
+Texas,GPE,19020
+Utah,GPE,19020
+Vermont,GPE,19020
+Virginia,GPE,19020
+Washington,GPE,19020
+Washington,GPE,19020
+D.C.,GPE,19020
+Wisconsin,GPE,19020
+Wyoming,GPE,19020
+US,GPE,19020
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,19020
+Marshall Islands American Samoa Federated States,ORG,19020
+Micronesia Guam,FAC,19020
+Alberta,GPE,19020
+Canada,GPE,19020
+British Columbia,GPE,19020
+Canada Manitoba,GPE,19020
+Canada,GPE,19020
+New Brunswick,GPE,19020
+Canada Newfoundland,PERSON,19020
+Canada,GPE,19020
+Canada,GPE,19020
+Canada Ontario,GPE,19020
+Canada,GPE,19020
+Edward Island,GPE,19020
+Canada Quebec,GPE,19020
+Canada,GPE,19020
+Saskatchewan,GPE,19020
+Canada Yukon Territory,ORG,19020
+Canada,GPE,19020
+Zip Code,PERSON,19020

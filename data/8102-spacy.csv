@@ -1,0 +1,60 @@
+text,label,fe_id
+yesterday,DATE,8102
+Adams Morgan,ORG,8102
+18th Street,FAC,8102
+one,CARDINAL,8102
+three,CARDINAL,8102
+eight hours,TIME,8102
+late Friday,DATE,8102
+early yesterday,DATE,8102
+two,CARDINAL,8102
+about 3 a.m.,TIME,8102
+Adams Morgan,PERSON,8102
+Two,CARDINAL,8102
+two,CARDINAL,8102
+One,CARDINAL,8102
+18-year-old,DATE,8102
+Michael Griffin,PERSON,8102
+Kalorama Road and Champlain Street,FAC,8102
+Northwest Washington,GPE,8102
+3rd,ORDINAL,8102
+District Tactical Unit,ORG,8102
+Cathy L. Lanier,PERSON,8102
+Lanier,ORG,8102
+Griffin,GPE,8102
+1400,CARDINAL,8102
+Fairmont Street NW,FAC,8102
+8:45 a.m.,TIME,8102
+Less than four hours,TIME,8102
+the Adams Morgan incident,ORG,8102
+32-year-old,DATE,8102
+4200,CARDINAL,8102
+Fourth Street,FAC,8102
+Michael G. Colbert,PERSON,8102
+1500,CARDINAL,8102
+V Street,FAC,8102
+first,ORDINAL,8102
+three,CARDINAL,8102
+overnight,TIME,8102
+Marcus Robinson,PERSON,8102
+20,DATE,8102
+600,CARDINAL,8102
+Morton Street NW,FAC,8102
+about 11 p.m.,TIME,8102
+Friday,DATE,8102
+3000,CARDINAL,8102
+14th Street,FAC,8102
+Thursday,DATE,8102
+night,TIME,8102
+five,CARDINAL,8102
+Friday,DATE,8102
+three,CARDINAL,8102
+four,CARDINAL,8102
+Adrian M. Fenty,PERSON,8102
+Fenty,ORG,8102
+summer,DATE,8102
+Fenty,ORG,8102
+the D.C. Council,ORG,8102
+Lanier,ORG,8102
+one,CARDINAL,8102
+the past five months,DATE,8102

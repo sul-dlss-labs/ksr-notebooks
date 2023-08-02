@@ -1,0 +1,95 @@
+Soon after he joined the Orange County Sheriff’s Office in 1996, Rick Stelter helped start a unit to keep tabs on juvenile offenders with the hope that they would be less likely to commit crimes in the future.
+
+On Tuesday, he was shot by Christopher Redding Jr., 20, who was convicted of attempted murder at 17 and recently released from prison, Orange County Sheriff Jerry Demings said.
+
+Stelter, now a 45-year-old sergeant, was in stable condition after the shooting, Demings said at a news conference at Orlando Regional Medical Center.
+
+“He is able to communicate; he’s in relatively good spirits,” Demings said.
+
+Three other deputies fired back at Redding, killing him.
+
+A 20-year-old woman was driving the car Redding was in at Savannah at Park Central apartments, near John Young Parkway and Americana Boulevard, when Redding started firing, Demings said. Stelter was shot several times, and the woman was shot in the arm.
+
+Two children, a 1-year-old girl and a 4-month-old boy, were in the back seat. They were not hurt.
+
+Redding kept shooting as he got out and ran, with deputies in pursuit. The shooting happened in the parking lot near some mailboxes.
+
+“The suspect began firing upon deputies first,” Demings said.
+
+Stelter was one of four deputies in an investigative surveillance squad trying to arrest Redding about 11:45 a.m. for a suspected probation violation and several robberies of elderly women, some of whom were badly injured.
+
+Redding’s body was surrounded by barriers and police vehicles as deputies took photos and put down evidence markers.
+
+About 2:15 p.m., a medical examiner’s van pulled into the complex. Workers in scrubs took Redding’s body away about 3:30 p.m.
+
+Neighbor Ashley Bliss said she heard three gunshots.
+
+“They sounded like they were right here,” she said pointing to the parking lot where the shooting happened.
+
+Apartment-complex management sent residents an email shortly after the incident, telling them to “stay indoors and remain calm.”
+
+Bliss said while the area around the complex is known for crime, the complex itself is quiet because it is gated and has 24-hour security.
+
+“It’s surprising that this would happen here,” she said.
+
+Neighbor Jaime Stout said she heard “three loud noises and a lot of sirens.”
+
+She said she wasn’t sure what happened.
+
+“It’s worrisome,” she said. “It makes you nervous because you don’t know what’s going on.”
+
+The warrant for Redding was for a series of three robberies — two in Orange County and one in Orlando — in which the elderly women were injured when four suspects snatched their purses.
+
+One of the victims needed a shoulder replacement; another required shoulder surgery. The attacks happened at The Mall at Millenia, Florida Mall and on Apopka-Vineland Road.
+
+Stelter has been with the department for nearly 21 years, Demings said. In the late 1990s, he was one of the founding members of a program called Juvenile Arrest and Monitoring, or JAM, a 2000 Orlando Sentinel article shows. Deputies and probation officers in the program helped keep an eye on teenagers with criminal records.
+
+The program was considered successful, and the sheriff at the time, Kevin Beary, often said that 83 percent of the young people monitored did not reoffend.
+
+In June 2000, Stelter broke his leg while arresting a 17-year-old he had been tracking for two months, according to the Sentinel article.
+
+On Tuesday, Stelter’s wife was with him at the hospital as he recovered. They have three children, ages 25, 20 and 14, Demings said.
+
+Orange County deputies gathered outside the emergency room entrance at Orlando Regional Medical Center as employees put up blue tarps to conceal people coming in and out of the hospital. They stood by, keeping watch and calmly talking to one another.
+
+Stelter and the other three deputies will be reassigned to administrative duties as the Florida Department of Law Enforcement investigates the shootings.
+
+The Orlando Police Department tweeted that it is “standing with our brothers and sisters” at the Sheriff’s Office and “praying for the deputy’s speedy recovery.”
+
+This shooting comes three days after two Casselberry Police Department officers were injured by shotgun pellets in a shooting during a domestic violence call. The gunman killed himself.
+
+And last month, Orlando Police Lt. Debra Clayton was fatally shot at a Wal-Mart at Princeton Street and John Young Parkway. After a days-long manhunt, Markeith Loyd was arrested and charged with first-degree murder in her death.
+
+Staff writer Stephanie Allen contributed to this report.
+
+glotan@orlandosentinel.com or 407-420-5774; dharris@orlandosentinel.com or 407-420-5471
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #dd1300;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Central Florida Crime Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

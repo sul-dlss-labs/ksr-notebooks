@@ -1,0 +1,57 @@
+text,label,fe_id
+Monday,DATE,11853
+two,CARDINAL,11853
+Richard L. Chacon Jr.,PERSON,11853
+32,DATE,11853
+Salinas,GPE,11853
+Friday,DATE,11853
+Walmart,ORG,11853
+the day before,DATE,11853
+Miguel Cabrera,PERSON,11853
+Chacon,ORG,11853
+Walmart,ORG,11853
+around 1 p.m.,TIME,11853
+1900,CARDINAL,11853
+Constitution Boulevard,FAC,11853
+Chacon,ORG,11853
+Cabrera,PERSON,11853
+two,CARDINAL,11853
+Chacon,ORG,11853
+Cabrera,PERSON,11853
+Chacon,ORG,11853
+Chacon,ORG,11853
+Walmart,ORG,11853
+1800,CARDINAL,11853
+N. Main St.,PERSON,11853
+about 10:15 a.m.,TIME,11853
+Thursday,DATE,11853
+Cabrera,PERSON,11853
+Chacon,ORG,11853
+Friday,DATE,11853
+Chacon”s,ORG,11853
+SWAT,ORG,11853
+Constitution,EVENT,11853
+Chacon,ORG,11853
+early Saturday,DATE,11853
+two,CARDINAL,11853
+first,ORDINAL,11853
+Constitution Boulevard,FAC,11853
+Chacon,ORG,11853
+two,CARDINAL,11853
+Walmart,ORG,11853
+Cabrera,PERSON,11853
+Paloma Avenue,FAC,11853
+the day,DATE,11853
+Jose Eliseo Agustin,PERSON,11853
+21,DATE,11853
+Agustin,PERSON,11853
+late Thursday,DATE,11853
+Monterey County Jail,GPE,11853
+Monday,DATE,11853
+Agustin,GPE,11853
+Chacon,ORG,11853
+Chacon,ORG,11853
+Agustin,GPE,11853
+Monterey County,GPE,11853
+Julia Reynolds,PERSON,11853
+648-1187,DATE,11853

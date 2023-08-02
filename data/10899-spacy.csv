@@ -1,0 +1,22 @@
+text,label,fe_id
+Alameda County,GPE,10899
+Livermore,ORG,10899
+Wednesday,DATE,10899
+25-year-old,DATE,10899
+James Peeff,PERSON,10899
+Walnut Creek,GPE,10899
+about 11:50 p.m.,TIME,10899
+Peeff,GPE,10899
+Second Street,FAC,10899
+Holmes Street,FAC,10899
+Peeff,GPE,10899
+Holmes Street,FAC,10899
+Peef,PERSON,10899
+Holmes,GPE,10899
+Fourth,ORDINAL,10899
+Ford,ORG,10899
+"Fourth
+
+Street",GPE,10899
+Peeff,GPE,10899
+ValleyCare Medical Center,ORG,10899

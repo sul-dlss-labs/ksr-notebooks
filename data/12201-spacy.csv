@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,12201
+Alabama,GPE,12201
+Alaska,GPE,12201
+Arizona,GPE,12201
+Arkansas,GPE,12201
+California,GPE,12201
+Colorado,GPE,12201
+Connecticut,GPE,12201
+Delaware,GPE,12201
+Florida,GPE,12201
+Georgia,GPE,12201
+Hawaii,GPE,12201
+Idaho,GPE,12201
+Indiana,GPE,12201
+Iowa,GPE,12201
+Kansas,GPE,12201
+Kentucky,GPE,12201
+Louisiana,GPE,12201
+Maine,GPE,12201
+Maryland,GPE,12201
+Massachusetts,GPE,12201
+Michigan,GPE,12201
+Minnesota,GPE,12201
+Mississippi,GPE,12201
+Missouri,GPE,12201
+Montana,GPE,12201
+Nebraska,GPE,12201
+Nevada,GPE,12201
+New Hampshire,GPE,12201
+New Jersey,GPE,12201
+Ohio,GPE,12201
+Oklahoma,GPE,12201
+Oregon,GPE,12201
+Pennsylvania,GPE,12201
+Rhode Island,GPE,12201
+Tennessee,GPE,12201
+Texas,GPE,12201
+Utah,GPE,12201
+Vermont,GPE,12201
+Virginia,GPE,12201
+Washington,GPE,12201
+Washington,GPE,12201
+D.C.,GPE,12201
+Wisconsin,GPE,12201
+Wyoming,GPE,12201
+US,GPE,12201
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,12201
+Marshall Islands American Samoa Federated States,ORG,12201
+Micronesia Guam,FAC,12201
+Alberta,GPE,12201
+Canada,GPE,12201
+British Columbia,GPE,12201
+Canada Manitoba,GPE,12201
+Canada,GPE,12201
+New Brunswick,GPE,12201
+Canada Newfoundland,PERSON,12201
+Canada,GPE,12201
+Canada,GPE,12201
+Canada Ontario,GPE,12201
+Canada,GPE,12201
+Edward Island,GPE,12201
+Canada Quebec,GPE,12201
+Canada,GPE,12201
+Saskatchewan,GPE,12201
+Canada Yukon Territory,ORG,12201
+Canada,GPE,12201
+Zip Code,PERSON,12201

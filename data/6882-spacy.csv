@@ -1,0 +1,287 @@
+text,label,fe_id
+State,ORG,6882
+Bridgeport,GPE,6882
+"January 31, 2008",DATE,6882
+"July 15, 2008",DATE,6882
+Background,FAC,6882
+Sergeant Brian Fitzgerald,PERSON,6882
+Decedent,GPE,6882
+Autopsy,PRODUCT,6882
+Scene,NORP,6882
+Witnesses,NORP,6882
+"Observations and Conclusion
+
+I. INVESTIGATION
+
+",ORG,6882
+"Shortly after 11:00 pm, January 31, 2008, on the grounds of the Success Village Apartments",WORK_OF_ART,6882
+Frederick Devon McAllister,PERSON,6882
+Bridgeport,GPE,6882
+State,ORG,6882
+Fairfield,GPE,6882
+Connecticut,GPE,6882
+51-277a,CARDINAL,6882
+section 53a-22,LAW,6882
+1,CARDINAL,6882
+third,ORDINAL,6882
+2,CARDINAL,6882
+Pursuant to Division of Criminal Justice,WORK_OF_ART,6882
+State,ORG,6882
+the Bridgeport Police Department,ORG,6882
+Connecticut State,ORG,6882
+Western District,LOC,6882
+CSP Troop,ORG,6882
+the Office of the Chief Medical Examiner,ORG,6882
+Farmington,GPE,6882
+the State Police Forensic Science Laboratory,ORG,6882
+Meriden,GPE,6882
+II,CARDINAL,6882
+the Bridgeport Police Department,FAC,6882
+One,CARDINAL,6882
+January 31,DATE,6882
+2:30 pm to 10:30 pm,TIME,6882
+10:30 pm,TIME,6882
+6:30 am,TIME,6882
+one,CARDINAL,6882
+Justin Dewitt Ellerby,ORG,6882
+Ellerby,ORG,6882
+the State of South Carolina,GPE,6882
+Chevrolet Tahoe,ORG,6882
+Suburban,PRODUCT,6882
+Ellerby,PERSON,6882
+approximately 8:30 pm,TIME,6882
+Bridgeport,GPE,6882
+Tactical Narcotics Team,ORG,6882
+TNT,ORG,6882
+Justin Ellerby,PERSON,6882
+Desert Eagle,PERSON,6882
+Chevy Tahoe,ORG,6882
+Hewitt Street,FAC,6882
+TNT,ORG,6882
+Hewitt Street,FAC,6882
+Ellerby,GPE,6882
+the next hour,TIME,6882
+One,CARDINAL,6882
+William Reilly,PERSON,6882
+Shortly before 11:00 pm,TIME,6882
+two,CARDINAL,6882
+African-American,NORP,6882
+Hewitt Street,FAC,6882
+the Chevy Tahoe,ORG,6882
+Stratford Avenue,FAC,6882
+Reilly,PERSON,6882
+second,ORDINAL,6882
+Reilly,PERSON,6882
+the Chevy Tahoe,ORG,6882
+Bishop Avenue,FAC,6882
+Cross Street,FAC,6882
+Willow Street,FAC,6882
+Boston Avenue,FAC,6882
+Boston,GPE,6882
+CVS,ORG,6882
+Carriage Avenue,FAC,6882
+Sergeant Brian Fitzgerald,PERSON,6882
+Granfield Avenue,FAC,6882
+Success Village,LOC,6882
+BRIAN FITZGERALD,PERSON,6882
+"January 31, 2008",DATE,6882
+Fitzgerald,PERSON,6882
+2:30 pm to 10:30 pm,TIME,6882
+Justin Dewitt Ellerby,ORG,6882
+8:30 pm,TIME,6882
+Ellerby,LOC,6882
+Hewitt Street,FAC,6882
+Chevy Tahoe,ORG,6882
+Hewitt Street,FAC,6882
+Fitzgerald,PERSON,6882
+Barnum Avenue,FAC,6882
+Hallet Street,FAC,6882
+approximately 11:00 pm,TIME,6882
+Sergeant Fitzgerald,PERSON,6882
+Officer Reilly,EVENT,6882
+the Chevy Tahoe,ORG,6882
+Hewitt Street,FAC,6882
+Bishop Avenue,FAC,6882
+Fitzgerald,PERSON,6882
+Barnum Avenue,FAC,6882
+Barnum,PERSON,6882
+Willow,PRODUCT,6882
+Fitzgerald,PERSON,6882
+Boston Avenue,FAC,6882
+CVS,ORG,6882
+Boston,GPE,6882
+Fitzgerald,PERSON,6882
+Granfield Avenue,FAC,6882
+Success Village,GPE,6882
+Carriage Avenue,FAC,6882
+Granfield,ORG,6882
+four foot,QUANTITY,6882
+seventy-five yards,QUANTITY,6882
+a stop thirty feet,QUANTITY,6882
+Granfield Avenue,FAC,6882
+Sergeant Fitzgerald,PERSON,6882
+about thirty feet,QUANTITY,6882
+ninety degree,QUANTITY,6882
+Fitzgerald,PERSON,6882
+Fitzgerald,PERSON,6882
+Fitzgerald,PERSON,6882
+Fitzgerald,PERSON,6882
+three,CARDINAL,6882
+three,CARDINAL,6882
+one,CARDINAL,6882
+Fitzgerald,PERSON,6882
+Success Village Apartments,ORG,6882
+Fitzgerald,PERSON,6882
+second,ORDINAL,6882
+second,ORDINAL,6882
+Sergeant Fitzgerald,PERSON,6882
+approximately one hundred yards,QUANTITY,6882
+22,CARDINAL,6882
+21,DATE,6882
+21,CARDINAL,6882
+19,CARDINAL,6882
+20,CARDINAL,6882
+four foot,QUANTITY,6882
+Fitzgerald,PERSON,6882
+Fitzgerald,PERSON,6882
+second,ORDINAL,6882
+one,CARDINAL,6882
+approximately fifty yards,QUANTITY,6882
+one hundred-fifty,CARDINAL,6882
+Bridgeport Hospital,FAC,6882
+Sgt Fitzgerald,PERSON,6882
+Fred Brown,PERSON,6882
+IV,GPE,6882
+"DECEDENT
+
+Investigation",ORG,6882
+Sgt,PERSON,6882
+Fitzgerald,PERSON,6882
+Justin Ellerby,PERSON,6882
+the Chevy Tahoe,ORG,6882
+South Carolina,GPE,6882
+I.D.,ORG,6882
+Frederick Devon McAllister,PERSON,6882
+11/11/72,CARDINAL,6882
+Bridgeport,GPE,6882
+McAllister,PERSON,6882
+Fred Brown,PERSON,6882
+FBI,ORG,6882
+McAllister,PERSON,6882
+South Carolina,GPE,6882
+2000,DATE,6882
+eight years,DATE,6882
+McAllister/Brown,ORG,6882
+Justin Ellerby,PERSON,6882
+Bridgeport,GPE,6882
+five grams,QUANTITY,6882
+Connecticut,GPE,6882
+Approximately seven weeks,DATE,6882
+McAllister,PERSON,6882
+McAllister,PERSON,6882
+State,ORG,6882
+Farmington,GPE,6882
+2/1/08,CARDINAL,6882
+Edward T. McDonough III,PERSON,6882
+McDonough,PERSON,6882
+approximately one hundred and fifty,CARDINAL,6882
+McDonough,PERSON,6882
+McAllister,PERSON,6882
+Sgt,PERSON,6882
+Fitzgerald,PERSON,6882
+second,ORDINAL,6882
+three,CARDINAL,6882
+McAllister,PERSON,6882
+Western District,LOC,6882
+The Burgundy Chevrolet Tahoe,ORG,6882
+five,CARDINAL,6882
+38,CARDINAL,6882
+Sergeant Fitzgerald,PERSON,6882
+McAllister,PERSON,6882
+Blackberry,ORG,6882
+Fred Brown,PERSON,6882
+Connecticut,GPE,6882
+Tahoe,LOC,6882
+half,CARDINAL,6882
+1,MONEY,6882
+Seven,CARDINAL,6882
+cartridge,PERSON,6882
+Six,CARDINAL,6882
+Sergeant Fitzgerald’s,PERSON,6882
+two,CARDINAL,6882
+three,CARDINAL,6882
+McAllister,PERSON,6882
+seventh,ORDINAL,6882
+19,CARDINAL,6882
+20,DATE,6882
+twenty feet,QUANTITY,6882
+Fitzgerald,PERSON,6882
+the Granfield Avenue - Success Village,ORG,6882
+1,MONEY,6882
+Success Village,GPE,6882
+Granfield Avenue,FAC,6882
+one,CARDINAL,6882
+Success Village,GPE,6882
+Hispanic,NORP,6882
+Caucasian,NORP,6882
+2,MONEY,6882
+Granfield Avenue,FAC,6882
+about 11:00pm,CARDINAL,6882
+between seven and nine,CARDINAL,6882
+two,CARDINAL,6882
+#3,CARDINAL,6882
+Success Avenue,FAC,6882
+two,CARDINAL,6882
+Success Avenue,FAC,6882
+Court A,ORG,6882
+Success Village,GPE,6882
+Court A,ORG,6882
+Court,ORG,6882
+D.,NORP,6882
+Hispanic,NORP,6882
+#1,CARDINAL,6882
+4,MONEY,6882
+Granfield Avenue,FAC,6882
+five to seven,CARDINAL,6882
+#1 and #3,MONEY,6882
+5,MONEY,6882
+20,CARDINAL,6882
+African-American,NORP,6882
+6,MONEY,6882
+Success Village,GPE,6882
+more than one,CARDINAL,6882
+two,CARDINAL,6882
+seven,CARDINAL,6882
+less than fifteen,CARDINAL,6882
+20,CARDINAL,6882
+McAllister’s,ORG,6882
+only minutes,TIME,6882
+Sergeant Fitzgerald,PERSON,6882
+Fitzgerald,PERSON,6882
+Two,CARDINAL,6882
+First,ORDINAL,6882
+Frederick McAllister,PERSON,6882
+Second,ORDINAL,6882
+McAllister,PERSON,6882
+Success Village,GPE,6882
+Sergeant Fitzgerald’s,PERSON,6882
+Conn.,GPE,6882
+McAllister,ORG,6882
+1,CARDINAL,6882
+2,CARDINAL,6882
+Ellerby,LOC,6882
+night,TIME,6882
+Fitzgerald,PERSON,6882
+first,ORDINAL,6882
+three,CARDINAL,6882
+second,ORDINAL,6882
+three,CARDINAL,6882
+McAllister,PERSON,6882
+Sergeant Fitzgerald,PERSON,6882
+McAllister,PERSON,6882
+"Jonathan C. Benedict
+
+",PERSON,6882
+State,ORG,6882
+Judicial District,GPE,6882
+Fairfield,GPE,6882

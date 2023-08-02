@@ -1,0 +1,57 @@
+text,label,fe_id
+About a dozen,CARDINAL,5576
+Wednesday,DATE,5576
+morning,TIME,5576
+Montgomery Police,ORG,5576
+four,CARDINAL,5576
+last September and,DATE,5576
+October,DATE,5576
+one,CARDINAL,5576
+Perry Simmons,PERSON,5576
+Simmons,PERSON,5576
+Simmons,PERSON,5576
+three,CARDINAL,5576
+the last three months,DATE,5576
+Katrina Simmons,PERSON,5576
+Perry Simmons',PERSON,5576
+Simmons,ORG,5576
+five,CARDINAL,5576
+Simmons,PERSON,5576
+Jackson Hospital,ORG,5576
+six,CARDINAL,5576
+nine,CARDINAL,5576
+Simmons,PERSON,5576
+Simmons,PERSON,5576
+Forensic Sciences,ORG,5576
+Art Baylor,PERSON,5576
+Katrina Simmons,PERSON,5576
+WSFA,ORG,5576
+MPD,ORG,5576
+Simmons,PERSON,5576
+one,CARDINAL,5576
+four,CARDINAL,5576
+Annie Jemison,PERSON,5576
+October,DATE,5576
+25 year old,DATE,5576
+Cedrick Brown,PERSON,5576
+one,CARDINAL,5576
+Brown,PERSON,5576
+Jemison,PERSON,5576
+Brown,PERSON,5576
+five feet one inch,QUANTITY,5576
+110 pounds,QUANTITY,5576
+four,CARDINAL,5576
+Jemison,PERSON,5576
+Jemison,PERSON,5576
+four,CARDINAL,5576
+Jemison,PERSON,5576
+Art Baylor,PERSON,5576
+ABI,ORG,5576
+Brown,PERSON,5576
+Brown,PERSON,5576
+Baylor,PERSON,5576
+Brown,PERSON,5576
+ABI,ORG,5576
+Montgomery County District,GPE,5576
+Jemison,PERSON,5576
+Cedrick Brown,PERSON,5576

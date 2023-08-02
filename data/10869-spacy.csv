@@ -1,0 +1,23 @@
+text,label,fe_id
+Roberto Rodriguez,PERSON,10869
+32-year-old,DATE,10869
+Latino,PERSON,10869
+"Saturday, Dec. 17",DATE,10869
+400,CARDINAL,10869
+Solano Avenue,FAC,10869
+Elysian Park,GPE,10869
+Los Angeles County,GPE,10869
+5 a.m.,TIME,10869
+Rodriguez,ORG,10869
+Metrolink,PERSON,10869
+Steve Whitmore,PERSON,10869
+the Los Angeles County Sheriff’s Department,ORG,10869
+"Rodriguez, Whitmore",ORG,10869
+half an hour later,TIME,10869
+Los Angeles Fire Department,ORG,10869
+Fire Department,ORG,10869
+323,CARDINAL,10869
+890-5500,CARDINAL,10869
+Crime Stoppers,PERSON,10869
+222,CARDINAL,10869
+Sam Quinones,PERSON,10869

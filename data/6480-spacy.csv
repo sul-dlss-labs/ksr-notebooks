@@ -1,0 +1,21 @@
+text,label,fe_id
+PERSON COUNTY,GPE,6480
+N.C.,GPE,6480
+28-year-old,DATE,6480
+Durham,PERSON,6480
+Monday afternoon,TIME,6480
+U.S. Highway,FAC,6480
+501,CARDINAL,6480
+the Durham-Person County,FAC,6480
+the Person County Sheriff’s Office,ORG,6480
+Leon Davis,PERSON,6480
+Earl Bailey,PERSON,6480
+second,ORDINAL,6480
+the Roxboro Police Department,ORG,6480
+Davis,PERSON,6480
+about 500 yards,QUANTITY,6480
+David Hess,PERSON,6480
+Roxboro,PERSON,6480
+BOLO,ORG,6480
+Hess,PERSON,6480
+The North Carolina Highway Patrol,ORG,6480

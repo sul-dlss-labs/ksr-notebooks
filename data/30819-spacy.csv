@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,30819
+Alabama,GPE,30819
+Alaska,GPE,30819
+Arizona,GPE,30819
+Arkansas,GPE,30819
+California,GPE,30819
+Colorado,GPE,30819
+Connecticut,GPE,30819
+Delaware,GPE,30819
+Florida,GPE,30819
+Georgia,GPE,30819
+Hawaii,GPE,30819
+Idaho,GPE,30819
+Indiana,GPE,30819
+Iowa,GPE,30819
+Kansas,GPE,30819
+Kentucky,GPE,30819
+Louisiana,GPE,30819
+Maine,GPE,30819
+Maryland,GPE,30819
+Massachusetts,GPE,30819
+Michigan,GPE,30819
+Minnesota,GPE,30819
+Mississippi,GPE,30819
+Missouri,GPE,30819
+Montana,GPE,30819
+Nebraska,GPE,30819
+Nevada,GPE,30819
+New Hampshire,GPE,30819
+New Jersey,GPE,30819
+Ohio,GPE,30819
+Oklahoma,GPE,30819
+Oregon,GPE,30819
+Pennsylvania,GPE,30819
+Rhode Island,GPE,30819
+Tennessee,GPE,30819
+Texas,GPE,30819
+Utah,GPE,30819
+Vermont,GPE,30819
+Virginia,GPE,30819
+Washington,GPE,30819
+Washington,GPE,30819
+D.C.,GPE,30819
+Wisconsin,GPE,30819
+Wyoming,GPE,30819
+US,GPE,30819
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,30819
+Marshall Islands American Samoa Federated States,ORG,30819
+Micronesia Guam,FAC,30819
+Alberta,GPE,30819
+Canada,GPE,30819
+British Columbia,GPE,30819
+Canada Manitoba,GPE,30819
+Canada,GPE,30819
+New Brunswick,GPE,30819
+Canada Newfoundland,PERSON,30819
+Canada,GPE,30819
+Canada,GPE,30819
+Canada Ontario,GPE,30819
+Canada,GPE,30819
+Edward Island,GPE,30819
+Canada Quebec,GPE,30819
+Canada,GPE,30819
+Saskatchewan,GPE,30819
+Canada Yukon Territory,ORG,30819
+Canada,GPE,30819
+Zip Code,PERSON,30819

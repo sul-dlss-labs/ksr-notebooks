@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,30880
+Alabama,GPE,30880
+Alaska,GPE,30880
+Arizona,GPE,30880
+Arkansas,GPE,30880
+California,GPE,30880
+Colorado,GPE,30880
+Connecticut,GPE,30880
+Delaware,GPE,30880
+Florida,GPE,30880
+Georgia,GPE,30880
+Hawaii,GPE,30880
+Idaho,GPE,30880
+Indiana,GPE,30880
+Iowa,GPE,30880
+Kansas,GPE,30880
+Kentucky,GPE,30880
+Louisiana,GPE,30880
+Maine,GPE,30880
+Maryland,GPE,30880
+Massachusetts,GPE,30880
+Michigan,GPE,30880
+Minnesota,GPE,30880
+Mississippi,GPE,30880
+Missouri,GPE,30880
+Montana,GPE,30880
+Nebraska,GPE,30880
+Nevada,GPE,30880
+New Hampshire,GPE,30880
+New Jersey,GPE,30880
+Ohio,GPE,30880
+Oklahoma,GPE,30880
+Oregon,GPE,30880
+Pennsylvania,GPE,30880
+Rhode Island,GPE,30880
+Tennessee,GPE,30880
+Texas,GPE,30880
+Utah,GPE,30880
+Vermont,GPE,30880
+Virginia,GPE,30880
+Washington,GPE,30880
+Washington,GPE,30880
+D.C.,GPE,30880
+Wisconsin,GPE,30880
+Wyoming,GPE,30880
+US,GPE,30880
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,30880
+Marshall Islands American Samoa Federated States,ORG,30880
+Micronesia Guam,FAC,30880
+Alberta,GPE,30880
+Canada,GPE,30880
+British Columbia,GPE,30880
+Canada Manitoba,GPE,30880
+Canada,GPE,30880
+New Brunswick,GPE,30880
+Canada Newfoundland,PERSON,30880
+Canada,GPE,30880
+Canada,GPE,30880
+Canada Ontario,GPE,30880
+Canada,GPE,30880
+Edward Island,GPE,30880
+Canada Quebec,GPE,30880
+Canada,GPE,30880
+Saskatchewan,GPE,30880
+Canada Yukon Territory,ORG,30880
+Canada,GPE,30880
+Zip Code,PERSON,30880

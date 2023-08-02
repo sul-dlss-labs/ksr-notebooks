@@ -1,0 +1,37 @@
+text,label,fe_id
+George Sanders,PERSON,7604
+Samuel Giles,PERSON,7604
+Wednesday,DATE,7604
+night,TIME,7604
+One,CARDINAL,7604
+three,CARDINAL,7604
+two,CARDINAL,7604
+four,CARDINAL,7604
+North Pass Road,LOC,7604
+the Northern Boulevard,LOC,7604
+four,CARDINAL,7604
+Three,CARDINAL,7604
+One,CARDINAL,7604
+16-year-old,DATE,7604
+Roderick Johnson,PERSON,7604
+early Thursday,TIME,7604
+morning,TIME,7604
+19-year-old,DATE,7604
+George Sanders,PERSON,7604
+38-year-old,DATE,7604
+Samuel Giles,PERSON,7604
+19-year-old,DATE,7604
+Harrison Giles,PERSON,7604
+seven,CARDINAL,7604
+the Montgomery County Dentention Facility,ORG,7604
+Samuel Giles,PERSON,7604
+"800,000",MONEY,7604
+Harrison Giles,PERSON,7604
+$1 million,MONEY,7604
+16-year-old,DATE,7604
+afterthe Alabama Bureau of Investigation,ORG,7604
+Johnson,PERSON,7604
+Baptist South,LOC,7604
+seven,CARDINAL,7604
+four,CARDINAL,7604
+one,CARDINAL,7604

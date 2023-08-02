@@ -1,0 +1,14 @@
+text,label,fe_id
+Weather Alert,PERSON,16010
+8 PM,TIME,16010
+CDT,ORG,16010
+110 degrees,QUANTITY,16010
+Mississippi,GPE,16010
+8 PM,TIME,16010
+CDT,PERSON,16010
+Wednesday,DATE,16010
+the next several days,DATE,16010
+100-115 degrees,QUANTITY,16010
+the end of the week,DATE,16010
+PRECAUTIONARY,ORG,16010
+&&,ORG,16010

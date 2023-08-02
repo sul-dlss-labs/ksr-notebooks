@@ -1,0 +1,48 @@
+text,label,fe_id
+One,CARDINAL,27216
+two,CARDINAL,27216
+five,CARDINAL,27216
+Far South Side,EVENT,27216
+Thursday,DATE,27216
+night,TIME,27216
+CHICAGO,GPE,27216
+WLS,ORG,27216
+the Far South Side,LOC,27216
+Thursday,DATE,27216
+night,TIME,27216
+10200,CARDINAL,27216
+South Wentworth Avenue,FAC,27216
+Chicago,GPE,27216
+Roseland,NORP,27216
+around 7:20 p.m.,TIME,27216
+107th,GPE,27216
+South Wentworth Avenue,LOC,27216
+three,CARDINAL,27216
+University of Chicago Hospital,ORG,27216
+Five,CARDINAL,27216
+Autumn Hill,WORK_OF_ART,27216
+Hill,PERSON,27216
+Tameka Royston,PERSON,27216
+Hill,PERSON,27216
+four and a half months,DATE,27216
+8-year-old,DATE,27216
+one,CARDINAL,27216
+Hill,PERSON,27216
+the Jeep Grand Cherokee,ORG,27216
+First,ORDINAL,27216
+Chaos,PRODUCT,27216
+Hill,PERSON,27216
+three,CARDINAL,27216
+Hill,PERSON,27216
+Jeep Grand Cherokee,ORG,27216
+December 10,DATE,27216
+2000,DATE,27216
+East 95th Street,LOC,27216
+102nd,GPE,27216
+Chicago,GPE,27216
+Rocco Alioto,PERSON,27216
+Autumn,DATE,27216
+the holidays,DATE,27216
+Hill,PERSON,27216
+Chicago,GPE,27216
+The Civilian Office of Police Accountability,ORG,27216

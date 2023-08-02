@@ -1,0 +1,100 @@
+text,label,fe_id
+every day,DATE,29003
+Today,DATE,29003
+all year long,DATE,29003
+daily,DATE,29003
+last month,DATE,29003
+Los Angeles County Sheriff's,GPE,29003
+Harbor-UCLA Medical Center,ORG,29003
+Nicholas Burgos,ORG,29003
+Nov. 1,DATE,29003
+nearly a month,DATE,29003
+the Los Angeles County Medical Examiner-Coroner's,ORG,29003
+38-year-old,DATE,29003
+Burgos,ORG,29003
+Burgos,ORG,29003
+Benjamin,PERSON,29003
+LAist Sunday night,EVENT,29003
+Harbor-UCLA,ORG,29003
+clinicians,NORP,29003
+Harbor-UCLA Medical Center,ORG,29003
+October,DATE,29003
+Nicholas Burgos,ORG,29003
+Mark-Anthony Clayton-Johnson,PERSON,29003
+the Frontline Wellness Network,ORG,29003
+second,ORDINAL,29003
+Harbor-UCLA,FAC,29003
+five years,DATE,29003
+2015,DATE,29003
+LAPD,ORG,29003
+Ruben Herrara,FAC,29003
+26-year-old,DATE,29003
+Herrara,GPE,29003
+$3.9 million,MONEY,29003
+The Harbor-UCLA,FAC,29003
+last month,DATE,29003
+the Sheriff's Department,ORG,29003
+nine,CARDINAL,29003
+seven,CARDINAL,29003
+the Sheriff's Department,ORG,29003
+Alex Villanueva,PERSON,29003
+"""The Shining",WORK_OF_ART,29003
+Nicholas Burgos,PERSON,29003
+Nov. 1,DATE,29003
+nearly a month,DATE,29003
+Harbor-UCLA Medical Center,ORG,29003
+Benjamin Burgos,ORG,29003
+Burgos,ORG,29003
+the following weeks,DATE,29003
+Benjamin,PERSON,29003
+Burgos,ORG,29003
+four,CARDINAL,29003
+72-year-old,DATE,29003
+Guatemala,GPE,29003
+second,ORDINAL,29003
+Benjamin Burgos,ORG,29003
+Burgos,ORG,29003
+Benjamin Burgos,ORG,29003
+South L.A.,LOC,29003
+Nicholas,PERSON,29003
+two,CARDINAL,29003
+Nicholas,PERSON,29003
+Benjamin Burgos,ORG,29003
+Benjamin Burgos,ORG,29003
+recent years,DATE,29003
+Benjamin Burgos,ORG,29003
+Robert Ramirez,PERSON,29003
+Nicholas Burgos,ORG,29003
+Josie Huang/,PERSON,29003
+20-year-old,DATE,29003
+Robert Ramirez,PERSON,29003
+Ramirez,PERSON,29003
+Sunday,DATE,29003
+Burgos,ORG,29003
+South L.A.,LOC,29003
+Harbor-UCLA,FAC,29003
+about three months,DATE,29003
+Benjamin Burgos,ORG,29003
+Anish Mahajan,PERSON,29003
+Harbor-UCLA Medical Center,ORG,29003
+Mahajan,PERSON,29003
+the Sheriff's Department,ORG,29003
+the Los Angeles County Board of Supervisors,ORG,29003
+the Office of the Inspector General,ORG,29003
+South L.A.,LOC,29003
+Sunday,DATE,29003
+Nicholas Burgos,ORG,29003
+Josie Huang/LAist,PERSON,29003
+Mahajan,PERSON,29003
+the Sheriff's Department,ORG,29003
+Mahajan,PERSON,29003
+Mahajan,PERSON,29003
+two,CARDINAL,29003
+First,ORDINAL,29003
+second,ORDINAL,29003
+two weeks ago,DATE,29003
+December,DATE,29003
+Mahajan,GPE,29003
+LAist,ORG,29003
+the Sheriff's Department,ORG,29003
+Sunday,DATE,29003

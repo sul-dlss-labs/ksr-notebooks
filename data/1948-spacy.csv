@@ -1,0 +1,532 @@
+text,label,fe_id
+Terrye Martin,PERSON,1948
+Antonio G. Robinson,PERSON,1948
+North Kingshighway,GPE,1948
+38,MONEY,1948
+1988,DATE,1948
+Buick LeSabre,PERSON,1948
+Martin,PERSON,1948
+Buick,FAC,1948
+Martin,ORG,1948
+first,ORDINAL,1948
+Martin,PERSON,1948
+South Central Correctional Center,ORG,1948
+Licking,GPE,1948
+Missouri,GPE,1948
+Martin,PERSON,1948
+Kingshighway,GPE,1948
+Martin,PERSON,1948
+Martin,PERSON,1948
+Kingshighway,GPE,1948
+six,CARDINAL,1948
+Cote Brilliante Avenue,FAC,1948
+Toyota,ORG,1948
+Camry,PRODUCT,1948
+Tyrica Fowler,PERSON,1948
+three,CARDINAL,1948
+Martin,ORG,1948
+nearly 58 mph,QUANTITY,1948
+Six-year-old,DATE,1948
+Derion Brooks,PERSON,1948
+one,CARDINAL,1948
+Fowler,PERSON,1948
+Tyrice Dobbins,ORG,1948
+two years old,DATE,1948
+Nine-year-old,DATE,1948
+Eric Brooks,PERSON,1948
+several weeks,DATE,1948
+Martin,PERSON,1948
+25 years,DATE,1948
+"August 10, 2001",DATE,1948
+at least seventeen,CARDINAL,1948
+St. Louis,GPE,1948
+Missouri,GPE,1948
+seven,CARDINAL,1948
+each year,DATE,1948
+St. Louis,GPE,1948
+five,CARDINAL,1948
+eight,CARDINAL,1948
+Brooks,ORG,1948
+last year,DATE,1948
+at least three,CARDINAL,1948
+65,CARDINAL,1948
+St. Louis County,GPE,1948
+Brooks,ORG,1948
+Fowler,PERSON,1948
+St. Louis,GPE,1948
+today,DATE,1948
+Martin,ORG,1948
+two,CARDINAL,1948
+Robinson,PERSON,1948
+Buick,FAC,1948
+Fowler,PERSON,1948
+Joseph Mokwa,PERSON,1948
+Buick,FAC,1948
+the St. Louis Post-Dispatch,ORG,1948
+Buick,ORG,1948
+Fowler,PERSON,1948
+a few months,DATE,1948
+two,CARDINAL,1948
+January and March,DATE,1948
+Ed Hanlon,PERSON,1948
+Martin,PERSON,1948
+Robinson,PERSON,1948
+the St. Louis Metropolitan Police Department,ORG,1948
+Mokwa,PERSON,1948
+Paul Nocchiero,PERSON,1948
+Derion Brooks,PERSON,1948
+Nocchiero,PERSON,1948
+One,CARDINAL,1948
+decade,DATE,1948
+two,CARDINAL,1948
+about the days,DATE,1948
+Ken Gregory,PERSON,1948
+the St. Louis County and Municipal Police Academy,ORG,1948
+one,CARDINAL,1948
+Blues Brothers,ORG,1948
+Saturday,DATE,1948
+about ten years ago,DATE,1948
+St. Louis County,GPE,1948
+Jeep,ORG,1948
+I-270,FAC,1948
+25,CARDINAL,1948
+Jeep,ORG,1948
+65,CARDINAL,1948
+70 mph,QUANTITY,1948
+several miles,QUANTITY,1948
+three-dozen,CARDINAL,1948
+Jeep,ORG,1948
+I-70,GPE,1948
+Lambert Airport,FAC,1948
+one,CARDINAL,1948
+Jeep,ORG,1948
+30 to 40,CARDINAL,1948
+East St. Louis,GPE,1948
+Today,DATE,1948
+St. Louis County,GPE,1948
+two,CARDINAL,1948
+Gregory,ORG,1948
+those days,DATE,1948
+Geoffrey Alpert,PERSON,1948
+the University of South Carolina,ORG,1948
+one,CARDINAL,1948
+two,CARDINAL,1948
+Alpert,PERSON,1948
+One,CARDINAL,1948
+2000,CARDINAL,1948
+the National Institute of Justice,ORG,1948
+the U.S. Department of Justice,ORG,1948
+Alpert,PERSON,1948
+144,CARDINAL,1948
+32 percent,PERCENT,1948
+Twenty-eight percent,PERCENT,1948
+22 percent,PERCENT,1948
+Missouri,GPE,1948
+the Highway Patrol,FAC,1948
+between 70 and,CARDINAL,1948
+81 percent,PERCENT,1948
+between 1996 and 2001,DATE,1948
+fewer than 15 percent,PERCENT,1948
+2001,DATE,1948
+39 percent,PERCENT,1948
+The National Highway Traffic Safety Administration,ORG,1948
+about 40 percent,PERCENT,1948
+20 percent,PERCENT,1948
+1 percent,PERCENT,1948
+Between 1986 and 2001,DATE,1948
+the most recent year,DATE,1948
+323,CARDINAL,1948
+each year,DATE,1948
+NHTSA,ORG,1948
+David Klinger,PERSON,1948
+the University of Missouri-St. Louis,ORG,1948
+the past two years,DATE,1948
+the Los Angeles Police Department,ORG,1948
+Klinger,ORG,1948
+Klinger,PERSON,1948
+St. Louis County,GPE,1948
+quarterly,DATE,1948
+the past two years,DATE,1948
+no more than three,CARDINAL,1948
+three-month,DATE,1948
+"between 15,000 and 16,900",CARDINAL,1948
+quarterly,DATE,1948
+March,DATE,1948
+an incident,DATE,1948
+two years ago,DATE,1948
+North St. Louis County,GPE,1948
+Patterson Road,WORK_OF_ART,1948
+15 mph,QUANTITY,1948
+St. Louis,GPE,1948
+May 2002,DATE,1948
+Nocchiero,PERSON,1948
+37,CARDINAL,1948
+the nine quarters,DATE,1948
+as many as 60,CARDINAL,1948
+three-month,DATE,1948
+more than twenty,CARDINAL,1948
+Gregory,ORG,1948
+One,CARDINAL,1948
+today,DATE,1948
+90 mph,QUANTITY,1948
+Alpert,PERSON,1948
+The Missouri Highway Patrol,ORG,1948
+Jefferson City,GPE,1948
+five,CARDINAL,1948
+Henry Mansker,PERSON,1948
+the Hazelwood Police Department,ORG,1948
+the past year,DATE,1948
+Mansker,ORG,1948
+about four,CARDINAL,1948
+between ten and fifteen,CARDINAL,1948
+St. Louis County,GPE,1948
+Hazelwood,ORG,1948
+two,CARDINAL,1948
+45-minute,TIME,1948
+Hazelwood,ORG,1948
+St. Patrick's,GPE,1948
+Day,DATE,1948
+Overland,GPE,1948
+170,MONEY,1948
+North St. Louis County,GPE,1948
+as high as,CARDINAL,1948
+90 mph,QUANTITY,1948
+Berkeley,GPE,1948
+Frank McCall,PERSON,1948
+the Berkeley Police Department,ORG,1948
+Berkeley,GPE,1948
+McCall,PERSON,1948
+Berkeley,ORG,1948
+McCall,ORG,1948
+Hazelwood,GPE,1948
+Howdershell Road,FAC,1948
+I-270,FAC,1948
+McDonnell Boulevard,ORG,1948
+Hazelwood,ORG,1948
+Mansker,PERSON,1948
+one,CARDINAL,1948
+one,CARDINAL,1948
+Berkeley,GPE,1948
+McCall,PERSON,1948
+one day,DATE,1948
+Hazelwood,ORG,1948
+Mansker,ORG,1948
+Hazelwood,ORG,1948
+McCall,PERSON,1948
+more than five dozen,CARDINAL,1948
+St. Louis County,GPE,1948
+fewer than ten,CARDINAL,1948
+"fewer than 2,000",CARDINAL,1948
+one,CARDINAL,1948
+McCall,PERSON,1948
+September,DATE,1948
+Kinloch,PERSON,1948
+St. Louis County,GPE,1948
+Walter Wilson,PERSON,1948
+the Kinloch Police Department,ORG,1948
+Jason Grier,PERSON,1948
+Bridgeton,GPE,1948
+3:40 a.m.,TIME,1948
+Wilson,PERSON,1948
+second,ORDINAL,1948
+Grier,PERSON,1948
+Honda,ORG,1948
+Accord,PRODUCT,1948
+Grier,PERSON,1948
+Wilson,ORG,1948
+Grier,PERSON,1948
+Wilson,ORG,1948
+Grier 25 miles,QUANTITY,1948
+Berkeley,GPE,1948
+Edmundson,GPE,1948
+Maryland Heights,GPE,1948
+Wilson,ORG,1948
+Wilson,ORG,1948
+Edmundson,GPE,1948
+Berkeley,GPE,1948
+Honda,ORG,1948
+Maryland Heights,GPE,1948
+Grier,PERSON,1948
+Wilson,ORG,1948
+three,CARDINAL,1948
+Wilson,ORG,1948
+Grier,PERSON,1948
+Honda,ORG,1948
+Berkeley,ORG,1948
+Dan Polino,PERSON,1948
+Grier,PERSON,1948
+Wilson,ORG,1948
+Grier,PERSON,1948
+less than a mile,QUANTITY,1948
+Maryland Heights,GPE,1948
+Honda,ORG,1948
+Wilson,ORG,1948
+Grier,PERSON,1948
+first,ORDINAL,1948
+Wilson,ORG,1948
+Grier,PERSON,1948
+Honda,ORG,1948
+Grier,PERSON,1948
+Grier,PERSON,1948
+Wilson,ORG,1948
+Grier,PERSON,1948
+Wilson,ORG,1948
+first,ORDINAL,1948
+Wilson,ORG,1948
+Wellston,GPE,1948
+"Riverview, Pine Lawn",ORG,1948
+Hillsdale,GPE,1948
+the Kinloch Police Department,ORG,1948
+Wilson,ORG,1948
+Missouri,GPE,1948
+Twelve days,DATE,1948
+St. Louis County,GPE,1948
+Kinloch,PERSON,1948
+911,CARDINAL,1948
+Kinloch,PERSON,1948
+Ernest Meriwether,PERSON,1948
+Wilson,PERSON,1948
+Wilson,ORG,1948
+Wilson,ORG,1948
+September,DATE,1948
+Maryland Heights,GPE,1948
+Kinloch,PERSON,1948
+Edmundson,ORG,1948
+Berkeley,ORG,1948
+Kinloch,PERSON,1948
+McCall,ORG,1948
+Berkeley,ORG,1948
+about fifteen minutes,TIME,1948
+McCall,PERSON,1948
+St. Louis,GPE,1948
+St. Louis County,GPE,1948
+Alpert,PERSON,1948
+Alpert,PERSON,1948
+Ryan Lee King,PERSON,1948
+last Labor Day weekend,DATE,1948
+St. Peters,ORG,1948
+Todd Lewis,PERSON,1948
+11 p.m.,TIME,1948
+a holiday weekend,DATE,1948
+fifteen,CARDINAL,1948
+Sunday,DATE,1948
+Lewis,PERSON,1948
+Denny,GPE,1948
+Cave Springs,ORG,1948
+I-70,PRODUCT,1948
+Lewis,PERSON,1948
+Denny,GPE,1948
+Lewis,PERSON,1948
+October,DATE,1948
+Lewis,PERSON,1948
+three,CARDINAL,1948
+a half-mile,QUANTITY,1948
+first,ORDINAL,1948
+Cave Springs Road,FAC,1948
+Mexico Road,FAC,1948
+I-70,PRODUCT,1948
+between 65,DATE,1948
+70 mph,QUANTITY,1948
+35 mph,QUANTITY,1948
+Lewis,PERSON,1948
+Antoinette Eckman,PERSON,1948
+Cave Springs Road,ORG,1948
+four-year-old,DATE,1948
+St. Peters,GPE,1948
+St. Charles,GPE,1948
+Lewis,PERSON,1948
+Lewis,PERSON,1948
+King,PERSON,1948
+St. Charles,GPE,1948
+the St. Charles Police Department,ORG,1948
+Lewis,PERSON,1948
+two,CARDINAL,1948
+Matthew James Foster,PERSON,1948
+David Harrison,PERSON,1948
+Sandalwood Creek,FAC,1948
+73 mph,QUANTITY,1948
+nearly 30 mph,QUANTITY,1948
+45 mph,QUANTITY,1948
+Harrison,PERSON,1948
+69 mph,QUANTITY,1948
+Harrison,PERSON,1948
+Lewis,PERSON,1948
+approximately 1.3 miles,QUANTITY,1948
+between three-tenths,CARDINAL,1948
+four-tenths,CARDINAL,1948
+a mile,QUANTITY,1948
+first,ORDINAL,1948
+Lewis,PERSON,1948
+Paramedic Timothy Wersching,PERSON,1948
+King,PERSON,1948
+Harrison,PERSON,1948
+David Pitts,PERSON,1948
+Oldsmobile,ORG,1948
+Harrison,PERSON,1948
+Pitts,PERSON,1948
+Harrison,ORG,1948
+Harrison,PERSON,1948
+John Rader,PERSON,1948
+Harrison,PERSON,1948
+Oldsmobile,ORG,1948
+Rader,PERSON,1948
+Unfortunately for King,WORK_OF_ART,1948
+just four days,DATE,1948
+second,ORDINAL,1948
+first,ORDINAL,1948
+July,DATE,1948
+Valerie Held,PERSON,1948
+one,CARDINAL,1948
+St. Peters,GPE,1948
+Sergeant Dave Kuppler,PERSON,1948
+St. Peters,GPE,1948
+Lewis,PERSON,1948
+Kuppler,PERSON,1948
+Berkeley,GPE,1948
+St. Peters,GPE,1948
+Kuppler,PERSON,1948
+Alpert,PERSON,1948
+slightly more than two,CARDINAL,1948
+between two and two,CARDINAL,1948
+Alpert,PERSON,1948
+Nocchiero,PRODUCT,1948
+St. Louis,GPE,1948
+Alpert,PERSON,1948
+St. Louis,GPE,1948
+100,CARDINAL,1948
+Peters,PERSON,1948
+eight,CARDINAL,1948
+five,CARDINAL,1948
+St. Louis,GPE,1948
+at least three,CARDINAL,1948
+January 15,DATE,1948
+Eddie Robinson,PERSON,1948
+69,DATE,1948
+Amoco,ORG,1948
+Natural Bridge Road,FAC,1948
+Chrysler New Yorker,ORG,1948
+fifteen-year-old,DATE,1948
+Bel,PERSON,1948
+John Qualls,PERSON,1948
+9:45 a.m.,TIME,1948
+Qualls,ORG,1948
+Chrysler,ORG,1948
+Natural Bridge Road,FAC,1948
+50 mph,QUANTITY,1948
+30-mph,QUANTITY,1948
+approximately 65 mph,QUANTITY,1948
+Qualls,PERSON,1948
+Qualls,PERSON,1948
+"Normandy, Qualls",ORG,1948
+Chrysler,ORG,1948
+Qualls,PERSON,1948
+Chrysler,ORG,1948
+Robinson,PERSON,1948
+about a mile,QUANTITY,1948
+Quall,PERSON,1948
+Bel-Nor's,ORG,1948
+Matthew Lauer,PERSON,1948
+Quall,PERSON,1948
+Brad Kessler,PERSON,1948
+Kessler,PERSON,1948
+Jeannette Graviss,PERSON,1948
+St. Louis,GPE,1948
+Lauer,ORG,1948
+Qualls,ORG,1948
+Lauer,ORG,1948
+John Connolly,PERSON,1948
+Lauer,ORG,1948
+Connolly,PERSON,1948
+Lauer,ORG,1948
+Normandy,ORG,1948
+Lauer,ORG,1948
+Connolly,PERSON,1948
+Connolly,PERSON,1948
+Bel-Nor,GPE,1948
+"1,600",CARDINAL,1948
+Lauer,ORG,1948
+January,DATE,1948
+St. John,GPE,1948
+Nissan,ORG,1948
+Maxima,PRODUCT,1948
+December 20,DATE,1948
+Overland Church of Christ,ORG,1948
+"an estimated $80,000",MONEY,1948
+Maxima,PRODUCT,1948
+Midland,GPE,1948
+Maxima,PRODUCT,1948
+St. John,GPE,1948
+Robert Connell,PERSON,1948
+Maxima,PRODUCT,1948
+St. Charles Rock Road,ORG,1948
+shortly before 2 a.m.,TIME,1948
+J.R. Morris,PERSON,1948
+the St. John Police Department,ORG,1948
+Maxima,PRODUCT,1948
+Brown Road,WORK_OF_ART,1948
+Connell,ORG,1948
+two,CARDINAL,1948
+Thomas Rhine,PERSON,1948
+Connell,ORG,1948
+Nissan,ORG,1948
+100 mph,QUANTITY,1948
+Connell,ORG,1948
+Rhine,PERSON,1948
+Nissan,ORG,1948
+Morris,PERSON,1948
+Nissan,ORG,1948
+33 mph,QUANTITY,1948
+just three miles per hour,QUANTITY,1948
+Connell,ORG,1948
+35 mph,QUANTITY,1948
+Morris,PERSON,1948
+Connell,ORG,1948
+more than a,CARDINAL,1948
+about 30 seconds,TIME,1948
+Nissan,ORG,1948
+Trahann Smith,PERSON,1948
+Morris,PERSON,1948
+Morris,PERSON,1948
+Connell,PERSON,1948
+Smith,PERSON,1948
+May 29,DATE,1948
+Lauer,PERSON,1948
+two years,DATE,1948
+DWI,ORG,1948
+Morris,PERSON,1948
+Missouri,GPE,1948
+St. Louis County,GPE,1948
+Robert McCulloch,PERSON,1948
+St. Louis,GPE,1948
+Graviss,PERSON,1948
+Graviss,PERSON,1948
+thirteen,CARDINAL,1948
+Mississippi,GPE,1948
+2002,DATE,1948
+Mississippi,GPE,1948
+New Mexico,GPE,1948
+Legislature,ORG,1948
+this spring,DATE,1948
+sixteen hours,TIME,1948
+Missouri,GPE,1948
+May 20,DATE,1948
+St. Charles County,GPE,1948
+more than ten miles,QUANTITY,1948
+Chesterfield,GPE,1948
+four,CARDINAL,1948
+"1,610",MONEY,1948
+St. Peters,GPE,1948
+Craig McGuire,PERSON,1948
+the St. Charles County Sheriff's Department,ORG,1948
+100 mph,QUANTITY,1948
+I-70,PRODUCT,1948
+First,ORDINAL,1948
+Capitol Drive,ORG,1948
+McGuire,PERSON,1948
+at least a,DATE,1948
+quarter-mile,QUANTITY,1948
+McGuire,PERSON,1948
+Alpert,PERSON,1948
+One,CARDINAL,1948
+Number two,CARDINAL,1948
+one,CARDINAL,1948

@@ -1,0 +1,63 @@
+text,label,fe_id
+Los Angeles Police Department,ORG,7624
+"750,000",MONEY,7624
+The Los Angeles County Superior Court,ORG,7624
+last week,DATE,7624
+Daniel Bunch,PERSON,7624
+47,DATE,7624
+November 2008,DATE,7624
+second,ORDINAL,7624
+Oliver Malabuya,PERSON,7624
+"Nov. 11, 2008",DATE,7624
+3rd Street,FAC,7624
+New Hampshire Avenue,GPE,7624
+911,CARDINAL,7624
+Rite-Aid,ORG,7624
+300,CARDINAL,7624
+South Vermont Avenue,LOC,7624
+LAPD,ORG,7624
+Storey,PERSON,7624
+Rampart Division,ORG,7624
+Storey,PERSON,7624
+Bunch,NORP,7624
+Malabuya,PERSON,7624
+Bunch,NORP,7624
+Storey,PERSON,7624
+Estaze Yankey,PERSON,7624
+Thomas C. Seabaugh,PERSON,7624
+Storey,PERSON,7624
+County-USC Medical Center,ORG,7624
+Storey,PERSON,7624
+Dale Galipo,PERSON,7624
+Storey,PERSON,7624
+Seabaugh,PERSON,7624
+LAPD,ORG,7624
+The Los Angeles Police Commission,ORG,7624
+Bunch,GPE,7624
+Storey,PERSON,7624
+Storey,PERSON,7624
+six,CARDINAL,7624
+about seven feet,QUANTITY,7624
+Malabuya,ORG,7624
+three,CARDINAL,7624
+about 10 feet,QUANTITY,7624
+seven months,DATE,7624
+Bunch,LOC,7624
+Seabaugh,PERSON,7624
+Storey,PERSON,7624
+Storey,PERSON,7624
+Seabaugh,PERSON,7624
+Bunch,NORP,7624
+Storey,PERSON,7624
+Seabaugh,PERSON,7624
+12:36 p.m.,TIME,7624
+Jan. 28,DATE,7624
+first,ORDINAL,7624
+Storey,PERSON,7624
+Ectaze,PERSON,7624
+4,CARDINAL,7624
+"Riverside
+
+Reputed",WORK_OF_ART,7624
+Venice,GPE,7624
+Transgender,ORG,7624

@@ -1,0 +1,33 @@
+text,label,fe_id
+San Bernardino,GPE,29012
+Thursday,DATE,29012
+night,TIME,29012
+about 11:18 p.m.,TIME,29012
+King Tut Liquor,ORG,29012
+200,CARDINAL,29012
+East Baseline Street,FAC,29012
+San Bernardino,ORG,29012
+Police Department Sgt,EVENT,29012
+John Echevarria,PERSON,29012
+Echevarria,GPE,29012
+35-year-old,DATE,29012
+Mark Matthew Bender Jr.,PERSON,29012
+Echevarria,GPE,29012
+Bender,PERSON,29012
+two,CARDINAL,29012
+KTLA,ORG,29012
+Echevarria,GPE,29012
+Bender,PERSON,29012
+6 feet,QUANTITY,29012
+3 inches,QUANTITY,29012
+about 300 pounds,QUANTITY,29012
+Echevarria,GPE,29012
+Bender,PERSON,29012
+Echevarria,GPE,29012
+Bender,PERSON,29012
+one,CARDINAL,29012
+Echevarria,GPE,29012
+Bender,PERSON,29012
+Bender,PERSON,29012
+Echevarria,GPE,29012
+KTLA,ORG,29012

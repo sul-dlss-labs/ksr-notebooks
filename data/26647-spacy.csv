@@ -1,0 +1,13 @@
+text,label,fe_id
+more than 36 hours,TIME,26647
+New York City,GPE,26647
+Bronx,GPE,26647
+Brian Mulkeen,PERSON,26647
+five,CARDINAL,26647
+Monday,DATE,26647
+Officer Mulkeen,ORG,26647
+five,CARDINAL,26647
+33,DATE,26647
+second,ORDINAL,26647
+seven months,DATE,26647
+the New York Police Department,ORG,26647

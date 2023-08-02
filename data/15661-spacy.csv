@@ -1,0 +1,195 @@
+text,label,fe_id
+United States of America,GPE,15661
+United States,GPE,15661
+Canada Mexico,GPE,15661
+United Mexican,GPE,15661
+Bahamas,GPE,15661
+Commonwealth,GPE,15661
+Cuba,GPE,15661
+"Republic of Dominican Republic Haiti,",GPE,15661
+Republic of Jamaica,GPE,15661
+Afghanistan,GPE,15661
+Albania,GPE,15661
+People's Socialist Republic,ORG,15661
+Algeria,GPE,15661
+People's Democratic Republic of American,GPE,15661
+Angola,GPE,15661
+Republic of Anguilla Antarctica,ORG,15661
+South,LOC,15661
+Barbuda Argentina,PERSON,15661
+Argentine Republic,GPE,15661
+Armenia Aruba,PERSON,15661
+Australia,GPE,15661
+Commonwealth,GPE,15661
+Austria,GPE,15661
+Republic of Bahrain,ORG,15661
+Belgium,GPE,15661
+Kingdom of Belize Benin,ORG,15661
+People's Republic of Bermuda Bhutan,GPE,15661
+Kingdom of Bolivia,GPE,15661
+Republic of Bosnia,GPE,15661
+Botswana,GPE,15661
+Republic of Bouvet Island,ORG,15661
+Bouvetoya,GPE,15661
+Brazil,GPE,15661
+Federative Republic,GPE,15661
+British Virgin,GPE,15661
+Bulgaria,GPE,15661
+People's Republic of Burkina Faso Burundi,GPE,15661
+Republic of Cambodia,GPE,15661
+Kingdom of Cameroon,GPE,15661
+United Republic of Cape Verde,GPE,15661
+"Republic of Cayman Islands Central African Republic Chad,",ORG,15661
+Republic of Chile,ORG,15661
+Republic of China,ORG,15661
+People's Republic of Christmas Island,GPE,15661
+Colombia,GPE,15661
+Union of the Congo,ORG,15661
+Democratic Republic of Congo,GPE,15661
+People's Republic of Cook,GPE,15661
+Costa Rica,GPE,15661
+Ivory Coast,GPE,15661
+Republic Denmark,GPE,15661
+Kingdom of Djibouti,GPE,15661
+Republic of Dominica,GPE,15661
+Commonwealth,GPE,15661
+Ecuador,GPE,15661
+Republic of Egypt,GPE,15661
+Arab Republic,GPE,15661
+El Salvador,GPE,15661
+Republic of Equatorial Guinea,GPE,15661
+Republic of Eritrea,GPE,15661
+Estonia,GPE,15661
+Ethiopia,GPE,15661
+Malvinas,GPE,15661
+Fiji,GPE,15661
+Republic of the Fiji Islands Finland,ORG,15661
+Republic of France,GPE,15661
+French,NORP,15661
+French,NORP,15661
+Guiana,PERSON,15661
+French,NORP,15661
+Polynesia,GPE,15661
+Southern Territories Gabon,PRODUCT,15661
+Gabonese Republic Gambia,GPE,15661
+Georgia,GPE,15661
+Germany,GPE,15661
+Ghana,GPE,15661
+Republic of Gibraltar Greece,ORG,15661
+Hellenic Republic Greenland Grenada Guadaloupe Guam,ORG,15661
+Republic of Guinea,GPE,15661
+Revolutionary People's Rep'c,ORG,15661
+Guinea-Bissau,ORG,15661
+Republic of Heard,ORG,15661
+McDonald Islands Holy See,ORG,15661
+Vatican City State,GPE,15661
+Honduras,GPE,15661
+Republic of Hong Kong,GPE,15661
+Special Administrative Region of China,ORG,15661
+Hrvatska,PERSON,15661
+Croatia,GPE,15661
+Hungary,GPE,15661
+Hungarian People's Republic Iceland,PERSON,15661
+Republic of India,GPE,15661
+Republic of Indonesia,GPE,15661
+Republic of Iran,GPE,15661
+Islamic Republic of Iraq,GPE,15661
+Republic of Ireland,GPE,15661
+Israel,GPE,15661
+State of Italy,GPE,15661
+Italian,NORP,15661
+Japan,GPE,15661
+Jordan,GPE,15661
+Hashemite Kingdom of Kazakhstan,GPE,15661
+Republic of Kiribati,GPE,15661
+Republic of Korea,GPE,15661
+Democratic,NORP,15661
+Republic of Kuwait,ORG,15661
+Lao People's,PERSON,15661
+Latvia,GPE,15661
+Lebanon,GPE,15661
+Lebanese Republic Lesotho,GPE,15661
+Kingdom of Liberia,GPE,15661
+Lithuania Luxembourg,GPE,15661
+Special Administrative Region of China Macedonia,ORG,15661
+Yugoslav Republic of Madagascar,GPE,15661
+"Republic of Malaysia Maldives, Republic of Mali, Republic of Malta",GPE,15661
+Islamic Republic,GPE,15661
+Mayotte Micronesia,PERSON,15661
+Federated States,GPE,15661
+Moldova,GPE,15661
+Republic of Monaco,ORG,15661
+Principality,NORP,15661
+Morocco,GPE,15661
+Kingdom of Mozambique,ORG,15661
+Republic of Nepal,GPE,15661
+Netherlands,GPE,15661
+Kingdom,GPE,15661
+the New Caledonia New Zealand,ORG,15661
+Nicaragua,GPE,15661
+"Federal Republic of Niue, Republic of Norfolk Island Northern Mariana",GPE,15661
+Norway,GPE,15661
+Kingdom of Oman,GPE,15661
+Pakistan,GPE,15661
+Islamic Republic of,GPE,15661
+Occupied Panama,GPE,15661
+Republic of Peru,GPE,15661
+Republic of Philippines,GPE,15661
+Republic of the Pitcairn Island Poland,ORG,15661
+Polish,NORP,15661
+Republic Portugal,GPE,15661
+Portuguese Republic,GPE,15661
+Puerto Rico Qatar,GPE,15661
+State of Reunion Romania,ORG,15661
+Socialist Republic,GPE,15661
+Rwanda,GPE,15661
+Rwandese Republic Samoa,GPE,15661
+Independent State of San Marino,ORG,15661
+Republic of Sao Tome,ORG,15661
+Principe,GPE,15661
+Democratic Republic of Saudi Arabia,GPE,15661
+"Kingdom of Senegal, Republic of Serbia",GPE,15661
+Montenegro Seychelles,PERSON,15661
+Republic of Sierra Leone,ORG,15661
+Republic of Singapore,ORG,15661
+Republic of Slovakia,ORG,15661
+Slovak Republic,GPE,15661
+Slovenia Solomon Islands,GPE,15661
+Somalia,GPE,15661
+Somali Republic South Africa,GPE,15661
+Republic of South Georgia,GPE,15661
+Spain,GPE,15661
+Spanish,NORP,15661
+Sri Lanka,GPE,15661
+Democratic,NORP,15661
+Miquelon St. Vincent,PERSON,15661
+Democratic Republic,GPE,15661
+Republic of Svalbard & Jan Mayen Islands Swaziland,ORG,15661
+Kingdom of Sweden,GPE,15661
+Kingdom of Switzerland,GPE,15661
+Swiss Confederation Syrian Arab Republic,ORG,15661
+Taiwan,GPE,15661
+China,GPE,15661
+Tanzania,GPE,15661
+United Republic of Thailand,GPE,15661
+Kingdom of Timor-Leste,GPE,15661
+Democratic Republic of Togo,GPE,15661
+Togolese Republic Tokelau,ORG,15661
+Tokelau,GPE,15661
+Tonga,GPE,15661
+Kingdom of Trinidad,ORG,15661
+Tobago,GPE,15661
+Republic of Tunisia,ORG,15661
+Republic of Turkey,GPE,15661
+Republic of Turkmenistan Turks,ORG,15661
+Uganda,GPE,15661
+Republic of Ukraine United Arab Emirates,GPE,15661
+United Kingdom of Great,GPE,15661
+Eastern Republic,GPE,15661
+Venezuela,GPE,15661
+Bolivarian Republic,GPE,15661
+Viet Nam,GPE,15661
+Socialist Republic,GPE,15661
+Yemen,GPE,15661
+Zambia,GPE,15661
+Republic of Zimbabwe,GPE,15661

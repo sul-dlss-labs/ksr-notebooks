@@ -1,0 +1,44 @@
+text,label,fe_id
+two,CARDINAL,827
+Saturday,DATE,827
+Monday,DATE,827
+Christopher M. Andrews,PERSON,827
+Omar J. Moore,PERSON,827
+Chamille N. Edmonds,PERSON,827
+first,ORDINAL,827
+David Watt,PERSON,827
+Jackson County,GPE,827
+three,CARDINAL,827
+Saturday,DATE,827
+Midwest Cash,GPE,827
+1200,CARDINAL,827
+Carbondale,GPE,827
+Carbondale,GPE,827
+Lincoln Drive,ORG,827
+Southern Illinois University Carbondale,ORG,827
+Andrews,PERSON,827
+20,DATE,827
+Chicago,GPE,827
+Lucia L. Cristaudo,PERSON,827
+55,DATE,827
+Carbondale,GPE,827
+Midwest,LOC,827
+Robert S. Custon,PERSON,827
+20,DATE,827
+Chicago,GPE,827
+19,DATE,827
+Carbondale,GPE,827
+19,DATE,827
+Carbondale,GPE,827
+Chicago,GPE,827
+Watt,PERSON,827
+Andrews,GPE,827
+20,DATE,827
+Moore,ORG,827
+"100,000",MONEY,827
+"25,000",MONEY,827
+9 a.m.,TIME,827
+April 10,DATE,827
+the Jackson County Courthouse,FAC,827
+Murphysboro,GPE,827
+Dan Kimmel,PERSON,827

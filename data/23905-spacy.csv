@@ -1,0 +1,34 @@
+text,label,fe_id
+Milwaukee,GPE,23905
+Milwaukee,GPE,23905
+hours,TIME,23905
+34-year-old,DATE,23905
+Persey Morgan,PERSON,23905
+two,CARDINAL,23905
+"Friday, March 9",DATE,23905
+three,CARDINAL,23905
+60th,ORDINAL,23905
+Port Avenue,FAC,23905
+Hampton,ORG,23905
+Milwaukee,GPE,23905
+Alfonso Morales,PERSON,23905
+18th,ORDINAL,23905
+Center,GPE,23905
+18th,ORDINAL,23905
+Center,ORG,23905
+around 6:30 p.m.,TIME,23905
+Friday,DATE,23905
+night,TIME,23905
+Two,CARDINAL,23905
+One,CARDINAL,23905
+Morgan,PERSON,23905
+Saturday afternoon,TIME,23905
+18th,ORDINAL,23905
+Center,ORG,23905
+hours,TIME,23905
+Saturday,DATE,23905
+afternoon,TIME,23905
+18th,ORDINAL,23905
+Center,ORG,23905
+the Milwaukee County Investigative Team,ORG,23905
+Greenfield,PERSON,23905

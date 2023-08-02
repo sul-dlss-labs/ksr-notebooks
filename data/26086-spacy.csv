@@ -1,0 +1,21 @@
+text,label,fe_id
+Pasadena,GPE,26086
+Saturday,DATE,26086
+morning,TIME,26086
+Daniel Warren,PERSON,26086
+Pasadena,GPE,26086
+36,DATE,26086
+David Smith,PERSON,26086
+1500,CARDINAL,26086
+Glen Avenue,FAC,26086
+Howard Street,FAC,26086
+Foothill,ORG,26086
+210,CARDINAL,26086
+6:30 p.m.,TIME,26086
+Friday,DATE,26086
+Erin Liu,PERSON,26086
+the Los Angeles County Sheriff’s Department,ORG,26086
+the Pasadena Police Department,ORG,26086
+at least one,CARDINAL,26086
+Liu,PERSON,26086
+at least one,CARDINAL,26086

@@ -1,0 +1,28 @@
+text,label,fe_id
+20-year-old,DATE,12872
+four,CARDINAL,12872
+East Los Angeles,GPE,12872
+Jose Fernando Arrellano,PERSON,12872
+20,DATE,12872
+the Los Angeles County Jail,GPE,12872
+Julio Reyes-Salvador,PERSON,12872
+Norma Eisenman,PERSON,12872
+Arrellano,ORG,12872
+LAPD,ORG,12872
+Saturday,DATE,12872
+1 p.m.,TIME,12872
+5300,CARDINAL,12872
+Poplar Boulevard,FAC,12872
+El Sereno,GPE,12872
+Los Angeles,GPE,12872
+Chevrolet,ORG,12872
+Suburban,PRODUCT,12872
+Suburban,PRODUCT,12872
+two,CARDINAL,12872
+Toyota,ORG,12872
+4Runner,PRODUCT,12872
+Poplar Boulevard,FAC,12872
+Huntington Drive,PERSON,12872
+Reyes-Salvador,ORG,12872
+Arrellano,ORG,12872
+Suburban,PRODUCT,12872

@@ -1,0 +1,21 @@
+text,label,fe_id
+The Fishers Police Department,ORG,20883
+Monday,DATE,20883
+morning,TIME,20883
+Fishers,GPE,20883
+FDP,ORG,20883
+John Donadio,PERSON,20883
+51,DATE,20883
+FDP,ORG,20883
+two,CARDINAL,20883
+Donadio,GPE,20883
+Monday morning,TIME,20883
+10:15 a.m.,TIME,20883
+Donadio,GPE,20883
+Colbarn Drive,FAC,20883
+Sunblest Boulevard,FAC,20883
+Donadio,GPE,20883
+Donadio,GPE,20883
+just before 12 p.m.,TIME,20883
+FPD,ORG,20883
+the Fishers Police Department,ORG,20883

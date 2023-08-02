@@ -1,0 +1,23 @@
+text,label,fe_id
+Saturday,DATE,17001
+December 12,DATE,17001
+two,CARDINAL,17001
+Kansas City,GPE,17001
+two,CARDINAL,17001
+Honda,ORG,17001
+Prelude,PRODUCT,17001
+around 4 a.m.,TIME,17001
+East Gregory Boulevard,FAC,17001
+Oldham Road,FAC,17001
+Charles A. Traylor,PERSON,17001
+Theodore R. Rowe III,PERSON,17001
+17,CARDINAL,17001
+Kansas City,GPE,17001
+Rowe,ORG,17001
+Traylor,PERSON,17001
+Columbia,ORG,17001
+Yonke Law,PERSON,17001
+L.L.C.,ORG,17001
+816,CARDINAL,17001
+221,CARDINAL,17001
+today,DATE,17001

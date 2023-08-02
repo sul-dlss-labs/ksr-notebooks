@@ -1,0 +1,37 @@
+text,label,fe_id
+Oakland,GPE,31256
+Saturday,DATE,31256
+afternoon,TIME,31256
+Rockridge,GPE,31256
+Oakland Police Department,ORG,31256
+around 3 p.m. Saturday,TIME,31256
+2600,CARDINAL,31256
+Fisher Avenue,FAC,31256
+49th Street,FAC,31256
+Clark Street,FAC,31256
+5900,CARDINAL,31256
+Ocean View Drive,FAC,31256
+Related Articles Crime and Public Safety,ORG,31256
+West Oakland,GPE,31256
+West Oakland Crime,ORG,31256
+Nima Momeni,PERSON,31256
+Bob Lee,PERSON,31256
+Nima Momeni,PERSON,31256
+Bob Lee Crime,PERSON,31256
+Oakland,GPE,31256
+"Interstate 980
+
+",FAC,31256
+Interstate 980 Crime and Public Safety,FAC,31256
+Two,CARDINAL,31256
+Berkeley,ORG,31256
+Two,CARDINAL,31256
+Berkeley,ORG,31256
+Crime and Public Safety,ORG,31256
+Arizona,GPE,31256
+14 months,DATE,31256
+California,GPE,31256
+the Oakland Police Department’s Homicide Section,ORG,31256
+Internal Affairs Division,ORG,31256
+the Oakland Community Police Review Agency,ORG,31256
+the Alameda County District,LOC,31256

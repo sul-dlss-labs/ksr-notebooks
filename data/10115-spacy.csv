@@ -1,0 +1,38 @@
+text,label,fe_id
+Brenda Williams,PERSON,10115
+57-year-old,DATE,10115
+"Wednesday, April 27",DATE,10115
+10000,CARDINAL,10115
+Anzac Avenue,FAC,10115
+Watts,LOC,10115
+Los Angeles County,GPE,10115
+about 7:20 p.m.,TIME,10115
+Karen Rayner,PERSON,10115
+first,ORDINAL,10115
+Williams,PERSON,10115
+two,CARDINAL,10115
+Williams,PERSON,10115
+Three,CARDINAL,10115
+Williams,PERSON,10115
+Williams,PERSON,10115
+Williams,PERSON,10115
+KABC-TV Channel 7,ORG,10115
+Williams,PERSON,10115
+Jesus Garcia,PERSON,10115
+14 years,DATE,10115
+10 months,DATE,10115
+John Tumino,PERSON,10115
+three years,DATE,10115
+four months,DATE,10115
+Diana Danley,PERSON,10115
+four years,DATE,10115
+11 months,DATE,10115
+Southeast Area Detectives,LOC,10115
+213,CARDINAL,10115
+972-7813,DATE,10115
+Crime Stoppers,PERSON,10115
+222,CARDINAL,10115
+8477,DATE,10115
+Andrew Blankstein,PERSON,10115
+Robert J. Lopez,PERSON,10115
+Howard Blume,PERSON,10115

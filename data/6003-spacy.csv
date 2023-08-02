@@ -1,0 +1,63 @@
+text,label,fe_id
+first,ORDINAL,6003
+this year,DATE,6003
+23-year-old,DATE,6003
+Northeast Side,LOC,6003
+late Friday,DATE,6003
+the same day,DATE,6003
+two,CARDINAL,6003
+Deon Johnson,PERSON,6003
+two,CARDINAL,6003
+two,CARDINAL,6003
+Johnson,PERSON,6003
+Joe Rios,PERSON,6003
+Dustin Allen Smith,PERSON,6003
+18,DATE,6003
+Jonathan Smith,PERSON,6003
+23,DATE,6003
+"50,000",MONEY,6003
+William McManus,PERSON,6003
+three,CARDINAL,6003
+nearly one year,DATE,6003
+third,ORDINAL,6003
+McManus,PERSON,6003
+February,DATE,6003
+March last year,DATE,6003
+six,CARDINAL,6003
+three,CARDINAL,6003
+McManus,PERSON,6003
+11:51 p.m.,TIME,6003
+Friday,DATE,6003
+the Blockbuster Video,ORG,6003
+Judson,ORG,6003
+three,CARDINAL,6003
+Police Department,ORG,6003
+Blockbuster,PERSON,6003
+Christopher Garrison,PERSON,6003
+five-year,DATE,6003
+Spenc Jones,ORG,6003
+2 1/2 years,DATE,6003
+three,CARDINAL,6003
+At least one,CARDINAL,6003
+Johnson,PERSON,6003
+Johnson,PERSON,6003
+two,CARDINAL,6003
+Johnson,PERSON,6003
+Garrison,PERSON,6003
+Jones,PERSON,6003
+Sheila Ruth,PERSON,6003
+Dustin Allen Smith,PERSON,6003
+Saturday,DATE,6003
+the Police Department's,ORG,6003
+Early Friday,DATE,6003
+Sergio Galvan,PERSON,6003
+35,DATE,6003
+Two,CARDINAL,6003
+Galvan,PERSON,6003
+South Side,LOC,6003
+Galvan,PERSON,6003
+Taser,ORG,6003
+three,CARDINAL,6003
+Galvan,PERSON,6003
+Lomi Kriel,PERSON,6003
+San Antonio Express-News,ORG,6003

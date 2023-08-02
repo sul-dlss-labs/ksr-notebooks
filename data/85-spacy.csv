@@ -1,0 +1,37 @@
+text,label,fe_id
+SAN DIEGO,GPE,85
+TWO,CARDINAL,85
+SAN DIEGO,GPE,85
+San Diego,GPE,85
+two,CARDINAL,85
+just hours,TIME,85
+Wednesday,DATE,85
+morning,TIME,85
+first,ORDINAL,85
+around 2:15 a.m.,TIME,85
+One,CARDINAL,85
+Homicide Lt,ORG,85
+Jim Duncan,PERSON,85
+second,ORDINAL,85
+about 7:45 a.m.,TIME,85
+Shorewood Drive,FAC,85
+Skyline,GPE,85
+John Russell,PERSON,85
+Russell,PERSON,85
+Bill Robinson,PERSON,85
+Michael L. Johnson,PERSON,85
+22,DATE,85
+less than 36 hours,TIME,85
+two,CARDINAL,85
+Marriott Suites,ORG,85
+John Edward Weir,PERSON,85
+20,DATE,85
+five,CARDINAL,85
+Mitchell Vitug,PERSON,85
+Quinton Kawahara,PERSON,85
+Tuesday,DATE,85
+afternoon,TIME,85
+Stacia Opland Send,PERSON,85
+2004,DATE,85
+The Police Policy Studies Council,ORG,85
+Steve Casey,PERSON,85

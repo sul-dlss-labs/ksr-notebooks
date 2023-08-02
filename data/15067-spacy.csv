@@ -1,0 +1,49 @@
+text,label,fe_id
+Columbus,GPE,15067
+WASHINGTON,GPE,15067
+AP,ORG,15067
+first,ORDINAL,15067
+House,ORG,15067
+Republicans,NORP,15067
+election-year,DATE,15067
+Barack Obama,PERSON,15067
+Republicans,NORP,15067
+Keystone XL,ORG,15067
+253,CARDINAL,15067
+226,CARDINAL,15067
+Thursday,DATE,15067
+Democratic,NORP,15067
+Senate,ORG,15067
+the White House,ORG,15067
+House,ORG,15067
+Senate,ORG,15067
+Congress,ORG,15067
+GOP,ORG,15067
+Democrats,NORP,15067
+Republicans,NORP,15067
+the Nov. 4,DATE,15067
+dozens,CARDINAL,15067
+millions,CARDINAL,15067
+Democrats,NORP,15067
+Republicans,NORP,15067
+Dave Camp,PERSON,15067
+R-Mich.,GPE,15067
+the House Ways and Means Committee,ORG,15067
+Hank Johnson,PERSON,15067
+the day before,DATE,15067
+yesterday,DATE,15067
+today,DATE,15067
+Johnson,PERSON,15067
+$572 billion,MONEY,15067
+the next decade,DATE,15067
+Joint Committee on Taxation,ORG,15067
+Congress,ORG,15067
+the beginning of the year,DATE,15067
+One,CARDINAL,15067
+Obama,ORG,15067
+next year,DATE,15067
+30 or more hours,TIME,15067
+40 hours,TIME,15067
+Keystone XL,ORG,15067
+Canada,GPE,15067
+the U.S. Gulf Coast,LOC,15067

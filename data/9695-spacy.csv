@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9695
+Alabama,GPE,9695
+Alaska,GPE,9695
+Arizona,GPE,9695
+Arkansas,GPE,9695
+California,GPE,9695
+Colorado,GPE,9695
+Connecticut,GPE,9695
+Delaware,GPE,9695
+Florida,GPE,9695
+Georgia,GPE,9695
+Hawaii,GPE,9695
+Idaho,GPE,9695
+Indiana,GPE,9695
+Iowa,GPE,9695
+Kansas,GPE,9695
+Kentucky,GPE,9695
+Louisiana,GPE,9695
+Maine,GPE,9695
+Maryland,GPE,9695
+Massachusetts,GPE,9695
+Michigan,GPE,9695
+Minnesota,GPE,9695
+Mississippi,GPE,9695
+Missouri,GPE,9695
+Montana,GPE,9695
+Nebraska,GPE,9695
+Nevada,GPE,9695
+New Hampshire,GPE,9695
+New Jersey,GPE,9695
+Ohio,GPE,9695
+Oklahoma,GPE,9695
+Oregon,GPE,9695
+Pennsylvania,GPE,9695
+Rhode Island,GPE,9695
+Tennessee,GPE,9695
+Texas,GPE,9695
+Utah,GPE,9695
+Vermont,GPE,9695
+Virginia,GPE,9695
+Washington,GPE,9695
+Washington,GPE,9695
+D.C.,GPE,9695
+Wisconsin,GPE,9695
+Wyoming,GPE,9695
+US,GPE,9695
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9695
+Marshall Islands American Samoa Federated States,ORG,9695
+Micronesia Guam,FAC,9695
+Alberta,GPE,9695
+Canada,GPE,9695
+British Columbia,GPE,9695
+Canada Manitoba,GPE,9695
+Canada,GPE,9695
+New Brunswick,GPE,9695
+Canada Newfoundland,PERSON,9695
+Canada,GPE,9695
+Canada,GPE,9695
+Canada Ontario,GPE,9695
+Canada,GPE,9695
+Edward Island,GPE,9695
+Canada Quebec,GPE,9695
+Canada,GPE,9695
+Saskatchewan,GPE,9695
+Canada Yukon Territory,ORG,9695
+Canada,GPE,9695
+Zip Code,PERSON,9695

@@ -1,0 +1,33 @@
+text,label,fe_id
+30-minute,TIME,11767
+Texas,GPE,11767
+41,CARDINAL,11767
+The Dallas Morning News,ORG,11767
+Patrick Tuter,PERSON,11767
+the Garland Police Department,ORG,11767
+Michael Vincent Allen's,PERSON,11767
+41,CARDINAL,11767
+Allen,PERSON,11767
+Allen,PERSON,11767
+three days earlier,DATE,11767
+the Associated Press,ORG,11767
+Allen,PERSON,11767
+Tuter,ORG,11767
+Tuter,ORG,11767
+the Dallas Morning News,ORG,11767
+Allen,PERSON,11767
+Mesquite,ORG,11767
+four days later,DATE,11767
+The Associated Press,ORG,11767
+NBC,ORG,11767
+Joe Harn,PERSON,11767
+First,ORDINAL,11767
+Harn,PERSON,11767
+two,CARDINAL,11767
+The Mesquite Police Department,ORG,11767
+the Internal Affairs Division,ORG,11767
+Tuter,ORG,11767
+Allen,PERSON,11767
+CBS,ORG,11767
+Randy Allen,PERSON,11767
+CBS,ORG,11767

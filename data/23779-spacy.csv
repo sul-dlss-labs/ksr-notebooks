@@ -1,0 +1,31 @@
+text,label,fe_id
+two days,DATE,23779
+Mesa,ORG,23779
+57-year-old,DATE,23779
+Arthur Joseph Gonzales,PERSON,23779
+Gonzales,PERSON,23779
+Thursday,DATE,23779
+Gonzales,PERSON,23779
+late Saturday afternoon,TIME,23779
+just hours,TIME,23779
+Monday,DATE,23779
+the Maricopa County Office,ORG,23779
+the Medical Examiner,ORG,23779
+Rasheta,PERSON,23779
+Gilbert,PERSON,23779
+Broadway,FAC,23779
+Thursday,DATE,23779
+afternoon,TIME,23779
+SWAT,ORG,23779
+Rasheta,PERSON,23779
+second,ORDINAL,23779
+Rasheta,ORG,23779
+second,ORDINAL,23779
+Rasheta,PERSON,23779
+Gonzales,PERSON,23779
+about 60,CARDINAL,23779
+Rasheta,ORG,23779
+"Glendale Ombudsman Charter School
+
+Flagstaff",ORG,23779
+Tempe,GPE,23779

@@ -1,0 +1,13 @@
+text,label,fe_id
+1:20 a.m.,TIME,30651
+Boise,PERSON,30651
+W. Pleasanton Ave,PERSON,30651
+W. State Street,PERSON,30651
+a couple of nights,DATE,30651
+Two,CARDINAL,30651
+Ada County Paramedics,PERSON,30651
+One,CARDINAL,30651
+The Ada County Critical Incident Task Force,ORG,30651
+the Ada County Sheriff’s Office,ORG,30651
+The Boise Police Department,ORG,30651
+the City of Boise Office of Police Accountability,GPE,30651

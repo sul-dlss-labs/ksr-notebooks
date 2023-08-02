@@ -1,0 +1,37 @@
+text,label,fe_id
+Chicago,GPE,29335
+Friday,DATE,29335
+Gregory Simmons,PERSON,29335
+27,DATE,29335
+noon,TIME,29335
+Saturday,DATE,29335
+Stroger Hospital,FAC,29335
+Cook County,GPE,29335
+Sunday,DATE,29335
+Simmons,PERSON,29335
+600,CARDINAL,29335
+North Avers Avenue,ORG,29335
+Chicago,GPE,29335
+at least three,CARDINAL,29335
+third,ORDINAL,29335
+about 11:45 a.m.,TIME,29335
+Friday,DATE,29335
+1500,CARDINAL,29335
+North Laramie Avenue,FAC,29335
+Patrol Brian McDermott,PERSON,29335
+Simmons,PERSON,29335
+LeMoyne Street,FAC,29335
+one,CARDINAL,29335
+three,CARDINAL,29335
+Chicago,GPE,29335
+LeMoyne,GPE,29335
+Laramie,PERSON,29335
+"Friday, Dec. 18, 2020",DATE,29335
+late Friday,DATE,29335
+morning,TIME,29335
+Antonio Perez / Chicago Tribune,PERSON,29335
+one,CARDINAL,29335
+McDermott,PERSON,29335
+LeMoyne,PERSON,29335
+Simmons,PERSON,29335
+Stroger Hospital,ORG,29335

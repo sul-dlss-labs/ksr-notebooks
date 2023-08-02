@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9413
+Alabama,GPE,9413
+Alaska,GPE,9413
+Arizona,GPE,9413
+Arkansas,GPE,9413
+California,GPE,9413
+Colorado,GPE,9413
+Connecticut,GPE,9413
+Delaware,GPE,9413
+Florida,GPE,9413
+Georgia,GPE,9413
+Hawaii,GPE,9413
+Idaho,GPE,9413
+Indiana,GPE,9413
+Iowa,GPE,9413
+Kansas,GPE,9413
+Kentucky,GPE,9413
+Louisiana,GPE,9413
+Maine,GPE,9413
+Maryland,GPE,9413
+Massachusetts,GPE,9413
+Michigan,GPE,9413
+Minnesota,GPE,9413
+Mississippi,GPE,9413
+Missouri,GPE,9413
+Montana,GPE,9413
+Nebraska,GPE,9413
+Nevada,GPE,9413
+New Hampshire,GPE,9413
+New Jersey,GPE,9413
+Ohio,GPE,9413
+Oklahoma,GPE,9413
+Oregon,GPE,9413
+Pennsylvania,GPE,9413
+Rhode Island,GPE,9413
+Tennessee,GPE,9413
+Texas,GPE,9413
+Utah,GPE,9413
+Vermont,GPE,9413
+Virginia,GPE,9413
+Washington,GPE,9413
+Washington,GPE,9413
+D.C.,GPE,9413
+Wisconsin,GPE,9413
+Wyoming,GPE,9413
+US,GPE,9413
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9413
+Marshall Islands American Samoa Federated States,ORG,9413
+Micronesia Guam,FAC,9413
+Alberta,GPE,9413
+Canada,GPE,9413
+British Columbia,GPE,9413
+Canada Manitoba,GPE,9413
+Canada,GPE,9413
+New Brunswick,GPE,9413
+Canada Newfoundland,PERSON,9413
+Canada,GPE,9413
+Canada,GPE,9413
+Canada Ontario,GPE,9413
+Canada,GPE,9413
+Edward Island,GPE,9413
+Canada Quebec,GPE,9413
+Canada,GPE,9413
+Saskatchewan,GPE,9413
+Canada Yukon Territory,ORG,9413
+Canada,GPE,9413
+Zip Code,PERSON,9413

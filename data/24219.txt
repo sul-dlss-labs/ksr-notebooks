@@ -1,0 +1,51 @@
+The Seminole County Sheriff’s Office released a 911 call of a road rage incident that led to a deadly officer-involved shooting in a Lake Mary’s shopping center on Tuesday night.
+
+A man called 911 just after 7 p.m. to say he honked and yelled at man in a white SUV who cut him off on Lake Mary Boulevard near Lake Emma.
+
+When they came to a light, the man in the SUV pulled out a gun, according to the call. The caller said the man pulled into the parking lot of the Shoppes of Lake Mary near Gators Dockside.
+
+“I just don’t want nobody to get hurt because I don’t know what’s going on with that guy,” the caller said.
+
+Lake Mary police officers went up to the man and ordered him out of the vehicle, deputies said. He got out and pulled out a gun, deputies said
+
+David Romansky
+
+Officers shot the man, identified as David M. Romansky, 34, of Longwood. Romansky was pronounced dead on scene.
+
+The officers, who have not been identified, were not hurt.
+
+Records show Romansky is on probation for burglary and arson.
+
+He also was arrested last year on disorderly intoxication and resisting arrest charges after an incident at Rachel’s Gentelman’s Club in Casselberry when he was accused of pulling out a knife. He also kicked the inside of the police cruiser while in the back seat, the affidavit said. The charges were later dropped.
+
+dharris@orlandosentinel.com, 407-420-5471 or @DavidHarrisOS
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #dd1300;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Central Florida Crime Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

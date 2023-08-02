@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,8918
+Alabama,GPE,8918
+Alaska,GPE,8918
+Arizona,GPE,8918
+Arkansas,GPE,8918
+California,GPE,8918
+Colorado,GPE,8918
+Connecticut,GPE,8918
+Delaware,GPE,8918
+Florida,GPE,8918
+Georgia,GPE,8918
+Hawaii,GPE,8918
+Idaho,GPE,8918
+Indiana,GPE,8918
+Iowa,GPE,8918
+Kansas,GPE,8918
+Kentucky,GPE,8918
+Louisiana,GPE,8918
+Maine,GPE,8918
+Maryland,GPE,8918
+Massachusetts,GPE,8918
+Michigan,GPE,8918
+Minnesota,GPE,8918
+Mississippi,GPE,8918
+Missouri,GPE,8918
+Montana,GPE,8918
+Nebraska,GPE,8918
+Nevada,GPE,8918
+New Hampshire,GPE,8918
+New Jersey,GPE,8918
+Ohio,GPE,8918
+Oklahoma,GPE,8918
+Oregon,GPE,8918
+Pennsylvania,GPE,8918
+Rhode Island,GPE,8918
+Tennessee,GPE,8918
+Texas,GPE,8918
+Utah,GPE,8918
+Vermont,GPE,8918
+Virginia,GPE,8918
+Washington,GPE,8918
+Washington,GPE,8918
+D.C.,GPE,8918
+Wisconsin,GPE,8918
+Wyoming,GPE,8918
+US,GPE,8918
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,8918
+Marshall Islands American Samoa Federated States,ORG,8918
+Micronesia Guam,FAC,8918
+Alberta,GPE,8918
+Canada,GPE,8918
+British Columbia,GPE,8918
+Canada Manitoba,GPE,8918
+Canada,GPE,8918
+New Brunswick,GPE,8918
+Canada Newfoundland,PERSON,8918
+Canada,GPE,8918
+Canada,GPE,8918
+Canada Ontario,GPE,8918
+Canada,GPE,8918
+Edward Island,GPE,8918
+Canada Quebec,GPE,8918
+Canada,GPE,8918
+Saskatchewan,GPE,8918
+Canada Yukon Territory,ORG,8918
+Canada,GPE,8918
+Zip Code,PERSON,8918

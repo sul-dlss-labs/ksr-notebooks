@@ -1,0 +1,36 @@
+text,label,fe_id
+Chicago,GPE,26131
+Tuesday,DATE,26131
+South Chicago,LOC,26131
+May 14,DATE,26131
+Roseland,GPE,26131
+about 1:45 p.m.,TIME,26131
+8100,CARDINAL,26131
+South Chappel Avenue,LOC,26131
+Sgt,PERSON,26131
+Rocco Alioto,PERSON,26131
+Tuesday,DATE,26131
+Alioto,ORG,26131
+Chicago Fire Department,ORG,26131
+Larry Langford,PERSON,26131
+20-year-old,DATE,26131
+the University of Chicago Medical Center,ORG,26131
+Alioto,PERSON,26131
+Cook County,GPE,26131
+Two,CARDINAL,26131
+Christ Medical Center,ORG,26131
+Langford,PERSON,26131
+Alioto,PERSON,26131
+CPD,ORG,26131
+Anthony Guglielmi,PERSON,26131
+Guglielmi,PERSON,26131
+15-year-old,DATE,26131
+Jaylin Ellzey,PERSON,26131
+200,CARDINAL,26131
+West 113th Street,LOC,26131
+Guglielmi,PERSON,26131
+20-year-old,DATE,26131
+Horace Mann,PERSON,26131
+Chicago Public Schools,ORG,26131
+the Civilian Office of Police Accountability,ORG,26131
+Alioto,ORG,26131

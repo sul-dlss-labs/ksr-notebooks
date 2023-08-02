@@ -1,0 +1,14 @@
+text,label,fe_id
+Weather Alert,PERSON,7118
+8 PM,TIME,7118
+CDT,ORG,7118
+between 105 and 112,CARDINAL,7118
+Central Texas,LOC,7118
+8 PM,TIME,7118
+CDT,PERSON,7118
+Wednesday,DATE,7118
+PRECAUTIONARY,ORG,7118
+early morning,TIME,7118
+evening,TIME,7118
+the Occupational Safety and Health Administration,ORG,7118
+&&,ORG,7118

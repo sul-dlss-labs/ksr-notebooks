@@ -1,0 +1,73 @@
+
+
+Melvin E. Williams, Terry Neill Grimes, Grimes & Williams PC, Roanoke, VA, for Plaintiffs. Jim H. Guynn, Jr., Karri Byers Seaman Atwood, Guynn Memmer & Dillon, PC, Salem, VA, for Defendants.
+
+
+
+MEMORANDUM OPINION
+
+
+
+SAMUEL G. WILSON, District Judge.
+
+
+
+A dispatcher for the Franklin County Sheriff's Office dispatched Deputy Sheriff Riley Hodges to conduct a “well-being” check at a Franklin County, Virginia home based on a report that shots had been fired there earlier that day. Not long after his arrival, Hodges heard a loud male voice, a female crying, and a loud thump. The female came to the door with blood on her nose, and Hodges saw a pool of blood on the floor. Hodges entered the house and confronted Max Frye, Jr. (Max), who was holding a snub-nose revolver. It is clear from an audio recording of the encounter that Hodges told Max no fewer than sixteen times to put down the revolver as an emotionally charged verbal altercation continued between Max and the woman who answered the door. Max eventually placed the revolver at his feet for a short period of time before retrieving it. Hodges again commanded Max numerous times to drop the revolver to no avail. Rather than drop it as Hodges commanded, Max fired a round and then, nearly instantaneously, Hodges fired at Max, striking him eight times and killing him. Max's parents, George and Linda Frye, who are the administrators of his estate, have brought this action pursuant to 42 U.S.C. § 1983 and state law against Hodges, claiming that Hodges used excessive force; Ewell Hunt, the former Franklin County Sheriff, for failing to properly train Hodges; Theresa Featherstone, a dispatcher for the Franklin County Sheriff's Office, for failing to take appropriate action earlier in the day; and various “unknown employees” on various grounds. However, it is clear from the un-contradicted evidence that Hodges's use of deadly force in the rapidly evolving and dangerous circumstances he confronted was not objectively unreasonable. As all of the plaintiffs' claims are based on the unsupported assertion that Hodges's use of deadly force under the circumstances was objectively unreasonable, the court grants summary judgment to all defendants.
+
+I.
+
+Max lived with his girlfriend, Julie Harrison (Julie), at her residence in Franklin County, Virginia. During the course of an argument on July 24, 2010, Julie and Max spoke with Max's parents, George and Linda Frye, on several occasions. It became apparent to Mr. and Mrs. Frye that Max and Julie were arguing, that their argument was escalating, and that there was a firearm present. Concerned, Mr. and Mrs. Frye visited the Franklin County Sheriff's Office and spoke to Theresa Featherstone, the dispatcher. They requested, without success, that law enforcement officers accompany them to Julie's residence to diffuse the argument. Later, following two anonymous 911 calls from a single caller that a shot had been fired at Julie's residence, Featherstone informed Hodges of the calls and dispatched Hodges to conduct a “well-being” check of the residence. Hodges was familiar with Julie, Max, and Julie's ex-husband, and knew of Julie's and Max's relationship. Upon arriving, Hodges learned that he was at Julie'sresidence. He suspected that Julie's ex-husband or Max was present.
+
+Hodges was accompanied by an intern when he arrived at Julie's residence, but the intern was not authorized to assist in law enforcement and remained in Hodges's patrol car. Hodges went to the side door of the residence where he heard arguments and sounds indicating that an “active assault” was in progress. (Hodges Dep., Docket No. # 53–3, p. 305.) Hodges immediately activated his wireless microphone, which remained activated during the entire incident. Hodges unsuccessfully attempted to force his way through the bolted door and identified himself as a Franklin County police officer. Julie opened the door. Her nose was bloody, there was a pool of blood on the floor, and Max stood holding a snub-nose revolver. Immediately, Hodges drew his own weapon, called for backup, and at least sixteen times instructed Max to put the revolver down. All the while, Julie and Max continued their exceptionally heated argument. Max threatened to kill himself and at one point said that “if Julie utter[ed] one more word, it would be the last word that she ever [said].” (Hodges Dep., Docket No. # 53–3, p. 318.) Eventually, Max placed the revolver close to his feet, but only for short while, and the revolver remained too close to Max for Hodges to grab.
+
+The heated exchanges between Julie and Max continued mostly unabated, and without backup Hodges did not feel he could safely let either leave his sight. Once again, Max picked up the revolver, and once again Hodges demanded numerous times that Max put the revolver down. This time Max fired the revolver, and Hodges responded instantaneously, firing twelve to thirteen quick shots at Max, killing him.
+
+On May 11, 2011, before their answers were due, the defendants submitted the recording of the incident as an exhibit and moved for summary judgment on the grounds that Hodges did not use excessive force, they were entitled to qualified immunity, and they were otherwise not liable under Virginia law. Plaintiffs served interrogatories and requests for production of documents and requested and received an extension of time to reply to defendants' summary judgment motion. Plaintiffs then filed an amended complaint, adding Theresa Featherstone and unknown deputies as defendants, served additional discovery, and responded to defendants' motion for summary judgment that they had received no discovery responses and that defendants' summary judgment motion was premature. The court heard argument on defendants' motion for summary judgment and on plaintiffs' objection that the motion was premature. Defendants asserted qualified immunity, and, from plaintiffs' complaint and the audio recording of the shooting incident, it appeared to be un-contradicted that in the course of a rapidly evolving and emotionally charged domestic dispute in which his life and Julie's life were endangered, Hodges had on numerous occasions instructed Max to drop his revolver, that Max instead fired the weapon, and that Hodges instantaneously returned fire. Although under the circumstances it seemed likely that defendants were entitled to qualified immunity, plaintiffs insisted that there were facts in dispute as to where Max was pointing the revolver when he fired it. Because the Supreme Court has made it clear that qualified immunity is an immunity from suit rather than a mere defense to liability and has stressed “the importance of resolving immunity questions at the earliest possible stage in litigation,” Hunter v. Bryant, 502 U.S. 224, 227, 112 S.Ct. 534, 116 L.Ed.2d 589 (1991) (per curiam), the court limited discovery to the depositions of Hodges and Julie, the only two persons in the house when the shooting occurred. Those depositions underscore the dangerous circumstances Hodges confronted when he shot Max and that no further discovery is warranted.
+
+
+
+
+
+II.
+
+Plaintiffs claim that Hodges violated Max's Fourth Amendment rights by resorting to deadly force, that there are questions of fact surrounding the second or seconds when Max fired the revolver and Hodges returned fire, and that those facts preclude summary judgment as to their § 1983 claim. However, the court finds no facts in dispute that are material and concludes instead that, as a matter of law, Hodges had probable cause to believe that Max posed an imminent threat of serious physical harm or death to Hodges and Julie and that further after-the-fact parsing of this brief instant in time is unwarranted. Accordingly, the court grants Hodges's motion for summary judgment on the ground that Hodges did not use excessive force and grants summary judgment for Hunt and Featherstone, as well, because their claims are premised on the existence of an excessive force claim.
+
+As Hodges's actions were objectively reasonable, the court need not address further any claims against Hunt, Featherstone, and the “unknown” defendants. See Hinkle v. City of Clarksburg, 81 F.3d 416, 420 (4th Cir.1996) (“In the absence of an underlying use of excessive force ..., liability cannot be placed on either the non-shooting officers, a supervisor, or the City.”). Plaintiffs also conceded during argument on the motion for summary judgment that all other claims are premised on the excessive force claim.
+
+
+
+
+
+The claim that a police officer used excessive force before or during an arrest is analyzed under the Fourth Amendment analysis for seizures. Under that analysis, a police officer may employ deadly force “[w]here the officer has probable cause to believe that the suspect poses a threat of serious physical harm, either to the officer or to others.” Tennessee v. Garner, 471 U.S. 1, 11, 105 S.Ct. 1694, 85 L.Ed.2d 1 (1985). The inquiry is always one of “objective reasonableness.” An officer's actions are not excessive under the Fourth Amendment if they are “ ‘objectively reasonable’ in light of the facts and circumstances confronting [him], without regard to [his] underlying intent or motivation.” Graham v. Connor, 490 U.S. 386, 397, 109 S.Ct. 1865, 104 L.Ed.2d 443 (1989). “Because ‘police officers are often forced to make split-second judgments—in circumstances that are tense, uncertain, and rapidly evolving,’ the facts must be evaluated from the perspective of a reasonable officer on the scene, and the use of hindsight must be avoided.” Waterman v. Batton, 393 F.3d 471, 476–77 (4th Cir.2005) (quoting Graham, 490 U.S. at 397, 109 S.Ct. 1865) (internal citations omitted).
+
+As serious as a Fourth Amendment excessive force resulting in death claim is, the court will not belabor the facts any further. No fair-minded jury could listen to the unassailed audio recording of this event and fail to recognize that a real, palpable threat of death to Hodges and Julie was but a split-second away. We may not know precisely where Max was pointing the revolver when he fired it, but we do know that Hodges and Julie were close enough to be next. In the words of the Fourth Circuit, “The Constitution simply does not require police to gamble with their lives [or indeed the lives of others] in the face of a serious threat of harm.” See Elliott v. Leavitt, 99 F.3d 640, 641 (4th Cir.1996). Accordingly, the court grants the defendants summary judgment as to the plaintiffs' § 1983 claim.
+
+Plaintiffs claim that the Sheriff's Office's failure to respond more quickly or differently to the concerns they expressed before the shooting caused the situation to escalate. The claim is not only speculative but immaterial to the court's analysis of the excessive force claim. See Waterman v. Batton, 393 F.3d 471, 477 (4th Cir.2005) (“[T]he reasonableness of the officer's actions in creating the dangerous situation is not relevant to the Fourth Amendment analysis; rather, reasonableness is determined based on the information possessed by the officer at the moment that force is employed.”).
+
+
+
+
+
+III.
+
+Plaintiffs also claim that, in addition to violating their son's Fourth Amendment rights, Hodges is liable for wrongful death and assault and battery under Virginia state law. While “[a]n officer's liability for the use of excessive force under § 1983 is not completely ‘co-extensive with the common law tort liability for battery,’ ” Clem v. Corbeau, 98 Fed.Appx. 197, 204 (4th Cir.2004) (quoting Freeman v. Franzen, 695 F.2d 485, 492 (7th Cir.1982)), “unreasonable or unnecessary force [is] the touchstone of both causes of action.” Carter v. Rogers, 805 F.2d 1153, 1158 (4th Cir.1986). Given the court's finding that Hodges did not use excessive force as a matter of law, no fair-minded jury could find for the plaintiffs on their state law claims, and the court grants the defendants summary judgment as to all of those claims.
+
+Summary judgment also may be warranted based on other defenses to plaintiffs' state law claims. SeeVa.Code Ann. § 18.2–282(B) (Under Virginia law, when a police officer arrests an individual for brandishing a firearm or simulated firearm, the officer is immune from civil liability for injuries or death resulting to the arrestee in the course of the arrest, if the officer had reason to believe the arrestee brandished the firearm with the intent of inducing fear of death or injury to another.). But the court finds it unnecessary to address those defenses.
+
+
+
+
+
+IV.
+
+Clearly, Max forced Hodges to make a split-second judgment in circumstances that were tense, uncertain, and rapidly evolving, and Hodges's use of deadly force for his own protection and the protection of Julie Harrison from serious bodily harm or death was objectively reasonable. Accordingly, defendants' motion for summary judgment is granted as to all claims.
+
+During oral argument on the motion for summary judgment the court now resolves, defendants' counsel complained that plaintiffs filed subpoenas duces tecum under seal thereby prohibiting his review. It appears from a review of the record that he is mistaken. The subpoenas in question would have been accessible to a filer in the case using his or her own, individual PACER account. It is likely that counsel used a non-filer's PACER account number in attempting to access the subpoenas he mistakenly believes were under seal.
+
+
+
+
+
+FINAL ORDER
+
+In accordance with the memorandum opinion entered on this day, it is hereby ORDERED and ADJUDGED that summary judgment is entered in favor of all defendants. All other pending motions are DENIED and this case is STRICKEN from the active docket of the court.

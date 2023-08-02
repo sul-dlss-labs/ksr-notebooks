@@ -1,0 +1,28 @@
+text,label,fe_id
+Chicago,GPE,10797
+Thursday,DATE,10797
+morning,TIME,10797
+Englewood,GPE,10797
+about 2 a.m.,TIME,10797
+four,CARDINAL,10797
+Pat Camden,PERSON,10797
+7400,CARDINAL,10797
+South Emerald Avenue,LOC,10797
+Camden,GPE,10797
+one,CARDINAL,10797
+Camden,GPE,10797
+two,CARDINAL,10797
+Camden,PERSON,10797
+Devon Ross,PERSON,10797
+27,DATE,10797
+500,CARDINAL,10797
+East 60th Street,LOC,10797
+Cook County,GPE,10797
+Last month,DATE,10797
+Cook County,GPE,10797
+Ross,PERSON,10797
+two,CARDINAL,10797
+Little Company of Mary Hospital,ORG,10797
+Evergreen Park,FAC,10797
+second,ORDINAL,10797
+this week,DATE,10797

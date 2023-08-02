@@ -1,0 +1,32 @@
+text,label,fe_id
+One,CARDINAL,29749
+overnight Friday,DATE,29749
+Grand Prairie,GPE,29749
+Dallas,GPE,29749
+around 2:15 a.m.,TIME,29749
+Ross Avenue,FAC,29749
+North Peak Street,GPE,29749
+Old East Dallas,LOC,29749
+Grand Prairie,LOC,29749
+Ford,ORG,29749
+F-350,PRODUCT,29749
+1:45 a.m.,TIME,29749
+Grand Prairie,ORG,29749
+Dallas,GPE,29749
+the Dallas County Sheriff’s Office,ORG,29749
+one,CARDINAL,29749
+Grand Prairie,ORG,29749
+Ross,PERSON,29749
+Peak,PERSON,29749
+one,CARDINAL,29749
+second,ORDINAL,29749
+One,CARDINAL,29749
+second,ORDINAL,29749
+a few minutes later,TIME,29749
+Grand Prairie,GPE,29749
+Ramiro Sotelo,PERSON,29749
+18,DATE,29749
+Balch Springs,GPE,29749
+Sotelo,PERSON,29749
+The Grand Prairie Police Department,ORG,29749
+the Dallas Police Department,ORG,29749

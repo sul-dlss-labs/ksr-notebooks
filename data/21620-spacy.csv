@@ -1,0 +1,75 @@
+text,label,fe_id
+Aisquith Street,FAC,21620
+one,CARDINAL,21620
+16-year-old,DATE,21620
+minutes,TIME,21620
+Baltimore,GPE,21620
+SWAT,ORG,21620
+Matt Jablow,PERSON,21620
+Taser,GPE,21620
+more than an hour,TIME,21620
+later Monday night,TIME,21620
+Taser,ORG,21620
+"50,000",CARDINAL,21620
+the past month,DATE,21620
+two,CARDINAL,21620
+Taser,GPE,21620
+third,ORDINAL,21620
+Baltimore County,GPE,21620
+March,DATE,21620
+the past eight years,DATE,21620
+two,CARDINAL,21620
+this year,DATE,21620
+first,ORDINAL,21620
+Autopsy,ORG,21620
+three,CARDINAL,21620
+David Fowler,PERSON,21620
+Maryland,GPE,21620
+first,ORDINAL,21620
+Fowler,PERSON,21620
+adrenalin,ORG,21620
+Fowler,PERSON,21620
+National Institute of Justice,ORG,21620
+one,CARDINAL,21620
+first,ORDINAL,21620
+Fowler,PERSON,21620
+This year,DATE,21620
+Baltimore,GPE,21620
+five,CARDINAL,21620
+last year,DATE,21620
+five,CARDINAL,21620
+Jablow,PERSON,21620
+about 50,CARDINAL,21620
+the past year,DATE,21620
+1999,DATE,21620
+nine,CARDINAL,21620
+last year,DATE,21620
+SWAT,ORG,21620
+About 100,CARDINAL,21620
+East Baltimore,GPE,21620
+Lena Oxendine,PERSON,21620
+33,DATE,21620
+11-year-old,DATE,21620
+2600,CARDINAL,21620
+Aisquith St.,ORG,21620
+16-year-old,DATE,21620
+8:42 p.m.,TIME,21620
+One,CARDINAL,21620
+three,CARDINAL,21620
+about 9 p.m.,TIME,21620
+SWAT,PERSON,21620
+Taser,ORG,21620
+9:04 p.m.,TIME,21620
+four minutes later,TIME,21620
+Union Memorial Hospital,ORG,21620
+9:30 p.m.,TIME,21620
+10:24 p.m.,TIME,21620
+Monday night,TIME,21620
+William J. Heath,PERSON,21620
+71,DATE,21620
+Terrell Heath,PERSON,21620
+31,DATE,21620
+William Heath,PERSON,21620
+West Baltimore,GPE,21620
+Monday,DATE,21620
+Jablow,PERSON,21620

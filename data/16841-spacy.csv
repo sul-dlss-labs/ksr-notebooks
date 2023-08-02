@@ -1,0 +1,136 @@
+text,label,fe_id
+Monday 10 a.m.,DATE,16841
+Steve Watson,PERSON,16841
+Monday,DATE,16841
+four,CARDINAL,16841
+yesterday,DATE,16841
+Wednesday,DATE,16841
+Watson,PERSON,16841
+the Eureka Police Department,ORG,16841
+Eureka,GPE,16841
+Sunday,DATE,16841
+afternoon,TIME,16841
+EPD,ORG,16841
+California Highway Patrol,FAC,16841
+Matt Harvey,PERSON,16841
+Monday,DATE,16841
+Harvey,PERSON,16841
+California Highway Patrol,FAC,16841
+Eureka,GPE,16841
+Sunday,DATE,16841
+afternoon,TIME,16841
+Eureka,PERSON,16841
+Andrew Mills,PERSON,16841
+Sunday,DATE,16841
+evening,TIME,16841
+EPD,ORG,16841
+later Sunday night,TIME,16841
+Gunshots,PERSON,16841
+the Eureka Police Department,ORG,16841
+4:19 p.m.,TIME,16841
+4th,ORDINAL,16841
+Eureka,GPE,16841
+CHP,ORG,16841
+one,CARDINAL,16841
+CHP,ORG,16841
+One,CARDINAL,16841
+EPD,ORG,16841
+four,CARDINAL,16841
+CHP,ORG,16841
+Arcata Ambulance,ORG,16841
+CPR,ORG,16841
+two,CARDINAL,16841
+Caltrans,ORG,16841
+4th,ORDINAL,16841
+Eureka,GPE,16841
+CHP,ORG,16841
+Humboldt County Critical Incident Response Team,ORG,16841
+the City of Eureka,GPE,16841
+EPD,ORG,16841
+Humboldt County District,LOC,16841
+the Humboldt County Sheriff’s Office,ORG,16841
+Humboldt County Drug Task Force,ORG,16841
+Fortuna Police Department,ORG,16841
+the California Department of Justice,ORG,16841
+4th Street,FAC,16841
+the night,TIME,16841
+3rd Street,FAC,16841
+Myrtle Avenue,FAC,16841
+EPD,ORG,16841
+Randy,PERSON,16841
+4th,ORDINAL,16841
+CHP,ORG,16841
+Randy,PERSON,16841
+Randy,PERSON,16841
+Randy,PERSON,16841
+one,CARDINAL,16841
+first,ORDINAL,16841
+Larry,PERSON,16841
+three,CARDINAL,16841
+Larry,PERSON,16841
+Randy,PERSON,16841
+CHP,ORG,16841
+Larry,PERSON,16841
+Randy,PERSON,16841
+CHP,ORG,16841
+The Humboldt County Sheriff’s Office,ORG,16841
+Arcata Police Department,ORG,16841
+California Highway Patrol,FAC,16841
+Humboldt State University Police Department,ORG,16841
+Will Houston,PERSON,16841
+707,CARDINAL,16841
+10:38 p.m.,TIME,16841
+the Eureka Police Department,ORG,16841
+Sunday,DATE,16841
+about 4:19 PM,TIME,16841
+Eureka Police Department,ORG,16841
+4th,ORDINAL,16841
+Streets,ORG,16841
+California Highway Patrol,FAC,16841
+two,CARDINAL,16841
+3rd,ORDINAL,16841
+4th Streets,ORG,16841
+CHP,ORG,16841
+CHP,ORG,16841
+4,CARDINAL,16841
+EPD,ORG,16841
+CHP,ORG,16841
+OIS,ORG,16841
+Humboldt County Critical Incident Response Team,ORG,16841
+the City of Eureka,GPE,16841
+EPD,ORG,16841
+Humboldt County District,LOC,16841
+the Humboldt County Sheriff’s Office,ORG,16841
+Humboldt County Drug Task Force,ORG,16841
+Fortuna Police Department,ORG,16841
+the California Department of Justice,ORG,16841
+4th Street,FAC,16841
+the night,TIME,16841
+3rd Street,FAC,16841
+Myrtle Avenue,FAC,16841
+Sunday,DATE,16841
+CHP,ORG,16841
+Sunday,DATE,16841
+afternoon,TIME,16841
+4th,ORDINAL,16841
+Eureka,GPE,16841
+Eureka,PERSON,16841
+Andrew Mills,PERSON,16841
+EPD,ORG,16841
+Caltrans,ORG,16841
+4th,ORDINAL,16841
+Eureka,GPE,16841
+CHP,ORG,16841
+300,CARDINAL,16841
+Eureka,GPE,16841
+around 4:30 p.m.,TIME,16841
+at least two,CARDINAL,16841
+three,CARDINAL,16841
+CHP,ORG,16841
+one,CARDINAL,16841
+CPR,ORG,16841
+4th Street,FAC,16841
+two,CARDINAL,16841
+One,CARDINAL,16841
+first,ORDINAL,16841
+Randy,PERSON,16841

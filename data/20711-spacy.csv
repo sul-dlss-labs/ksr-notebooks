@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,20711
+Alabama,GPE,20711
+Alaska,GPE,20711
+Arizona,GPE,20711
+Arkansas,GPE,20711
+California,GPE,20711
+Colorado,GPE,20711
+Connecticut,GPE,20711
+Delaware,GPE,20711
+Florida,GPE,20711
+Georgia,GPE,20711
+Hawaii,GPE,20711
+Idaho,GPE,20711
+Indiana,GPE,20711
+Iowa,GPE,20711
+Kansas,GPE,20711
+Kentucky,GPE,20711
+Louisiana,GPE,20711
+Maine,GPE,20711
+Maryland,GPE,20711
+Massachusetts,GPE,20711
+Michigan,GPE,20711
+Minnesota,GPE,20711
+Mississippi,GPE,20711
+Missouri,GPE,20711
+Montana,GPE,20711
+Nebraska,GPE,20711
+Nevada,GPE,20711
+New Hampshire,GPE,20711
+New Jersey,GPE,20711
+Ohio,GPE,20711
+Oklahoma,GPE,20711
+Oregon,GPE,20711
+Pennsylvania,GPE,20711
+Rhode Island,GPE,20711
+Tennessee,GPE,20711
+Texas,GPE,20711
+Utah,GPE,20711
+Vermont,GPE,20711
+Virginia,GPE,20711
+Washington,GPE,20711
+Washington,GPE,20711
+D.C.,GPE,20711
+Wisconsin,GPE,20711
+Wyoming,GPE,20711
+US,GPE,20711
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,20711
+Marshall Islands American Samoa Federated States,ORG,20711
+Micronesia Guam,FAC,20711
+Alberta,GPE,20711
+Canada,GPE,20711
+British Columbia,GPE,20711
+Canada Manitoba,GPE,20711
+Canada,GPE,20711
+New Brunswick,GPE,20711
+Canada Newfoundland,PERSON,20711
+Canada,GPE,20711
+Canada,GPE,20711
+Canada Ontario,GPE,20711
+Canada,GPE,20711
+Edward Island,GPE,20711
+Canada Quebec,GPE,20711
+Canada,GPE,20711
+Saskatchewan,GPE,20711
+Canada Yukon Territory,ORG,20711
+Canada,GPE,20711
+Zip Code,PERSON,20711

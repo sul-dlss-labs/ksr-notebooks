@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,20782
+Alabama,GPE,20782
+Alaska,GPE,20782
+Arizona,GPE,20782
+Arkansas,GPE,20782
+California,GPE,20782
+Colorado,GPE,20782
+Connecticut,GPE,20782
+Delaware,GPE,20782
+Florida,GPE,20782
+Georgia,GPE,20782
+Hawaii,GPE,20782
+Idaho,GPE,20782
+Indiana,GPE,20782
+Iowa,GPE,20782
+Kansas,GPE,20782
+Kentucky,GPE,20782
+Louisiana,GPE,20782
+Maine,GPE,20782
+Maryland,GPE,20782
+Massachusetts,GPE,20782
+Michigan,GPE,20782
+Minnesota,GPE,20782
+Mississippi,GPE,20782
+Missouri,GPE,20782
+Montana,GPE,20782
+Nebraska,GPE,20782
+Nevada,GPE,20782
+New Hampshire,GPE,20782
+New Jersey,GPE,20782
+Ohio,GPE,20782
+Oklahoma,GPE,20782
+Oregon,GPE,20782
+Pennsylvania,GPE,20782
+Rhode Island,GPE,20782
+Tennessee,GPE,20782
+Texas,GPE,20782
+Utah,GPE,20782
+Vermont,GPE,20782
+Virginia,GPE,20782
+Washington,GPE,20782
+Washington,GPE,20782
+D.C.,GPE,20782
+Wisconsin,GPE,20782
+Wyoming,GPE,20782
+US,GPE,20782
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,20782
+Marshall Islands American Samoa Federated States,ORG,20782
+Micronesia Guam,FAC,20782
+Alberta,GPE,20782
+Canada,GPE,20782
+British Columbia,GPE,20782
+Canada Manitoba,GPE,20782
+Canada,GPE,20782
+New Brunswick,GPE,20782
+Canada Newfoundland,PERSON,20782
+Canada,GPE,20782
+Canada,GPE,20782
+Canada Ontario,GPE,20782
+Canada,GPE,20782
+Edward Island,GPE,20782
+Canada Quebec,GPE,20782
+Canada,GPE,20782
+Saskatchewan,GPE,20782
+Canada Yukon Territory,ORG,20782
+Canada,GPE,20782
+Zip Code,PERSON,20782

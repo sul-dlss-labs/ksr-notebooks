@@ -1,0 +1,117 @@
+Court of Appeals of Mississippi. Lomax OGBURN, Individually, and on Behalf of the Wrongful Death Beneficiaries of Vonnie Ogburn, Appellant, v. CITY OF WIGGINS, Appellee. No. 2004-CA-00378-COA. Decided: May 24, 2005
+
+Before LEE, P.J., GRIFFIS and ISHEE, JJ. Joe Sam Owen, Robert P. Myers, Gulfport, attorneys for appellant. Rebecca C. Taylor, L. Clark Hicks, Hattiesburg, attorneys for appellee.
+
+¶ 1. Lomax Ogburn, as personal representative of the wrongful death beneficiaries of Vonnie Ogburn, filed this wrongful death action against the City of Wiggins. Ogburn alleged that the actions of Wiggins Police Officer Jamie Smith constituted “reckless disregard” and caused the death of his wife, Vonnie. After a bench trial, the Honorable Stephen Simpson ruled in favor of the City of Wiggins. Judge Simpson concluded that Officer Smith did not act in “reckless disregard for the safety of others” and his actions were not a proximate cause of Vonnie's death. As a result, Officer Smith and the City of Wiggins were afforded immunity under the Mississippi Tort Claims Act. We find no error and affirm.
+
+FACTS
+
+¶ 2. On the night of March 24, 2000, Officer Jamie Smith was on patrol in Wiggins. At approximately 9:09 p.m., John Wortham approached Officer Smith's vehicle traveling on the frontage road. Officer Smith observed Wortham driving in the wrong lane of traffic at a rate of speed of approximately 50 to 55 miles per hour in a 30 mile per hour speed zone.
+
+¶ 3. Officer Smith's vehicle left the road to avoid colliding with Wortham. Officer Smith immediately turned his vehicle around and activated his emergency blue lights and siren. Wortham continued driving recklessly on the frontage road, and Smith initiated a pursuit. Wortham ran a stop sign and turned onto Project Road.
+
+¶ 4. Officer Smith continued his pursuit of Wortham. Officer Smith reached the top of the first hill on Project Road and saw Wortham's vehicle at the top of the next hill. However, when Smith reached the next hill, he could not see Wortham's vehicle. Officer Smith slowed his vehicle and then saw dust around an intersection with Buck Marshall Road. Smith did not see Wortham's vehicle again until he reached the site of the accident. Smith approached the accident scene where Wortham had lost control of his vehicle, crossed over the center line, and collided with another vehicle driven by Vonnie Ogburn, the deceased. Wortham and Vonnie Ogburn were killed in the collision, and Lomax Ogburn was seriously injured.
+
+¶ 5. The entire pursuit lasted between one and two minutes and spanned approximately 1.7 miles. Subsequent blood tests revealed that Wortham's blood alcohol content at the time of the accident was .241, three times the legal limit.
+
+¶ 6. Lomax Ogburn filed suit against the City of Wiggins. A bench trial was held pursuant to the Mississippi Tort Claims Act. Miss.Code Ann. § 11-46-13(1)(Rev.2004). Judge Simpson determined that since the claim alleged tortious conduct by a governmental employee, a City of Wiggins' police officer acting within the course and scope of his employment, then pursuant to Mississippi Code Annotated Sections 11-46-1, et seq, the City of Wiggins is immune from alleged tortious conduct by its employees except to the extent immunity is specifically waived. The City of Wiggins would be immune from claims arising out of acts or omissions of employees engaged in police protection, “unless the employee acted in reckless disregard for the safety and well-being of any person not engaged in criminal activity at the time of injury.” Miss.Code Ann. § 11-46-9.
+
+¶ 7. Judge Simpson determined that there were three elements of the claim that must be proven by a preponderance of the evidence.:
+
+1. Officer Smith acted in reckless disregard for the safety and well-being of any person not engaged in criminal activity at the time of injury.
+
+2. The reckless disregard of Officer Smith was a proximate contributing cause of injury; and
+
+3. Damages.
+
+Judge Simpson concluded that the plaintiff “failed to meet his burden of proof as to the first and second elements of the cause of action.”
+
+¶ 8. On appeal, Ogburn argues that the substantial evidence did not support the trial court's findings that: (1) Officer Smith did not act in “reckless disregard,” and (2) Officer Smith's actions were not a proximate cause of the accident.
+
+STANDARD OF REVIEW
+
+¶ 9. “A circuit court judge sitting without a jury is accorded the same deference with regards to his findings as a chancellor, and his findings are safe on appeal where they are supported by substantial, credible, and reasonable evidence.” Maldonado v. Kelly, 768 So.2d 906, 907(¶ 4) (Miss.2000). These findings will not be disturbed on appeal unless they are manifestly wrong, clearly erroneous or an erroneous legal standard was applied. City of Jackson v. Perry, 764 So.2d 373, 376(¶ 9)(Miss.2000).
+
+ANALYSIS
+
+¶ 10. In City of Jackson v. Brister, 838 So.2d 274 (Miss.2003), the Mississippi Supreme Court clarified the standard by which the liability of municipalities regarding police pursuits is evaluated. In Brister, the supreme court found “reckless disregard” when officers caused a suspect to collide with a third party while pursuing her through a congested area at high speeds after she attempted to pass a forged check at a bank. Id. at 280-81 (¶¶ 21-23). The court employed several factors to determine whether the police chase constituted reckless disregard: (1) length of chase; (2) type of neighborhood; (3) characteristics of the streets; (4) the presence of vehicular or pedestrian traffic; (5) weather conditions and visibility; and (6) the seriousness of the offense for which the police are pursuing the vehicle. Id. at 280(¶ 22).
+
+I. Whether the trial court's finding that Officer Smith's actions did not constitute “reckless disregard” was supported by substantial evidence.
+
+¶ 11. Ogburn argues that Officer Smith's actions did not fall under the Mississippi Tort Claims Act and, thus, he was not immune from liability. Mississippi Code Annotated § 11-46-9(1)(c)(Rev.2002) provides:
+
+A governmental entity and its employees acting within the course and scope of their employment or duties shall not be liable for any claim: ․ (c) [a]rising out of any act or omission of an employee of a governmental entity engaged in the performance or execution of duties or activities relating to police or fire protection unless the employee acted in reckless disregard of the safety and well-being of any person not engaged in criminal activity at the time of the injury.
+
+¶ 12. “Reckless disregard” has been defined as “the voluntary doing by motorist of an improper or wrongful act, or with knowledge of existing conditions, the voluntary refraining from doing a proper or prudent act when such act or failure to act evinces an entire abandonment of any care, and heedless indifference to results which may follow and the reckless taking of chance of accident happening without intent that any occur[.]” Turner v. City of Ruleville, 735 So.2d 226, 229(¶ 11)(Miss.1999)(emphasis omitted). The court also added that “reckless disregard is a higher standard than gross negligence by which to judge the conduct of officers,” and it “embraces willful or wanton conduct which requires knowingly and intentionally doing a thing or wrongful act.” Id. at 229-30 (¶¶ 17, 19).
+
+¶ 13. Ogburn maintains that Officer Smith acted with reckless disregard in the manner in which he operated his patrol car. Ogburn argues that Officer Smith failed to follow the proper pursuit procedure for police vehicles. Specifically, Officer Smith should have discontinued his pursuit of Wortham after he turned onto Project Road and realized that Wortham would not stop.
+
+¶ 14. Ogburn contends that, just as in Brister, Officer Smith did not follow the proper departmental procedure in his pursuit of Wortham. Ogburn claims that Officer Smith did not consider the type of offense committed, the risk to the public, nor the fact that this particular road was considered dangerous.
+
+¶ 15. We find that Brister does not support Ogburn's argument. In Brister, the pursuit took place in a heavily populated area that included apartment complexes, single-family housing and condominiums, a park, and an elementary school. Brister, 838 So.2d at 280 ¶ 21. The officers drove at speeds in excess of twenty miles per hour over the posted speed limit, while the suspect was traveling at speeds in excess of seventy miles per hour. Id. The accident occurred when the suspect crested into an intersection where her visibility was limited. The court relied heavily on the fact that the officers involved in the chase were violating a departmental order that a pursuit may only be initiated when a suspect's escape is more dangerous to the community than the risk posed by the pursuit. Id. The court further noted that the officers were on the scene before the suspect left the parking lot, and they had the opportunity to either block the suspect in her parking space or get her tag number and apprehend her later. Id.
+
+¶ 16. Ogburn's expert witness opined that Officer Smith complied with the City of Wiggins' policy and the State's policy for police pursuits. Officer Smith testified that he did consider the risk to the public. Officer Smith slowed his vehicle as he lost sight of Wortham and called for back-up. City of Wiggins' expert Keith Oubre testified that given the short distance, rural area, seriousness of the offenses, and other factors, the entire pursuit was appropriate.
+
+¶ 17. The trial judge carefully considered the evidence of the Brister factors as well as additional considerations. The judge determined the following:
+
+1. Length of the chase. Officer Smith and Oubre testified that the pursuit was short in time and distance being approximately two minutes over 1.7 miles.
+
+2. Type of neighborhood. Project Road is rural and sparsely populated.
+
+3. Characteristics of the streets. Project Road is well paved and proceeds East and West over several rolling hills.
+
+4. Presence of vehicular or pedestrian traffic. Officer Smith testified that he saw no vehicles nor pedestrians on Project Road before the accident.
+
+5. Weather conditions/visibility. Though dark, the weather was clear and visibility was good with there being no rain, sleet or fog.
+
+6. Seriousness of the offense for which the police were pursuing the vehicle. Officer Smith testified that he initiated the pursuit after observing Wortham's reckless driving, evidenced by his excessive speed, driving on the wrong side of the road, and his running a stop sign. Oubre testified that these offenses were serious and that the City of Wiggins' pursuit policy permitted pursuit under these circumstances.
+
+7. Experience of the officer involved. Officer Smith was trained at the police academy, had worked with the Sheriff's department four years prior to joining the City of Wiggins' police department, and was knowledgeable in pursuit procedures.
+
+8. Alternative measures to identify the suspect rather than pursuing him. Officer Smith could not identify the suspect given his reckless driving at night. Officer Smith could only determine that the tag was from Alabama.
+
+9. Ability of the officer to prevent the suspect from fleeing. Officer Smith did not have the ability nor time to block Wortham thereby preventing his flight.
+
+10. Whether Wiggins' pursuit policy permitted the pursuit in question. The City of Wiggins' pursuit policy states that such pursuit at the discretion of the officer. Oubre testified that the pursuit conformed to the policy.
+
+11. The officer's familiarity with the area. Officer Smith was very familiar with the area. Ogburn contends that Officer Smith knew that the road curved dangerously and that he should have ended the pursuit. However, Officer Smith had no way of knowing the exact route that Wortham would choose given his inability to keep a visual of the car.
+
+12. The presence of residential buildings. There were no apartment complexes, parks, schools, churches, or any structures typically found in more urban areas.
+
+13. The presence of traffic control devices. No stop signs, yield signs, traffic lights, or any other devices other than speed limit signs existed on Project Road.
+
+14. The use by the officer of emergency equipment on the patrol car. Officer Smith initiated his blue lights and siren immediately after observing Wortham's reckless driving.
+
+15. The distance between the patrol car and suspect's vehicle during the pursuit. Officer Smith testified that he was never closer than a quarter of a mile to Wortham. Brett Alexander, an accident reconstructionist, testified that at a minimum, Officer Smith had to be 568 feet behind Wortham when he lost control. Alexander concluded that Officer Smith's testimony was consistent with his scientific findings at the scene.
+
+16. The likelihood that there would be excessive traffic on the road at this date and time. The incident occurred at 9 p.m. on Project Road in Wiggins, Mississippi. There was no excessive traffic anticipated.
+
+17. Whether the suspect had any knowledge of the pursuit. The trial court found no evidence on this point.
+
+¶ 18. Judge Simpson concluded that “[f]aced with split second decisions and balancing all of the factors existing in this case, the Court finds that the officer did not act in reckless disregard.” He determined that Officer Smith neither appreciated an unreasonable risk nor deliberately disregarded such a risk. Judge Simpson held that:
+
+The evidence presented to this Court regarding the actions of Officer Smith require a different result than Brister. Here there is no question, all of the experts testified that Officer Smith was correct in initiating the pursuit. He had no reasonable alternative action available. Officer Smith was not faced with balancing the “public's safety versus immediate apprehension of a check forger.” He was faced with an immediate danger to the public's safety by virtue of Wortham's speed and recklessness.
+
+¶ 19. We find the trial court's findings of fact and conclusions of law to be supported by substantial, credible, and reasonable evidence. As a result, Smith and the City of Wiggins are entitled to immunity under the Mississippi Tort Claims Act.
+
+II. Whether the trial court's finding that Officer Smith's actions were not a proximate cause to the accident in question was supported by substantial evidence.
+
+¶ 20. We recognize that Ogburn failed to satisfy the first element of his claim. Nevertheless, we will consider the second issue on the merits.
+
+¶ 21. Even if Ogburn proved that Officer Smith acted in reckless disregard, he must also establish that Smith's actions were the proximate cause of the accident. McIntosh v. Victoria Corp., 877 So.2d 519, 523(¶ 14)(Miss.Ct.App.2004)(citing Sample v. Haga, 824 So.2d 627, 632(¶ 8) (Miss.Ct.App.2001)). Proximate cause requires: (1) cause in fact; and (2) foreseeability. Morin v. Moore, 309 F. 3rd 316, 326(5th Cir.2002)(citing Ambrosio v. Carter's Shooting Ctr., Inc., 20 S.W.3d 262, 265 (Tex.App.2000)). “Cause in fact” means that the act or omission was a substantial factor in bringing about the injury, and without it the harm would not have occurred. Ambrosio, 20 S.W.3d at 265. Foreseeability means that a person of ordinary intelligence should have anticipated the dangers that his negligent act created for others. Morin, 309 F. 3rd at 326. Foreseeability does not require that a person anticipate the precise manner in which injury will occur once he has created a dangerous situation through his negligence. Id.
+
+¶ 22. Ogburn argues that the initiation and the continuation of this chase proximately caused Wortham's reckless driving which directly led to the collision. Specifically, he points to the fact that Wortham ignored a stop sign and drove at speeds well above the posted limit. Trooper Rayburn's investigative report stated that Wortham was “fleeing a Wiggins Police Department unit.” Ogburn relies upon this evidence to infer that Wortham knew he was being pursued by Smith at the time of the accident.
+
+¶ 23. Judge Simpson found that:
+
+the evidence in this case is insufficient to establish that Officer Smith ․ proximately contributed to the accident and resulting death and injuries․ There is insufficient evidence to know one way or the other whether Wortham even knew that Smith was pursuing him. Even if he did, there is the additional question of whether Wortham knew the officer was still behind him in the last half a mile from when Officer Smith lost visual contact until Wortham crashed into the Ogburns.
+
+The trial judge found that it was the reckless driving of Wortham, rather than Officer Smith's pursuit of Wortham, that was the proximate cause of Ogburn's injuries and his wife's death. No evidence was presented to establish or suggest that the pursuit of Wortham constituted extreme or outrageous conduct. Before the pursuit commenced, Wortham was driving in the wrong lane of traffic at an excessive speed while intoxicated. This same behavior continued after Officer Smith began his pursuit. There is simply no evidence in the record to establish whether Wortham knew he was being pursued. It simply cannot be said that this tragedy would not have occurred had Officer Smith not pursued Wortham.
+
+¶ 24. We find the trial court's findings of fact and conclusions of law to be supported by substantial, credible, and reasonable evidence. Therefore, we affirm.
+
+¶ 25. THE JUDGMENT OF THE STONE COUNTY CIRCUIT COURT IS AFFIRMED. ALL COSTS OF THIS APPEAL ARE ASSESSED TO THE APPELLANT.
+
+GRIFFIS, J., for the Court.
+
+KING, C.J., BRIDGES AND LEE, P.JJ., MYERS, CHANDLER, BARNES AND ISHEE, JJ. CONCUR. IRVING, J., CONCURS IN RESULT ONLY.

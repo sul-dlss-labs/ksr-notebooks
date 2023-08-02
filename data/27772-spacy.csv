@@ -1,0 +1,26 @@
+text,label,fe_id
+"POLICE Department
+
+Investigation into Incident",ORG,27772
+5530,DATE,27772
+April 27,DATE,27772
+2020,DATE,27772
+Houston,GPE,27772
+HPD,ORG,27772
+5530,DATE,27772
+about 12:45 a.m.,TIME,27772
+Saturday,DATE,27772
+April 25,DATE,27772
+the Harris County Institute of Forensic Sciences,ORG,27772
+Detectives I. Ulloa,PERSON,27772
+J. Brown,PERSON,27772
+R. Lujan,PERSON,27772
+M. Resnick,PERSON,27772
+G. Rodgers,PERSON,27772
+HPD Clear Lake Patrol Division,ORG,27772
+one,CARDINAL,27772
+Houston Fire Department,ORG,27772
+Memorial Hermann Southeast Hospital,PERSON,27772
+HPD,ORG,27772
+the HPD Special Investigations Unit,ORG,27772
+the Internal Affairs Division,ORG,27772

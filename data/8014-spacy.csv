@@ -1,0 +1,23 @@
+text,label,fe_id
+San Bernardino,GPE,8014
+20-year-old,DATE,8014
+April,DATE,8014
+Juan Ochoa,PERSON,8014
+Juan Carlos Gravina,PERSON,8014
+Ochoa,PERSON,8014
+Gravina,GPE,8014
+Officer Ochoa,WORK_OF_ART,8014
+April 15,DATE,8014
+Sierra Way,ORG,8014
+Ochoa,PERSON,8014
+Gravina,PERSON,8014
+Ochoa,PERSON,8014
+Gravina,PERSON,8014
+Ochoa,PERSON,8014
+Gravina,GPE,8014
+Ochoa,PERSON,8014
+second,ORDINAL,8014
+Gravina,PERSON,8014
+9mm,QUANTITY,8014
+9mm,QUANTITY,8014
+Gravina,PERSON,8014

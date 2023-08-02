@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6589
+Alabama,GPE,6589
+Alaska,GPE,6589
+Arizona,GPE,6589
+Arkansas,GPE,6589
+California,GPE,6589
+Colorado,GPE,6589
+Connecticut,GPE,6589
+Delaware,GPE,6589
+Florida,GPE,6589
+Georgia,GPE,6589
+Hawaii,GPE,6589
+Idaho,GPE,6589
+Indiana,GPE,6589
+Iowa,GPE,6589
+Kansas,GPE,6589
+Kentucky,GPE,6589
+Louisiana,GPE,6589
+Maine,GPE,6589
+Maryland,GPE,6589
+Massachusetts,GPE,6589
+Michigan,GPE,6589
+Minnesota,GPE,6589
+Mississippi,GPE,6589
+Missouri,GPE,6589
+Montana,GPE,6589
+Nebraska,GPE,6589
+Nevada,GPE,6589
+New Hampshire,GPE,6589
+New Jersey,GPE,6589
+Ohio,GPE,6589
+Oklahoma,GPE,6589
+Oregon,GPE,6589
+Pennsylvania,GPE,6589
+Rhode Island,GPE,6589
+Tennessee,GPE,6589
+Texas,GPE,6589
+Utah,GPE,6589
+Vermont,GPE,6589
+Virginia,GPE,6589
+Washington,GPE,6589
+Washington,GPE,6589
+D.C.,GPE,6589
+Wisconsin,GPE,6589
+Wyoming,GPE,6589
+US,GPE,6589
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6589
+Marshall Islands American Samoa Federated States,ORG,6589
+Micronesia Guam,FAC,6589
+Alberta,GPE,6589
+Canada,GPE,6589
+British Columbia,GPE,6589
+Canada Manitoba,GPE,6589
+Canada,GPE,6589
+New Brunswick,GPE,6589
+Canada Newfoundland,PERSON,6589
+Canada,GPE,6589
+Canada,GPE,6589
+Canada Ontario,GPE,6589
+Canada,GPE,6589
+Edward Island,GPE,6589
+Canada Quebec,GPE,6589
+Canada,GPE,6589
+Saskatchewan,GPE,6589
+Canada Yukon Territory,ORG,6589
+Canada,GPE,6589
+Zip Code,PERSON,6589

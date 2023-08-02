@@ -1,0 +1,22 @@
+text,label,fe_id
+Junction City,GPE,28020
+one,CARDINAL,28020
+several hours,TIME,28020
+just after 8:00 p.m.,TIME,28020
+around 1:00 p.m.,TIME,28020
+Junction City Police Officers,ORG,28020
+South Washington Street,GPE,28020
+West Third Street,LOC,28020
+Washington St.,GPE,28020
+Jefferson St.,PERSON,28020
+SWAT,ORG,28020
+Junction City Police Department,ORG,28020
+Trish Giordano,PERSON,28020
+Trish Giordano,PERSON,28020
+the Junction City Police Department,ORG,28020
+Thursday,DATE,28020
+morning,TIME,28020
+SWAT,ORG,28020
+Junction City Police Department,ORG,28020
+Riley County Police Department,ORG,28020
+the Kansas Bureau of Investigations,ORG,28020

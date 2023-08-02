@@ -1,0 +1,92 @@
+text,label,fe_id
+one,CARDINAL,15033
+ten,CARDINAL,15033
+three,CARDINAL,15033
+Saturday,DATE,15033
+night,TIME,15033
+Sunday,DATE,15033
+morning,TIME,15033
+John Hirschberger,PERSON,15033
+28,DATE,15033
+Gates Avenue,FAC,15033
+Marcus Garvey Boulevard,ORG,15033
+Bedford-Stuyvesant,GPE,15033
+around 2:30 a.m.,TIME,15033
+two,CARDINAL,15033
+Naim Owens,PERSON,15033
+22,DATE,15033
+Monroe Street,FAC,15033
+Gates Avenue,FAC,15033
+one,CARDINAL,15033
+NYPD,ORG,15033
+Owens,PERSON,15033
+Kings County Hospital,FAC,15033
+Rossy,PERSON,15033
+Hirshberger,PERSON,15033
+less than a year,DATE,15033
+Owens,PERSON,15033
+2007,DATE,15033
+Gates Avenue,FAC,15033
+Khiel Coppin,PERSON,15033
+18,DATE,15033
+Sunday,DATE,15033
+Bill Bratton,PERSON,15033
+Sunday morning,TIME,15033
+Earlier in the evening,TIME,15033
+three,CARDINAL,15033
+Bed-Stuy,WORK_OF_ART,15033
+10:45 p.m.,TIME,15033
+Malcolm X Boulevard,PERSON,15033
+Kosciusko Street,FAC,15033
+Two,CARDINAL,15033
+64,DATE,15033
+25,DATE,15033
+B46,ORG,15033
+25-year-old,DATE,15033
+three,CARDINAL,15033
+Kings County Hospital,FAC,15033
+Harlem,LOC,15033
+22-year-old,DATE,15033
+two,CARDINAL,15033
+Frederick Douglas Boulevard,PERSON,15033
+midnight,TIME,15033
+23-year-old,DATE,15033
+Eastchester,PRODUCT,15033
+Bronx,GPE,15033
+Wickham,ORG,15033
+Tillotson,ORG,15033
+Christopher Richards,PERSON,15033
+Jacobi Hospital,ORG,15033
+About two hours later,TIME,15033
+two,CARDINAL,15033
+16-year-old,DATE,15033
+Third Avenue,FAC,15033
+112th Street,FAC,15033
+East Harlem,LOC,15033
+Metropolitan,GPE,15033
+29-year-old,DATE,15033
+Central Park,LOC,15033
+around 4 a.m.,TIME,15033
+West 102nd Street,GPE,15033
+Two,CARDINAL,15033
+early Sunday,DATE,15033
+24-year-old,DATE,15033
+Crown Heights,LOC,15033
+around 1:15 a.m.,TIME,15033
+Washington Heights,GPE,15033
+Harlem Hospital,FAC,15033
+Five,CARDINAL,15033
+Washington Heights,GPE,15033
+Edgecombe Avenue,FAC,15033
+West 164th Street,LOC,15033
+around 10:30 p.m.,TIME,15033
+Five,CARDINAL,15033
+25,DATE,15033
+Anthony Smalls,PERSON,15033
+26,DATE,15033
+Michael Wilson,PERSON,15033
+30,DATE,15033
+Justin Tyson,PERSON,15033
+25,DATE,15033
+Javon Smith,PERSON,15033
+24,CARDINAL,15033

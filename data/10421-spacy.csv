@@ -1,0 +1,27 @@
+text,label,fe_id
+Christopher Moreno,PERSON,10421
+38-year-old,DATE,10421
+Latino,PERSON,10421
+"Saturday, July 30",DATE,10421
+500,CARDINAL,10421
+Echandia Street,FAC,10421
+Boyle Heights,GPE,10421
+Los Angeles County,GPE,10421
+that day,DATE,10421
+Moreno,PERSON,10421
+County-USC Medical Center,ORG,10421
+Moreno,PERSON,10421
+Boyle Heights,GPE,10421
+Mission Road,FAC,10421
+Richmond Street,FAC,10421
+El Divino Salvador Presbyterian Church on Echandia Street,ORG,10421
+Moreno,ORG,10421
+one,CARDINAL,10421
+8-inch,QUANTITY,10421
+Andrew Smith,PERSON,10421
+At least one,CARDINAL,10421
+Moreno,ORG,10421
+Smith,ORG,10421
+Smith,PERSON,10421
+County Jail,GPE,10421
+Andrew Blankstein,PERSON,10421

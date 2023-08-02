@@ -1,0 +1,39 @@
+text,label,fe_id
+Tulsa,GPE,23664
+Monday,DATE,23664
+afternoon,TIME,23664
+40-year-old,DATE,23664
+Joseph E. Knight,PERSON,23664
+two,CARDINAL,23664
+Jeanne MacKenzie,PERSON,23664
+1400,CARDINAL,23664
+N. Peoria Ave,PERSON,23664
+1:22 p.m.,TIME,23664
+Pine Street,FAC,23664
+Tacoma Avenue,FAC,23664
+1:30 p.m.,TIME,23664
+MacKenzie,ORG,23664
+Dave Walker,PERSON,23664
+Knight,ORG,23664
+more than an hour,TIME,23664
+MacKenzie,ORG,23664
+two,CARDINAL,23664
+between 2:45 and 3 p.m.,DATE,23664
+Danny Gress,PERSON,23664
+Knight,PERSON,23664
+Gress,ORG,23664
+Gress,ORG,23664
+Knight,PERSON,23664
+Cheryl Gress,PERSON,23664
+Knight,PERSON,23664
+two,CARDINAL,23664
+MacKenzie,ORG,23664
+Knight,ORG,23664
+Osage County,GPE,23664
+Monday,DATE,23664
+Tulsa,GPE,23664
+first,ORDINAL,23664
+2018,DATE,23664
+Last year,DATE,23664
+six,CARDINAL,23664
+five,CARDINAL,23664

@@ -1,0 +1,82 @@
+text,label,fe_id
+US,GPE,220
+2000,CARDINAL,220
+Macon Telegraph,PERSON,220
+2008-09-04,DATE,220
+18:51:13,TIME,220
+Two,CARDINAL,220
+Macon,GPE,220
+one,CARDINAL,220
+two,CARDINAL,220
+late Thursday,DATE,220
+"Crime
+
+Suppression Unit",ORG,220
+around 11:25 p.m.,TIME,220
+Heath Holcomb,PERSON,220
+Sandra Aldridge,PERSON,220
+26,CARDINAL,220
+three-year,DATE,220
+two,CARDINAL,220
+five,CARDINAL,220
+Fort Hill,GPE,220
+25-year-old,DATE,220
+Patrick,PERSON,220
+Willie J. May,PERSON,220
+one,CARDINAL,220
+May,DATE,220
+9 mm,QUANTITY,220
+May,DATE,220
+10 mm,QUANTITY,220
+second,ORDINAL,220
+Hawaiian,NORP,220
+late Friday,DATE,220
+The Medical Center of Central Georgia,ORG,220
+the 11:25 p.m.,TIME,220
+one,CARDINAL,220
+three,CARDINAL,220
+Friday,DATE,220
+afternoon,TIME,220
+Atlanta,GPE,220
+Mitchell,ORG,220
+Bowman,PERSON,220
+Fort Hill Cemetery,FAC,220
+Gray Highway,FAC,220
+Emery Highway,FAC,220
+Shurling Drive,WORK_OF_ART,220
+years,DATE,220
+all-hours,TIME,220
+May,DATE,220
+Long,PERSON,220
+May,DATE,220
+"Shooting
+
+Review Board",ORG,220
+later this month,DATE,220
+Macon,GPE,220
+July,DATE,220
+1998,DATE,220
+One,CARDINAL,220
+Friday,DATE,220
+two,CARDINAL,220
+5-year-old,DATE,220
+2-year-old,DATE,220
+24-year-old,DATE,220
+Vanessa Good,PERSON,220
+Rock Hill,GPE,220
+S.C.,GPE,220
+Macon,GPE,220
+"a
+
+year ago",DATE,220
+a couple of weeks,DATE,220
+"Spring
+
+Street",EVENT,220
+Friday,DATE,220
+about a week ago,DATE,220
+South Carolina,GPE,220
+six months,DATE,220
+Joe Kovac Jr.,PERSON,220
+744,CARDINAL,220
+Allan Wilkinson,PERSON,220

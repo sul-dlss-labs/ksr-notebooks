@@ -1,0 +1,40 @@
+text,label,fe_id
+One,CARDINAL,14702
+two,CARDINAL,14702
+earlier this week,DATE,14702
+San Francisco’s,GPE,14702
+California Highway Patrol,FAC,14702
+San Francisco,GPE,14702
+Deaudry Carr,PERSON,14702
+43,DATE,14702
+CHP,ORG,14702
+early Wednesday,DATE,14702
+Oakland,GPE,14702
+San Francisco’s,GPE,14702
+Fifth Street,FAC,14702
+I-80,PRODUCT,14702
+CHP,ORG,14702
+first,ORDINAL,14702
+BMW,ORG,14702
+San Francisco,GPE,14702
+Interstate Highway 880,FAC,14702
+Seventh Street,FAC,14702
+Oakland,GPE,14702
+around 3 a.m.,TIME,14702
+CHP,ORG,14702
+CHP,ORG,14702
+BMW,ORG,14702
+Oakland,GPE,14702
+I-80,PRODUCT,14702
+BMW,ORG,14702
+the Bay Bridge,FAC,14702
+more than 100 mph,QUANTITY,14702
+CHP,ORG,14702
+BMW,ORG,14702
+Fifth,ORDINAL,14702
+San Francisco,GPE,14702
+Wilkenfeld,GPE,14702
+One,CARDINAL,14702
+Carr,PERSON,14702
+Sasha Lekach,PERSON,14702
+Bay City News,FAC,14702

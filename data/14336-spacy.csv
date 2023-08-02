@@ -1,0 +1,35 @@
+text,label,fe_id
+CHICAGO,GPE,14336
+STMW,ORG,14336
+three,CARDINAL,14336
+Friday,DATE,14336
+night,TIME,14336
+Humboldt Park,LOC,14336
+the West Side,LOC,14336
+about 9:45 p.m.,TIME,14336
+2300,CARDINAL,14336
+West Division Street,LOC,14336
+Ashland,GPE,14336
+Grand,GPE,14336
+26-year-old,DATE,14336
+Rigoberto Llera,PERSON,14336
+Llera,PERSON,14336
+7600,CARDINAL,14336
+North Bosworth Avenue,LOC,14336
+Northwestern Memorial Hospital,ORG,14336
+10:45 p.m.,TIME,14336
+the Cook County Medical Examiner's,ORG,14336
+Saturday,DATE,14336
+Llera,PERSON,14336
+Two,CARDINAL,14336
+26,CARDINAL,14336
+23,CARDINAL,14336
+John H. Stroger Jr. Hospital,PERSON,14336
+Cook County,GPE,14336
+Greer,PERSON,14336
+9-month-old,DATE,14336
+Children's Memorial Hospital,ORG,14336
+Greer,PERSON,14336
+Sun-Times Media Wire,ORG,14336
+Chicago Sun-Times,ORG,14336
+2014,DATE,14336

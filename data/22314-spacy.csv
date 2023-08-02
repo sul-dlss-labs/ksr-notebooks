@@ -1,0 +1,54 @@
+text,label,fe_id
+Ronald Reagan,PERSON,22314
+Los Angeles,GPE,22314
+Wednesday,DATE,22314
+morning,TIME,22314
+California Highway Patrol,FAC,22314
+just after 6 a.m.,TIME,22314
+CHP Sgt,ORG,22314
+Saul Gomez,PERSON,22314
+Gomez,PERSON,22314
+CHP,ORG,22314
+about 40 years old,DATE,22314
+CHP,ORG,22314
+California,GPE,22314
+Gomez,PERSON,22314
+California,GPE,22314
+Gomez,PERSON,22314
+CHP,ORG,22314
+CHP,ORG,22314
+Gomez,PERSON,22314
+three,CARDINAL,22314
+up to five,CARDINAL,22314
+Gomez,PERSON,22314
+"2,700",CARDINAL,22314
+Gomez,PERSON,22314
+CHP,ORG,22314
+CHP,ORG,22314
+just after 6 a.m.,TIME,22314
+Moments,PERSON,22314
+CHP,ORG,22314
+Peter Nicholson,PERSON,22314
+Spring Street,FAC,22314
+between 3rd,DATE,22314
+4th,ORDINAL,22314
+CHP,ORG,22314
+Spring Street,FAC,22314
+District Court of Appeal,ORG,22314
+the California Department of General Services,ORG,22314
+Jerry Brown,PERSON,22314
+Gomez,PERSON,22314
+CHP,ORG,22314
+CHP,ORG,22314
+Manson,PERSON,22314
+Rosemary LaBianca,PERSON,22314
+14,CARDINAL,22314
+California,GPE,22314
+Las Vegas,GPE,22314
+Van Nuys,GPE,22314
+6:10 p.m.,TIME,22314
+12:25 p.m.,TIME,22314
+10:30 a.m.,TIME,22314
+9:15 a.m.,TIME,22314
+8:15 a.m.,TIME,22314
+7 a.m.,TIME,22314

@@ -1,0 +1,24 @@
+text,label,fe_id
+last week,DATE,811
+Echo Park,GPE,811
+12 hours,TIME,811
+Los Angeles,GPE,811
+Tuesday,DATE,811
+Paul Jacobson,PERSON,811
+40,DATE,811
+Dan Aikin,PERSON,811
+Jacobson,PERSON,811
+1600,CARDINAL,811
+Lucretia Avenue,FAC,811
+Sgt,PERSON,811
+John Pasquariello,PERSON,811
+6:30 a.m.,TIME,811
+Thursday,DATE,811
+911,CARDINAL,811
+Pasquariello,ORG,811
+SWAT,ORG,811
+Pasquariello,ORG,811
+the day,DATE,811
+Pasquariello,ORG,811
+about 100,CARDINAL,811
+about 5 p.m.,TIME,811

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,8231
+Alabama,GPE,8231
+Alaska,GPE,8231
+Arizona,GPE,8231
+Arkansas,GPE,8231
+California,GPE,8231
+Colorado,GPE,8231
+Connecticut,GPE,8231
+Delaware,GPE,8231
+Florida,GPE,8231
+Georgia,GPE,8231
+Hawaii,GPE,8231
+Idaho,GPE,8231
+Indiana,GPE,8231
+Iowa,GPE,8231
+Kansas,GPE,8231
+Kentucky,GPE,8231
+Louisiana,GPE,8231
+Maine,GPE,8231
+Maryland,GPE,8231
+Massachusetts,GPE,8231
+Michigan,GPE,8231
+Minnesota,GPE,8231
+Mississippi,GPE,8231
+Missouri,GPE,8231
+Montana,GPE,8231
+Nebraska,GPE,8231
+Nevada,GPE,8231
+New Hampshire,GPE,8231
+New Jersey,GPE,8231
+Ohio,GPE,8231
+Oklahoma,GPE,8231
+Oregon,GPE,8231
+Pennsylvania,GPE,8231
+Rhode Island,GPE,8231
+Tennessee,GPE,8231
+Texas,GPE,8231
+Utah,GPE,8231
+Vermont,GPE,8231
+Virginia,GPE,8231
+Washington,GPE,8231
+Washington,GPE,8231
+D.C.,GPE,8231
+Wisconsin,GPE,8231
+Wyoming,GPE,8231
+US,GPE,8231
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,8231
+Marshall Islands American Samoa Federated States,ORG,8231
+Micronesia Guam,FAC,8231
+Alberta,GPE,8231
+Canada,GPE,8231
+British Columbia,GPE,8231
+Canada Manitoba,GPE,8231
+Canada,GPE,8231
+New Brunswick,GPE,8231
+Canada Newfoundland,PERSON,8231
+Canada,GPE,8231
+Canada,GPE,8231
+Canada Ontario,GPE,8231
+Canada,GPE,8231
+Edward Island,GPE,8231
+Canada Quebec,GPE,8231
+Canada,GPE,8231
+Saskatchewan,GPE,8231
+Canada Yukon Territory,ORG,8231
+Canada,GPE,8231
+Zip Code,PERSON,8231

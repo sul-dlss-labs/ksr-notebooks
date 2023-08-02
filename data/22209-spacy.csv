@@ -1,0 +1,94 @@
+text,label,fe_id
+Monday,DATE,22209
+Tuesday,DATE,22209
+at least one,CARDINAL,22209
+55-year-old,DATE,22209
+Ricky Ard,LOC,22209
+911,CARDINAL,22209
+11:18 a.m.,TIME,22209
+Tuesday,DATE,22209
+the Winfield K. Denton Federal Building,ORG,22209
+101,CARDINAL,22209
+N.W. Martin Luther King Blvd,PERSON,22209
+Scotty Williams,PERSON,22209
+the Courier & Press,ORG,22209
+Ard,ORG,22209
+Anthony Wolfe,PERSON,22209
+Taser,ORG,22209
+Taser,ORG,22209
+Wolfe,PERSON,22209
+Ard,ORG,22209
+Ard,GPE,22209
+Williams,PERSON,22209
+Wolfe,PERSON,22209
+four to five,CARDINAL,22209
+Taser,ORG,22209
+Evansville Police,PERSON,22209
+Sgt,PERSON,22209
+Jason Cullum,PERSON,22209
+2018,DATE,22209
+Evansville,PERSON,22209
+Harvey,PERSON,22209
+Tri-State,ORG,22209
+this week,DATE,22209
+G,PERSON,22209
+"5,000",MONEY,22209
+Ard,WORK_OF_ART,22209
+Monday,DATE,22209
+Cullum,PERSON,22209
+The Winfield K. Denton Federal Building,ORG,22209
+the Southern District,LOC,22209
+yesterday,DATE,22209
+Cullum,PERSON,22209
+Ard,ORG,22209
+Tuesday,DATE,22209
+the U.S. Marshals,ORG,22209
+Cullum,PERSON,22209
+Ard,ORG,22209
+Cullum,PERSON,22209
+Cullum,PERSON,22209
+911,CARDINAL,22209
+Evansville,PRODUCT,22209
+about an hour,TIME,22209
+Coroner's Office,ORG,22209
+about 12:30 p.m.,TIME,22209
+Taser,ORG,22209
+about 30 minutes,TIME,22209
+Cullum,PERSON,22209
+Ard,ORG,22209
+1 p.m.,TIME,22209
+Wednesday,DATE,22209
+Vanderburgh County,GPE,22209
+Steve Lockyear,PERSON,22209
+Evansville,PERSON,22209
+Cullum,PERSON,22209
+the Vanderburgh County Prosecutor's Office,ORG,22209
+Tuesday,DATE,22209
+second,ORDINAL,22209
+Cullum,PERSON,22209
+three days,DATE,22209
+a few days,DATE,22209
+Cullum,PERSON,22209
+the Prosecutor's Office,ORG,22209
+The Courier & Press,ORG,22209
+the U.S. Marshals' Office,ORG,22209
+daily,DATE,22209
+Cullum,PERSON,22209
+Little League,GPE,22209
+Ard,ORG,22209
+this week,DATE,22209
+July,DATE,22209
+2002,DATE,22209
+marijuana,PERSON,22209
+$1 plus,MONEY,22209
+200,MONEY,22209
+Evansville Police Department,ORG,22209
+Evansville Police Department,ORG,22209
+812,CARDINAL,22209
+WeTip,PRODUCT,22209
+1-800-78,CARDINAL,22209
+Courier & Press,ORG,22209
+Mark Wilson,PERSON,22209
+Anthony Wolfe,PERSON,22209
+one,CARDINAL,22209
+the Courier & Press,ORG,22209

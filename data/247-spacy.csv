@@ -1,0 +1,21 @@
+text,label,fe_id
+New York Post,ORG,247
+yesterday,DATE,247
+morning,TIME,247
+"33,000-pound",QUANTITY,247
+3:37 a.m.,TIME,247
+Bay Ridge Parkway,FAC,247
+18th Avenue,FAC,247
+Bensonhurst,LOC,247
+Brooklyn,GPE,247
+Jacques Lavache,PERSON,247
+38,DATE,247
+Lutheran Medical Center,ORG,247
+the New Way Supermarket,ORG,247
+Two,CARDINAL,247
+David Regan,PERSON,247
+27,DATE,247
+Kenneth Waszak,PERSON,247
+34,DATE,247
+Officer Regan,PERSON,247
+Maimonides Medical Center,ORG,247

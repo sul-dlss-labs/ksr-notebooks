@@ -1,0 +1,54 @@
+text,label,fe_id
+Houston Police Department,ORG,4394
+11700,DATE,4394
+Biscayne Way July,EVENT,4394
+One,CARDINAL,4394
+three,CARDINAL,4394
+Houston,GPE,4394
+Biscayne Way,WORK_OF_ART,4394
+about 4:25 a.m.,TIME,4394
+today,DATE,4394
+July 19,DATE,4394
+Hispanic,NORP,4394
+Ben Taub General Hospital,ORG,4394
+second,ORDINAL,4394
+Hispanic,NORP,4394
+third,ORDINAL,4394
+Hispanic,NORP,4394
+HPD Homicide Division Sergeants S.H. Kennedy,ORG,4394
+L.A. Flores,ORG,4394
+Jaime Castilla Hernandez,PERSON,4394
+57,DATE,4394
+three,CARDINAL,4394
+Hispanic,NORP,4394
+Ford Expedition,ORG,4394
+Hernandez,PERSON,4394
+HPD,ORG,4394
+N.J. Hernandez,PERSON,4394
+Hernandez,PERSON,4394
+12-gauge,QUANTITY,4394
+one,CARDINAL,4394
+one,CARDINAL,4394
+Hernandez,PERSON,4394
+one,CARDINAL,4394
+Hernandez,PERSON,4394
+Hernandez,PERSON,4394
+one,CARDINAL,4394
+Officer Hernandez,PERSON,4394
+One,CARDINAL,4394
+the Ford Expedition,ORG,4394
+Officer Hernandez,FAC,4394
+Officer Hernandez,PERSON,4394
+the Northeast Patrol Division,ORG,4394
+HPD,ORG,4394
+December 1994,DATE,4394
+the HPD Homicide and Internal Affairs Divisions,ORG,4394
+the Harris County District,GPE,4394
+two,CARDINAL,4394
+the HPD Homicide Division,ORG,4394
+713-308-3600,CARDINAL,4394
+713,CARDINAL,4394
+JFC,ORG,4394
+#110403105,DATE,4394
+the HPD Public Affairs Division,ORG,4394
+713-308-3200,CARDINAL,4394

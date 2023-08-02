@@ -1,0 +1,15 @@
+text,label,fe_id
+Phoenix,GPE,23809
+Thursday,DATE,23809
+evening,TIME,23809
+Around 4:30 p.m.,TIME,23809
+99th Avenue,FAC,23809
+Broadway Road,FAC,23809
+27-year-old,DATE,23809
+Jacob Uptain,PERSON,23809
+Uptain,ORG,23809
+Uptain,ORG,23809
+second,ORDINAL,23809
+Uptain,ORG,23809
+43 years old,DATE,23809
+seven years,DATE,23809

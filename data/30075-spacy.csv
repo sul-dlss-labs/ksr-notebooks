@@ -1,0 +1,22 @@
+text,label,fe_id
+20,CARDINAL,30075
+39-year-old,DATE,30075
+Yuba City,GPE,30075
+Monday,DATE,30075
+several hours,TIME,30075
+Tuesday,DATE,30075
+kin,ORG,30075
+Around 4:20 p.m.,TIME,30075
+Monday,DATE,30075
+the Yuba City Police Department,ORG,30075
+800,CARDINAL,30075
+Spiva Avenue,FAC,30075
+Yuba City,GPE,30075
+several hours,TIME,30075
+SWAT,ORG,30075
+around 8:10 p.m.,TIME,30075
+Yuba City Police Lt,GPE,30075
+Sam Escheman,PERSON,30075
+Adventist Health/Rideout,ORG,30075
+several hours,TIME,30075
+Escheman,PERSON,30075

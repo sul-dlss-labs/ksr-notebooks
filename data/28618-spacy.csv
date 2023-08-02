@@ -1,0 +1,28 @@
+text,label,fe_id
+San Bernardino,GPE,28618
+second,ORDINAL,28618
+Santos Anthony Villegas,PERSON,28618
+36,DATE,28618
+"Monday, Aug. 17",DATE,28618
+two,CARDINAL,28618
+San Bernardino Police Sgt,GPE,28618
+John Echevarria,PERSON,28618
+Villegas,PERSON,28618
+just before 3:30 p.m.,TIME,28618
+11th,ORDINAL,28618
+Ford Expedition,ORG,28618
+Echevarria,GPE,28618
+Villegas,PERSON,28618
+Villegas,PERSON,28618
+700,CARDINAL,28618
+Orange Street,ORG,28618
+Echevarria,GPE,28618
+more than one,CARDINAL,28618
+Echevarria,GPE,28618
+Four,CARDINAL,28618
+Echevarria,GPE,28618
+Villegas,PERSON,28618
+Echevarria,GPE,28618
+Hemet,GPE,28618
+Villegas,PERSON,28618
+Eric Licas,PERSON,28618

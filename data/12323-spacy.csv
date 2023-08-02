@@ -1,0 +1,27 @@
+text,label,fe_id
+Interstate 5,ORG,12323
+Friday,DATE,12323
+morning,TIME,12323
+just before 2 a.m.,TIME,12323
+three,CARDINAL,12323
+7,CARDINAL,12323
+4th,ORDINAL,12323
+Cummings,GPE,12323
+Boyle Heights,GPE,12323
+Los Angeles,GPE,12323
+1070,DATE,12323
+about two minutes,TIME,12323
+Rudy Lopez,PERSON,12323
+three,CARDINAL,12323
+four,CARDINAL,12323
+five,CARDINAL,12323
+six,CARDINAL,12323
+Freeway,FAC,12323
+his 20s,DATE,12323
+one,CARDINAL,12323
+third,ORDINAL,12323
+The California Highway Patrol,ORG,12323
+the Golden State Freeway,FAC,12323
+Pasadena Avenue,FAC,12323
+almost six hours,TIME,12323
+8 a.m.,TIME,12323

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9617
+Alabama,GPE,9617
+Alaska,GPE,9617
+Arizona,GPE,9617
+Arkansas,GPE,9617
+California,GPE,9617
+Colorado,GPE,9617
+Connecticut,GPE,9617
+Delaware,GPE,9617
+Florida,GPE,9617
+Georgia,GPE,9617
+Hawaii,GPE,9617
+Idaho,GPE,9617
+Indiana,GPE,9617
+Iowa,GPE,9617
+Kansas,GPE,9617
+Kentucky,GPE,9617
+Louisiana,GPE,9617
+Maine,GPE,9617
+Maryland,GPE,9617
+Massachusetts,GPE,9617
+Michigan,GPE,9617
+Minnesota,GPE,9617
+Mississippi,GPE,9617
+Missouri,GPE,9617
+Montana,GPE,9617
+Nebraska,GPE,9617
+Nevada,GPE,9617
+New Hampshire,GPE,9617
+New Jersey,GPE,9617
+Ohio,GPE,9617
+Oklahoma,GPE,9617
+Oregon,GPE,9617
+Pennsylvania,GPE,9617
+Rhode Island,GPE,9617
+Tennessee,GPE,9617
+Texas,GPE,9617
+Utah,GPE,9617
+Vermont,GPE,9617
+Virginia,GPE,9617
+Washington,GPE,9617
+Washington,GPE,9617
+D.C.,GPE,9617
+Wisconsin,GPE,9617
+Wyoming,GPE,9617
+US,GPE,9617
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9617
+Marshall Islands American Samoa Federated States,ORG,9617
+Micronesia Guam,FAC,9617
+Alberta,GPE,9617
+Canada,GPE,9617
+British Columbia,GPE,9617
+Canada Manitoba,GPE,9617
+Canada,GPE,9617
+New Brunswick,GPE,9617
+Canada Newfoundland,PERSON,9617
+Canada,GPE,9617
+Canada,GPE,9617
+Canada Ontario,GPE,9617
+Canada,GPE,9617
+Edward Island,GPE,9617
+Canada Quebec,GPE,9617
+Canada,GPE,9617
+Saskatchewan,GPE,9617
+Canada Yukon Territory,ORG,9617
+Canada,GPE,9617
+Zip Code,PERSON,9617

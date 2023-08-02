@@ -1,0 +1,14 @@
+text,label,fe_id
+1,CARDINAL,30300
+Monday,DATE,30300
+morning,TIME,30300
+Oklahoma City,GPE,30300
+16th,ORDINAL,30300
+Martin Luther King Avenue,PERSON,30300
+25th Street,FAC,30300
+S Central Avenue,FAC,30300
+Martin Luther King Avenue,PERSON,30300
+NE 16th,DATE,30300
+NE,GPE,30300
+15th,ORDINAL,30300
+9,CARDINAL,30300

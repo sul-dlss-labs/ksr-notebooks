@@ -1,0 +1,53 @@
+text,label,fe_id
+Jose Luis Sanchez,PERSON,18599
+30-year-old,DATE,18599
+Latino,PERSON,18599
+"Friday, Dec. 23",DATE,18599
+Esto Avenue,FAC,18599
+Fieldcrest Street,FAC,18599
+El Monte,GPE,18599
+Los Angeles County,GPE,18599
+Sanchez,GPE,18599
+San Bernardino,GPE,18599
+about 9:35 p.m.,TIME,18599
+El Monte,GPE,18599
+Valley Boulevard,FAC,18599
+Tyler Avenue,FAC,18599
+Los Angeles County Sheriff’s,GPE,18599
+Steve Jauch,PERSON,18599
+Sanchez,GPE,18599
+nearly two miles,QUANTITY,18599
+Esto Avenue,FAC,18599
+Fieldcrest Street,FAC,18599
+Jauch,ORG,18599
+Sanchez,GPE,18599
+Jauch,PERSON,18599
+Sanchez,GPE,18599
+Arden Drive,FAC,18599
+Valley Boulevard,FAC,18599
+Jauch,ORG,18599
+Jauch,PERSON,18599
+Sanchez,ORG,18599
+Fieldcrest Street,FAC,18599
+the cul-de-sac,FAC,18599
+Sanchez,GPE,18599
+Jauch,ORG,18599
+Sanchez,GPE,18599
+Jauch,ORG,18599
+Three,CARDINAL,18599
+Sanchez,GPE,18599
+Jauch,ORG,18599
+Sanchez,PERSON,18599
+9:45 p.m.,TIME,18599
+fourth,ORDINAL,18599
+El Monte,GPE,18599
+Valley Mall,LOC,18599
+Santa Anita Avenue,FAC,18599
+Jauch,ORG,18599
+Jauch,ORG,18599
+Homicide Bureau,ORG,18599
+323,CARDINAL,18599
+890-5500,CARDINAL,18599
+Crime Stoppers,PERSON,18599
+222,CARDINAL,18599
+Twitter,PRODUCT,18599

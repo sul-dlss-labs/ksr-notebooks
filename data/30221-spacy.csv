@@ -1,0 +1,58 @@
+text,label,fe_id
+Second,ORDINAL,30221
+Interstate 95,FAC,30221
+Interstate 95,FAC,30221
+two,CARDINAL,30221
+20-year-old,DATE,30221
+Adam J. Rodriguez,PERSON,30221
+Revere,GPE,30221
+22-year-old,DATE,30221
+Wildan Tmusic,ORG,30221
+Revere,GPE,30221
+the Massachusetts State Police,ORG,30221
+2020,DATE,30221
+Toyota,ORG,30221
+I-95,PRODUCT,30221
+Sharon,PERSON,30221
+RAV4,ORG,30221
+Exit 11,FAC,30221
+Norwood,ORG,30221
+first,ORDINAL,30221
+Good Samaritan Medical Center,ORG,30221
+Brockton,GPE,30221
+Rodriguez,PERSON,30221
+Boston Medical Center,ORG,30221
+Saturday,DATE,30221
+the Massachusetts State Police,ORG,30221
+Norfolk,GPE,30221
+Office,ORG,30221
+the State Police Collision Analysis and Reconstruction Section,ORG,30221
+the State Police Crime Services Section,ORG,30221
+Interstate 95,FAC,30221
+two,CARDINAL,30221
+20-year-old,DATE,30221
+Adam J. Rodriguez,PERSON,30221
+Revere,GPE,30221
+22-year-old,DATE,30221
+Wildan Tmusic,ORG,30221
+Revere,GPE,30221
+the Massachusetts State Police,ORG,30221
+2020,DATE,30221
+Toyota,ORG,30221
+I-95,PRODUCT,30221
+Sharon,PERSON,30221
+RAV4,ORG,30221
+Exit 11,FAC,30221
+Norwood,ORG,30221
+first,ORDINAL,30221
+Tmusic,GPE,30221
+Good Samaritan Medical Center,ORG,30221
+Brockton,GPE,30221
+Rodriguez,PERSON,30221
+Boston Medical Center,ORG,30221
+Saturday,DATE,30221
+the Massachusetts State Police,ORG,30221
+Norfolk,GPE,30221
+Office,ORG,30221
+the State Police Collision Analysis and Reconstruction Section,ORG,30221
+the State Police Crime Services Section,ORG,30221

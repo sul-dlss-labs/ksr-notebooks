@@ -1,0 +1,37 @@
+text,label,fe_id
+About 300,CARDINAL,8003
+Thursday,DATE,8003
+one,CARDINAL,8003
+last week,DATE,8003
+Chicago,GPE,8003
+the Dan Ryan Expressway,ORG,8003
+Resurrection Cemetery,FAC,8003
+Andrew Cazares,PERSON,8003
+23,DATE,8003
+Cazares,PERSON,8003
+Chris Hummel,PERSON,8003
+23,DATE,8003
+Chicago,GPE,8003
+Fausto Manzera,PERSON,8003
+21,DATE,8003
+April 10,DATE,8003
+Detective Joseph Frugoli's,PERSON,8003
+Gustavo Medina,LOC,8003
+22,DATE,8003
+Summit,ORG,8003
+Cazares,ORG,8003
+Thanksgiving 2007,DATE,8003
+Two,CARDINAL,8003
+Cicero,ORG,8003
+Medina,LOC,8003
+Erick Lagunas,PERSON,8003
+Chicago,GPE,8003
+John Ardelean,PERSON,8003
+Medina,LOC,8003
+Cazares,PERSON,8003
+Cazares,ORG,8003
+Hummel,PERSON,8003
+Jazniel Vazquez,GPE,8003
+24,DATE,8003
+Summit,ORG,8003
+Cazares,ORG,8003

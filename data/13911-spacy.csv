@@ -1,0 +1,29 @@
+text,label,fe_id
+John Murray,PERSON,13911
+31-year-old,DATE,13911
+Haledon,GPE,13911
+Franklin Street,FAC,13911
+the early morning hours of Saturday,TIME,13911
+the Passaic County Prosecutor Office,ORG,13911
+around 2:33 a.m.,TIME,13911
+Saturday,DATE,13911
+East Railway Avenue,FAC,13911
+400,MONEY,13911
+Lafayette Avenue,FAC,13911
+Rosa Parks Boulevard,PERSON,13911
+Franklin Street,FAC,13911
+first,ORDINAL,13911
+iPhone,ORG,13911
+Broadway,FAC,13911
+Franklin Street,FAC,13911
+Rosa Parks Boulevard,PERSON,13911
+Michael DeMarco,PERSON,13911
+Three,CARDINAL,13911
+Franklin Street,FAC,13911
+DeMarco,PERSON,13911
+one,CARDINAL,13911
+St. Joseph’s Regional Medical Center,GPE,13911
+St. Joseph’s Hospital,ORG,13911
+3:45 am,TIME,13911
+DeMarco,PERSON,13911
+St. Joseph’s Hospital,ORG,13911

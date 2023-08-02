@@ -1,0 +1,79 @@
+text,label,fe_id
+The City of Chicago,GPE,572
+$1.8 million,MONEY,572
+November 2000,DATE,572
+two,CARDINAL,572
+two hours,TIME,572
+Monday,DATE,572
+Juan Vega,PERSON,572
+10 minutes,TIME,572
+at least five,CARDINAL,572
+Vega,PERSON,572
+Vega,PERSON,572
+56,DATE,572
+0.24 percent,PERCENT,572
+three,CARDINAL,572
+Illinois,GPE,572
+wagon,ORG,572
+Elliot Richardson,PERSON,572
+Blake Horwitz,PERSON,572
+Law Department,ORG,572
+Vega,PERSON,572
+the City Council,ORG,572
+Jennifer Hoyle,PERSON,572
+two,CARDINAL,572
+30 days,DATE,572
+Vega,PERSON,572
+at least 10 years,DATE,572
+Cook County Hospital,FAC,572
+Cook County Hospital,FAC,572
+five,CARDINAL,572
+six,CARDINAL,572
+Cook County Hospital,FAC,572
+St. Elizabeth Hospital,ORG,572
+less than two miles,QUANTITY,572
+Richardson,PERSON,572
+Horwitz,PERSON,572
+$1.8 million,MONEY,572
+Vega,PERSON,572
+three,CARDINAL,572
+fourth,ORDINAL,572
+Shakespeare,PERSON,572
+Edward Ranzzoni,PERSON,572
+David DiSanti,PERSON,572
+Juan Vega,PERSON,572
+Richardson,PERSON,572
+Sept. 6,DATE,572
+U.S.,GPE,572
+Suzanne Conlon,PERSON,572
+third,ORDINAL,572
+Oct. 21,DATE,572
+late last week,DATE,572
+Conlon,ORG,572
+"the afternoon of Nov. 3, 2000",TIME,572
+Vega,PERSON,572
+3500,CARDINAL,572
+West Fullerton Avenue,LOC,572
+two,CARDINAL,572
+Vega,PERSON,572
+Spanish,LANGUAGE,572
+Vega,PERSON,572
+Palmer Street,FAC,572
+Kedzie Avenue,FAC,572
+Vega,PERSON,572
+Ranzzoni,PERSON,572
+DiSanti,ORG,572
+Vega,PERSON,572
+Nugget,WORK_OF_ART,572
+4:00,TIME,572
+one,CARDINAL,572
+Vega,PERSON,572
+Golden Nugget,ORG,572
+the next 15 to 30 minutes,DATE,572
+Vega,PERSON,572
+Cook County Hospital,FAC,572
+5:30 p.m.,TIME,572
+about 5:55 p.m.,TIME,572
+a little more than two hours,DATE,572
+Vega,PERSON,572
+Cook County Hospital,FAC,572

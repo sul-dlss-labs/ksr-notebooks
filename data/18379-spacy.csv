@@ -1,0 +1,33 @@
+text,label,fe_id
+CENTRALIA,ORG,18379
+IL,ORG,18379
+The Centralia Police Department,ORG,18379
+"Tuesday, November 1",DATE,18379
+1000,CARDINAL,18379
+South Bond Street,GPE,18379
+approximately 8:40 p.m.,TIME,18379
+Tuesday,DATE,18379
+night,TIME,18379
+Centralia,PERSON,18379
+1000,CARDINAL,18379
+South Bond Street,GPE,18379
+Centralia,GPE,18379
+Centralia,PERSON,18379
+23-year-old,DATE,18379
+Matthew J. “Matty James” Peters,PERSON,18379
+Centralia,GPE,18379
+Peters,PERSON,18379
+Peters,PERSON,18379
+SSM Health St. Mary’s Hospital,ORG,18379
+Centralia,GPE,18379
+St. Louis University Hospital,ORG,18379
+St. Louis,GPE,18379
+the St. Louis County Medical Examiner’s Office,ORG,18379
+Peters,PERSON,18379
+7 p.m.,TIME,18379
+"Wednesday, November 2",DATE,18379
+SLU Hospital,ORG,18379
+"Saturday, November 5",DATE,18379
+the Medical Examiner’s Office,ORG,18379
+the Illinois State Police,ORG,18379
+ISP,ORG,18379

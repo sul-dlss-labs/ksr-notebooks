@@ -1,0 +1,55 @@
+text,label,fe_id
+MERIDIAN,GPE,25106
+Idaho,GPE,25106
+last year,DATE,25106
+Wednesday,DATE,25106
+months,DATE,25106
+Critical Incident Task Force,ORG,25106
+41-year-old,DATE,25106
+Christopher E. Williams,PERSON,25106
+Boise,GPE,25106
+the Boise Police,ORG,25106
+the Ada County Prosecutor's Office,ORG,25106
+the Twin Falls County Prosecutor's Office,ORG,25106
+the afternoon of Nov. 19,TIME,25106
+Meridian,GPE,25106
+Coroner,ORG,25106
+Idaho State,ORG,25106
+Idaho State Police,ORG,25106
+ISP,ORG,25106
+Justin Ward,PERSON,25106
+Williams,PERSON,25106
+Meridian Road,FAC,25106
+West Waltman Lane,PERSON,25106
+just before 3:30 p.m.,TIME,25106
+Williams,PERSON,25106
+ISP,ORG,25106
+Williams,PERSON,25106
+Waltman Lane,PERSON,25106
+Ward,PERSON,25106
+Williams,PERSON,25106
+Waltman,GPE,25106
+two,CARDINAL,25106
+Williams,PERSON,25106
+Meridian 1/10,GPE,25106
+2/10,CARDINAL,25106
+3/10,CARDINAL,25106
+4/10,CARDINAL,25106
+5/10,CARDINAL,25106
+6/10,CARDINAL,25106
+8/10,CARDINAL,25106
+9/10,CARDINAL,25106
+Ward,ORG,25106
+Williams,PERSON,25106
+Ward,PERSON,25106
+Williams,PERSON,25106
+Twin Falls Prosecutor,PERSON,25106
+Grant Loebs,PERSON,25106
+"the November 19, 2018",DATE,25106
+Christopher E. Williams,PERSON,25106
+The Idaho State Police,ORG,25106
+Trooper,ORG,25106
+Williams,PERSON,25106
+Trooper,ORG,25106
+Loebs,PERSON,25106
+Williams,PERSON,25106

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,9848
+Alabama,GPE,9848
+Alaska,GPE,9848
+Arizona,GPE,9848
+Arkansas,GPE,9848
+California,GPE,9848
+Colorado,GPE,9848
+Connecticut,GPE,9848
+Delaware,GPE,9848
+Florida,GPE,9848
+Georgia,GPE,9848
+Hawaii,GPE,9848
+Idaho,GPE,9848
+Indiana,GPE,9848
+Iowa,GPE,9848
+Kansas,GPE,9848
+Kentucky,GPE,9848
+Louisiana,GPE,9848
+Maine,GPE,9848
+Maryland,GPE,9848
+Massachusetts,GPE,9848
+Michigan,GPE,9848
+Minnesota,GPE,9848
+Mississippi,GPE,9848
+Missouri,GPE,9848
+Montana,GPE,9848
+Nebraska,GPE,9848
+Nevada,GPE,9848
+New Hampshire,GPE,9848
+New Jersey,GPE,9848
+Ohio,GPE,9848
+Oklahoma,GPE,9848
+Oregon,GPE,9848
+Pennsylvania,GPE,9848
+Rhode Island,GPE,9848
+Tennessee,GPE,9848
+Texas,GPE,9848
+Utah,GPE,9848
+Vermont,GPE,9848
+Virginia,GPE,9848
+Washington,GPE,9848
+Washington,GPE,9848
+D.C.,GPE,9848
+Wisconsin,GPE,9848
+Wyoming,GPE,9848
+US,GPE,9848
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,9848
+Marshall Islands American Samoa Federated States,ORG,9848
+Micronesia Guam,FAC,9848
+Alberta,GPE,9848
+Canada,GPE,9848
+British Columbia,GPE,9848
+Canada Manitoba,GPE,9848
+Canada,GPE,9848
+New Brunswick,GPE,9848
+Canada Newfoundland,PERSON,9848
+Canada,GPE,9848
+Canada,GPE,9848
+Canada Ontario,GPE,9848
+Canada,GPE,9848
+Edward Island,GPE,9848
+Canada Quebec,GPE,9848
+Canada,GPE,9848
+Saskatchewan,GPE,9848
+Canada Yukon Territory,ORG,9848
+Canada,GPE,9848
+Zip Code,PERSON,9848

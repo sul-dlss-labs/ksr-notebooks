@@ -1,0 +1,93 @@
+United States Court of Appeals, Third Circuit. ESTATE OF JUAN BONILLA, JR.; EVERLIDIS BONILLA, individually & as Personal Representative for the Estate of Juan Bonilla, Jr. v. CITY OF YORK, PENNSYLVANIA; YORK CITY POLICE DEPARTMENT; OFFICER CHRISTOPHER ROOSEN; TOWNSHIP OF WEST MANCHESTER; WEST MANCHESTER TOWNSHIP POLICE DEPARTMENT; OFFICER MICHAEL JORDAN EVERLIDIS BONILLA, individually & as Personal Representative for the Estate of Juan Bonilla, Jr., Appellant No. 16-3066 Decided: June 06, 2017
+
+Before: McKEE, COWEN, and FUENTES, Circuit Judges
+
+OPINION*
+
+The plaintiff-appellants, the estate of the deceased Juan Bonilla, Jr. and his personal representative, brought this 42 U.S.C. § 1983 lawsuit against the defendant-appellees, the City of York, the Township of West Manchester, and two police officers, alleging that the defendants wrongfully used deadly force against the decedent. The District Court granted summary judgment to the defendants, finding that the police officers' use of deadly force to subdue the decedent, who had fired shots in a crowded nightclub, was reasonable. The plaintiffs appealed, arguing that genuine issues of material fact remain as to the sequence of events that led to the fatal shooting. Because we conclude that, taking the facts in the light most favorable to the plaintiffs, the officers used reasonable force, we will affirm the District Court's judgment.
+
+I.
+
+On November 24, 2012, at around 2 a.m., Bonilla opened fire in a nightclub known as “Ada's” in York, Pennsylvania. Officers Roosen and Jordan were the first to respond to police dispatch calls and arrived at the scene shortly thereafter. As a result of Bonilla's gunfire, patrons of Ada's began to stream out of the nightclub and into the parking lot outside to retrieve their cars and escape from the scene. Bonilla also exited the club at this time and continued to fire gunshots outside Ada's, with the intent of hitting a specific individual who was running south through the parking lot.
+
+What occurred next is subject to some dispute. The officers claim that they observed Bonilla running southward after a minivan that was driving out of the parking lot and shooting at it. Fearing for the immediate safety of those in the minivan, Officer Roosen began to shoot at Bonilla's back in order to subdue him. Bonilla was apparently struck by Officer Roosen's bullets, and, as a result, he stumbled to the left, threw his arms up, and dropped his gun. Officer Roosen testified that he stopped shooting at Bonilla once he saw Bonilla drop his gun, since he was no longer a threat. Officer Jordan apparently did not see that Bonilla had dropped his gun because his line of vision was obscured by a van. He continued to pursue Bonilla when Bonilla fell, face down, on the grassy median in the middle of the parking lot, with his hands pinned underneath his body. Officer Jordan continued to command him to “show me your hands.” Bonilla rose slightly off the ground at this command, and yelled, in an agitated fashion, “yo, yo, really,” before falling back down. Officer Jordan yelled at him again to raise his hands, and when he failed to do so a second time, Officer Jordan shot at his torso. Officer Jordan appeared to have missed this shot. Bonilla then extracted his arms from underneath him. Seeing that Bonilla was unarmed at this time, Officer Jordan walked over to his person and called for emergency medical services. Ultimately, Bonilla died on the scene.
+
+The plaintiffs, on the other hand, contend that Bonilla did not use his weapon once he moved to the southern portion of the parking lot and that he did not shoot at any minivans, but was merely running next to one. According to one club-goer, the officers commanded Bonilla to drop his gun. Bonilla complied with this command, dropped his gun, and turned around to face the officers. Nonetheless, the officers shot at him even as he began to walk towards the officers, “as if he were surrendering.” The eyewitness also claimed that there were no vans in the parking lot that could have obscured Officer Jordan's view of Bonilla.
+
+On the day of the incident, the Pennsylvania State Police began an investigation of Bonilla's death. The investigation concluded that Bonilla suffered two gunshot wounds—one through his chest entering from the back and the other in his left thigh entering from the front. The gunshot to the back and chest was the cause of death. A ballistic report found that the fatal shot was not discharged from Officer Jordan's gun.
+
+Nearly two years after this incident, on November 21, 2014, the plaintiffs brought ten claims under Section 1983 against the defendants. The complaint alleges unlawful use of deadly force, in violation of the Fourth Amendment, and state law claims for assault and battery, wrongful death, and survival action against the two officers. It also alleges that the City of York and the West Manchester Township violated the Fourth Amendment by failing to properly train the officers on the use of deadly force. After ten months of discovery, the defendants separately moved for summary judgment. The plaintiffs opposed the summary judgment motions and also moved for leave to file an amended complaint. The District Court granted the defendants' summary judgment motions and denied the plaintiffs' motion for leave to amend the complaint. Pending before the Court is the plaintiffs' appeal of these two rulings.
+
+II.
+
+On appeal, the plaintiffs argue that the District Court made two errors: that it should not have granted summary judgment to the defendants based on the record and that it should have permitted the plaintiffs to amend their complaint. We will address each of these challenges in turn.
+
+The crux of the plaintiffs' claims is that the two police officers used excessive force in subduing Bonilla, in violation of both the Fourth Amendment and Pennsylvania state law. The primary inquiry in excessive force cases is determining whether “the officers' actions are ‘objectively reasonable’ in light of the facts and circumstances confronting them, without regard to their underlying intent or motivations.” Therefore, the plaintiffs' Fourth Amendment and state law claims rise and fall together.
+
+Factors that we consider when determining whether such force is reasonable include “the severity of the crime at issue, whether the suspect poses an immediate threat to the safety of the officers or others, [ ] whether he is actively resisting arrest or attempting to evade arrest by flight,” “the duration of the action, whether the action takes place in the context of effecting an arrest, the possibility that the suspect may be armed, and the number of persons with whom the police officers must contend at one time.” Furthermore, “[t]he ‘reasonableness' of a particular use of force must be judged from the perspective of a reasonable officer on the scene, rather than with the 20/20 vision of hindsight.” The court must make “allowance for the fact that police officers are often forced to make split-second judgments—in circumstances that are tense, uncertain, and rapidly evolving—about the amount of force that is necessary in a particular situation.”
+
+Applying this standard, the District Court found that the deadly force used by the two officers was reasonable. The incident occurred in the middle of the night, outside a nightclub that was known for being particularly dangerous, and Bonilla was an active shooter in pursuit of his victim and shooting into a parking lot, where about twenty to thirty patrons of the nightclub were getting into cars in order to flee the scene. The officers fired at Bonilla precisely because they knew that he was could, and in fact tried to, harm bystanders at the scene.
+
+The plaintiffs counter that at least two factual disputes exist such that summary judgment was improvidently granted. We disagree. First, plaintiffs argue that the fatal shot to the chest could have been fired by Officer Jordan after Bonilla dropped his gun and had fallen onto the grassy median. However, the plaintiffs offer no evidence to rebut the convincing evidence produced by the defendants that the fatal shot to the chest could not have been fired from Officer Jordan's gun. During autopsy, a deformed bullet was recovered from the front of Bonilla's sweatshirt. That bullet was tested and determined that it could not have been discharged from Officer Jordan's gun. No other bullets were recovered from either Bonilla's person or the grassy median. From this, the District Court concluded that Officer Jordan could not have been responsible for the fatal shot. The plaintiffs offer no rebuttal evidence except supposition that the bullet recovered from Bonilla's sweatshirt was not the fatal bullet—without demonstrating how else it could have gotten onto the sweatshirt or where else the fatal bullet could be found.
+
+The plaintiffs' unsupported speculation here is insufficient to create a genuine issue of material fact. As we have said previously, “summary judgment is essentially ‘put up or shut up’ time for the non-moving party: [it] must rebut the motion with facts in the record and cannot rest solely on assertions made in the pleadings, legal memoranda, or oral argument.” Accordingly, we do not find that the plaintiffs have raised a genuine issue of material fact as to whether the fatal shot was fired while Bonilla was unarmed and laying on the grassy median.
+
+Second, the plaintiffs argue that the District Court erred by failing to take into account the deposition testimony of an eyewitness, who testified that Bonilla was shot after he had already dropped his gun and began walking, with his hands raised, toward Officer Roosen. The District Court found that the deposition testimony of this eyewitness failed to create a genuine issue of material fact because her “testimony is so inconsistent as to be wholly unreliable.” Indeed, at one point the eyewitness testified that she saw Bonilla “turn[ ] around, put his gun down and was walking towards the police officer,” with his hands raised, when the “police officer shot him in the left leg,” and Bonilla fell immediately onto his left knee on the grassy median. Yet, she admitted that when she first spoke to the police investigator—over a year and a half before the deposition—she told the investigator she was unable to recall at that time if the officer shot Bonilla before or after he dropped his gun and put his hands up because “so much [was] going on.”
+
+Even crediting this eyewitness testimony, however, we cannot find that it creates any genuine issue of material fact as to whether the police officers used reasonable force when they shot at Bonilla. The eyewitness testimony, if we are to believe it in its entirely, establishes the following facts: Bonilla was running south across the parking lot, with his back to the officers, until he decided to heed the officers' command to drop his gun. He stopped, tossed his gun, and put his hands up and turned around to face the officers as if to surrender himself. At around this time the officers continued to shoot at him until he was hit and stumbled onto the grassy median. The eyewitness testimony, however, does not establish the sequence of events. She could not recall if Bonilla was shot first or if he surrendered first. This testimony is, at best, no more than a “scintilla of evidence,” which is “insufficient” to survive summary judgment.
+
+But even if we were to believe, though the eyewitness testimony alone does not support it, that the officers shot at Bonilla after he was unarmed, we still cannot find that a reasonable juror would think the officers' actions were unreasonable. We know from the autopsy report that the fatal shot to the chest entered from the back, and the shot to the leg entered from the front. Thus, in the scenario most favorable to the plaintiffs, Bonilla was fatally shot after he tossed his gun and put his hands up but before he had time to turn around. This, in and of itself, does not render the officers' actions unreasonable. Viewing the facts, as we must, from the perspective of the officers on the scene at the time, Bonilla was an active shooter who not only fired at people inside the club but continued to shoot at bystanders outside of the club. In fact, he was still running after his victim across the parking lot as the police officers closed in on him. The officers may have continued to shoot at him in the seconds after he decided to surrender and turn around. However, given the circumstances at the time—the early hour, the dark light, the number of bystanders, and the danger presented by Bonilla—we believe it reasonable that the officers did not wait to see if Bonilla actually heeded their commands before they stopped shooting. As the eyewitness herself testified, there was a lot of “commotion” at the time, and she herself could not remember the exact sequence of events—whether Bonilla dropped his gun first or whether he was shot first. This is precisely the difficult situation in which the Supreme Court has admonished us to make “allowance for the fact that police officers are often forced to make split-second judgments—in circumstances that are tense, uncertain, and rapidly evolving—about the amount of force that is necessary in a particular situation.” Consequently, we agree with the District Court that this eyewitness testimony did not create a genuine issue of material fact.
+
+For the same reason, we will also affirm the District Court's decision to deny the plaintiffs' motion for leave to amend the complaint to add an allegation that the officers used excessive force when they shot Bonilla in the left leg. While permission to amend should be freely given, the District Court may deny a motion for leave to amend if “the amendment would be futile.” As we explained, under the circumstances and from the perspective of a reasonable officer on the scene at the time, the officers were not unreasonable to have shot Bonilla in the leg, even if he had been unarmed at the time. Thus, we find no abuse of discretion in the District Court's denial of the plaintiffs' motion for leave to amend.
+
+III.
+
+For the foregoing reasons, we will affirm District Court's grant of summary judgment.
+
+FOOTNOTES
+
+. One of the police officers worked for the York City Police Department and the other worked for the West Manchester Police Department. J.A. 4-5.
+
+. J.A. 90.
+
+. J.A. 188; J.A. 281.
+
+. J.A. 372.
+
+. The complaint also named the York City Police Department and the West Manchester Police Department as defendants, but they were dismissed.
+
+. The District Court, in the same opinion, also decided on two motions in limine and a Daubert motion. None of these are appealed.
+
+. The District Court had jurisdiction over this case under 28 U.S.C. § 1331. We have jurisdiction to hear this appeal under 28 U.S.C. § 1291. “[O]ur review of a grant of summary judgment is plenary, and in making that review we use the same standard as a district court: whether there are genuine issues of material fact precluding entry of summary judgment.” Acumed LLC v. Advanced Surgical Servs., Inc., 561 F.3d 199, 211 (3d Cir. 2009). “A fact is ‘material’ if it could affect the outcome, and an issue of material fact is ‘genuine’ if the evidence is sufficient to permit a reasonable jury to return a verdict for the non-moving party.” Johnson v. City of Phila., 837 F.3d 343, 349 n.30 (3d Cir. 2016) (citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986); Celotex Corp. v. Catrett, 477 U.S. 317, 322-23 (1986)). “[W]e review a Rule 15 motion for leave to amend a complaint for abuse of discretion ․ Under such a review, we are cognizant of Rule 15's admonition that leave to amend should be freely given ‘when justice so requires.’ ” U.S. ex rel. Customs Fraud Investigations, LLC v. Victaulic Co., 839 F.3d 242, 248-49 (3d Cir. 2016) (quoting Fed. R. Civ. P. 15(a)(2)). A court abuses its discretion if its ruling is based on “an erroneous view of the law.” Id. at 249 (quoting Highmark, Inc. v. Allcare Health Mgmt. Sys., Inc., 134 S. Ct. 1744, 1748, n.2 (2014)).
+
+. Graham v. Connor, 490 U.S. 386, 397 (1989); Renk v. City of Pittsburgh, 641 A.2d 289, 293 (Pa. 1994) (“A police officer may use reasonable force to prevent interference with the exercise of his authority or the performance of his duty. ․ The reasonableness of the force used in making the arrest determines whether the police officer's conduct constitutes an assault and battery.”).
+
+. Graham, 490 U.S. at 396.
+
+. Kopec v. Tate, 361 F.3d 772, 777 (3d Cir. 2004).
+
+. Graham, 490 U.S. at 396.
+
+. Id. at 397.
+
+. Berckeley Inv. Group, Ltd. v. Colkitt, 455 F.3d 195, 201 (3d Cir. 2006); see also Fed. R. Civ. P. 56(c) (“A party asserting that a fact cannot be or is genuinely disputed must support the assertion by citing to particular parts of materials in the record, including depositions, documents, electronically stored information, affidavits or declarations, stipulations ․, admissions, interrogatory answers, or other materials ․”).
+
+. J.A. 1147.
+
+. J.A. 702.
+
+. J.A. 706.
+
+. J.A. 715.
+
+. Liberty Lobby, 477 U.S. at 252.
+
+. J.A. 719; J.A. 715; J.A. 721-22.
+
+. Graham, 490 U.S. at 397.
+
+. Since we find that the police officers did not violate the Fourth Amendment, the plaintiffs' Monell claims against the City of York and West Manchester Township, based on their failure to adequately train the two officers on the proper use of deadly force, must also be dismissed.
+
+. Customs Fraud Investigations, 839 F.3d at 249 (quoting U.S. ex rel. Schumann v. Astrazeneca Pharm. L.P., 769 F.3d 837, 849 (3d Cir. 2014)).
+
+FUENTES, Circuit Judge.

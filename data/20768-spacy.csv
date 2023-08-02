@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,20768
+Alabama,GPE,20768
+Alaska,GPE,20768
+Arizona,GPE,20768
+Arkansas,GPE,20768
+California,GPE,20768
+Colorado,GPE,20768
+Connecticut,GPE,20768
+Delaware,GPE,20768
+Florida,GPE,20768
+Georgia,GPE,20768
+Hawaii,GPE,20768
+Idaho,GPE,20768
+Indiana,GPE,20768
+Iowa,GPE,20768
+Kansas,GPE,20768
+Kentucky,GPE,20768
+Louisiana,GPE,20768
+Maine,GPE,20768
+Maryland,GPE,20768
+Massachusetts,GPE,20768
+Michigan,GPE,20768
+Minnesota,GPE,20768
+Mississippi,GPE,20768
+Missouri,GPE,20768
+Montana,GPE,20768
+Nebraska,GPE,20768
+Nevada,GPE,20768
+New Hampshire,GPE,20768
+New Jersey,GPE,20768
+Ohio,GPE,20768
+Oklahoma,GPE,20768
+Oregon,GPE,20768
+Pennsylvania,GPE,20768
+Rhode Island,GPE,20768
+Tennessee,GPE,20768
+Texas,GPE,20768
+Utah,GPE,20768
+Vermont,GPE,20768
+Virginia,GPE,20768
+Washington,GPE,20768
+Washington,GPE,20768
+D.C.,GPE,20768
+Wisconsin,GPE,20768
+Wyoming,GPE,20768
+US,GPE,20768
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,20768
+Marshall Islands American Samoa Federated States,ORG,20768
+Micronesia Guam,FAC,20768
+Alberta,GPE,20768
+Canada,GPE,20768
+British Columbia,GPE,20768
+Canada Manitoba,GPE,20768
+Canada,GPE,20768
+New Brunswick,GPE,20768
+Canada Newfoundland,PERSON,20768
+Canada,GPE,20768
+Canada,GPE,20768
+Canada Ontario,GPE,20768
+Canada,GPE,20768
+Edward Island,GPE,20768
+Canada Quebec,GPE,20768
+Canada,GPE,20768
+Saskatchewan,GPE,20768
+Canada Yukon Territory,ORG,20768
+Canada,GPE,20768
+Zip Code,PERSON,20768

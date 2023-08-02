@@ -1,0 +1,19 @@
+text,label,fe_id
+4-year-old,DATE,11185
+between 300 and 500,CARDINAL,11185
+yearly,DATE,11185
+third,ORDINAL,11185
+Philadelphia,GPE,11185
+Only a year,DATE,11185
+Charles H. Ramsey,PERSON,11185
+two,CARDINAL,11185
+Ramsey,PERSON,11185
+Gregory Alston,PERSON,11185
+39,DATE,11185
+Friday,DATE,11185
+Alston,GPE,11185
+La Salle University,ORG,11185
+Ramsey,PERSON,11185
+Daniel Irizarry Roman,PERSON,11185
+36,DATE,11185
+Alston,GPE,11185

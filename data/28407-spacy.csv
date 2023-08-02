@@ -1,0 +1,43 @@
+text,label,fe_id
+5,CARDINAL,28407
+26-year-old,DATE,28407
+two,CARDINAL,28407
+Thursday,DATE,28407
+night,TIME,28407
+Parker County,GPE,28407
+Detectives,ORG,28407
+17-year-old,DATE,28407
+Sierra Christian's,ORG,28407
+Friday,DATE,28407
+morning,TIME,28407
+Reno,GPE,28407
+Tony Simmons,PERSON,28407
+Lain Christian,PERSON,28407
+Reno,GPE,28407
+Simmons,PERSON,28407
+around 6:15 p.m.,TIME,28407
+Thursday,DATE,28407
+Simmons,PERSON,28407
+Taser,GPE,28407
+Parker County,GPE,28407
+Fort Worth,GPE,28407
+Friday,DATE,28407
+morning,TIME,28407
+Parker County Sheriff,ORG,28407
+Larry Fowler,PERSON,28407
+Simmons,PERSON,28407
+Friday,DATE,28407
+Simmons,PERSON,28407
+The Texas Rangers,ORG,28407
+The National Suicide Prevention Lifeline,ORG,28407
+1-800-273-8255,CARDINAL,28407
+#,CARDINAL,28407
+3,CARDINAL,28407
+Azle Hospital,ORG,28407
+Parker,GPE,28407
+JPS,ORG,28407
+FTW,ORG,28407
+@wfaa,ORG,28407
+"July 10, 2020",DATE,28407
+WFAA,ORG,28407
+Eric Alvarez,PERSON,28407

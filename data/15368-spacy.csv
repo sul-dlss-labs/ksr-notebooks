@@ -1,0 +1,31 @@
+text,label,fe_id
+One,CARDINAL,15368
+two,CARDINAL,15368
+Los Angeles County,GPE,15368
+East Los Angeles,GPE,15368
+Sunday,DATE,15368
+BB,GPE,15368
+LOS ANGELES,GPE,15368
+KABC,ORG,15368
+Two,CARDINAL,15368
+Los Angeles County,GPE,15368
+East Los Angeles,GPE,15368
+Sunday,DATE,15368
+BB,GPE,15368
+1100,DATE,15368
+Atlantic Boulevard,LOC,15368
+about 2:20 a.m.,TIME,15368
+South Hillview Avenue,FAC,15368
+Verona Street,FAC,15368
+26-year-old,DATE,15368
+Eduardo Bermudez,PERSON,15368
+four,CARDINAL,15368
+57-year-old,DATE,15368
+Bermudez,NORP,15368
+3-year-old,DATE,15368
+earlier in the day,DATE,15368
+two,CARDINAL,15368
+one day,DATE,15368
+Alma Cabrera,PERSON,15368
+Bermudez,NORP,15368
+third,ORDINAL,15368

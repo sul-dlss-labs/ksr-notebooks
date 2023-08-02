@@ -1,0 +1,17 @@
+text,label,fe_id
+The Snohomish County Medical Examiner’s,ORG,12836
+72-year-old,DATE,12836
+May 24,DATE,12836
+Jerry Robert Bennett,PERSON,12836
+Lynnwood,GPE,12836
+Bennett,PERSON,12836
+212th Street Southwest,ORG,12836
+44th Avenue West,FAC,12836
+second,ORDINAL,12836
+"more than $257,000",MONEY,12836
+County Jail,PERSON,12836
+Everett,PERSON,12836
+Rose Becker,PERSON,12836
+Shellie Rose Collins,PERSON,12836
+Snohomish District Court,ORG,12836
+two,CARDINAL,12836

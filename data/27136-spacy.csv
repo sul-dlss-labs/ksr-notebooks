@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,27136
+Alabama,GPE,27136
+Alaska,GPE,27136
+Arizona,GPE,27136
+Arkansas,GPE,27136
+California,GPE,27136
+Colorado,GPE,27136
+Connecticut,GPE,27136
+Delaware,GPE,27136
+Florida,GPE,27136
+Georgia,GPE,27136
+Hawaii,GPE,27136
+Idaho,GPE,27136
+Indiana,GPE,27136
+Iowa,GPE,27136
+Kansas,GPE,27136
+Kentucky,GPE,27136
+Louisiana,GPE,27136
+Maine,GPE,27136
+Maryland,GPE,27136
+Massachusetts,GPE,27136
+Michigan,GPE,27136
+Minnesota,GPE,27136
+Mississippi,GPE,27136
+Missouri,GPE,27136
+Montana,GPE,27136
+Nebraska,GPE,27136
+Nevada,GPE,27136
+New Hampshire,GPE,27136
+New Jersey,GPE,27136
+Ohio,GPE,27136
+Oklahoma,GPE,27136
+Oregon,GPE,27136
+Pennsylvania,GPE,27136
+Rhode Island,GPE,27136
+Tennessee,GPE,27136
+Texas,GPE,27136
+Utah,GPE,27136
+Vermont,GPE,27136
+Virginia,GPE,27136
+Washington,GPE,27136
+Washington,GPE,27136
+D.C.,GPE,27136
+Wisconsin,GPE,27136
+Wyoming,GPE,27136
+US,GPE,27136
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,27136
+Marshall Islands American Samoa Federated States,ORG,27136
+Micronesia Guam,FAC,27136
+Alberta,GPE,27136
+Canada,GPE,27136
+British Columbia,GPE,27136
+Canada Manitoba,GPE,27136
+Canada,GPE,27136
+New Brunswick,GPE,27136
+Canada Newfoundland,PERSON,27136
+Canada,GPE,27136
+Canada,GPE,27136
+Canada Ontario,GPE,27136
+Canada,GPE,27136
+Edward Island,GPE,27136
+Canada Quebec,GPE,27136
+Canada,GPE,27136
+Saskatchewan,GPE,27136
+Canada Yukon Territory,ORG,27136
+Canada,GPE,27136
+Zip Code,PERSON,27136

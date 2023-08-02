@@ -1,0 +1,46 @@
+text,label,fe_id
+URBANDALE,ORG,1515
+Iowa,GPE,1515
+AP,ORG,1515
+Two,CARDINAL,1515
+Des Moines,GPE,1515
+Wednesday,DATE,1515
+Two,CARDINAL,1515
+Tuesday,DATE,1515
+morning,TIME,1515
+Sgt,PERSON,1515
+Doug Hobart,PERSON,1515
+Wednesday,DATE,1515
+Charles Simmons,PERSON,1515
+45,DATE,1515
+Pasadena,GPE,1515
+Calif.,GPE,1515
+Paul Simmons,PERSON,1515
+47,DATE,1515
+Des Moines,GPE,1515
+third,ORDINAL,1515
+Terry Simmons,PERSON,1515
+56,DATE,1515
+Jeanette Freeman,PERSON,1515
+24,DATE,1515
+Pasadena,GPE,1515
+Calif.,GPE,1515
+Wednesday,DATE,1515
+the Polk County Jail,GPE,1515
+first,ORDINAL,1515
+Hobart,PERSON,1515
+West Bank,GPE,1515
+Urbandale,GPE,1515
+about 10:45 a.m.,TIME,1515
+Tuesday,DATE,1515
+Three,CARDINAL,1515
+Hobart,PERSON,1515
+minutes,TIME,1515
+Interstate 80,FAC,1515
+Charles Simmons,PERSON,1515
+Hobart,PERSON,1515
+Paul Simmons,PERSON,1515
+three,CARDINAL,1515
+Officers Dennis Vinson,PERSON,1515
+Chad Krull,PERSON,1515
+Trooper Dennis McMahon,PERSON,1515

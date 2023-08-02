@@ -1,0 +1,12 @@
+text,label,fe_id
+Juan Velasco,PERSON,6132
+30,DATE,6132
+Latino,PERSON,6132
+5900,CARDINAL,6132
+Southside Drive,LOC,6132
+1:58 a.m.,TIME,6132
+Friday,DATE,6132
+May 11,DATE,6132
+two,CARDINAL,6132
+Latinos,ORG,6132
+second,ORDINAL,6132

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,10009
+Alabama,GPE,10009
+Alaska,GPE,10009
+Arizona,GPE,10009
+Arkansas,GPE,10009
+California,GPE,10009
+Colorado,GPE,10009
+Connecticut,GPE,10009
+Delaware,GPE,10009
+Florida,GPE,10009
+Georgia,GPE,10009
+Hawaii,GPE,10009
+Idaho,GPE,10009
+Indiana,GPE,10009
+Iowa,GPE,10009
+Kansas,GPE,10009
+Kentucky,GPE,10009
+Louisiana,GPE,10009
+Maine,GPE,10009
+Maryland,GPE,10009
+Massachusetts,GPE,10009
+Michigan,GPE,10009
+Minnesota,GPE,10009
+Mississippi,GPE,10009
+Missouri,GPE,10009
+Montana,GPE,10009
+Nebraska,GPE,10009
+Nevada,GPE,10009
+New Hampshire,GPE,10009
+New Jersey,GPE,10009
+Ohio,GPE,10009
+Oklahoma,GPE,10009
+Oregon,GPE,10009
+Pennsylvania,GPE,10009
+Rhode Island,GPE,10009
+Tennessee,GPE,10009
+Texas,GPE,10009
+Utah,GPE,10009
+Vermont,GPE,10009
+Virginia,GPE,10009
+Washington,GPE,10009
+Washington,GPE,10009
+D.C.,GPE,10009
+Wisconsin,GPE,10009
+Wyoming,GPE,10009
+US,GPE,10009
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,10009
+Marshall Islands American Samoa Federated States,ORG,10009
+Micronesia Guam,FAC,10009
+Alberta,GPE,10009
+Canada,GPE,10009
+British Columbia,GPE,10009
+Canada Manitoba,GPE,10009
+Canada,GPE,10009
+New Brunswick,GPE,10009
+Canada Newfoundland,PERSON,10009
+Canada,GPE,10009
+Canada,GPE,10009
+Canada Ontario,GPE,10009
+Canada,GPE,10009
+Edward Island,GPE,10009
+Canada Quebec,GPE,10009
+Canada,GPE,10009
+Saskatchewan,GPE,10009
+Canada Yukon Territory,ORG,10009
+Canada,GPE,10009
+Zip Code,PERSON,10009

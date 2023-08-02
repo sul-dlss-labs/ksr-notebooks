@@ -1,0 +1,31 @@
+text,label,fe_id
+the Fortuna Police Department,ORG,11147
+"March 16, 2012
+
+",DATE,11147
+Fortuna,GPE,11147
+March 16th 2012,DATE,11147
+about 6:10 am,TIME,11147
+the Fortuna Police Department,ORG,11147
+1100,DATE,11147
+Angel Heights Drive,FAC,11147
+Fortuna,GPE,11147
+Vista Drive,FAC,11147
+11th Street,FAC,11147
+first,ORDINAL,11147
+Taser,ORG,11147
+control holds,ORG,11147
+one,CARDINAL,11147
+Redwood Memorial Hospital,FAC,11147
+Jacob Robert Newmaker,PERSON,11147
+age 26,DATE,11147
+Fortuna,GPE,11147
+The Critical Incident Response Team,ORG,11147
+the Fortuna Police Department,ORG,11147
+Humboldt County,GPE,11147
+Humboldt County Sherriff’s Office,GPE,11147
+Eureka Police Department,ORG,11147
+Arcata Police Department,ORG,11147
+Rio Dell Police Department,ORG,11147
+Cal Fire,PERSON,11147
+Fortuna Volunteer Fire Department,FAC,11147

@@ -1,0 +1,18 @@
+text,label,fe_id
+CHICAGO,GPE,25873
+CBS,ORG,25873
+Bloomingdale,GPE,25873
+Bloomingdale,ORG,25873
+Walmart,ORG,25873
+314 W. Army,MONEY,25873
+Schmale Road,WORK_OF_ART,25873
+Mill Pond Drive,PERSON,25873
+Chippendale Lane,PERSON,25873
+Glendale Heights,GPE,25873
+Bloomingdale police,ORG,25873
+first,ORDINAL,25873
+Bloomingdale police,ORG,25873
+The DuPage County Major Crimes Task Force,ORG,25873
+the DuPage County State's,ORG,25873
+the Bloomingdale Police Department,ORG,25873
+630)529-9868,DATE,25873

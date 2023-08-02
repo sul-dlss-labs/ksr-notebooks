@@ -1,0 +1,861 @@
+text,label,fe_id
+Leslie Vaughn Prater,PERSON,165
+last Jan. 2,DATE,165
+Prater,PERSON,165
+Chattanooga,NORP,165
+Prater,PERSON,165
+UNITED STATES,GPE,165
+Natural Mother,ORG,165
+STEFAN PRATER,ORG,165
+"WRONGFUL
+
+Plaintiffs",ORG,165
+NEGLIGENCE,ORG,165
+JUSTIN,ORG,165
+HUDGINS,ORG,165
+VINCE DEAN,PERSON,165
+MIKE TILLEY,ORG,165
+STEVE,ORG,165
+ANGEL,ORG,165
+TIM,ORG,165
+KEITH FREEMAN,PERSON,165
+CARTER,ORG,165
+MIKE MATHIS,PERSON,165
+KEN NEBLETTE,PERSON,165
+STEVE PARKS,PERSON,165
+Tennessee Municipal Corporation,ORG,165
+COMPLAINT,ORG,165
+JURISDICTION,PERSON,165
+VENUE,ORG,165
+1,CARDINAL,165
+42,CARDINAL,165
+1983,DATE,165
+42,CARDINAL,165
+1985,DATE,165
+Leslie Vaughn Prater,PERSON,165
+Fourth,ORDINAL,165
+the United States,GPE,165
+Court,ORG,165
+28,CARDINAL,165
+Court,ORG,165
+28,CARDINAL,165
+2,CARDINAL,165
+the United States,GPE,165
+District Court,ORG,165
+Eastern District,LOC,165
+Tennessee,GPE,165
+28,CARDINAL,165
+3,CARDINAL,165
+Defendants,ORG,165
+4,CARDINAL,165
+Loretta Prater,PERSON,165
+Cape Girardeau County,GPE,165
+Missouri,GPE,165
+the Administratrix of the Estate of Leslie Vaughn Prater,ORG,165
+Leslie Vaughn Prater,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+5,CARDINAL,165
+Cape Girardeau County,GPE,165
+Missouri,GPE,165
+Leslie Vaughn Prater,PERSON,165
+6,CARDINAL,165
+Stefan Prater,PERSON,165
+DuPage County,GPE,165
+Illinois,GPE,165
+Leslie Vaughn Prater,PERSON,165
+7,CARDINAL,165
+Douglas Rawson,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Rawson,PERSON,165
+8,CARDINAL,165
+Justin McCommon,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant McCommon,PERSON,165
+9,CARDINAL,165
+Johnathan Mance,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Mance,ORG,165
+10,CARDINAL,165
+Christopher Indico,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Indico,ORG,165
+11,CARDINAL,165
+Keith Hudgins,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Hudgins,ORG,165
+12,CARDINAL,165
+Vince Dean,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Dean,PERSON,165
+13,CARDINAL,165
+Daniel Anderson,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Anderson,PERSON,165
+14,CARDINAL,165
+Mike Tilley,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Tilley,ORG,165
+15,CARDINAL,165
+Steve Angel,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Angel,PERSON,165
+16,CARDINAL,165
+Tim Carroll,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Carroll,ORG,165
+17,CARDINAL,165
+Keith Freeman,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Freeman,PERSON,165
+18,CARDINAL,165
+John Carter,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Carter,PERSON,165
+19,CARDINAL,165
+Mike Mathis,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Mathis,ORG,165
+20,CARDINAL,165
+Ken Neblette,PERSON,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Neblette,PERSON,165
+21,CARDINAL,165
+Defendant Gregory Chambers,ORG,165
+a City of Chattanooga Police Officer,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Chambers,ORG,165
+22,CARDINAL,165
+John,PERSON,165
+the Chattanooga Police Department,ORG,165
+Defendant,ORG,165
+Leslie Vaughn Prater,PERSON,165
+Leslie Vaughn Prater,PRODUCT,165
+23,CARDINAL,165
+Steve Parks,PERSON,165
+the City of Chattanooga Police Department,GPE,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant Parks,PERSON,165
+Defendant Parks,PERSON,165
+24,CARDINAL,165
+Jimmy Dotson,PERSON,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+"February, 2004",DATE,165
+Defendant Dotson,PERSON,165
+Defendant Dotson,PERSON,165
+25,CARDINAL,165
+the State of Tennessee,ORG,165
+Complaint,ORG,165
+Leslie Vaughn Prater,PERSON,165
+City of Chattanooga Police Officers,ORG,165
+the Defendant City’s,GPE,165
+Fourth,FAC,165
+Fourteenth Amendment,LAW,165
+Prater,PERSON,165
+the Defendant City’s,GPE,165
+Prater,PERSON,165
+26,CARDINAL,165
+1-25,CARDINAL,165
+Complaint,ORG,165
+27,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+37 year-old,DATE,165
+Chattanooga,NORP,165
+Tennessee,GPE,165
+Prater,PERSON,165
+"January 2, 2004",DATE,165
+the day,DATE,165
+the afternoon,TIME,165
+Prater,PERSON,165
+Prater,PERSON,165
+Prater,PERSON,165
+Coca-Cola,ORG,165
+28,CARDINAL,165
+approximately 6:25 P.M.,TIME,165
+29,CARDINAL,165
+EDP,ORG,165
+Prater,PERSON,165
+afternoon,TIME,165
+evening,TIME,165
+"January 2, 2004",DATE,165
+30,CARDINAL,165
+approximately 6:30 p.m.,TIME,165
+the Defendants Mance and Chambers,ORG,165
+first,ORDINAL,165
+Leslie Vaughn Prater,PERSON,165
+about fifty (,CARDINAL,165
+31,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+Prater,PERSON,165
+Defendants,ORG,165
+Prater,PERSON,165
+Defendant Anderson,PERSON,165
+Anderson,PERSON,165
+Defendants,ORG,165
+Prater,PERSON,165
+Prater,PERSON,165
+Prater,PERSON,165
+32,CARDINAL,165
+33,CARDINAL,165
+Prater,PERSON,165
+Defendant Chambers,ORG,165
+Leslie Prater,PERSON,165
+34,CARDINAL,165
+Prater,PERSON,165
+one,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+35,CARDINAL,165
+Prater,PERSON,165
+Defendants Rawson,PERSON,165
+McCommon,PERSON,165
+Indico,GPE,165
+Hudgins,ORG,165
+Dean,PERSON,165
+Prater,PERSON,165
+36,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+Prater,PERSON,165
+37,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+38,CARDINAL,165
+Leslie Prater,PERSON,165
+Defendants,ORG,165
+Prater,PERSON,165
+10) minutes,TIME,165
+39,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+Defendant,PERSON,165
+at least one,CARDINAL,165
+Prater,PERSON,165
+40,CARDINAL,165
+Leslie Prater,PERSON,165
+41,CARDINAL,165
+42,CARDINAL,165
+Prater,PERSON,165
+Prater,PERSON,165
+two-hundred,CARDINAL,165
+thirty-two,CARDINAL,165
+232) pounds,QUANTITY,165
+43,CARDINAL,165
+44,DATE,165
+"February 3, 1993",DATE,165
+the Chattanooga Police Department,ORG,165
+45,CARDINAL,165
+As many as eight,CARDINAL,165
+Prater,PERSON,165
+the approximately ten,DATE,165
+Prater,PERSON,165
+Defendants,ORG,165
+Prater,PERSON,165
+twenty-one,CARDINAL,165
+21,CARDINAL,165
+sixteen,DATE,165
+16,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+Defendants,ORG,165
+Prater,PERSON,165
+Defendants,ORG,165
+Prater,PERSON,165
+46,DATE,165
+approximately ten,CARDINAL,165
+10) minutes,TIME,165
+Prater,PERSON,165
+Prater,PERSON,165
+Defendants,ORG,165
+47,DATE,165
+Defendants,ORG,165
+Prater,PERSON,165
+Defendants,ORG,165
+Prater,PERSON,165
+EMS,ORG,165
+approximately five,CARDINAL,165
+ten,CARDINAL,165
+10) minutes,TIME,165
+Prater,PERSON,165
+48,CARDINAL,165
+EMS,ORG,165
+CPR,ORG,165
+Prater,PERSON,165
+Erlanger Medical Center,ORG,165
+Prater,PERSON,165
+approximately 10:05 p.m.,TIME,165
+Leslie Vaughn Prater,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+midnight,TIME,165
+49,DATE,165
+CPD,ORG,165
+EDP,ORG,165
+Leslie Vaughn Prater,PERSON,165
+"Facts Surrounding the Killing of Mr. Prater
+
+",WORK_OF_ART,165
+50,CARDINAL,165
+Prater,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+Prater,PERSON,165
+51,CARDINAL,165
+52,CARDINAL,165
+53,CARDINAL,165
+One,CARDINAL,165
+Tim Carroll,PERSON,165
+Erlanger Medical Center,ORG,165
+Prater,PERSON,165
+Prater,PERSON,165
+21,CARDINAL,165
+sixteen,DATE,165
+16,CARDINAL,165
+Prater,PERSON,165
+Prater,PERSON,165
+Defendant Carroll,ORG,165
+54,DATE,165
+the Hamilton County Medical Examiner,ORG,165
+State Medical Examiner,ORG,165
+two,CARDINAL,165
+Prater,PERSON,165
+55,CARDINAL,165
+The next day,DATE,165
+Defendants,ORG,165
+Prater,PERSON,165
+Defendant,PERSON,165
+Leslie Prater,PERSON,165
+over six feet,QUANTITY,165
+three-hundred,CARDINAL,165
+Leslie Prater,PERSON,165
+five feet eleven-inches,QUANTITY,165
+only two-hundred,CARDINAL,165
+232) pounds,QUANTITY,165
+that day,DATE,165
+Spokesperson Ed Buice,PERSON,165
+Prater,PERSON,165
+56,DATE,165
+That same day,DATE,165
+Defendant Dotson,PERSON,165
+the Chattanooga Police Department,ORG,165
+Defendants,FAC,165
+Prater,PERSON,165
+Two,CARDINAL,165
+Prater,PERSON,165
+Prater,PERSON,165
+Prater,PERSON,165
+Thirdly,ORDINAL,165
+Prater,PERSON,165
+AED,ORG,165
+Automatic External,ORG,165
+57,CARDINAL,165
+"January 5, 2004",DATE,165
+Police Department Spokesperson,ORG,165
+Edward Buice,PERSON,165
+Defendants,FAC,165
+58,CARDINAL,165
+Defendant Dotson,PERSON,165
+Ed Buice,PERSON,165
+just hours,TIME,165
+Prater,PERSON,165
+Prater,PERSON,165
+Defendants,ORG,165
+59,CARDINAL,165
+The City of Chattanooga,GPE,165
+EDP,ORG,165
+60,CARDINAL,165
+"January 2, 2004",DATE,165
+EDP,ORG,165
+the City of Chattanooga,GPE,165
+the City of Chattanooga,GPE,165
+61,CARDINAL,165
+2002,DATE,165
+Defendant McCommon,PERSON,165
+Torris Harris,PERSON,165
+Harris,PERSON,165
+McCommon,PERSON,165
+Torris Harris,PERSON,165
+62,CARDINAL,165
+"January 2, 2004",DATE,165
+63,CARDINAL,165
+"1990 to January 2, 2004",DATE,165
+at least seventeen,CARDINAL,165
+17,CARDINAL,165
+the Chattanooga Police Department,ORG,165
+John Henderson,PERSON,165
+"May 29, 2003",DATE,165
+Torris Harris,PERSON,165
+"December 27, 2001",DATE,165
+Brooks,ORG,165
+"December 15, 2000",DATE,165
+Samuel Held,PERSON,165
+49,CARDINAL,165
+two,CARDINAL,165
+2,CARDINAL,165
+"April 10, 2000",DATE,165
+Samuel Petty,PERSON,165
+"October 28, 1999",DATE,165
+Kevin McCullough,PERSON,165
+CPD,ORG,165
+"May 6, 1998",DATE,165
+Montrail Collins,PERSON,165
+seventeen,CARDINAL,165
+17,CARDINAL,165
+CPD,ORG,165
+"May 6, 1998",DATE,165
+John Emmons,PERSON,165
+nineteen (19,DATE,165
+CPD,ORG,165
+forty-three,CARDINAL,165
+"February 28, 1997",DATE,165
+Bennie Lewis,PERSON,165
+eighty-five,CARDINAL,165
+year-old,DATE,165
+CPD,ORG,165
+twenty-two,CARDINAL,165
+March of 1996,DATE,165
+George Weathers,PERSON,165
+"January 21, 1994",DATE,165
+Tabron Ball,PERSON,165
+"September 26, 1994",DATE,165
+Crawford Watkins,PERSON,165
+thirty-seven,CARDINAL,165
+37,CARDINAL,165
+CPD,ORG,165
+"June 5, 1994",DATE,165
+Larry Powell,PERSON,165
+CPD,ORG,165
+1993,DATE,165
+one,CARDINAL,165
+Martin Penny,ORG,165
+Torris Harris,PERSON,165
+Clarence Hatcher,PERSON,165
+"September 15, 1992",DATE,165
+Tony Swain,PERSON,165
+CPD,ORG,165
+1992,DATE,165
+) Hayden Price,WORK_OF_ART,165
+CPD,ORG,165
+"January 31, 1991",DATE,165
+Michael Earls,PERSON,165
+"December 25, 1990",DATE,165
+Richard Elms,PERSON,165
+CPD,ORG,165
+"June 9, 1990",DATE,165
+64,CARDINAL,165
+Department,ORG,165
+65,CARDINAL,165
+66,CARDINAL,165
+the City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+67,CARDINAL,165
+June of 2004,DATE,165
+Defendant Parks,PERSON,165
+the Chattanooga Police Department’s,ORG,165
+Prater,PERSON,165
+the Major Crimes Division,ORG,165
+CPD,ORG,165
+68,CARDINAL,165
+Defendant Parks,PERSON,165
+"June 29, 2004",DATE,165
+Plaintiffs,PERSON,165
+CPD,ORG,165
+three,CARDINAL,165
+Councilman Yusef Hakeem,PERSON,165
+Leamon Pierce,PERSON,165
+Councilman John Franklin,PERSON,165
+the City of Chattanooga Police Department,GPE,165
+Prater,ORG,165
+69,CARDINAL,165
+1990,DATE,165
+1,CARDINAL,165
+CPD,ORG,165
+Torris Harris,PERSON,165
+James Brooks,PERSON,165
+Samuel Held,PERSON,165
+Samuel Petty,PERSON,165
+Kevin McCullough,PERSON,165
+Montrail Collins,PERSON,165
+John Emmons,PERSON,165
+Bennie Lewis,PERSON,165
+George Weathers,PERSON,165
+Crawford Watkins,PERSON,165
+Larry Powell,PERSON,165
+Clarence Hatcher,PERSON,165
+Tony Swain,PERSON,165
+Hayden Price,PERSON,165
+Michael Earls,PERSON,165
+Richard Elms,PERSON,165
+hundreds,CARDINAL,165
+70,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+71,CARDINAL,165
+72,CARDINAL,165
+CPD,ORG,165
+73,CARDINAL,165
+Leslie Prater,PERSON,165
+74,CARDINAL,165
+Chattanooga,NORP,165
+Leslie Prater,PERSON,165
+75,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+Prater,PERSON,165
+76,DATE,165
+77,CARDINAL,165
+the Police Department of the City of Chattanooga,ORG,165
+the City of Chattanooga,GPE,165
+78,CARDINAL,165
+Leslie Prater,PERSON,165
+79,CARDINAL,165
+Defendant Hudgins,ORG,165
+Defendant Hudgins,ORG,165
+Hudgins,ORG,165
+Prater,PERSON,165
+80,CARDINAL,165
+CPD,ORG,165
+81,CARDINAL,165
+the City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+82,CARDINAL,165
+Defendants,ORG,165
+Leslie Vaughn Prater,PERSON,165
+Fourth,ORDINAL,165
+the United States Constitution,GPE,165
+83,CARDINAL,165
+Defendants,ORG,165
+84,CARDINAL,165
+Defendants,ORG,165
+Leslie Vaughn Prater,PERSON,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+85,DATE,165
+Complaint,ORG,165
+86,CARDINAL,165
+Defendant City,GPE,165
+87,CARDINAL,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Fourth,ORDINAL,165
+the United States,GPE,165
+the United States,GPE,165
+88,CARDINAL,165
+"January 2, 2004",DATE,165
+Leslie Vaughn Prater,PERSON,165
+Prater,PERSON,165
+Prater,PERSON,165
+Fourth,ORDINAL,165
+the United States Constitution,GPE,165
+89,CARDINAL,165
+Prater,PERSON,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+Substantive Due Process,WORK_OF_ART,165
+90,CARDINAL,165
+Complaint,ORG,165
+91,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+Prater,PERSON,165
+92,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+93,CARDINAL,165
+Paragraphs 1-92,PERSON,165
+Complaint,ORG,165
+94,CARDINAL,165
+Prater,PERSON,165
+Prater,PERSON,165
+95,CARDINAL,165
+First,ORDINAL,165
+Fourth,GPE,165
+the United States Constitution,GPE,165
+96,CARDINAL,165
+a. defendants,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+Leslie Prater,PERSON,165
+Defendants,ORG,165
+Leslie Prater,PERSON,165
+Leslie Prater,PERSON,165
+Leslie Prater,PERSON,165
+Prater,PERSON,165
+Prater,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+Plaintiffs,PERSON,165
+97,CARDINAL,165
+Defendants,ORG,165
+Defendants,ORG,165
+98,CARDINAL,165
+Defendants,ORG,165
+Leslie Vaughn Prater,PERSON,165
+Defendants,ORG,165
+99,CARDINAL,165
+First Amendment,LAW,165
+100,CARDINAL,165
+Plaintiffs,PERSON,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+101,CARDINAL,165
+1-100,CARDINAL,165
+Complaint,ORG,165
+102,CARDINAL,165
+John,PERSON,165
+Prater,PERSON,165
+Leslie Prater,PERSON,165
+42,CARDINAL,165
+1983,DATE,165
+103,CARDINAL,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+First,ORDINAL,165
+Fourth,GPE,165
+Fourteenth Amendments and Privacy Violations,ORG,165
+104,CARDINAL,165
+1,CARDINAL,165
+Complaint,ORG,165
+105,CARDINAL,165
+Defendants,ORG,165
+State,ORG,165
+under 42,DATE,165
+1983,DATE,165
+106,CARDINAL,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+107,CARDINAL,165
+Complaint,ORG,165
+108,CARDINAL,165
+The City of Chattanooga,GPE,165
+109,CARDINAL,165
+Prater,PERSON,165
+110,CARDINAL,165
+111,CARDINAL,165
+112,CARDINAL,165
+Prater,PERSON,165
+113,CARDINAL,165
+the Defendant City of Chattanooga,GPE,165
+the Defendant City,GPE,165
+Police Department,ORG,165
+CPD,ORG,165
+114,CARDINAL,165
+115,CARDINAL,165
+CPD,ORG,165
+Defendant McCommon,PERSON,165
+116,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendants,ORG,165
+Defendant,ORG,165
+the Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+117,CARDINAL,165
+the Defendant City of Chattanooga,GPE,165
+Defendant Hudgins,PERSON,165
+Defendant City,GPE,165
+Defendant Hudgins,ORG,165
+118,CARDINAL,165
+Defendant Hudgins,PERSON,165
+the Defendant City of Chattanooga,GPE,165
+third,ORDINAL,165
+Fourth Amendment,PRODUCT,165
+119,CARDINAL,165
+Leslie Vaughn Prater’s,PERSON,165
+Defendant City,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Leslie Vaughn Prater’s,PERSON,165
+120,CARDINAL,165
+Prater,PERSON,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+Provide Medical Treatment,ORG,165
+121,CARDINAL,165
+Paragraphs 1-120,PERSON,165
+Complaint,ORG,165
+122,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+123,CARDINAL,165
+Prater,PERSON,165
+Defendants,ORG,165
+124,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+42,CARDINAL,165
+U.S.C,ORG,165
+§1983,DATE,165
+125,CARDINAL,165
+1,CARDINAL,165
+Complaint,ORG,165
+126,CARDINAL,165
+Defendants,ORG,165
+Prater,PERSON,165
+127,CARDINAL,165
+Defendants Rawson,PERSON,165
+McCommon,PERSON,165
+Indico,GPE,165
+Hudgins,ORG,165
+Dean,PERSON,165
+128,CARDINAL,165
+Defendant,PERSON,165
+Leslie Prater,PERSON,165
+Prater,PERSON,165
+129,CARDINAL,165
+Defendants,ORG,165
+Leslie Vaughn Prater,PERSON,165
+130,CARDINAL,165
+1,CARDINAL,165
+Complaint,ORG,165
+131,CARDINAL,165
+Defendants Rawson,ORG,165
+"McCommon, Mance, Indico, Hudgins, Chambers",ORG,165
+Dean,PERSON,165
+Anderson,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+Leslie Vaughn Prater,PERSON,165
+Loretta,PERSON,165
+Dwight Prater,PERSON,165
+Stefan Prater,PERSON,165
+132,CARDINAL,165
+1-131,CARDINAL,165
+Complaint,ORG,165
+133,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+134,CARDINAL,165
+Defendants,ORG,165
+Leslie Vaughn Prater,PERSON,165
+Loretta,PERSON,165
+Dwight Prater,PERSON,165
+Stefan Prater,PERSON,165
+NEGLIGENCE,ORG,165
+135,CARDINAL,165
+Paragraphs 1-134,PERSON,165
+Complaint,ORG,165
+136,CARDINAL,165
+Leslie Vaughn Prater,PERSON,165
+Prater,PERSON,165
+Defendants,ORG,165
+Defendants,ORG,165
+Prater,PERSON,165
+Defendants,ORG,165
+137,CARDINAL,165
+Prater,PERSON,165
+138,CARDINAL,165
+Paragraphs 1-137,PERSON,165
+Complaint,ORG,165
+139,CARDINAL,165
+The Defendant City of Chattanooga,GPE,165
+140,CARDINAL,165
+2002,DATE,165
+Defendant McCommon,PERSON,165
+Torris Harris,PERSON,165
+Harris,PERSON,165
+McCommon,PERSON,165
+Torris Harris,PERSON,165
+141,CARDINAL,165
+the Defendant City,GPE,165
+Defendant Hudgins,PERSON,165
+Defendant Hudgins,ORG,165
+142,CARDINAL,165
+The Defendant City of Chattanooga,GPE,165
+McCommon,PERSON,165
+Torris Harris,PERSON,165
+Defendant Hudgins,ORG,165
+143,CARDINAL,165
+The Defendant City of Chattanooga,GPE,165
+Defendants,FAC,165
+144,CARDINAL,165
+Defendant City,GPE,165
+145,CARDINAL,165
+Defendant City,GPE,165
+146,CARDINAL,165
+Defendant City,GPE,165
+147,CARDINAL,165
+The Defendant City of Chattanooga,GPE,165
+Defendants,GPE,165
+148,CARDINAL,165
+Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+Defendant City of Chattanooga,GPE,165
+Leslie Vaughn Prater,PERSON,165
+149,CARDINAL,165
+1,CARDINAL,165
+Complaint,ORG,165
+150,CARDINAL,165
+Defendants,ORG,165
+Leslie Vaughn Prater,PERSON,165
+151,CARDINAL,165
+Prater,PERSON,165
+Prater,PERSON,165
+Court,ORG,165
+Defendants,ORG,165
+42,CARDINAL,165
+1988,DATE,165
+4-21-701,DATE,165
+F. Declare Defendants,ORG,165
+G. Grant,PERSON,165
+Respectfully Submitted,GPE,165
+John M. Wolfe,PERSON,165
+Jr.,PERSON,165
+John M. Wolfe,PERSON,165
+Jr.,PERSON,165
+Amelia C. Roberts,PERSON,165
+707,CARDINAL,165
+Georgia Avenue,FAC,165
+Suite,ORG,165
+401,CARDINAL,165
+TN 37402,DATE,165
+423,CARDINAL,165
+266,CARDINAL,165
+Peter Neufeld,PERSON,165
+Peter Neufeld,PERSON,165
+NY,ORG,165
+Nick Brustin,PERSON,165
+NY,ORG,165
+NB0605,PERSON,165
+Debi,PERSON,165
+DC2186,MONEY,165
+Cochran Neufeld & Scheck,ORG,165
+99,CARDINAL,165
+Hudson St.,ORG,165
+8th,ORDINAL,165
+New York,GPE,165
+212,CARDINAL,165
+965-9081,CARDINAL,165

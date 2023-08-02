@@ -1,0 +1,9 @@
+text,label,fe_id
+CDL School,ORG,22410
+CDL Grad,PERSON,22410
+1-5 Months 6-11 Months 1 Year 2 Years 3 Years 4 Years 5+ Years,DATE,22410
+months,DATE,22410
+CDL,ORG,22410
+the last 3 years,DATE,22410
+Please Select...,WORK_OF_ART,22410
+6-11 Months 1,DATE,22410

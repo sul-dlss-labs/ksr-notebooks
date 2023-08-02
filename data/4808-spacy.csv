@@ -1,0 +1,59 @@
+text,label,fe_id
+One week,DATE,4808
+the Portland Police Bureau's,ORG,4808
+first,ORDINAL,4808
+the year,DATE,4808
+NE,ORG,4808
+Alameda,GPE,4808
+Dennis Lamar Young,PERSON,4808
+"Wednesday, January 4",DATE,4808
+28-year-old,DATE,4808
+Young,PERSON,4808
+Portland,GPE,4808
+Jeffrey M. Kaer,PERSON,4808
+Lawrence Keller,PERSON,4808
+Kaer,PERSON,4808
+Keller,PERSON,4808
+Taser,GPE,4808
+Young,GPE,4808
+CPR,ORG,4808
+Kaer,PERSON,4808
+2 am,TIME,4808
+Kaer,PERSON,4808
+the Southeast Precinct,LOC,4808
+Sgt,PERSON,4808
+Brian Schmautz,PERSON,4808
+Kaer,PERSON,4808
+Young,PERSON,4808
+Young,PERSON,4808
+Kaer,PERSON,4808
+Young,PERSON,4808
+Schmautz,PERSON,4808
+Young,PERSON,4808
+Schmautz,PERSON,4808
+Kaer,PERSON,4808
+One,CARDINAL,4808
+Young,PERSON,4808
+the Portland Police Bureau,ORG,4808
+Dan Handelman,PERSON,4808
+Portland Copwatch,ORG,4808
+Deadly Physical Force,ORG,4808
+last year,DATE,4808
+PPB,ORG,4808
+Handelman,PERSON,4808
+second,ORDINAL,4808
+Keller,PERSON,4808
+Taser,GPE,4808
+Young,GPE,4808
+fourth,ORDINAL,4808
+"50,000",CARDINAL,4808
+PPB,ORG,4808
+Kendra James,PERSON,4808
+2003,DATE,4808
+James Jahar Perez,PERSON,4808
+2004,DATE,4808
+James,PERSON,4808
+Perez,PERSON,4808
+Young,PERSON,4808
+Young,PERSON,4808
+Handelman,PERSON,4808

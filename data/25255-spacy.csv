@@ -1,0 +1,20 @@
+text,label,fe_id
+1,CARDINAL,25255
+5,CARDINAL,25255
+Detroit,GPE,25255
+Sunday,DATE,25255
+afternoon,TIME,25255
+Robin Hawthorne,PERSON,25255
+19-year-old,DATE,25255
+Deontae Hawthorne,PERSON,25255
+Santa Clara,GPE,25255
+Kentucky,GPE,25255
+Wyoming,GPE,25255
+Jeep Wrangler,PERSON,25255
+Chevy,ORG,25255
+Jeep,ORG,25255
+DPD,ORG,25255
+Craig,PERSON,25255
+Robin Hawthorne,PERSON,25255
+Robin Hawthorne,PERSON,25255
+Detroit Police,ORG,25255

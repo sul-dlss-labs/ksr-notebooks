@@ -1,0 +1,6 @@
+head,type,tail,subject,predicate,object,fe_id
+Augusta,located in the administrative territorial entity,Ga,,,,17996
+,,,Ga,contains administrative territorial entity,Augusta,17996
+Augusta,located in the administrative territorial entity,Ga.,,,,17996
+,,,Ga.,contains administrative territorial entity,Augusta,17996
+,,,Augusta,located in the administrative territorial entity,Ga.,17996

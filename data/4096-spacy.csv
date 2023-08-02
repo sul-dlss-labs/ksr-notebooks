@@ -1,0 +1,13 @@
+text,label,fe_id
+Times Staff,ORG,4096
+Wire Reports,PERSON,4096
+three,CARDINAL,4096
+six,CARDINAL,4096
+David Inder Bagai,PERSON,4096
+31,DATE,4096
+about 80 mph,QUANTITY,4096
+Sunday,DATE,4096
+Stephen Aguirre,PERSON,4096
+39,DATE,4096
+Camarillo,ORG,4096
+"100,000",MONEY,4096

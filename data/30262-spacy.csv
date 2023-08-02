@@ -1,0 +1,11 @@
+text,label,fe_id
+One,CARDINAL,30262
+early Monday,DATE,30262
+Around 1:14 a.m.,TIME,30262
+May 17,DATE,30262
+3300,CARDINAL,30262
+Fourth Avenue East,FAC,30262
+the Dickinson Police Department,ORG,30262
+St. Alexius Hospital,ORG,30262
+The North Dakota Bureau of Criminal Investigation,ORG,30262
+two,CARDINAL,30262

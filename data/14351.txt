@@ -1,0 +1,61 @@
+An East Hartford police officer acted reasonably and lawfully when he used a stun gun to control a prisoner who later died, Hartford State’s Attorney Gail P. Hardy found in a decision released Wednesday.
+
+Jose Maldonado, 23, was highly intoxicated and was fighting with police when East Hartford Officer Jason Kaplan used his department-issued stun gun, Hardy found.
+
+The American Civil Liberties Union of Connecticut criticized Hardy’s finding, calling it a “miscarriage of justice” based on a “perfunctory investigation.”
+
+After being struck with the stun gun’s darts and shocked, Maldonado became unresponsive. He died later at Hartford Hospital.
+
+Former Chief State Medical Examiner H. Wayne Carver determined the cause of death was cardiac arrhythmia following an electrical shock to the chest area. He classified Maldonado’s death as a homicide. Carver also mentioned “blunt head injury” in his original finding, but in a subsequent discussion with Hardy he said any head injury Maldonado suffered was “not significant,” according to Hardy’s written finding.
+
+Police came into contact with Maldonado about 1:30 a.m. on April 13, 2014, when they were dispatched to Nutmeg Lane for a disturbance. When they arrived, they talked to a woman who said a man later identified as Maldonado smashed her windshield with his fist and then jumped on her car. A second man with Maldonado that night was taken into custody. Moments later an officer approached Maldonado. Sgt. James Lis told state police investigators that Maldonado’s fists were clenched and he was swearing at him. Lis told state police he thought Maldonado was about to attack him so he punched Maldonado in the face. An officer who arrived a moment later found Lis struggling to control Maldonado.
+
+Maldonado was pepper-sprayed during the initial confrontation with police. After his arrival at police headquarters, according to the report, an officer tried to decontaminate him, but he resisted. They then placed him in a cell. Maldonado stripped his clothing off.
+
+The other man at the scene who was also arrested was Wilson Ramos, Maldonado’s brother. As police tried to put Ramos in a cell with Maldonado, according to the report, Maldonado charged the cell door, forced it open then began throwing punches at the officers. Kaplan used the stun gun during the confrontation. Lis again punched Maldonado and Maldonado fell to the floor striking his head, according to the report.
+
+After he did not move for about five minutes, police called for medical help.
+
+During an autopsy, Maldonado’s blood alcohol content was found to be .241, about the three times the legal limit to drive of .08. Maldonado’s grandmother told state police that when he was younger, Maldonado was treated for schizophrenia, but stopped taking his medication when he turned 18. The grandmother also told state police that Maldonado would become short-tempered and aggressive when he drank alcohol.
+
+A woman who hosted a party Maldonado and Ramos attended before their initial confrontation with police told state troopers that she asked Wilson to take Maldonado outside because he was annoying other guests as he became intoxicated. About 30 minutes later, she told police, she saw Maldonado outside and described him as “freaking out.” She said the look in his eyes was “scary” and he cocked his arm as if he was going to punch her. She went back into her apartment to escape him.
+
+Ramos, in statements to state police, said: “I strongly believe that there was absolutely no reason to use excessive force on someone that was intoxicated. The officer did not have to engage Jose, as Jose was not in the state to make a judgment call and felt like he was threatened.”
+
+Ramos subsequently sued East Hartford police on behalf of his brother’s estate, alleging Maldonado’s death “was part of a national pattern of deadly police violence against black and Hispanic civilians.” The lawsuit is pending.
+
+Hardy wrote that Tasers are not considered deadly weapons under Connecticut law. Kaplan’s use of force to defend himself against a combative Maldonado was reasonable, Hardy found. Further, Kaplan had no reason to believe using a Taser to prevent Maldonado from escaping would cause serious injury or death, Hardy found.
+
+David McGuire, executive director of the American Civil Liberties Union of Connecticut, criticized Hardy’s findings and the system used in Connecticut to investigate police use of force
+
+“Today’s report is the latest symptom of a broken system for holding police accountable,” McGuire said. “Nobody, including the police, should be above the law. Yet once again, it took years for prosecutors to release a perfunctory report into someone’s death at the hands of police.”
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #c52026;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Trending Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

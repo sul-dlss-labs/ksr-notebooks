@@ -1,0 +1,42 @@
+text,label,fe_id
+Salem County,GPE,21931
+Saturday,DATE,21931
+19-year-old,DATE,21931
+Delaware,GPE,21931
+Newark,GPE,21931
+Del.,GPE,21931
+one,CARDINAL,21931
+two,CARDINAL,21931
+3:40 a.m.,TIME,21931
+Mannington Township,GPE,21931
+the Delaware River,LOC,21931
+Boyd,PERSON,21931
+Route 45,FAC,21931
+Sgt,PERSON,21931
+Stephen Jones,PERSON,21931
+Boyd,PERSON,21931
+Yesterday,DATE,21931
+Delaware State Police,ORG,21931
+Charles P. Bohan,PERSON,21931
+25,DATE,21931
+Newark,GPE,21931
+Del.,GPE,21931
+New Jersey,GPE,21931
+Newark,GPE,21931
+Del.,GPE,21931
+third,ORDINAL,21931
+Bohan,GPE,21931
+Saturday,DATE,21931
+Memorial Hospital,FAC,21931
+Salem County,GPE,21931
+Trooper Luis Tomlinson,PERSON,21931
+25,DATE,21931
+Trooper,ORG,21931
+Matthew Szustowicz,PERSON,21931
+26,DATE,21931
+Cooper University Hospital,ORG,21931
+Camden,GPE,21931
+Jones,PERSON,21931
+Boyd,PERSON,21931
+Woodstown,ORG,21931
+2006,DATE,21931

@@ -1,0 +1,19 @@
+text,label,fe_id
+Sunday,DATE,10001
+evening,TIME,10001
+Chicago,GPE,10001
+7:18 p.m.,TIME,10001
+4100,CARDINAL,10001
+West Lexington Street,LOC,10001
+Carlos Weeden,PERSON,10001
+the Independent Police Review Authority,ORG,10001
+Gang,PERSON,10001
+Pulaski Road,FAC,10001
+Lexington,GPE,10001
+two,CARDINAL,10001
+one,CARDINAL,10001
+second,ORDINAL,10001
+Two,CARDINAL,10001
+as of 8:05 p.m.,TIME,10001
+Anthony Smith,PERSON,10001
+15 to 20,CARDINAL,10001

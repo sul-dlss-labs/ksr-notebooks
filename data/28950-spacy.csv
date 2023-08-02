@@ -1,0 +1,35 @@
+text,label,fe_id
+Bakersfield,GPE,28950
+one,CARDINAL,28950
+earlier this month,DATE,28950
+Tuesday,DATE,28950
+BPD,ORG,28950
+27-year-old,DATE,28950
+José Marcos Ramirez,PERSON,28950
+500,CARDINAL,28950
+Sonora Street,FAC,28950
+Ramirez,PERSON,28950
+911,CARDINAL,28950
+9 am,TIME,28950
+Ramirez,PERSON,28950
+Northbound,PERSON,28950
+Baker St,PERSON,28950
+two,CARDINAL,28950
+Ramirez,PERSON,28950
+Ramirez,PERSON,28950
+23ABC,CARDINAL,28950
+Ramirez,PERSON,28950
+one,CARDINAL,28950
+one,CARDINAL,28950
+four,CARDINAL,28950
+four,CARDINAL,28950
+Earlier this month 23abc,DATE,28950
+Kern Behavioral Health,ORG,28950
+Bill Walker,PERSON,28950
+the Kern Behavioral Health Mobile Unit,ORG,28950
+Sgt,PERSON,28950
+Robert Pair,PERSON,28950
+the Bakersfield Police Department,ORG,28950
+first,ORDINAL,28950
+MET,ORG,28950
+three,CARDINAL,28950

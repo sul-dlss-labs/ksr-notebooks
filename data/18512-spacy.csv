@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,18512
+Alabama,GPE,18512
+Alaska,GPE,18512
+Arizona,GPE,18512
+Arkansas,GPE,18512
+California,GPE,18512
+Colorado,GPE,18512
+Connecticut,GPE,18512
+Delaware,GPE,18512
+Florida,GPE,18512
+Georgia,GPE,18512
+Hawaii,GPE,18512
+Idaho,GPE,18512
+Indiana,GPE,18512
+Iowa,GPE,18512
+Kansas,GPE,18512
+Kentucky,GPE,18512
+Louisiana,GPE,18512
+Maine,GPE,18512
+Maryland,GPE,18512
+Massachusetts,GPE,18512
+Michigan,GPE,18512
+Minnesota,GPE,18512
+Mississippi,GPE,18512
+Missouri,GPE,18512
+Montana,GPE,18512
+Nebraska,GPE,18512
+Nevada,GPE,18512
+New Hampshire,GPE,18512
+New Jersey,GPE,18512
+Ohio,GPE,18512
+Oklahoma,GPE,18512
+Oregon,GPE,18512
+Pennsylvania,GPE,18512
+Rhode Island,GPE,18512
+Tennessee,GPE,18512
+Texas,GPE,18512
+Utah,GPE,18512
+Vermont,GPE,18512
+Virginia,GPE,18512
+Washington,GPE,18512
+Washington,GPE,18512
+D.C.,GPE,18512
+Wisconsin,GPE,18512
+Wyoming,GPE,18512
+US,GPE,18512
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,18512
+Marshall Islands American Samoa Federated States,ORG,18512
+Micronesia Guam,FAC,18512
+Alberta,GPE,18512
+Canada,GPE,18512
+British Columbia,GPE,18512
+Canada Manitoba,GPE,18512
+Canada,GPE,18512
+New Brunswick,GPE,18512
+Canada Newfoundland,PERSON,18512
+Canada,GPE,18512
+Canada,GPE,18512
+Canada Ontario,GPE,18512
+Canada,GPE,18512
+Edward Island,GPE,18512
+Canada Quebec,GPE,18512
+Canada,GPE,18512
+Saskatchewan,GPE,18512
+Canada Yukon Territory,ORG,18512
+Canada,GPE,18512
+Zip Code,PERSON,18512

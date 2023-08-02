@@ -1,0 +1,64 @@
+text,label,fe_id
+Park City,GPE,12741
+Matt Heilman,PERSON,12741
+"May 09, 2013",DATE,12741
+Two,CARDINAL,12741
+two-day,DATE,12741
+Park City,GPE,12741
+Two,CARDINAL,12741
+about 24 hours,TIME,12741
+first,ORDINAL,12741
+shortly before 9 p.m.,TIME,12741
+May 3,DATE,12741
+Denver,GPE,12741
+Park City,GPE,12741
+1600,CARDINAL,12741
+East Gary Drive,LOC,12741
+Denver,GPE,12741
+36-year-old,DATE,12741
+Eloy Portillo-Meza,ORG,12741
+Wesley Medical Center,ORG,12741
+about three hours,TIME,12741
+Park City,GPE,12741
+Phil Bostian,PERSON,12741
+Portillo-Meza,ORG,12741
+Bostian,PERSON,12741
+one,CARDINAL,12741
+Portillo-Meza,ORG,12741
+911,CARDINAL,12741
+Portillo-Meza,ORG,12741
+about 12:15 a.m.,TIME,12741
+second,ORDINAL,12741
+30-year-old,DATE,12741
+Ark City,GPE,12741
+Park City's,GPE,12741
+Ridge,PERSON,12741
+Wichita,GPE,12741
+May 6,DATE,12741
+Ark City,GPE,12741
+Jeremy D. Horton,PERSON,12741
+Brent Allred,PERSON,12741
+about 9:15 p.m.,TIME,12741
+May 4,DATE,12741
+Eck Ford,PERSON,12741
+7300,CARDINAL,12741
+East Kellogg,GPE,12741
+Horton,PERSON,12741
+Allred,ORG,12741
+Horton,PERSON,12741
+several miles,QUANTITY,12741
+Wichita,GPE,12741
+53rd,ORDINAL,12741
+Hydraulic,NORP,12741
+Horton,PERSON,12741
+about two,CARDINAL,12741
+miles,QUANTITY,12741
+North and,GPE,12741
+Hydraulic,NORP,12741
+Bostian,ORG,12741
+Horton,PERSON,12741
+The Sedgwick County Fire Department,ORG,12741
+about 45 minutes,TIME,12741
+Allred,ORG,12741
+Horton,PERSON,12741
+about 30 minutes,TIME,12741

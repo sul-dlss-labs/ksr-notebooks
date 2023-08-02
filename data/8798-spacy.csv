@@ -1,0 +1,36 @@
+text,label,fe_id
+Los Angeles,GPE,8798
+29-year-old,DATE,8798
+Ronald Palacios,PERSON,8798
+the Los Angeles Police Department,ORG,8798
+"January 29, 2010",DATE,8798
+around 12:16 a.m.,TIME,8798
+700,CARDINAL,8798
+West Manchester Avenue,ORG,8798
+Los Angeles,GPE,8798
+Palacios,ORG,8798
+Palacios,ORG,8798
+911,CARDINAL,8798
+Palacios,ORG,8798
+Palacios,ORG,8798
+an hour later,TIME,8798
+about 1:33 a.m.,TIME,8798
+the Los Angeles Fire Department,ORG,8798
+700,CARDINAL,8798
+West Manchester Avenue,GPE,8798
+Palacios,PERSON,8798
+Palacios,ORG,8798
+One,CARDINAL,8798
+Palacios,ORG,8798
+Taser,ORG,8798
+Taser,ORG,8798
+Palacios,ORG,8798
+Taser,ORG,8798
+Palacios,ORG,8798
+Palacios,ORG,8798
+Taser,ORG,8798
+Palacios,PERSON,8798
+Palacios,ORG,8798
+Palacios,ORG,8798
+Palacios,PERSON,8798
+Force Investigation Division,ORG,8798

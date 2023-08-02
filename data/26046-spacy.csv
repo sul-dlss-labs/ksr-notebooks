@@ -1,0 +1,25 @@
+text,label,fe_id
+NEW ORLEANS,GPE,26046
+Central City,GPE,26046
+Byron Wilson,PERSON,26046
+16,DATE,26046
+Chimelu Collins,PERSON,26046
+14,DATE,26046
+Orleans,NORP,26046
+Coroner’s Office,ORG,26046
+Wilson,ORG,26046
+Collins,PERSON,26046
+New Orleans,GPE,26046
+Sean Ferguson,PERSON,26046
+Schwann Herbert,PERSON,26046
+54,DATE,26046
+Schwann,PERSON,26046
+second,ORDINAL,26046
+two,CARDINAL,26046
+first,ORDINAL,26046
+March 20,DATE,26046
+Washington Ave,GPE,26046
+"South White St.
+
+",GPE,26046
+2019,DATE,26046

@@ -1,0 +1,44 @@
+text,label,fe_id
+Monday,DATE,12873
+San Diego,GPE,12873
+the weekend,DATE,12873
+Mission Bay Park,LOC,12873
+SAN DIEGO,GPE,12873
+Monday,DATE,12873
+San Diego,GPE,12873
+the weekend,DATE,12873
+Mission Bay Park,LOC,12873
+Giacomo Cargnoni,PERSON,12873
+21,DATE,12873
+San Diego,GPE,12873
+100,CARDINAL,12873
+Saturday,DATE,12873
+morning,TIME,12873
+the San Diego County Medical Examiner's Office,ORG,12873
+UCSD Medical Center,ORG,12873
+10:15 a.m.,TIME,12873
+about 9:15 a.m.,TIME,12873
+1700,CARDINAL,12873
+Sunset Cliffs Boulevard,ORG,12873
+San Diego,GPE,12873
+Jorge Duran,PERSON,12873
+Volkswagen,ORG,12873
+the San Diego River,LOC,12873
+Sea World Drive,ORG,12873
+Sunset Cliffs Boulevard,FAC,12873
+Duran,GPE,12873
+Duran,GPE,12873
+One,CARDINAL,12873
+11-year,DATE,12873
+the San Diego Police Department,ORG,12873
+Duran,GPE,12873
+Ocean Beach,GPE,12873
+Mission Bay Park,LOC,12873
+Interstate 8,FAC,12873
+Ocean Beach,GPE,12873
+Sports Arena Boulevard,FAC,12873
+West Mission Bay Drive,LOC,12873
+Ingraham Street,FAC,12873
+Sea World Drive,ORG,12873
+Sea World,ORG,12873
+Sea World Drive,ORG,12873

@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,6007
+Alabama,GPE,6007
+Alaska,GPE,6007
+Arizona,GPE,6007
+Arkansas,GPE,6007
+California,GPE,6007
+Colorado,GPE,6007
+Connecticut,GPE,6007
+Delaware,GPE,6007
+Florida,GPE,6007
+Georgia,GPE,6007
+Hawaii,GPE,6007
+Idaho,GPE,6007
+Indiana,GPE,6007
+Iowa,GPE,6007
+Kansas,GPE,6007
+Kentucky,GPE,6007
+Louisiana,GPE,6007
+Maine,GPE,6007
+Maryland,GPE,6007
+Massachusetts,GPE,6007
+Michigan,GPE,6007
+Minnesota,GPE,6007
+Mississippi,GPE,6007
+Missouri,GPE,6007
+Montana,GPE,6007
+Nebraska,GPE,6007
+Nevada,GPE,6007
+New Hampshire,GPE,6007
+New Jersey,GPE,6007
+Ohio,GPE,6007
+Oklahoma,GPE,6007
+Oregon,GPE,6007
+Pennsylvania,GPE,6007
+Rhode Island,GPE,6007
+Tennessee,GPE,6007
+Texas,GPE,6007
+Utah,GPE,6007
+Vermont,GPE,6007
+Virginia,GPE,6007
+Washington,GPE,6007
+Washington,GPE,6007
+D.C.,GPE,6007
+Wisconsin,GPE,6007
+Wyoming,GPE,6007
+US,GPE,6007
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,6007
+Marshall Islands American Samoa Federated States,ORG,6007
+Micronesia Guam,FAC,6007
+Alberta,GPE,6007
+Canada,GPE,6007
+British Columbia,GPE,6007
+Canada Manitoba,GPE,6007
+Canada,GPE,6007
+New Brunswick,GPE,6007
+Canada Newfoundland,PERSON,6007
+Canada,GPE,6007
+Canada,GPE,6007
+Canada Ontario,GPE,6007
+Canada,GPE,6007
+Edward Island,GPE,6007
+Canada Quebec,GPE,6007
+Canada,GPE,6007
+Saskatchewan,GPE,6007
+Canada Yukon Territory,ORG,6007
+Canada,GPE,6007
+Zip Code,PERSON,6007

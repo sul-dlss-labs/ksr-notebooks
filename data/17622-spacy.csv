@@ -1,0 +1,26 @@
+text,label,fe_id
+ORANGE COUNTY,GPE,17622
+Fla.,GPE,17622
+The Orange County Sheriff’s Office,ORG,17622
+Friday,DATE,17622
+Thursday,DATE,17622
+afternoon,TIME,17622
+Dehli Street,FAC,17622
+two,CARDINAL,17622
+6,CARDINAL,17622
+Dehli Street,FAC,17622
+Mission Street,FAC,17622
+Acting Sgt,ORG,17622
+Vernon Brown,PERSON,17622
+21-year,DATE,17622
+Demings,WORK_OF_ART,17622
+Deresha Armstrong,PERSON,17622
+26,DATE,17622
+Detectives,ORG,17622
+Brown,PERSON,17622
+Demings,WORK_OF_ART,17622
+second,ORDINAL,17622
+Armstrong,PERSON,17622
+Crimeline,ORG,17622
+800-423-TIPS,CARDINAL,17622
+The Florida Department of Law Enforcement,ORG,17622

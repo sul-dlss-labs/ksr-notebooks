@@ -1,0 +1,51 @@
+The woman shot and killed by Sunrise police after she barricaded herself in her apartment for more than three hours was named Saturday as Kristen Ambury, 28.
+
+Police were called to the Water’s Edge apartments complex at 4 p.m. Friday after getting a call about a woman who was home alone and threatening to harm herself, said Veda Coleman-Wright, spokeswoman for the Broward Sheriff’s Office.
+
+When they arrived at Water’s Edge, Sunrise officers learned that Ambury, who was described as suicidal, was armed, and Sunrise’s SWAT team responded to the scene, Coleman-Wright said.
+
+When communication with the SWAT team and Ambury broke off, officers tried to enter the apartment to make sure she hadn’t harmed herself, but they encountered the armed woman and shots were fired, Coleman-Wright said. Ambury died at the scene and no officers were injured.
+
+Residents living at the complex, just north of Oakland Park Boulevard and east of Hiatus Road, said it was a tense standoff, with as many as a dozen officers positioned near the scene and other officers at many corners.
+
+Neighbors trying to drive to their apartments after work were denied access. Residents who had been walking outside were told by police to go inside their apartments and stay there.
+
+One resident, who asked not to be identified, said Ambury often walked her two small dogs throughout the complex, and sometimes sat for prolonged periods near the edge of the canal behind her building.
+
+The resident said she heard as many as five shots at about 7:30 p.m.
+
+It’s not clear from information released by the police or the Broward Sheriff’s Office so far whether Ambury fired her weapon at the officers.
+
+Many residents said they were not allowed to return to their apartments until around midnight.
+
+BSO homicide and crime scene detectives are investigating. No further information was released.
+
+.ss-blurb-fblike{
+
+padding-left:10px;
+
+}
+
+.ss-blurb-fblike-heading {
+
+font-family: Georgia, Times New Roman, serif;
+
+font-weight: bold;
+
+}
+
+Like us on Facebook (function(d, s, id) {
+
+var js, fjs = d.getElementsByTagName(s)[0];
+
+if (d.getElementById(id)) return;
+
+js = d.createElement(s); js.id = id;
+
+js.src = “//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=728754867160252”;
+
+fjs.parentNode.insertBefore(js, fjs);
+
+}(document, ‘script’, ‘facebook-jssdk’));
+
+bballou@sunsentinel.com, 954-356-4188

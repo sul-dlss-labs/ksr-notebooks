@@ -1,0 +1,56 @@
+text,label,fe_id
+this morning,TIME,27191
+John Resetar,PERSON,27191
+age 44,DATE,27191
+Friday,DATE,27191
+Lynn,GPE,27191
+two,CARDINAL,27191
+#1-Four Injured,MONEY,27191
+Lynn,PERSON,27191
+yesterday,DATE,27191
+the Randolph County Sheriff’s Department,ORG,27191
+Lynn Police Department,ORG,27191
+Randolph County Dispatch,GPE,27191
+John Resetar,PERSON,27191
+age 44,DATE,27191
+last evening around 8 p.m.,TIME,27191
+two,CARDINAL,27191
+Resetar,ORG,27191
+Reid Health Hospital,ORG,27191
+Richmond,GPE,27191
+Indianapolis,GPE,27191
+three,CARDINAL,27191
+the Lynn Police Department,ORG,27191
+Farmland Police Department,ORG,27191
+the Randolph County Sheriff’s Department,ORG,27191
+last evening,TIME,27191
+Four,CARDINAL,27191
+Around 3 p.m.,TIME,27191
+today,DATE,27191
+12/20,CARDINAL,27191
+Randolph County,GPE,27191
+Lynn Marshall,PERSON,27191
+Lynn,PERSON,27191
+Marshall,PERSON,27191
+817 W. Church St.,MONEY,27191
+Lynn,GPE,27191
+one,CARDINAL,27191
+Two,CARDINAL,27191
+three,CARDINAL,27191
+Around 4:15 p.m.,TIME,27191
+Around 8 p.m.,TIME,27191
+SWAT,ORG,27191
+John Resetar,PERSON,27191
+age 44,DATE,27191
+first,ORDINAL,27191
+EMS,ORG,27191
+Resetar,ORG,27191
+Indiana State Police Investigators,ORG,27191
+the night,TIME,27191
+The Indiana State Police,ORG,27191
+Randolph County,GPE,27191
+Lynn Units,PERSON,27191
+Delaware County,GPE,27191
+Hancock County,GPE,27191
+Wayne County,GPE,27191
+IMPD,ORG,27191

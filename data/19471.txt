@@ -1,0 +1,57 @@
+Leticia Donarski sat on the phone for 13 minutes with 911 Thursday night, asking deputies for help for her husband.
+
+She told a dispatcher that he was had bipolar disorder, but wasn’t on his medication and was acting erratically.
+
+When deputies arrived at their Deltona home, Daniel Donarski had a shotgun and pointed it toward him. The deputy opened fire and killed him, according to the Volusia County Sheriff’s Office.
+
+Donarski, 58, had gotten home from work about 6:40 p.m. when the incident started. She ran out of her home on Teather Avenue and called 911.
+
+“He’s cussing up a storm and he’s punching some holes in the wall,” she told a dispatcher. “… He needs to be admitted …They need to Baker Act him.”
+
+She told the dispatcher her husband was bipolar and his doctor was weaning him off of one medication to start a new prescription.
+
+“He’s got a chemical imbalance,” she said.
+
+After arriving, deputies walked up to the front door and called for him to come out. Then one of the deputies, Shawn Adkins, heard the sound of a shotgun being loaded and backed away, Sheriff’s Office spokesman Andrew Gant said.
+
+That’s when Daniel Donarski came out with the gun and pointed it at Adkins, he said.
+
+Adkins yelled for Donarski to drop the shotgun. He did not and Adkins was forced to open fire, Gant said.
+
+Donarski was killed.
+
+Adkins, 25, has been with the department since October 2015. The Florida Department of Law Enforcement will investigate, which is standard in deputy-involved shootings.
+
+He will be placed on paid leave during the investigation.
+
+chayes@orlandosentinel.com, 407-420-5493 or Twitter: @journo_christal
+
+.galleries:after {
+
+content: ”;
+
+display: block;
+
+background-color: #dd1300;
+
+margin: 16px auto 0;
+
+height: 5px;
+
+width: 100px;
+
+}
+
+.galleries:before {
+
+content: “Central Florida Crime Videos”;
+
+display: block;
+
+font: 700 23px/25px Belizio,Georgia,’Droid Serif’,serif;
+
+text-align: center;
+
+color: #1e1e1e;
+
+}

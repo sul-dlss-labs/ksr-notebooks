@@ -1,0 +1,5 @@
+text,label,fe_id
+Trump,ORG,3092
+The Justice Department,ORG,3092
+Donald Trump,PERSON,3092
+2020,DATE,3092

@@ -1,0 +1,8 @@
+text,label,fe_id
+One,CARDINAL,6202
+two,CARDINAL,6202
+Abbeville,GPE,6202
+Highway 95,FAC,6202
+Barbour County,GPE,6202
+second,ORDINAL,6202
+Three,CARDINAL,6202

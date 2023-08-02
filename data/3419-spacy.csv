@@ -1,0 +1,85 @@
+text,label,fe_id
+State,ORG,3419
+Seymour,PERSON,3419
+"June 4, 2004",DATE,3419
+Issued Pursuant,ORG,3419
+"November 10, 2005",DATE,3419
+I. Circumstances of Incident,ORG,3419
+"June 4, 2005",DATE,3419
+approximately 10:00 a.m.,TIME,3419
+the Seymour Optometric Center,ORG,3419
+25,CARDINAL,3419
+Seymour,PERSON,3419
+Tzepos,PERSON,3419
+the day,DATE,3419
+John Steeves,PERSON,3419
+noon,TIME,3419
+approximately 4:30 p.m.,TIME,3419
+John Steeves,PERSON,3419
+earlier in the day,DATE,3419
+Tzepos,PERSON,3419
+Dennis Kissel,PERSON,3419
+Oxford,ORG,3419
+Kissel,GPE,3419
+Kissel,ORG,3419
+Tzepos,ORG,3419
+third,ORDINAL,3419
+Tzepos,ORG,3419
+911,CARDINAL,3419
+Kim Chernecky,PERSON,3419
+Tzepos,ORG,3419
+Seymour,PERSON,3419
+Tzepos,ORG,3419
+Chernecky,PERSON,3419
+Kissel,ORG,3419
+Chernecky,PERSON,3419
+Kissel,ORG,3419
+Seymour,PERSON,3419
+Michael Metzler,PERSON,3419
+Patrolman Patrick Giglio,PERSON,3419
+the Seymour Optometric Center,FAC,3419
+Tzepos,ORG,3419
+Chernecky,GPE,3419
+Chernecky,PERSON,3419
+Kissel,ORG,3419
+Giglio,PERSON,3419
+Metzler,PERSON,3419
+Giglio,ORG,3419
+Giglio,PERSON,3419
+Giglio,PERSON,3419
+Kissel,ORG,3419
+Freeze,PERSON,3419
+Kissel,ORG,3419
+Giglio,PERSON,3419
+one,CARDINAL,3419
+Kissel,ORG,3419
+Seymour,PERSON,3419
+Giglio,PERSON,3419
+Kissel,ORG,3419
+Kissel,ORG,3419
+Phillips,ORG,3419
+Kissel,ORG,3419
+Griffin Hospital,FAC,3419
+Seymour Emergency Medical Service,ORG,3419
+6:00,TIME,3419
+The Medical Examiner,ORG,3419
+Kissel,ORG,3419
+Tzepos,PERSON,3419
+Yale-New Haven Hospital,ORG,3419
+"June 5, 2004",DATE,3419
+the Connecticut State Police Central District Major Crime Squad,ORG,3419
+the Department of Public Safety Division of Scientific Services Forensic Science Laboratory,ORG,3419
+Kissel,ORG,3419
+five,CARDINAL,3419
+Kissel,ORG,3419
+Kissel,ORG,3419
+Tzepos,PERSON,3419
+Kissel,ORG,3419
+several months earlier,DATE,3419
+Tzepos,PERSON,3419
+"June 4, 2004",DATE,3419
+1,CARDINAL,3419
+third,ORDINAL,3419
+Kissel,PERSON,3419
+Section 53a-22,LAW,3419
+the Division of Criminal Justice,ORG,3419

@@ -1,0 +1,65 @@
+text,label,fe_id
+PARMA,GPE,30422
+Ohio,GPE,30422
+64-year-old,DATE,30422
+Parma,NORP,30422
+Sunday,DATE,30422
+12-hour,TIME,30422
+early Monday,TIME,30422
+morning,TIME,30422
+approximately 2:05 p.m.,TIME,30422
+Sunday,DATE,30422
+Parma,NORP,30422
+Dodge,ORG,30422
+State,ORG,30422
+Brookpark,LOC,30422
+5200,CARDINAL,30422
+State Road,FAC,30422
+Kevin Richard Giesel,PERSON,30422
+64,DATE,30422
+Parma,NORP,30422
+State Road,FAC,30422
+5700,CARDINAL,30422
+South Park Boulevard,LOC,30422
+Michele Holbrook,PERSON,30422
+Berea,PERSON,30422
+Broadview,GPE,30422
+Brooklyn,GPE,30422
+Brook Park,GPE,30422
+Brunswick,GPE,30422
+Middleburg Heights,GPE,30422
+North Royalton,PERSON,30422
+Olmsted Falls,PERSON,30422
+Olmsted Township,GPE,30422
+Parma,NORP,30422
+Parma Heights,GPE,30422
+Strongsville,GPE,30422
+nearly six hours,TIME,30422
+Giesel,ORG,30422
+Mike Vielhaber,PERSON,30422
+Parma,NORP,30422
+South Park Boulevard,FAC,30422
+Parma,NORP,30422
+Giesel,ORG,30422
+the next six hours,TIME,30422
+Barbee Thomas,PERSON,30422
+approximately 2:30 a.m.,TIME,30422
+Giesel,ORG,30422
+Giesel,GPE,30422
+More than 24 hours,TIME,30422
+first,ORDINAL,30422
+Parma,NORP,30422
+Ohio,GPE,30422
+General's,ORG,30422
+Bureau of Criminal Investigation,ORG,30422
+Parma,NORP,30422
+Download the News 5,WORK_OF_ART,30422
+Cleveland,GPE,30422
+Apple,ORG,30422
+Android,PERSON,30422
+Roku,ORG,30422
+Apple TV,ORG,30422
+Amazon Fire TV,ORG,30422
+YouTube TV,ORG,30422
+Hulu Live,WORK_OF_ART,30422
+Amazon Alexa,ORG,30422

@@ -1,0 +1,22 @@
+text,label,fe_id
+Weather Alert,PERSON,19238
+9 PM,TIME,19238
+CDT,ORG,19238
+9 PM,TIME,19238
+110,CARDINAL,19238
+the Heat Advisory,ORG,19238
+108,CARDINAL,19238
+Oklahoma,GPE,19238
+the Excessive Heat Warning,ORG,19238
+noon to 9 PM,TIME,19238
+CDT,PERSON,19238
+Wednesday,DATE,19238
+the Heat Advisory,ORG,19238
+noon to 9 PM,TIME,19238
+CDT,PERSON,19238
+Thursday,DATE,19238
+PRECAUTIONARY,ORG,19238
+early morning,TIME,19238
+evening,TIME,19238
+the Occupational Safety and Health Administration,ORG,19238
+&&,ORG,19238

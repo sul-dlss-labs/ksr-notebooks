@@ -1,0 +1,161 @@
+text,label,fe_id
+second,ORDINAL,4962
+less than a year,DATE,4962
+late-Tuesday,DATE,4962
+Tucson,GPE,4962
+last year's,DATE,4962
+Brandon Azuelo,PERSON,4962
+22,DATE,4962
+his fifth day,DATE,4962
+the Tucson Police Department,ORG,4962
+late Tuesday,DATE,4962
+Sgt,PERSON,4962
+Decio Hopffer,PERSON,4962
+Tucson,GPE,4962
+Detectives,ORG,4962
+Wednesday,DATE,4962
+morning,TIME,4962
+32-year-old,DATE,4962
+Todd Julius Pruitt,PERSON,4962
+Pruitt,PERSON,4962
+Hopffer,ORG,4962
+Pruitt,PERSON,4962
+Ohio,GPE,4962
+Azuelo,PERSON,4962
+Pruitt,PERSON,4962
+Hopffer,PERSON,4962
+Pruitt,PERSON,4962
+The Police Department,ORG,4962
+Pima County,GPE,4962
+Office,ORG,4962
+Azuelo,PERSON,4962
+third,ORDINAL,4962
+this year,DATE,4962
+Tucson,GPE,4962
+Feb. 15,DATE,4962
+6200,CARDINAL,4962
+South Campbell Avenue,LOC,4962
+Jan. 21,DATE,4962
+Office,ORG,4962
+Tuesday,DATE,4962
+Around 10:15 p.m.,TIME,4962
+Lawrence McDowell,PERSON,4962
+41,DATE,4962
+four-year,DATE,4962
+Pruitt,PERSON,4962
+Ford,ORG,4962
+Escort,PRODUCT,4962
+Pruitt,PERSON,4962
+North Silverbell Road,FAC,4962
+Speedway,GPE,4962
+McDowell,ORG,4962
+Pruitt,PERSON,4962
+Phoenix,GPE,4962
+a few hours earlier,TIME,4962
+McDowell,PERSON,4962
+Pruitt,PERSON,4962
+McDowell,PERSON,4962
+Pruitt,PERSON,4962
+Pruitt,PERSON,4962
+McDowell,PERSON,4962
+Pruitt,PERSON,4962
+Backup,PERSON,4962
+Azuelo,PERSON,4962
+Officer Pablo Camargo,ORG,4962
+Azuelo,PERSON,4962
+McDowell,ORG,4962
+Pruitt,PERSON,4962
+McDowell,ORG,4962
+Taser,ORG,4962
+Pruitt,PERSON,4962
+one,CARDINAL,4962
+waistband,GPE,4962
+Azuelo,PERSON,4962
+Camargo,ORG,4962
+McDowell,PERSON,4962
+Azuelo,PERSON,4962
+Pruitt,PERSON,4962
+Pruitt,PERSON,4962
+Lengthy,PERSON,4962
+Tucson,GPE,4962
+Pruitt,PERSON,4962
+Florida,GPE,4962
+Michigan,GPE,4962
+Ohio,GPE,4962
+Escondido,GPE,4962
+Calif.,GPE,4962
+Wednesday,DATE,4962
+Pruitt,PERSON,4962
+Toledo,GPE,4962
+Ohio,GPE,4962
+Pruitt,PERSON,4962
+Feb. 8,DATE,4962
+Toledo,GPE,4962
+the Toledo Blade,ORG,4962
+Tucson,GPE,4962
+Toledo,GPE,4962
+Pruitt,PERSON,4962
+Sgt,PERSON,4962
+Mark Robinson,PERSON,4962
+Tucson,GPE,4962
+the Michigan Department of Corrections,ORG,4962
+Pruitt,PERSON,4962
+five years,DATE,4962
+three,CARDINAL,4962
+1996,DATE,4962
+Pruitt,PERSON,4962
+"Jan. 19, 2005",DATE,4962
+Pruitt,PERSON,4962
+1997,DATE,4962
+the U.S. District Court,ORG,4962
+the Middle District,LOC,4962
+Florida,GPE,4962
+1998,DATE,4962
+one,CARDINAL,4962
+the U.S. District Court,ORG,4962
+the Middle District,LOC,4962
+Tennessee,GPE,4962
+David Klinger,PERSON,4962
+the University of Missouri-St. Louis,ORG,4962
+his first year,DATE,4962
+the Los Angeles Police Department,ORG,4962
+July 12,DATE,4962
+TPD,ORG,4962
+first,ORDINAL,4962
+19-year-old,DATE,4962
+the North Side,LOC,4962
+Brett Klein,PERSON,4962
+Tucson,GPE,4962
+the first hour,TIME,4962
+the last few days,DATE,4962
+20-year,DATE,4962
+Tucson,PERSON,4962
+Mike Storie,PERSON,4962
+Storie,PERSON,4962
+Last year,DATE,4962
+13,CARDINAL,4962
+eight,CARDINAL,4962
+the past five years,DATE,4962
+three,CARDINAL,4962
+this year,DATE,4962
+five,CARDINAL,4962
+2005,DATE,4962
+Tucson Police Department,ORG,4962
+Tucson Police Department,ORG,4962
+2006,DATE,4962
+"2 3
+
+2005",DATE,4962
+4 13,CARDINAL,4962
+2004 4 11,DATE,4962
+2003 0,DATE,4962
+2,CARDINAL,4962
+2002 2,DATE,4962
+"6
+
+2001 3 8
+
+",DATE,4962
+"2000 1 6
+
+* year",DATE,4962

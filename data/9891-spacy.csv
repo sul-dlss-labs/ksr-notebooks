@@ -1,0 +1,41 @@
+text,label,fe_id
+Fatal Shooting Incident,ORG,9891
+February 21,DATE,9891
+2011,DATE,9891
+one,CARDINAL,9891
+second,ORDINAL,9891
+HPD,ORG,9891
+1900,DATE,9891
+about 2:20 a.m.,TIME,9891
+Saturday,DATE,9891
+Omar Ventura,PERSON,9891
+DOB,ORG,9891
+8-31-81,CARDINAL,9891
+Ben Taub General Hospital,ORG,9891
+Rolando Ventura,PERSON,9891
+DOB,ORG,9891
+4-21-83,DATE,9891
+Jose Coronado,PERSON,9891
+the South Central Patrol Division,ORG,9891
+HPD,ORG,9891
+June 2006.HPD,DATE,9891
+M.A. Countryman,PERSON,9891
+J.B. Cornelius,PERSON,9891
+Coronado,PERSON,9891
+the Sherlock's Pub,FAC,9891
+Coronado,PERSON,9891
+Coronado,PERSON,9891
+Coronado,PERSON,9891
+Omar Ventura,PERSON,9891
+Rolando Ventura,PERSON,9891
+third,ORDINAL,9891
+the HPD Homicide Division,ORG,9891
+713-308-3600.As,CARDINAL,9891
+HPD,ORG,9891
+the HPD Homicide and Internal Affairs Divisions,ORG,9891
+the Harris County District,GPE,9891
+Office,ORG,9891
+JFC,ORG,9891
+2-21-11,DATE,9891
+the HPD Public Affairs Division,ORG,9891
+713-308-3200,CARDINAL,9891

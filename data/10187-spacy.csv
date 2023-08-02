@@ -1,0 +1,25 @@
+text,label,fe_id
+Costa Mesa,GPE,10187
+May 2011,DATE,10187
+George Marques,PERSON,10187
+44,DATE,10187
+Placentia,ORG,10187
+the Daily Pilot,ORG,10187
+South Coast Plaza,LOC,10187
+"May 18, 2011",DATE,10187
+Saks Fifth Avenue,ORG,10187
+two,CARDINAL,10187
+second,ORDINAL,10187
+Coastal Communities Hospital,ORG,10187
+Santa Ana,GPE,10187
+Marques,ORG,10187
+Two,CARDINAL,10187
+"L.A. Live
+
+Gay",ORG,10187
+Supreme Court,ORG,10187
+Prop. 8,LAW,10187
+"35,000",CARDINAL,10187
+Santa,GPE,10187
+L.A.,GPE,10187
+Times Community News,ORG,10187

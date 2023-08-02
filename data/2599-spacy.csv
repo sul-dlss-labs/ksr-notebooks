@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,2599
+Alabama,GPE,2599
+Alaska,GPE,2599
+Arizona,GPE,2599
+Arkansas,GPE,2599
+California,GPE,2599
+Colorado,GPE,2599
+Connecticut,GPE,2599
+Delaware,GPE,2599
+Florida,GPE,2599
+Georgia,GPE,2599
+Hawaii,GPE,2599
+Idaho,GPE,2599
+Indiana,GPE,2599
+Iowa,GPE,2599
+Kansas,GPE,2599
+Kentucky,GPE,2599
+Louisiana,GPE,2599
+Maine,GPE,2599
+Maryland,GPE,2599
+Massachusetts,GPE,2599
+Michigan,GPE,2599
+Minnesota,GPE,2599
+Mississippi,GPE,2599
+Missouri,GPE,2599
+Montana,GPE,2599
+Nebraska,GPE,2599
+Nevada,GPE,2599
+New Hampshire,GPE,2599
+New Jersey,GPE,2599
+Ohio,GPE,2599
+Oklahoma,GPE,2599
+Oregon,GPE,2599
+Pennsylvania,GPE,2599
+Rhode Island,GPE,2599
+Tennessee,GPE,2599
+Texas,GPE,2599
+Utah,GPE,2599
+Vermont,GPE,2599
+Virginia,GPE,2599
+Washington,GPE,2599
+Washington,GPE,2599
+D.C.,GPE,2599
+Wisconsin,GPE,2599
+Wyoming,GPE,2599
+US,GPE,2599
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,2599
+Marshall Islands American Samoa Federated States,ORG,2599
+Micronesia Guam,FAC,2599
+Alberta,GPE,2599
+Canada,GPE,2599
+British Columbia,GPE,2599
+Canada Manitoba,GPE,2599
+Canada,GPE,2599
+New Brunswick,GPE,2599
+Canada Newfoundland,PERSON,2599
+Canada,GPE,2599
+Canada,GPE,2599
+Canada Ontario,GPE,2599
+Canada,GPE,2599
+Edward Island,GPE,2599
+Canada Quebec,GPE,2599
+Canada,GPE,2599
+Saskatchewan,GPE,2599
+Canada Yukon Territory,ORG,2599
+Canada,GPE,2599
+Zip Code,PERSON,2599

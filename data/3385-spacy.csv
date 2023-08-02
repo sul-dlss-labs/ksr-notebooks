@@ -1,0 +1,29 @@
+text,label,fe_id
+Chicago,GPE,3385
+$6.5 million,MONEY,3385
+Gregory Jones,ORG,3385
+8-year-old,DATE,3385
+Humboldt Park,LOC,3385
+2004,DATE,3385
+The Chicago Sun-Times,ORG,3385
+Wednesday,DATE,3385
+Jones,PERSON,3385
+$5.9 million,MONEY,3385
+"590,000",MONEY,3385
+Jones,PERSON,3385
+11-year-old,DATE,3385
+Datondra Mitchell,PERSON,3385
+Mark Del Boccio,PERSON,3385
+Robert Jackson,PERSON,3385
+the Sun-Times,ORG,3385
+Jones,PERSON,3385
+Liz Mazur,PERSON,3385
+Grand,GPE,3385
+Kildare,ORG,3385
+dozens,CARDINAL,3385
+Mazur,PERSON,3385
+the Sun-Times,ORG,3385
+The Chicago Reader,ORG,3385
+Del Boccio,PERSON,3385
+Jackson,PERSON,3385
+"May 19, 2004",DATE,3385

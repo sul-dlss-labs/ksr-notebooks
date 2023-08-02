@@ -1,0 +1,68 @@
+text,label,fe_id
+State,ORG,5388
+Alabama,GPE,5388
+Alaska,GPE,5388
+Arizona,GPE,5388
+Arkansas,GPE,5388
+California,GPE,5388
+Colorado,GPE,5388
+Connecticut,GPE,5388
+Delaware,GPE,5388
+Florida,GPE,5388
+Georgia,GPE,5388
+Hawaii,GPE,5388
+Idaho,GPE,5388
+Indiana,GPE,5388
+Iowa,GPE,5388
+Kansas,GPE,5388
+Kentucky,GPE,5388
+Louisiana,GPE,5388
+Maine,GPE,5388
+Maryland,GPE,5388
+Massachusetts,GPE,5388
+Michigan,GPE,5388
+Minnesota,GPE,5388
+Mississippi,GPE,5388
+Missouri,GPE,5388
+Montana,GPE,5388
+Nebraska,GPE,5388
+Nevada,GPE,5388
+New Hampshire,GPE,5388
+New Jersey,GPE,5388
+Ohio,GPE,5388
+Oklahoma,GPE,5388
+Oregon,GPE,5388
+Pennsylvania,GPE,5388
+Rhode Island,GPE,5388
+Tennessee,GPE,5388
+Texas,GPE,5388
+Utah,GPE,5388
+Vermont,GPE,5388
+Virginia,GPE,5388
+Washington,GPE,5388
+Washington,GPE,5388
+D.C.,GPE,5388
+Wisconsin,GPE,5388
+Wyoming,GPE,5388
+US,GPE,5388
+Virgin Islands Armed Forces Americas Armed Forces Pacific Armed Forces Europe Northern Mariana,ORG,5388
+Marshall Islands American Samoa Federated States,ORG,5388
+Micronesia Guam,FAC,5388
+Alberta,GPE,5388
+Canada,GPE,5388
+British Columbia,GPE,5388
+Canada Manitoba,GPE,5388
+Canada,GPE,5388
+New Brunswick,GPE,5388
+Canada Newfoundland,PERSON,5388
+Canada,GPE,5388
+Canada,GPE,5388
+Canada Ontario,GPE,5388
+Canada,GPE,5388
+Edward Island,GPE,5388
+Canada Quebec,GPE,5388
+Canada,GPE,5388
+Saskatchewan,GPE,5388
+Canada Yukon Territory,ORG,5388
+Canada,GPE,5388
+Zip Code,PERSON,5388

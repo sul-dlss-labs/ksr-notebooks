@@ -1,0 +1,26 @@
+text,label,fe_id
+last week,DATE,465
+three,CARDINAL,465
+Los Angeles,GPE,465
+Monday,DATE,465
+22-year-old,DATE,465
+Daniel Sanchez,PERSON,465
+Los Angeles,GPE,465
+Sanchez,GPE,465
+County-USC Medical Center,ORG,465
+about an hour,TIME,465
+Friday,DATE,465
+Cypress Avenue,FAC,465
+North Figueroa Street,LOC,465
+Scott Carrier,PERSON,465
+about midnight,TIME,465
+Figueroa,PERSON,465
+Sanchez,GPE,465
+Three,CARDINAL,465
+1980s,DATE,465
+Carlos Langarica,PERSON,465
+Langarica,PERSON,465
+Roy Escalante,PERSON,465
+Lance Dyer,PERSON,465
+Escalante,PERSON,465
+Sanchez,GPE,465
