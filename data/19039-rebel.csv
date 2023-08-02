@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Kentucky State Police,instance of,law enforcement officials,19039
+trooper,part of,Kentucky State Police,19039
+Kentucky State Police,instance of,law enforcement,19039

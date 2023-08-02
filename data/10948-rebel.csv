@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+opioid,subclass of,drug,10948
+cocaine,subclass of,opiates,10948
+fleeing and eluding an officer with wanton disregard causing death,subclass of,DUI,10948

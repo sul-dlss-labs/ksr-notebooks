@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Texas Rangers,parent organization,Texas Department of Public Safety,27896
+Texas Department of Public Safety,subsidiary,Texas Rangers,27896
+Texas Rangers,parent organization,Texas Department of Public Safety,27896
+San Marcos police,applies to jurisdiction,San Marcos,27896

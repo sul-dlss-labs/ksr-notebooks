@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+downtown,located in the administrative territorial entity,Salt Lake City,3863
+Utah stories,subclass of,news story,3863
+Utah stories,located in the administrative territorial entity,Salt Lake City,3863
