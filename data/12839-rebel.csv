@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Arnold Demesa,sibling,Cecilia Demesa,12839
+Cecilia Demesa,sibling,Arnold Demesa,12839
+Arnold,sibling,Cecilia Demesa,12839
+Cecilia Demesa,sibling,Arnold,12839
+Adolfo Vargas Tovar,place of birth,National City,12839
