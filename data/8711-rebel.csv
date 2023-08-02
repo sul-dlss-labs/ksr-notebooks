@@ -1,5 +1,5 @@
-subject,predicate,object,head,type,tail,fe_id
-Mauro Segovia,place of death,San Antonio,,,,8711
-,,,Mauro Segovia,place of death,San Antonio,8711
-officer-involved shootings in 2009,point in time,2009,,,,8711
-officer-involved shootings in 2009,point in time,2009,,,,8711
+subject,predicate,object,fe_id
+Mauro Segovia,place of death,San Antonio,8711
+Mauro Segovia,place of death,San Antonio,8711
+officer-involved shootings in 2009,point in time,2009,8711
+officer-involved shootings in 2009,point in time,2009,8711

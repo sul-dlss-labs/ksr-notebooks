@@ -1,5 +1,5 @@
-subject,predicate,object,head,type,tail,fe_id
-Castle Hill,located in the administrative territorial entity,the Bronx,,,,18327
-NYPD,located in the administrative territorial entity,Bronx,,,,18327
-,,,NYPD,located in the administrative territorial entity,Bronx,18327
-Castle Hill,located in the administrative territorial entity,Bronx,,,,18327
+subject,predicate,object,fe_id
+Castle Hill,located in the administrative territorial entity,the Bronx,18327
+NYPD,located in the administrative territorial entity,Bronx,18327
+NYPD,located in the administrative territorial entity,Bronx,18327
+Castle Hill,located in the administrative territorial entity,Bronx,18327

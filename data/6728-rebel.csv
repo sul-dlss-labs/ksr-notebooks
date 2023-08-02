@@ -1,6 +1,0 @@
-head,type,tail,subject,predicate,object,fe_id
-Oklahoma,shares border with,Texas,,,,6728
-,,,Texas,shares border with,Oklahoma,6728
-,,,heat exhaustion,subclass of,heat illness,6728
-heat exhaustion,subclass of,heat illness,,,,6728
-,,,heat stroke,subclass of,heat illness,6728

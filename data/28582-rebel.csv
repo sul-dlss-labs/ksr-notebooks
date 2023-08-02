@@ -1,5 +1,5 @@
-subject,predicate,object,head,type,tail,fe_id
-Holladay,located in the administrative territorial entity,Salt Lake County,,,,28582
-Holladay,located in the administrative territorial entity,Utah,,,,28582
-,,,Holladay,located in the administrative territorial entity,Salt Lake County,28582
-Holladay,located in the administrative territorial entity,Salt Lake County,,,,28582
+subject,predicate,object,fe_id
+Holladay,located in the administrative territorial entity,Salt Lake County,28582
+Holladay,located in the administrative territorial entity,Utah,28582
+Holladay,located in the administrative territorial entity,Salt Lake County,28582
+Holladay,located in the administrative territorial entity,Salt Lake County,28582

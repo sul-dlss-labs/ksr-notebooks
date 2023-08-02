@@ -1,6 +1,6 @@
-subject,predicate,object,head,type,tail,fe_id
-Westlake,located in the administrative territorial entity,Los Angeles,,,,20860
-,,,Westlake,located in the administrative territorial entity,Los Angeles,20860
-Rampart,parent organization,Los Angeles Police Department,,,,20860
-,,,Westlake,located in the administrative territorial entity,Los Angeles,20860
-Rampart,located in the administrative territorial entity,Los Angeles,,,,20860
+subject,predicate,object,fe_id
+Westlake,located in the administrative territorial entity,Los Angeles,20860
+Westlake,located in the administrative territorial entity,Los Angeles,20860
+Rampart,parent organization,Los Angeles Police Department,20860
+Westlake,located in the administrative territorial entity,Los Angeles,20860
+Rampart,located in the administrative territorial entity,Los Angeles,20860
