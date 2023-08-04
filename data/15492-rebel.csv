@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Antonio Steen,mother,Tonya Bender,15492
+Antonio Steen,sibling,9-year-old brother,15492
+9-year-old brother,sibling,Antonio Steen,15492
+Antonio Steen,age,9,15492

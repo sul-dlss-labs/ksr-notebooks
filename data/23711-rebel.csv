@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+officer,applies to jurisdiction,Oklahoma City,23711
+Oklahoma City police,owner of,KFOR,23711
+KFOR,owned by,Oklahoma City police,23711
+Oklahoma City police,owner of,KFOR,23711

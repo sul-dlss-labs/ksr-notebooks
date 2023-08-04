@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+OhioHealth,located in the administrative territorial entity,Mansfield,16040
+Ohio,contains administrative territorial entity,Richland County,16040
+Richland County,located in the administrative territorial entity,Ohio,16040
+OhioHealth Medcentral Mansfield,located in the administrative territorial entity,Richland County,16040

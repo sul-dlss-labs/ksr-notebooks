@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Deputy,part of,Sheriff’s,29675
+shot and killed,location,El Monte,29675
+El Monte police,parent organization,sheriff’s,29675
+sheriff’s,subsidiary,El Monte police,29675

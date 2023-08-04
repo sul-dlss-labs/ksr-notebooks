@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Waterville,shares border with,Hartland,29650
+Hartland,shares border with,Waterville,29650
+Waterville police,applies to jurisdiction,Waterville,29650
+Waterville,contains administrative territorial entity,Hartland,29650
+Hartland,located in the administrative territorial entity,Waterville,29650

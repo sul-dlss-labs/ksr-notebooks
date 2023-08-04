@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Elmore County,contains administrative territorial entity,Birmingham,9661
+Birmingham,located in the administrative territorial entity,Elmore County,9661
+Elmore County Sheriff,owner of,WSFA 12 News,9661
+WSFA 12 News,owned by,Elmore County Sheriff,9661
+Elmore County Sheriff,applies to jurisdiction,Elmore County,9661

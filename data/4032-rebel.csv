@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+News Releases Incident at 9621 Radio,point in time,"March 8, 2005",4032
+Houston Police Department,subsidiary,HPD Homicide Division,4032
+HPD Homicide Division,parent organization,Houston Police Department,4032
+Houston Police Department,has part,HPD Homicide Division,4032
+HPD Homicide Division,parent organization,Houston Police Department,4032

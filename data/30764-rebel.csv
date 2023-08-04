@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Adams County,located in the administrative territorial entity,Colorado,30764
+Colorado,contains administrative territorial entity,Adams County,30764
+Adams County Sheriff,located in the administrative territorial entity,Colorado,30764
+Colorado,contains administrative territorial entity,Adams County Sheriff,30764
+Adams County,contains administrative territorial entity,Denver,30764
+Denver,located in the administrative territorial entity,Adams County,30764

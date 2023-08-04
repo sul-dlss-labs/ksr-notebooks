@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police Department,applies to jurisdiction,Omaha,16612
+Officer Kevin Wiese,employer,Omaha police,16612
+officer-involved investigations squad,parent organization,Omaha police,16612

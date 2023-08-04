@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Franklin,located in the administrative territorial entity,Gloucester County,15559
+Gloucester County,contains administrative territorial entity,Franklin,15559
+Franklin Township,located in the administrative territorial entity,Gloucester County,15559
+Gloucester County,contains administrative territorial entity,Franklin Township,15559
+Gloucester County,contains administrative territorial entity,Camden,15559
+Camden,located in the administrative territorial entity,Gloucester County,15559

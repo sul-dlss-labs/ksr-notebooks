@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+James Taylor,employer,Louisville Police Department,669
+Clifford Lewis,date of death,"January 9th, 2001",669
+Patricia Lewis,child,James Taylor,669
+James Taylor,mother,Patricia Lewis,669

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+hanged,subclass of,suicide,13008
+shot a Los Angeles police officer,instance of,standoff,13008
+shot a Los Angeles police officer in the face last week,participant,LAPD,13008

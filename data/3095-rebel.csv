@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Stanley Miller,place of death,Compton,3095
+beating of suspected car thief,location,Compton,3095
+Los Angeles Police Chief,part of,Los Angeles Police Department,3095
+Los Angeles Police Department,has part,Los Angeles Police Chief,3095

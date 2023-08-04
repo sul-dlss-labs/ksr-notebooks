@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Route 209,terminus,Route 93,25307
+Route 209,connects with,Route 93,25307
+Route 93,connects with,Route 209,25307
+Franklin Township,shares border with,Packer,25307
+Packer,shares border with,Franklin Township,25307

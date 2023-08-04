@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Takoma Park Police Chief,part of,Prince George’s County Police Department,9830
+Takoma Park Police Chief,part of,Prince George’s County Police Department,9830
+Prince George’s County Police Department,has part,Takoma Park Police Chief,9830
+Takoma Park Police Chief,parent organization,Prince George’s County Police Department,9830
+Prince George’s County Police Department,subsidiary,Takoma Park Police Chief,9830

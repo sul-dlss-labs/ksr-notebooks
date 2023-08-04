@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Georgia State Patrol,parent organization,Department of Public Safety,29193
+Department of Public Safety,subsidiary,Georgia State Patrol,29193
+Georgia State Patrol,parent organization,Department of Public Safety,29193
+GSP Post 47,operator,Georgia State Patrol,29193

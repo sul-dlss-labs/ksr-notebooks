@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+John Sieger,date of death,"July 23, 2020",28466
+officer-involved shooting incident,point in time,"July 23, 2020",28466
+John Sieger,significant event,officer-involved shooting incident,28466

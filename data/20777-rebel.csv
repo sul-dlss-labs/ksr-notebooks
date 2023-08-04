@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Pennsylvania Turnpike,located in the administrative territorial entity,Pennsylvania,20777
+crash,location,Pennsylvania Turnpike,20777
+Pennsylvania Turnpike,located in the administrative territorial entity,Pa,20777

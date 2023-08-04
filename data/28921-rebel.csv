@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Terence Monahan,employer,NYPD,28921
+NYPD,office held by head of the organization,Chief of Patrol,28921
+NYPD,office held by head of the organization,Chief of Patrol,28921
+Chief of Patrol,part of,NYPD,28921

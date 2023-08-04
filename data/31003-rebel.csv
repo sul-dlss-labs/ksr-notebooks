@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT standoff,location,Cobb County,31003
+SWAT standoff,located in the administrative territorial entity,Cobb County,31003
+Jeffrey Bishop,instance of,murder-suicide,31003

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Medical Examiner's Office,field of work,autopsy,12009
+state Medical Examiner's Office,field of work,autopsy,12009
+state,office held by head of government,Medical Examiner's Office,12009
+Medical Examiner's Office,applies to jurisdiction,state,12009

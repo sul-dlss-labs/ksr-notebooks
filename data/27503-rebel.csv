@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Brigham and Women's Hospital,located in the administrative territorial entity,Boston,27503
+Boston,located in the administrative territorial entity,Suffolk County,27503
+Suffolk County,contains administrative territorial entity,Boston,27503
+Boston,located in the administrative territorial entity,Suffolk County,27503
+Suffolk County,capital,Boston,27503

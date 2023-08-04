@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Roanoke County,shares border with,Franklin,22702
+Franklin,shares border with,Roanoke County,22702
+Roanoke County,shares border with,Franklin County,22702
+Franklin County,shares border with,Roanoke County,22702
+Roanoke,shares border with,Franklin,22702
+Franklin,shares border with,Roanoke,22702

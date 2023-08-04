@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+choked to death,subclass of,asphyxia,10662
+choked to death,has cause,asphyxia,10662
+choked to death,has cause,asphyxia,10662
+asphyxia,has effect,choked to death,10662

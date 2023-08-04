@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+Jamaica,located in the administrative territorial entity,Queens,15250
+Queens,contains administrative territorial entity,Jamaica,15250
+New York City Police Department,applies to jurisdiction,New York City,15250
+Jamaica,located in the administrative territorial entity,Queens,15250
+Queens,located in the administrative territorial entity,New York City,15250
+New York City,contains administrative territorial entity,Queens,15250
+Attack on New York City police officers,point in time,"October 23, 2014",15250
+Attack on New York City police officers,point in time,"October 23, 2014",15250

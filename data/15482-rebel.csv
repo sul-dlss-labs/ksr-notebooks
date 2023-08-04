@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Steve Reese,father,Steve,15482
+Steve Reese,father,Steve,15482
+Steve,child,Steve Reese,15482
+Steve Reese,mother,Marinan Reese,15482

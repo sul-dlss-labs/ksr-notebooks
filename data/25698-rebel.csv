@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Shasta County Sheriff's Office,located in the administrative territorial entity,Redding,25698
+Shasta County,contains administrative territorial entity,Redding,25698
+Redding,located in the administrative territorial entity,Shasta County,25698
+Shasta County Coroner's Office,applies to jurisdiction,Shasta County,25698

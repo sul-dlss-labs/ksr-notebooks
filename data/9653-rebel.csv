@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Eldon Airport,place served by transport hub,"Eldon, Mo.",9653
+Eldon Airport,place served by transport hub,"Eldon, Mo",9653
+"Eldon, Mo.",located in the administrative territorial entity,Miller County,9653
+Miller County,contains administrative territorial entity,"Eldon, Mo.",9653

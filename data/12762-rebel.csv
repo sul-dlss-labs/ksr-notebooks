@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police officers,applies to jurisdiction,Philadelphia,12762
+officers,part of,Philadelphia Police Department,12762
+police officer use of force,subclass of,use of deadly force,12762

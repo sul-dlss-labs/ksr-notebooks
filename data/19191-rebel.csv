@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+"Charleston, SC",capital of,29403,19191
+29403,capital,"Charleston, SC",19191
+Charleston,capital of,SC,19191
+SC,capital,Charleston,19191
+"Charleston, SC",population,29403,19191

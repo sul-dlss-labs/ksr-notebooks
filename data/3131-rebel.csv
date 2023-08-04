@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Westwood,located in the administrative territorial entity,Los Angeles County,3131
+Los Angeles County,contains administrative territorial entity,Oxnard,3131
+Oxnard,located in the administrative territorial entity,Los Angeles County,3131
+Inglewood,located in the administrative territorial entity,Ventura County,3131
+Ventura County,contains administrative territorial entity,Inglewood,3131

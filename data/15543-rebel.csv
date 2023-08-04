@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+Hickman,shares border with,Fulton County,15543
+Fulton County,shares border with,Hickman,15543
+Hickman,shares border with,Fulton,15543
+Fulton,shares border with,Hickman,15543
+Hickman,shares border with,Fulton County,15543
+Fulton County,shares border with,Hickman,15543
+Fulton County,shares border with,Graves County,15543
+Graves County,shares border with,Fulton County,15543

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+South Side,located in the administrative territorial entity,Chicago,1250
+Curtis Collins,place of death,Chicago,1250
+Cook County,contains administrative territorial entity,South Side,1250
+South Side,located in the administrative territorial entity,Cook County,1250

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Seattle Police,located in the administrative territorial entity,Northgate,25559
+King County Sheriff’s Office,parent organization,Seattle Police,25559
+Seattle Police,has part,Homicide,25559
+Homicide,part of,Seattle Police,25559

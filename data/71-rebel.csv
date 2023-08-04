@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Rampart Division,parent organization,Los Angeles Police Department,71
+Rampart Division,parent organization,Los Angeles police,71
+LAPD,has part,Southeast Division,71
+Southeast Division,part of,LAPD,71

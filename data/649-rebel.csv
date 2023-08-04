@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Texas Legislature,instance of,house,649
+governor,part of,Texas Legislature,649
+Texas Legislature,has part,governor,649
+state government,has part,Texas Legislature,649

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+York County,shares border with,Adams County,12398
+Adams County,shares border with,York County,12398
+York County,contains administrative territorial entity,Conewago Township,12398
+Conewago Township,located in the administrative territorial entity,York County,12398
+York County Regional,located in the administrative territorial entity,York County,12398
+York County,contains administrative territorial entity,York County Regional,12398

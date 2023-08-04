@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Miami,shares border with,Miami Gardens,13125
+Miami Gardens,shares border with,Miami,13125
+Miami Beach,shares border with,Miami Gardens,13125
+Miami Gardens,shares border with,Miami Beach,13125
+Miami,shares border with,Fort Lauderdale,13125
+Fort Lauderdale,shares border with,Miami,13125
+Fort Lauderdale,shares border with,Miami,13125

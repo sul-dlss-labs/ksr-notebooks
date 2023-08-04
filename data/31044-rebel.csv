@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Middleboro,shares border with,Lakeville,31044
+Lakeville,shares border with,Middleboro,31044
+Lakeville,shares border with,Middleboro,31044
+Middleboro,shares border with,Lakeville,31044
+Lakeville,shares border with,"Middleboro, Massachusetts",31044
+"Middleboro, Massachusetts",shares border with,Lakeville,31044

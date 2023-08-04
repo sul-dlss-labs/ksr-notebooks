@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Antonio Johnson,date of death,"July 11, 2013",13079
+Antonio Johnson,date of death,"July 11, 2013",13079
+Antonio Johnson,instance of,wrongful death,13079
+wrongful death,subclass of,claim,13079

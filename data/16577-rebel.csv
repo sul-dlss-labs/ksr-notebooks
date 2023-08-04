@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+killing of Michael Brown,has effect,protests,16577
+killing of Michael Brown,has effect,protests,16577
+protests,has cause,killing of Michael Brown,16577
+Michael Brown,has effect,protests,16577

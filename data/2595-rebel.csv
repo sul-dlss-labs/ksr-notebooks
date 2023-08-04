@@ -1,0 +1,11 @@
+subject,predicate,object,fe_id
+Perry,shares border with,Franklin,2595
+Franklin,shares border with,Perry,2595
+Perry County,shares border with,Franklin,2595
+Franklin,shares border with,Perry County,2595
+Perry,shares border with,Franklin,2595
+Perry,shares border with,Williamson,2595
+Franklin,shares border with,Perry,2595
+Franklin,shares border with,Williamson,2595
+Williamson,shares border with,Perry,2595
+Williamson,shares border with,Franklin,2595

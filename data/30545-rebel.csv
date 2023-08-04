@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Spartanburg Water,located in the administrative territorial entity,Spartanburg,30545
+Spartanburg,located in the administrative territorial entity,Greenville County,30545
+Greenville County,contains administrative territorial entity,Spartanburg,30545
+Spartanburg,located in the administrative territorial entity,Greenville County,30545

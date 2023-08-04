@@ -1,0 +1,18 @@
+subject,predicate,object,fe_id
+Arkansas,contains administrative territorial entity,Crawford,30102
+Arkansas,contains administrative territorial entity,Franklin,30102
+Arkansas,contains administrative territorial entity,Sebastian Counties,30102
+Crawford,located in the administrative territorial entity,Arkansas,30102
+Franklin,located in the administrative territorial entity,Arkansas,30102
+Sebastian Counties,located in the administrative territorial entity,Arkansas,30102
+heat exhaustion,subclass of,heat illness,30102
+Oklahoma,contains administrative territorial entity,Osage,30102
+Oklahoma,contains administrative territorial entity,Washington OK,30102
+Oklahoma,contains administrative territorial entity,Pawnee,30102
+Oklahoma,contains administrative territorial entity,Tulsa,30102
+Oklahoma,contains administrative territorial entity,Sequoyah,30102
+Oklahoma,contains administrative territorial entity,Le Flore Counties,30102
+Osage,located in the administrative territorial entity,Oklahoma,30102
+Washington OK,located in the administrative territorial entity,Oklahoma,30102
+Pawnee,located in the administrative territorial entity,Oklahoma,30102
+Tulsa,located in the administrative territorial entity,Oklahoma,30102

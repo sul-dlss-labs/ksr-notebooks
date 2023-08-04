@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Jose Police Department,applies to jurisdiction,San Jose,16876
+San Jose Police Department,located in the administrative territorial entity,San Jose,16876
+San Jose,located in the administrative territorial entity,Santa Clara County,16876
+Santa Clara County,contains administrative territorial entity,San Jose,16876

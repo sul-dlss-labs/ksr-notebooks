@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Fort Riley,part of,1st Infantry Division,10522
+1st Infantry Division,has part,Fort Riley,10522
+Fort Riley,occupant,1st Infantry Division,10522
+1st Infantry Division,location,Fort Riley,10522
+Fort Riley,occupant,1st Infantry Division,10522
+1st Infantry Division,headquarters location,Fort Riley,10522

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Osceola County,contains administrative territorial entity,Fort Lauderdale,26121
+Fort Lauderdale,located in the administrative territorial entity,Osceola County,26121
+Masjid Al Iman,located in the administrative territorial entity,Florida,26121
+Osceola County Sheriff’s Office,located in the administrative territorial entity,Florida,26121
+Florida,contains administrative territorial entity,Osceola County Sheriff’s Office,26121

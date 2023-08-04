@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+home page,has part,resource,18
+home page,subclass of,resource,18
+home page,part of,resource,18

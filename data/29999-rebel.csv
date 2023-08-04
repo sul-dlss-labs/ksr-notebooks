@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shootings in 2020,participant,Tallahassee Police,29999
+Tallahassee Police,applies to jurisdiction,Tallahassee,29999
+officer-involved shootings in 2020,has cause,Tallahassee Police,29999

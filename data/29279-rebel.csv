@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Dayton police,applies to jurisdiction,Dayton,29279
+Dayton,located in the administrative territorial entity,Montgomery County,29279
+Montgomery County,contains administrative territorial entity,Dayton,29279
+Dayton Police Chief,applies to jurisdiction,Dayton,29279

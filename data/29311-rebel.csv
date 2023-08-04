@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Lewistown Police Department,applies to jurisdiction,Lewistown,29311
+standoff,location,Lewistown,29311
+standoff with law enforcement in Lewistown,participant,Lewistown Police Department,29311

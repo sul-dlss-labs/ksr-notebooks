@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Badger,located in the administrative territorial entity,Fairbanks,27147
+Alaska State Troopers,instance of,troopers,27147
+Alaska State Troopers,has part,Wildlife Troopers,27147

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Vanderbilt University Medical Center,located in the administrative territorial entity,Nashville,16566
+Hendersonville,located in the administrative territorial entity,Sumner County,16566
+Sumner County,contains administrative territorial entity,Hendersonville,16566
+Hendersonville,located in the administrative territorial entity,Sumner County's,16566
+Sumner County's,contains administrative territorial entity,Hendersonville,16566

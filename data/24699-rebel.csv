@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Michael,sibling,Mark Warn,24699
+Mark Warn,sibling,Michael,24699
+Beachwood Police Chief,applies to jurisdiction,Beachwood,24699
+Mark Warn,sibling,Michael Warn,24699
+Michael Warn,sibling,Mark Warn,24699

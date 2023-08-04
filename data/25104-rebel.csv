@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+state Justice Department,subsidiary,Division of Criminal Investigation,25104
+Division of Criminal Investigation,parent organization,state Justice Department,25104
+Jeff Vittatoe,employer,Division of Criminal Investigation,25104
+Jeff Vittatoe,employer,state Justice Department,25104

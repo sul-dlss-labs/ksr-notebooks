@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+local journalism,subclass of,news,5620
+news,subclass of,journalism,5620
+Support local journalism,has part,subscribing,5620
+subscribing,part of,Support local journalism,5620

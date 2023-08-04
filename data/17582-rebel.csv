@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+fatally shot,location,Fort Pierce,17582
+Fort Pierce,located in the administrative territorial entity,Fla.,17582
+Fla.,contains administrative territorial entity,Fort Pierce,17582
+fatally shot,located in the administrative territorial entity,Fort Pierce,17582

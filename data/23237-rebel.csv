@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Tom Vilsack,position held,Agriculture Secretary,23237
+USDA,subsidiary,Center for Nutrition Policy and Promotion,23237
+Center for Nutrition Policy and Promotion,parent organization,USDA,23237
+Tom Vilsack,position held,Agriculture Secretary,23237
+USDA,office held by head of the organization,Agriculture Secretary,23237

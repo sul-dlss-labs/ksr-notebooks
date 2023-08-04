@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+George Floyd,significant event,put his knee on Floyd’s neck,29668
+put his knee on Floyd’s neck,participant,police,29668
+put his knee on Floyd’s neck,facet of,George Floyd,29668

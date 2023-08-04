@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Kensington,located in the administrative territorial entity,Montgomery County,22315
+Wheaton,located in the administrative territorial entity,Montgomery County,22315
+Montgomery County,contains administrative territorial entity,"Wheaton, Maryland",22315
+"Wheaton, Maryland",located in the administrative territorial entity,Montgomery County,22315

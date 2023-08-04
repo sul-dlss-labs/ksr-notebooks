@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Missouri State Highway Patrol,applies to jurisdiction,Missouri,11125
+New Madrid County Sheriff's Office,located in the administrative territorial entity,Missouri,11125
+Missouri,contains administrative territorial entity,New Madrid County Sheriff's Office,11125
+New Madrid County Sheriff's Office,located in the administrative territorial entity,Texas,11125

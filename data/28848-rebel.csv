@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,location,Modesto,28848
+officer-involved shooting,participant,Stanislaus County Sheriff’s Office,28848
+officers fired,subclass of,officer-involved shooting,28848

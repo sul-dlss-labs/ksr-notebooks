@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Kansas City,contains administrative territorial entity,Independence,24513
+Independence,located in the administrative territorial entity,Kansas City,24513
+Johnson County,contains administrative territorial entity,Independence,24513
+Independence,located in the administrative territorial entity,Johnson County,24513
+Kansas City,located in the administrative territorial entity,Jackson County,24513

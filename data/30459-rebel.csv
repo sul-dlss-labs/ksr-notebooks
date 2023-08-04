@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Lee County,contains administrative territorial entity,Opelika,30459
+Opelika,located in the administrative territorial entity,Lee County,30459
+Lee County Sheriff’s Office,applies to jurisdiction,Lee County,30459
+Lee County Sheriff’s Office,applies to jurisdiction,Lee County,30459
+Lee County,legislative body,Lee County Sheriff’s Office,30459

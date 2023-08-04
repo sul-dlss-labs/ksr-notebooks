@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Carolinas Medical Center,affiliation,Presbyterian Hospital,5665
+CMPD,headquarters location,Police Headquarters,5665
+Police Headquarters,operator,CMPD,5665

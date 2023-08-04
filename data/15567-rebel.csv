@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+second-degree felony,followed by,third-degree felony,15567
+Manslaughter,subclass of,felony,15567
+second-degree,followed by,third-degree,15567

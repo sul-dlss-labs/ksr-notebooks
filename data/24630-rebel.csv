@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Florida,contains administrative territorial entity,Collier County,24630
+Collier County,located in the administrative territorial entity,Florida,24630
+Naples,located in the administrative territorial entity,Collier County,24630
+Collier County,contains administrative territorial entity,Naples,24630
+Naples,located in the administrative territorial entity,Collier County,24630

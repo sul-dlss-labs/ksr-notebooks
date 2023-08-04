@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,part of,Omaha Police,20252
+SWAT Team,part of,Omaha Police,20252
+Officer-Involved Investigations,parent organization,Omaha Police,20252

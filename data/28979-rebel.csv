@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Tooele Police,parent organization,Utah Department of Public Safety,28979
+Tooele Police,parent organization,Utah Department of Public Safety,28979
+Utah Department of Public Safety,subsidiary,Tooele Police,28979
+Tooele Police Chief,applies to jurisdiction,Tooele,28979

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Wing Fest,location,Reno,17877
+Officer Involved Shooting from July 2016 Incident in Downtown Reno,point in time,"July 3, 2016",17877
+Officer Involved Shooting from July 2016 Incident in Downtown Reno,instance of,officer involved shooting,17877

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Fulton,located in the administrative territorial entity,Oswego County,28139
+State Route 48,located in the administrative territorial entity,Oswego County,28139
+Oswego County,contains administrative territorial entity,"Fulton, N.Y.",28139
+"Fulton, N.Y.",located in the administrative territorial entity,Oswego County,28139

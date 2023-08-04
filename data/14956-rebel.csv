@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+San Jose,located in the administrative territorial entity,Santa Clara County,14956
+Santa Clara County,contains administrative territorial entity,San Jose,14956
+Uzi,subclass of,assault weapon,14956
+San Jose,located in the administrative territorial entity,Santa Clara County District Attorney's Office,14956
+Santa Clara County District Attorney's Office,located in the administrative territorial entity,San Jose,14956

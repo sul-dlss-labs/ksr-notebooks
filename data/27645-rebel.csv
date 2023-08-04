@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Windsor,located in the administrative territorial entity,Pettis County,27645
+Clinton,located in the administrative territorial entity,Pettis County,27645
+Pettis County,contains administrative territorial entity,Clinton,27645
+Sedalia,located in the administrative territorial entity,Pettis County,27645

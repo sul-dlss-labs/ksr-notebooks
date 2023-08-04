@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+York County,located in the administrative territorial entity,North Carolina,23017
+North Carolina,contains administrative territorial entity,York County,23017
+York County,located in the administrative territorial entity,South Carolina,23017
+South Carolina,contains administrative territorial entity,York County,23017
+Clover Middle School,located in the administrative territorial entity,"York County, South Carolina",23017

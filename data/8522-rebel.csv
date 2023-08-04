@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Devin Petelski,date of death,"October 15, 2009",8522
+Wrongful death,subclass of,crime,8522
+Devin Petelski was killed,point in time,"October 15, 2009",8522

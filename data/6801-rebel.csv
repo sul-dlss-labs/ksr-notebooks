@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Texas Rangers,parent organization,Texas Department of Public Safety,6801
+Texas Rangers,parent organization,Texas Department of Public Safety,6801
+Texas Department of Public Safety,subsidiary,Texas Rangers,6801
+San Angelo Police Department,applies to jurisdiction,San Angelo,6801

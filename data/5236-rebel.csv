@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Steve Salinas,employer,San Jose Police Department,5236
+Noreen Salinas,father,Steve Salinas,5236
+Noreen Salinas,father,Steve Salinas,5236
+Steve Salinas,child,Noreen Salinas,5236

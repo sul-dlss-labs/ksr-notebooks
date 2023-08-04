@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Anne Arundel County,shares border with,Baltimore,6010
+Baltimore,shares border with,Anne Arundel County,6010
+Anne Arundel County Police,applies to jurisdiction,Anne Arundel,6010
+Anne Arundel County police,applies to jurisdiction,Anne Arundel County,6010

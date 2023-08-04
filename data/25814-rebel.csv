@@ -1,0 +1,11 @@
+subject,predicate,object,fe_id
+Albemarle,shares border with,Orange,25814
+Orange,shares border with,Albemarle,25814
+Albemarle,shares border with,Louisa,25814
+Louisa,shares border with,Albemarle,25814
+Albemarle,shares border with,Louisa,25814
+Albemarle,shares border with,Orange,25814
+Louisa,shares border with,Albemarle,25814
+Louisa,shares border with,Orange,25814
+Orange,shares border with,Albemarle,25814
+Orange,shares border with,Louisa,25814

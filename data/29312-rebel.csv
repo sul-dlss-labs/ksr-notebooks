@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Sacramento Police Department,applies to jurisdiction,Sacramento,29312
+Sacramento police officer,applies to jurisdiction,Sacramento Police Department,29312
+Sacramento police officer,parent organization,Sacramento Police Department,29312

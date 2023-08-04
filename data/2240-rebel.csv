@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Officer Jack Richter,employer,Los Angeles Police Department,2240
+Hollenbeck Division,parent organization,Los Angeles Police Department,2240
+Hollenbeck Division,parent organization,Los Angeles Police Department,2240
+Los Angeles Police Department,subsidiary,Hollenbeck Division,2240

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chico Police Department,applies to jurisdiction,Chico,13438
+Chico Police Department,applies to jurisdiction,Butte County,13438
+Chico,located in the administrative territorial entity,Butte County,13438
+Butte County,contains administrative territorial entity,Chico,13438

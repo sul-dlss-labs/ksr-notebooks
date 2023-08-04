@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Theresa Flannery,employer,NYPD,2637
+NYPD,subsidiary,Internal Affairs Bureau,2637
+Internal Affairs Bureau,parent organization,NYPD,2637
+Long Island,located in the administrative territorial entity,Queens,2637

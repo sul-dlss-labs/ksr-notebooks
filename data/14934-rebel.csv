@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+shooting of 18-year-old Michael Brown,has effect,unrest,14934
+shooting of 18-year-old Michael Brown,has effect,unrest,14934
+unrest,has cause,shooting of 18-year-old Michael Brown,14934
+fatally shot,facet of,Michael Brown,14934
+fatally shot,participant,Darren Wilson,14934
+Darren Wilson,significant event,fatally shot,14934

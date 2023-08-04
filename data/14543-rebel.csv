@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+"Bakersfield, CA",population,93308,14543
+"Bakersfield, CA",point in time,93308,14543
+Bakersfield,located in the administrative territorial entity,CA,14543
+CA,contains administrative territorial entity,Bakersfield,14543

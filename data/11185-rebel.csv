@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Police Commissioner,applies to jurisdiction,Philadelphia,11185
+Police Commissioner,applies to jurisdiction,Philadelphia,11185
+Charles H. Ramsey,position held,Police Commissioner,11185
+police chase,has cause,deadly weapon,11185
+deadly weapon,has effect,police chase,11185

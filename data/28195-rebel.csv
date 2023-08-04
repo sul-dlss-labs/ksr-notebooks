@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Davidson County Sheriff’s Office,located in the administrative territorial entity,Lexington,28195
+Lexington,located in the administrative territorial entity,Davidson County,28195
+Davidson County,contains administrative territorial entity,Lexington,28195
+Lexington police,applies to jurisdiction,"Lexington, N.C.",28195

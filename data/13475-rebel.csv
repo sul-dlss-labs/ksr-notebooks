@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+boil,use,drinking,13475
+Bacterial contamination,subclass of,bacteria,13475
+Bacterial contamination,has cause,bacteria,13475

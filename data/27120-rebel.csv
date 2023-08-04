@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+"Evansville, Ind.",located in the administrative territorial entity,Vanderburgh County,27120
+Vanderburgh County,contains administrative territorial entity,"Evansville, Ind.",27120
+Evansville,located in the administrative territorial entity,Dubois County,27120
+Dubois County,contains administrative territorial entity,Evansville,27120
+Evansville,located in the administrative territorial entity,Vanderburgh County,27120
+Vanderburgh County,contains administrative territorial entity,Evansville,27120

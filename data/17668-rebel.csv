@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Scott Macomber,date of death,"May 16, 2016",17668
+cardiac dysrhythmia,has cause,hypertension,17668
+hypertension,has effect,cardiac dysrhythmia,17668
+cardiac dysrhythmia,subclass of,cardiovascular disease,17668

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+LAPD,parent organization,Los Angeles County Sheriff’s Department,14723
+LAPD,parent organization,Los Angeles County Sheriff’s Department,14723
+Los Angeles County Sheriff’s Department,subsidiary,LAPD,14723
+Los Angeles County Sheriff’s Department,subsidiary,Lancaster Station,14723
+Lancaster Station,parent organization,Los Angeles County Sheriff’s Department,14723

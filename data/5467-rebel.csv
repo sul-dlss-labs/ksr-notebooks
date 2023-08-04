@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+DeKalb County,located in the administrative territorial entity,Ga.,5467
+Ga.,contains administrative territorial entity,DeKalb County,5467
+shootings in 2006,point in time,2006,5467
+shootings in 2006,point in time,2006,5467
+DeKalb County,contains administrative territorial entity,Atlanta,5467
+Atlanta,located in the administrative territorial entity,DeKalb County,5467

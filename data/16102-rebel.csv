@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+West Bypass,located in the administrative territorial entity,Springfield,16102
+Springfield,located in the administrative territorial entity,Greene County,16102
+Greene County,contains administrative territorial entity,Springfield,16102
+West Bypass,located in the administrative territorial entity,Greene County,16102

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Meridian,located in the administrative territorial entity,Ada County,28707
+Boise Police Department,located in the administrative territorial entity,Idaho,28707
+Idaho,contains administrative territorial entity,Ada County,28707
+Ada County,located in the administrative territorial entity,Idaho,28707
+Meridian,located in the administrative territorial entity,Ada County,28707
+Ada County,contains administrative territorial entity,Meridian,28707

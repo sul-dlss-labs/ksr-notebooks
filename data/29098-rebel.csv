@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police,applies to jurisdiction,San Mateo,29098
+SWAT,part of,San Mateo police,29098
+SWAT team,part of,San Mateo police,29098

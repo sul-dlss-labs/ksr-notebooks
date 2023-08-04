@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shot by a police officer,part of,standoff,26190
+a standoff,located in the administrative territorial entity,St. Louis County,26190
+St. Louis County,located in the administrative territorial entity,Missouri,26190
+Missouri,contains administrative territorial entity,St. Louis County,26190

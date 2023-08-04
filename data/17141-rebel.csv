@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+useful,different from,not useful,17141
+not useful,different from,useful,17141
+Mark this document as useful,different from,Mark this document as not useful,17141
+Mark this document as not useful,different from,Mark this document as useful,17141
+Mark this document as useful,different from,Mark this document as not useful,17141

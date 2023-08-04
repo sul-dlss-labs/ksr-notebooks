@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chicago police investigate the scene where a man was shot and killed,point in time,"July 1, 2017",20877
+Chicago police,parent organization,Chicago Police Department,20877
+Chicago Police Department,subsidiary,Chicago police,20877
+a man was shot and killed,point in time,"July 1, 2017",20877

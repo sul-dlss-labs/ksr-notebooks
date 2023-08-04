@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Hollenbeck Division,parent organization,Los Angeles police,17531
+Los Angeles police,subsidiary,Hollenbeck Division,17531
+Hollenbeck Division,parent organization,Los Angeles police,17531
+Los Angeles police,has part,Hollenbeck Division,17531
+Hollenbeck Division,part of,Los Angeles police,17531

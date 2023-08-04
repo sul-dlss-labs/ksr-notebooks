@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+This Account,instance of,suspended,5404
+suspended,subclass of,Account,5404
+suspended,facet of,Account,5404

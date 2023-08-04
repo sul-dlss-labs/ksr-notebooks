@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Tamir Rice,place of death,"Cleveland, Ohio",23996
+Mike Brown,location,"Ferguson, Mo",23996
+Mike Brown,instance of,officer-involved shootings,23996
+Tamir Rice,instance of,officer-involved shootings,23996

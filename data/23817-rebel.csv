@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Gilroy,located in the administrative territorial entity,Santa Clara County,23817
+Santa Clara County,contains administrative territorial entity,Gilroy,23817
+Jason Greathead,employer,Gilroy police officers,23817
+Gilroy police officers,applies to jurisdiction,Gilroy,23817

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Diego Police Department,applies to jurisdiction,San Diego,25863
+San Diego Police Department,has part,Southern Division,25863
+Southern Division,part of,San Diego Police Department,25863
+San Diego Police Department,located in the administrative territorial entity,San Ysidro,25863

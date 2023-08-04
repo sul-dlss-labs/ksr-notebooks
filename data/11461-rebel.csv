@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+VPR Archive,platform,IPv6,11461
+VPR Archive,instance of,IPv,11461
+VPR Archive,uses,IPv,11461

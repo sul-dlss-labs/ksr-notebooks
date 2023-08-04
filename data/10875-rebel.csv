@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Anthony Lamar Smith,place of death,St. Louis,10875
+Anthony Lamar Smith,place of birth,St. Louis,10875
+St. Louis,located in the administrative territorial entity,Missouri,10875
+Missouri,contains administrative territorial entity,St. Louis,10875

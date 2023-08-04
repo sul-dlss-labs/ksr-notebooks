@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alameda County,contains administrative territorial entity,Hayward,30060
+Hayward,located in the administrative territorial entity,Alameda County,30060
+Alameda County Sheriff’s Office,located in the administrative territorial entity,Hayward,30060
+Alameda County Sheriff’s Office,located in the administrative territorial entity,East Bay,30060

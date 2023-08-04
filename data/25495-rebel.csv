@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Dyer County,contains administrative territorial entity,Dyersburg,25495
+Dyersburg,located in the administrative territorial entity,Dyer County,25495
+Dyer County,located in the administrative territorial entity,Tenn.,25495
+Tenn.,contains administrative territorial entity,Dyer County,25495
+Dyer County Sheriff’s Office,located in the administrative territorial entity,Dyersburg,25495

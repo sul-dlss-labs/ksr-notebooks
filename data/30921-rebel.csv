@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,parent organization,Chicago police,30921
+SWAT team,parent organization,Chicago police,30921
+Chicago police,applies to jurisdiction,Chicago,30921

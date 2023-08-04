@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Cumming,located in the administrative territorial entity,Forsyth County,24333
+Forsyth County,contains administrative territorial entity,Cumming,24333
+Cumming,located in the administrative territorial entity,Forsyth County,24333
+a deadly shooting,location,Forsyth County,24333

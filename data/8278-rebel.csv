@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+disable notifications,subclass of,notifications,8278
+disable notifications,subclass of,notification,8278
+disable notifications,subclass of,notify,8278

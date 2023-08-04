@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Pope County,contains administrative territorial entity,Russellville,26280
+Russellville,located in the administrative territorial entity,Pope County,26280
+Pope County Sheriff’s Office,applies to jurisdiction,Pope County,26280
+Pope County,legislative body,Pope County Sheriff’s Office,26280
+Pope County Sheriff’s Office,applies to jurisdiction,"Pope County, Ark",26280
+"Pope County, Ark",authority,Pope County Sheriff’s Office,26280

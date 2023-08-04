@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+North Hollywood Division,parent organization,Los Angeles Police Department,21409
+North Hollywood Division,parent organization,Los Angeles Police Department,21409
+Los Angeles Police Department,subsidiary,North Hollywood Division,21409
+SWAT,part of,Los Angeles Police Department,21409

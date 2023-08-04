@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Aaron Torres,instance of,homicide,11058
+accidentally suffocated,subclass of,homicide,11058
+accidentally suffocated,instance of,homicide,11058

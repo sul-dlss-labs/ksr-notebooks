@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police,parent organization,Los Angeles Unified School District,3797
+77th Street Division,parent organization,Los Angeles Police Department,3797
+77th Street Division,part of,Los Angeles Police Department,3797

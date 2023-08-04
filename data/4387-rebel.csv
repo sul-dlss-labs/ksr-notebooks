@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,use,stun gun,4387
+Taser,subclass of,stun gun,4387
+carotid arteries,connects with,brain,4387

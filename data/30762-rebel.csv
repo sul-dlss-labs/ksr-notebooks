@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Nashville police officers shot and killed,located in the administrative territorial entity,Alabama,30762
+Nashville police officers,parent organization,Metro Nashville Police Department,30762
+Metro Nashville Police Department,subsidiary,Nashville police officers,30762
+Nashville police officers shot and killed,located in the administrative territorial entity,Alabama,30762
+Bordeaux,located in the administrative territorial entity,Nashville,30762

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Orlando,located in the administrative territorial entity,Orange County,24093
+Orlando,located in the administrative territorial entity,Orange County,24093
+Orange County,contains administrative territorial entity,Orlando,24093
+Orlando,located in the administrative territorial entity,Florida,24093
+Florida,contains administrative territorial entity,Orlando,24093

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Dubuque standoff,instance of,standoff,10983
+Dubuque standoff,location,Dubuque,10983
+Dubuque standoff ends after man shoots himself,instance of,standoff,10983

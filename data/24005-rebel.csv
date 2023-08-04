@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Javier Salazar,employer,Bexar County Sheriff’s Office,24005
+Bexar County Sheriff’s Office,applies to jurisdiction,San Antonio,24005
+San Antonio,located in the administrative territorial entity,Bexar county,24005
+Bexar County,capital,San Antonio,24005

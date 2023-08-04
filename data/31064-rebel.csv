@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Tennessee Bureau of Investigation,subsidiary,"Bureau of Alcohol, Tobacco, Firearms and Explosives",31064
+Nashville,capital of,Tenn.,31064
+Tenn.,capital,Nashville,31064
+Tennessee Bureau of Investigation,subsidiary,"Bureau of Alcohol, Tobacco, Firearms and Explosives",31064
+"Bureau of Alcohol, Tobacco, Firearms and Explosives",parent organization,Tennessee Bureau of Investigation,31064

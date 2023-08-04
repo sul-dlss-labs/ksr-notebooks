@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Carson Boulevard,terminus,Highway 85,17670
+Carson Boulevard,located in the administrative territorial entity,Colorado Springs,17670
+Carson Boulevard,connects with,Highway 85,17670
+Highway 85,connects with,Carson Boulevard,17670

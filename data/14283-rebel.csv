@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chinedu Okobi,educated at,Moorehouse College,14283
+San Mateo County,part of,Bay Area,14283
+Bay Area,has part,San Mateo County,14283
+San Mateo County,part of,Bay Area,14283

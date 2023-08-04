@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+UCI Medical Center,located in the administrative territorial entity,Orange County,10900
+Santa Ana,located in the administrative territorial entity,Orange County,10900
+Orange County,contains administrative territorial entity,Santa Ana,10900
+UCI Medical Center,located in the administrative territorial entity,Orange,10900

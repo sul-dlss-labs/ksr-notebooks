@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Cranston,shares border with,Warwick,6385
+Warwick,shares border with,Cranston,6385
+another shooting,location,Pawtucket,6385
+shooting,location,Pawtucket,6385

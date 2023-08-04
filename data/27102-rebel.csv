@@ -1,0 +1,11 @@
+subject,predicate,object,fe_id
+London Phillips,date of death,"December 7, 2019",27102
+London Phillips,date of death,"December 7, 2019",27102
+Arkansas,shares border with,Oklahoma,27102
+Arkansas,shares border with,Missouri,27102
+Oklahoma,shares border with,Arkansas,27102
+Oklahoma,shares border with,Missouri,27102
+Missouri,shares border with,Arkansas,27102
+Missouri,shares border with,Oklahoma,27102
+Fayetteville,shares border with,Oklahoma,27102
+Oklahoma,shares border with,Fayetteville,27102

@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+John Lear,father,Bill Lear,1297
+Bill Lear,child,John Lear,1297
+Bill Cooper,date of birth,"May 6, 1943",1297
+Bill Cooper,date of death,"November 5, 2001",1297
+Bill Cooper,date of birth,"May 6, 1943",1297
+Bill Cooper,date of death,"November 5, 2001",1297
+John Lear,father,Bill Lear,1297
+Bill Lear,child,John Lear,1297

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+WOAI,affiliation,KABB,28521
+KABB,owned by,WOAI,28521
+"Uber driver killed after police slam into car, trying to stop another driver",location,WOAI/KABB,28521

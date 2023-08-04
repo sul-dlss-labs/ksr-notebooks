@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chicago,located in the administrative territorial entity,Cook County,10902
+Cook County,contains administrative territorial entity,Chicago,10902
+Scott Ando,member of,Fraternal Order of Police,10902
+police-involved shootings,location,Chicago,10902

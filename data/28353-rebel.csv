@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+murder of George Floyd,participant,Charlotte-Mecklenburg Police Department,28353
+Harold Easter,employer,Charlotte-Mecklenburg Police Department,28353
+murder of George Floyd,has cause,police custody,28353

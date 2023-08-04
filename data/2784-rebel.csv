@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+cocaine,subject has role,narcotic,2784
+cocaine,instance of,narcotic,2784
+rolling a joint,subclass of,narcotic,2784

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Pennsylvania,contains administrative territorial entity,Delaware County,16638
+Delaware County,located in the administrative territorial entity,Pennsylvania,16638
+Philadelphia,located in the administrative territorial entity,Delaware County,16638
+Philadelphia,located in the administrative territorial entity,Delaware County,16638
+Delaware County,capital,Philadelphia,16638

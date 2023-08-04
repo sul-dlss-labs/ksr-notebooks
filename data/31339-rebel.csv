@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+I-75,terminus,OH-129,31339
+I-75 Northbound,terminus,OH-129 Westbound,31339
+I-75,connects with,OH-129,31339
+OH-129,connects with,I-75,31339

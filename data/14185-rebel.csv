@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+soup,subclass of,food,14185
+can,subclass of,food,14185
+pantry,uses,food,14185

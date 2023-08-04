@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police,applies to jurisdiction,San Diego,1565
+pepper spray,subclass of,nonlethal means,1565
+pepper spray,instance of,nonlethal means,1565

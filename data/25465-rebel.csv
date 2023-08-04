@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,instance of,murder-suicide,25465
+SWAT,instance of,law enforcement officials,25465
+police are calling a murder-suicide,location,Biloxi,25465

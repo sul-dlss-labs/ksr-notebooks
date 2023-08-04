@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Tampa Police,applies to jurisdiction,Tampa,23763
+tased,use,officer-involved shooting,23763
+tased,subclass of,officer-involved shooting,23763

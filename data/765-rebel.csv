@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+DNA,part of,human genome,765
+human genome,has part,DNA,765
+gene,part of,genetic code,765
+DNA,part of,human genome,765

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff at Lake Lawtonka,location,Lawton,19097
+standoff,location,Lawton,19097
+Lawton Police Captain,applies to jurisdiction,Lawton,19097

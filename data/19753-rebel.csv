@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+WAVE 3 News,headquarters location,"Louisville, KY",19753
+WAVE 3 News,located in the administrative territorial entity,"Louisville, KY",19753
+"Louisville, KY",has part,Metro Police,19753
+Metro Police,headquarters location,"Louisville, KY",19753

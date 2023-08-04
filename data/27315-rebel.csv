@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Parents say teen killed in Ind. crash,instance of,crash,27315
+teen killed in Ind. crash,has effect,Parents say teen killed in Ind. crash,27315
+teen killed in Ind. crash,has cause,Parents say teen killed in Ind. crash,27315

@@ -1,0 +1,10 @@
+subject,predicate,object,fe_id
+Donald Trump,candidacy in election,2020 presidential election,12014
+2020 presidential election,candidate,Donald Trump,12014
+President Donald Trump,candidacy in election,2020 presidential election,12014
+2020 presidential election,candidate,President Donald Trump,12014
+President,officeholder,Donald Trump,12014
+Donald Trump,position held,President,12014
+Donald Trump,candidacy in election,2020 presidential election,12014
+2020 presidential election,office contested,President,12014
+2020 presidential election,candidate,Donald Trump,12014

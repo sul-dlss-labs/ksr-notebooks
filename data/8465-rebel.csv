@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Ventura Boulevard,located in the administrative territorial entity,Calabasas,8465
+CBS Local Media,subsidiary,Wire services,8465
+Wire services,parent organization,CBS Local Media,8465
+CBS Local Media,follows,Wire services,8465

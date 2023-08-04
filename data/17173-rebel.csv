@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Amelia County,located in the administrative territorial entity,Virginia,17173
+Virginia,contains administrative territorial entity,Amelia County,17173
+Virginia,contains administrative territorial entity,"Amelia County, Virginia",17173
+"Amelia County, Virginia",located in the administrative territorial entity,Virginia,17173
+Fitchburg,located in the administrative territorial entity,Virginia,17173
+Virginia,contains administrative territorial entity,Fitchburg,17173

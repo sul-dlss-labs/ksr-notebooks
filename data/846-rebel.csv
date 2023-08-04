@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Ninth Avenue,located in the administrative territorial entity,Denver,846
+Ninth Avenue,connects with,13th Avenue,846
+13th Avenue,connects with,Ninth Avenue,846
+14th Avenue,connects with,Ivanhoe Street,846
+Ivanhoe Street,connects with,14th Avenue,846

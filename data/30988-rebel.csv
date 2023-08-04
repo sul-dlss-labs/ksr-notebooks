@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shooting,participant,Charleston County Sheriff's,30988
+State Law Enforcement Division,instance of,officers,30988
+Charleston County Sheriff's,subsidiary,State Law Enforcement Division,30988

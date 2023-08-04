@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Portland Police,has part,East Precinct,12382
+East Precinct,part of,Portland Police,12382
+Portland Police Officers,has part,East Precinct,12382
+East Precinct,part of,Portland Police Officers,12382
+Portland Police,subsidiary,Portland Adventist Medical Center,12382

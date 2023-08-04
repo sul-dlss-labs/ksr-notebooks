@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Avery,shares border with,Watauga County,6820
+Watauga County,shares border with,Avery,6820
+Johnson City,located in the administrative territorial entity,Watauga County,6820
+Watauga County,contains administrative territorial entity,Johnson City,6820
+"Johnson City, Tenn.",located in the administrative territorial entity,Watauga County,6820
+Watauga County,contains administrative territorial entity,"Johnson City, Tenn.",6820

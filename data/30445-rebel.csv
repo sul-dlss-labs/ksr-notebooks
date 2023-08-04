@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Georgia State Patrol,has part,Savannah Police,30445
+Georgia State Patrol,subsidiary,Savannah Police,30445
+Savannah Police,parent organization,Georgia State Patrol,30445
+Georgia State Patrol,subsidiary,Savannah Police,30445

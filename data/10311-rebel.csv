@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Milwaukee Police Department,applies to jurisdiction,Milwaukee,10311
+Milwaukee Police Chief,applies to jurisdiction,Milwaukee,10311
+Milwaukee Police Chief,applies to jurisdiction,Milwaukee Police Department,10311

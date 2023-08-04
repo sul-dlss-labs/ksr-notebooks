@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Alabama,contains administrative territorial entity,Mobile County,20749
+Mobile County,located in the administrative territorial entity,Alabama,20749
+Washington County,shares border with,Lauderdale County,20749
+Lauderdale County,shares border with,Washington County,20749
+Washington County Sheriff,located in the administrative territorial entity,Alabama,20749
+Alabama,contains administrative territorial entity,Washington County,20749

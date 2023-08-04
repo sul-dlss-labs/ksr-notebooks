@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+an armed man was fatally shot,participant,Miami-Dade Police,12743
+an armed man was fatally shot by police,participant,Miami-Dade Police,12743
+Miami Dade College,has part,North campus,12743
+North campus,part of,Miami Dade College,12743

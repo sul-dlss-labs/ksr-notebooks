@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Tim Ross,employer,Homewood police,22880
+a man was killed,participant,Alabama Law Enforcement Agency,22880
+a man was killed by Homewood police,instance of,officer-involved shootings,22880

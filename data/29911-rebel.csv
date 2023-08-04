@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Emporia,located in the administrative territorial entity,Greensville County,29911
+WRIC,located in the administrative territorial entity,Virginia,29911
+Virginia,contains administrative territorial entity,WRIC,29911
+Virginia,contains administrative territorial entity,Greensville County,29911
+Greensville County,located in the administrative territorial entity,Virginia,29911
+WRIC,located in the administrative territorial entity,Virginia,29911
+Virginia,contains administrative territorial entity,WRIC,29911

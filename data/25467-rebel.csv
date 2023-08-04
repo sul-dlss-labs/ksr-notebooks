@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Billings,located in the administrative territorial entity,Yellowstone County,25467
+Yellowstone County,contains administrative territorial entity,Billings,25467
+Billings police,located in the administrative territorial entity,Missoula County,25467
+Billings,located in the administrative territorial entity,Missoula County,25467
+Missoula County,contains administrative territorial entity,Billings,25467

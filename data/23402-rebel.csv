@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+GBI,applies to jurisdiction,Georgia,23402
+JASPER County,located in the administrative territorial entity,Georgia,23402
+Georgia,contains administrative territorial entity,JASPER County,23402
+JASPER,located in the administrative territorial entity,Ga,23402
+Ga,contains administrative territorial entity,JASPER,23402

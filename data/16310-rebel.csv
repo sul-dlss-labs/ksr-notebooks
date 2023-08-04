@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Baylor,subsidiary,Garland Medical Center,16310
+Garland Medical Center,parent organization,Baylor,16310
+Baylor,subsidiary,Garland Medical Center,16310
+Garland Medical Center,affiliation,Baylor,16310

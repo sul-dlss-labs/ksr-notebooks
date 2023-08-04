@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Harrison Street stop,owned by,CTA,3399
+Harrison Street,owned by,CTA,3399
+Harrison Street stop,operator,CTA,3399

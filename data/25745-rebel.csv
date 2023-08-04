@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+South Side,located in the administrative territorial entity,Chicago,25745
+Chicago police,applies to jurisdiction,Chicago,25745
+Chicago,located in the administrative territorial entity,Cook County,25745
+Cook County,contains administrative territorial entity,Chicago,25745

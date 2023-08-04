@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Albuquerque,located in the administrative territorial entity,Bernalillo County,31275
+Albuquerque,located in the administrative territorial entity,Bernalillo County,31275
+Bernalillo County,contains administrative territorial entity,Albuquerque,31275
+New Mexico,contains administrative territorial entity,Bernalillo County,31275
+Bernalillo County,located in the administrative territorial entity,New Mexico,31275

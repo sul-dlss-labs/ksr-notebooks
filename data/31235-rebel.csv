@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Baltimore,different from,Baltimore County,31235
+Baltimore County,different from,Baltimore,31235
+Baltimore Police Department,applies to jurisdiction,Baltimore,31235
+Baltimore,located in the administrative territorial entity,Baltimore County,31235

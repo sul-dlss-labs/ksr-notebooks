@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bronx,located in the administrative territorial entity,New York City,11025
+New York City,contains administrative territorial entity,Bronx,11025
+Richard Haste,place of death,Bronx,11025
+Richard Haste,employer,New York City police officer,11025

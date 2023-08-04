@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+TriPoint Medical Center,located in the administrative territorial entity,Concord Township,24714
+"PAINESVILLE, Ohio",located in the administrative territorial entity,Lake County,24714
+Painesville police,located in the administrative territorial entity,Lake County,24714
+Lake County,contains administrative territorial entity,Painesville police,24714

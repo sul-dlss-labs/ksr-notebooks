@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Georgia State Patrol,applies to jurisdiction,Georgia,30846
+Georgia State Patrol,parent organization,Georgia Bureau of Investigation,30846
+Georgia State Patrol,parent organization,Georgia Bureau of Investigation,30846
+Georgia Bureau of Investigation,subsidiary,Georgia State Patrol,30846

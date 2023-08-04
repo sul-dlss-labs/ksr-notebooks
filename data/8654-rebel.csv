@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+St. Louis,located in the administrative territorial entity,Missouri,8654
+Missouri,contains administrative territorial entity,St. Louis,8654
+St. Louis Avenue,located in the administrative territorial entity,St. Louis,8654
+St. Louis,located in or next to body of water,St. Louis Avenue,8654

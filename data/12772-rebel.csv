@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bee,located in the administrative territorial entity,Seward,12772
+Bee,located in the administrative territorial entity,Seward County,12772
+Bee,located in the administrative territorial entity,Seward,12772
+Seward,contains administrative territorial entity,Bee,12772

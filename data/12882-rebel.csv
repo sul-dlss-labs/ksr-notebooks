@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shootings nationwide,participant,police,12882
+shootings nationwide,has cause,police,12882
+police shootings nationwide,participant,police,12882

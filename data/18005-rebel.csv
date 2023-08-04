@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,use,stun,18005
+Taser drive,use,stun,18005
+The Medical Center of Southeast Texas,instance of,hospital,18005

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+police superintendent,applies to jurisdiction,Chicago,1200
+Cook County,office held by head of government,state's attorney,1200
+state's attorney,applies to jurisdiction,Cook County,1200
+police superintendent,part of,Chicago police officers,1200

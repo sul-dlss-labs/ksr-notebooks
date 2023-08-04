@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Deadly Traffic Stop,point in time,"March 7, 2016",17371
+concussions,subclass of,brain disease,17371
+Concussions,subclass of,brain disease,17371

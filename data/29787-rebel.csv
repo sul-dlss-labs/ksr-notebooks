@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+East Lansing,located in the administrative territorial entity,Clinton County,29787
+DeWitt Township,located in the administrative territorial entity,Clinton County,29787
+Clinton County,contains administrative territorial entity,DeWitt Township,29787
+East Lansing,located in the administrative territorial entity,Clinton County,29787
+Eaton County,contains administrative territorial entity,East Lansing,29787

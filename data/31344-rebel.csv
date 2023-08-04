@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+San Pablo,shares border with,Richmond,31344
+Richmond,shares border with,San Pablo,31344
+San Pablo,located in the administrative territorial entity,Contra Costa County,31344
+Contra Costa County,contains administrative territorial entity,San Pablo,31344
+Richmond,located in the administrative territorial entity,Contra Costa County,31344
+Contra Costa County,contains administrative territorial entity,Richmond,31344

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Port RICHEY,located in the administrative territorial entity,Pasco County,27733
+Pasco County Sheriff’s Office,instance of,Deputies,27733
+Pasco County,contains administrative territorial entity,Port RICHEY,27733

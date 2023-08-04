@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Parsons Sun,instance of,daily newspaper,8280
+Parsons Sun,instance of,newspaper,8280
+Parsons Sun,replaces,old site,8280
+old site,replaced by,Parsons Sun,8280

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,subclass of,electro-shock weapon,22052
+Taser,use,electro-shock weapon,22052
+Taser,instance of,electro-shock weapon,22052

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Ian Minich,place of death,San Rafael,7979
+collided with two police cars,instance of,accident,7979
+collided with two police cars and tried to run down a motorcycle officer,instance of,accident,7979

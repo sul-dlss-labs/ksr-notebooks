@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Texas Rangers,parent organization,Texas Department of Public Safety,25891
+Texas Rangers,applies to jurisdiction,Texas,25891
+Texas Department of Public Safety,applies to jurisdiction,Texas,25891

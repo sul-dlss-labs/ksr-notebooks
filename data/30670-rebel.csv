@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Oakley,located in the administrative territorial entity,Contra Costa County,30670
+Contra Costa County,contains administrative territorial entity,Bay City,30670
+Bay City,located in the administrative territorial entity,Contra Costa County,30670
+Contra Costa County Sheriff's Office,applies to jurisdiction,Contra Costa County,30670

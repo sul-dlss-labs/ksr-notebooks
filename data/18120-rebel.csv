@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alex Murdaugh,child,Paul Murdaugh,18120
+Alex Murdaugh,date of death,"June 7, 2021",18120
+Paul Murdaugh,father,Alex Murdaugh,18120
+Alex Murdaugh,child,Paul Murdaugh,18120

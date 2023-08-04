@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Subscription,subclass of,subscriber account,30935
+Subscriber Account,use,subscriber,30935
+Subscriber Account,use,subscription,30935

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Joe Sanchez,employer,Florida Highway Patrol,17698
+Florida Highway Patrol,applies to jurisdiction,Florida,17698
+Florida Highway Patrol,parent organization,Florida Department of Law Enforcement,17698
+Florida Department of Law Enforcement,subsidiary,Florida Highway Patrol,17698

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Frenchtown,located in the administrative territorial entity,St. Louis,6818
+Frenchtown,located in the administrative territorial entity,St. Charles,6818
+St. Charles,located in the administrative territorial entity,St. Louis,6818
+St. Louis,contains administrative territorial entity,St. Charles,6818

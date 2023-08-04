@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Oscar Flores,employer,Los Angeles County Sheriff's Department,26585
+Santa Clarita Valley Sheriff's Station,parent organization,Los Angeles County Sheriff's Department,26585
+Santa Clarita Valley Sheriff's Station,parent organization,Los Angeles County Sheriff's Department,26585
+Los Angeles County Sheriff's Department,subsidiary,Santa Clarita Valley Sheriff's Station,26585

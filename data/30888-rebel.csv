@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Arapahoe County,contains administrative territorial entity,Denver,30888
+Denver,located in the administrative territorial entity,Arapahoe County,30888
+Arapahoe County Sheriff,located in the administrative territorial entity,Denver,30888
+Arapahoe County Sheriff’s,located in the administrative territorial entity,Denver,30888

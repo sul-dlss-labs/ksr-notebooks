@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+registered,subclass of,sex offenders,7414
+sex offenders,subclass of,sex offenses,7414
+sex offenders,has effect,sex offense,7414
+sex offense,has cause,sex offenders,7414

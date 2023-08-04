@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Vandeventer,located in the administrative territorial entity,St. Louis,29293
+collided with another vehicle,instance of,crash,29293
+collided with another vehicle and caused a chain-reaction crash,location,Page Boulevard,29293

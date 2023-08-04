@@ -1,0 +1,12 @@
+subject,predicate,object,fe_id
+St. Charles,shares border with,Warren,25707
+St. Charles,shares border with,Montgomery,25707
+Warren,shares border with,St. Charles,25707
+Warren,shares border with,Montgomery,25707
+Montgomery,shares border with,St. Charles,25707
+Montgomery,shares border with,Warren,25707
+Warren,shares border with,St. Charles,25707
+St. Charles,shares border with,Warren,25707
+Warren,shares border with,St. Charles,25707
+Warren,shares border with,Montgomery,25707
+Montgomery,shares border with,Warren,25707

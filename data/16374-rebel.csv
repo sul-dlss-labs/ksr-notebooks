@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Heflin,located in the administrative territorial entity,Carroll County,16374
+Alabama,contains administrative territorial entity,Clayton County,16374
+Clayton County,located in the administrative territorial entity,Alabama,16374
+Carroll County Sheriff's Office,located in the administrative territorial entity,Georgia,16374
+Georgia,contains administrative territorial entity,Carroll County Sheriff's Office,16374

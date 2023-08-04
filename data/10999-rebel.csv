@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Baltimore County,contains administrative territorial entity,Baltimore,10999
+Baltimore,located in the administrative territorial entity,Baltimore County,10999
+Baltimore,located in the administrative territorial entity,Baltimore County,10999
+Baltimore County,contains administrative territorial entity,Baltimore,10999
+Baltimore,shares border with,Howard County,10999
+Maryland Shock Trauma Center,located in the administrative territorial entity,Baltimore,10999
+Howard County,shares border with,Baltimore,10999

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shooting by a police officer,location,"Whitehouse, Texas",6218
+shooting,location,"Whitehouse, Texas",6218
+"shooting by a police officer in Whitehouse, Texas",participant,Whitehouse Police,6218

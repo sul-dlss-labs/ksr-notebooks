@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Charleston County,located in the administrative territorial entity,South Carolina,28388
+South Carolina,contains administrative territorial entity,Charleston County,28388
+Charleston,located in the administrative territorial entity,Charleston County,28388
+Charleston County,contains administrative territorial entity,Charleston,28388
+Charleston County Sheriff’s Office,applies to jurisdiction,"Charleston, South Carolina",28388

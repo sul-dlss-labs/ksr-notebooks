@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chief of Detectives,part of,LAPD,31422
+Chief of Detectives,applies to jurisdiction,LAPD,31422
+Force Investigation Division,parent organization,LAPD,31422
+LAPD,subsidiary,Force Investigation Division,31422

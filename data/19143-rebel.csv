@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Breaking News,main subject,breaking news,19143
+Get Breaking News,main subject,Breaking News,19143
+Breaking News,instance of,breaking news coverage,19143

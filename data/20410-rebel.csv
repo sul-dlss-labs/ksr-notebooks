@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Michael Wexler,employer,Philadelphia Police,20410
+Michael Wexler,employer,Philadelphia Police Officers,20410
+Philadelphia,contains administrative territorial entity,35th Police District,20410
+35th Police District,located in the administrative territorial entity,Philadelphia,20410

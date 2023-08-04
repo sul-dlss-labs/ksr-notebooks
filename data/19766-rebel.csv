@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+news,subclass of,information,19766
+news and information,subclass of,journalism,19766
+news and information,facet of,journalism,19766

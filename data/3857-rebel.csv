@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Davidson County,shares border with,Forsyth County,3857
+Forsyth County,shares border with,Davidson County,3857
+Davidson County,shares border with,Forsyth,3857
+Forsyth,shares border with,Davidson County,3857
+Davidson County,shares border with,Forsyth County,3857

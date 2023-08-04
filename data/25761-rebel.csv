@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Kittitas Valley Hospital,located in the administrative territorial entity,Seattle,25761
+Kittitas Police Officer Benito Chavez,place of death,Kittitas Valley Hospital,25761
+Kittitas County,contains administrative territorial entity,Seattle,25761
+Seattle,located in the administrative territorial entity,Kittitas County,25761

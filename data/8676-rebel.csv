@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Christopher Perkins,place of death,Wichita,8676
+Wichita,legislative body,Wichita city council,8676
+Wichita,legislative body,city council,8676
+city council,applies to jurisdiction,Wichita,8676

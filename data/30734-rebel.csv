@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+I-5 wreck near Chico,operator,California Highway Patrol,30734
+California Highway Patrol,applies to jurisdiction,California,30734
+Highway 101,maintained by,California Highway Patrol,30734

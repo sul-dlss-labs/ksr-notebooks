@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shocked,uses,Taser,8019
+shocked with a Taser,used by,officers,8019
+Taser,use,shocked,8019

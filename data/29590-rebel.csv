@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+FBI,subsidiary,Miami field office,29590
+Miami field office,parent organization,FBI,29590
+FBI,chairperson,Christopher A. Wray,29590
+Christopher A. Wray,employer,FBI,29590

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Jerry Helms,father,Geoffrey Helms,24991
+Jerry Helms,father,Geoffrey Helms,24991
+Geoffrey Helms,child,Jerry Helms,24991
+Jerry Helms,place of death,Georgetown,24991

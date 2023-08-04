@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Today,followed by,Tomorrow,13607
+Tomorrow,follows,Today,13607
+Today,followed by,Tomorrow,13607
+Today,followed by,Tomorrow,13607
+Tomorrow,follows,Today,13607
+Tomorrow,elevation above sea level,110,13607

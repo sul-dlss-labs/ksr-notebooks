@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Video player,use,Video content,9036
+Video player,use,Video content,9036
+Video content,used by,Video player,9036
+Video player,has part,Video content,9036
+Video content,part of,Video player,9036

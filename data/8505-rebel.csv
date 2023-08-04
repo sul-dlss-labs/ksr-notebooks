@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Paul Browne,employer,NYPD,8505
+West 144th Street,located in the administrative territorial entity,Harlem,8505
+NYPD,has part,spokesmean,8505
+spokesmean,part of,NYPD,8505

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+William Ware,date of death,"January 3, 2014",13900
+Shirley Ware,spouse,William,13900
+William,spouse,Shirley Ware,13900
+standoff and then shootout with police,location,Kansas City,13900

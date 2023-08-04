@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+killed by deputies after fatal stabbing,location,Bucktown,13913
+Bucktown man killed by deputies after fatal stabbing,instance of,suicidal,13913
+father,spouse,mother,13913
+mother,spouse,father,13913

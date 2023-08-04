@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police called off a standoff situation,location,Overland Park,24239
+SWAT,subclass of,negotiators,24239
+Police called off a standoff situation,located in the administrative territorial entity,Overland Park,24239

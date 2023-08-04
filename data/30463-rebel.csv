@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Kern County Sheriff’s Office,located in the administrative territorial entity,Bakersfield,30463
+KCSO,located in the administrative territorial entity,Bakersfield,30463
+Bakersfield,located in the administrative territorial entity,Kern County,30463
+Kern County,contains administrative territorial entity,Bakersfield,30463

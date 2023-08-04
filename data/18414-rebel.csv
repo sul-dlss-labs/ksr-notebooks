@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+John Pacuicrk,place of death,Lakeland,18414
+Deputy Lee Smith,employer,Sheriff's Office,18414
+John Pacuicrk,sibling,his brother,18414
+his brother,sibling,John Pacuicrk,18414

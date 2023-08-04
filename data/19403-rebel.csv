@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Escondido Police Department,has part,Patrol Division,19403
+Patrol Division,part of,Escondido Police Department,19403
+Damon Seitz,employer,Escondido Police Department,19403
+Damon Seitz,employer,Escondido Police Department,19403
+officer involved in the shooting of Damon Seitz,operator,Escondido Police Department,19403

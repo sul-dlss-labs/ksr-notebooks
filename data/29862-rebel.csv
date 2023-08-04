@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bexar County Sheriff’s Office,applies to jurisdiction,San Antonio,29862
+Bexar County Sheriff’s Office,located in the administrative territorial entity,San Antonio,29862
+San Antonio,located in the administrative territorial entity,Bexar County,29862
+Bexar County,contains administrative territorial entity,San Antonio,29862

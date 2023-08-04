@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Sunset Beach,located in the administrative territorial entity,Honolulu,24350
+shot,has cause,homicide,24350
+shot,has cause,homicide,24350
+homicide,has cause,shot,24350

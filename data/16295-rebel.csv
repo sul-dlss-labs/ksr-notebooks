@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Michael Alberts,employer,San Diego Police,16295
+San Diego Police,subsidiary,Northwestern Division of the SDPD,16295
+Northwestern Division of the SDPD,parent organization,San Diego Police,16295
+San Diego Police,has part,SDPD Homicide,16295
+SDPD Homicide,part of,San Diego Police,16295

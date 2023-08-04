@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police,has part,SWAT,30190
+a single gunshot,instance of,gunshot wound,30190
+man has died,location,Rochester Hills,30190

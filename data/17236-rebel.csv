@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+CBS RADIO,owned by,CBS Radio Inc.,17236
+CBS Radio Inc.,owner of,CBS RADIO,17236
+CBS RADIO,owned by,CBS Radio Inc.,17236
+CBS RADIO,owned by,CBS Radio Inc,17236
+CBS Radio Inc,owner of,CBS RADIO,17236

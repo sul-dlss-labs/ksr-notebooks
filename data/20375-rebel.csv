@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Arlington,located in the administrative territorial entity,Hunt County,20375
+Arlington,located in the administrative territorial entity,Tarrant County,20375
+Tarrant County,contains administrative territorial entity,Arlington,20375
+Arlington,shares border with,Dallas,20375
+Dallas,shares border with,Arlington,20375

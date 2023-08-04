@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Washington State Troopers,instance of,troopers,31303
+I-5,maintained by,Washington State Troopers,31303
+incident with a firearm,participant,Washington State Troopers,31303

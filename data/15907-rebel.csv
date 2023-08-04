@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+rapist,has effect,tried drowning victim,15907
+rapist,has effect,tried drowning victim,15907
+tried drowning victim,has cause,rapist,15907
+rape,has effect,murder,15907

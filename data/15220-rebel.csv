@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Pleasanton,located in the administrative territorial entity,Atascosa County,15220
+Atascosa County,contains administrative territorial entity,"Pleasanton, TX",15220
+"Pleasanton, TX",located in the administrative territorial entity,Atascosa County,15220
+Daniel Kaufman,employer,Atascosa County,15220

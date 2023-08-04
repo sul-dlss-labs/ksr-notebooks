@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+police department,applies to jurisdiction,Philadelphia,20397
+Frank Tepper,place of death,Philadelphia,20397
+Philadelphia,contains administrative territorial entity,Port Richmond,20397
+Port Richmond,located in the administrative territorial entity,Philadelphia,20397

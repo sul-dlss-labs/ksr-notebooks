@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT standoff,participant,police,16222
+SWAT standoff,has part,Murder suspect who shot himself in SWAT standoff,16222
+SWAT standoff,has effect,Murder suspect who shot himself in SWAT standoff,16222

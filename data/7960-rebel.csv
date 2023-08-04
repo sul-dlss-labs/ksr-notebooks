@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+crash,point in time,"March 21, 2009",7960
+St. Louis County,located in the administrative territorial entity,Missouri,7960
+Missouri,contains administrative territorial entity,St. Louis County,7960
+Christine Miller,position held,St. Louis County Prosecuting Attorney,7960

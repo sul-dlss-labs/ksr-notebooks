@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+tased,uses,electroshock gun,10732
+Taser,use,electroshock gun,10732
+tased,uses,electroshock gun,10732
+electroshock gun,use,tased,10732

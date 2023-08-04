@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+BALTIMORE,located in the administrative territorial entity,Baltimore,28438
+Baltimore,contains administrative territorial entity,BALTIMORE,28438
+Baltimore,contains administrative territorial entity,Northeast District,28438
+Northeast District,located in the administrative territorial entity,Baltimore,28438
+BALTIMORE,located in the administrative territorial entity,Baltimore,28438

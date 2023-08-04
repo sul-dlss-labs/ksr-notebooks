@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Cobb County,located in the administrative territorial entity,Georgia,20383
+Georgia,contains administrative territorial entity,Cobb County,20383
+South Cobb,located in the administrative territorial entity,Cobb County,20383
+Cobb County,located in the administrative territorial entity,Ga,20383
+Ga,contains administrative territorial entity,Cobb County,20383

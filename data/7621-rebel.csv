@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Aaron Cartee,sibling,Jacob Cartee,7621
+Jacob Cartee,sibling,Aaron Cartee,7621
+Edell Cartee,child,Jacob Cartee,7621
+Jacob Cartee,mother,Edell Cartee,7621
+Aaron Cartee,sibling,Jacob Cartee,7621

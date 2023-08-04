@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Tempe,capital of,AZ,24982
+AZ,capital,Tempe,24982
+"Tempe, AZ",population,85282,24982
+"Tempe, AZ",point in time,85282,24982

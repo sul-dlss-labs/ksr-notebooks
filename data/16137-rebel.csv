@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Jon Swedien,instance of,murder-suicide,16137
+shot and killed himself,subclass of,murder-suicide,16137
+shot and killed himself,instance of,murder-suicide,16137

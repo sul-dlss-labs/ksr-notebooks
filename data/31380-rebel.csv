@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+The 4Front,located in the administrative territorial entity,Maryland,31380
+The 4Front,located in the administrative territorial entity,Prince George’s County,31380
+Prince George’s County,shares border with,"Washington, D.C.",31380
+"Washington, D.C.",shares border with,Prince George’s County,31380

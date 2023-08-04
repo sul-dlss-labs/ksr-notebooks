@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police,applies to jurisdiction,Metro,10848
+Metro,parent organization,Police,10848
+Police say they are looking for a man who shot a male,point in time,Sunday afternoon,10848

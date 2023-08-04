@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Andrew Nunez,employer,Florida Highway Patrol,26471
+Aaron Kuehn,educated at,Daytona State College,26471
+Aaron Kuehn,child,Amy Kuehn,26471
+Amy Kuehn,father,Aaron Kuehn,26471

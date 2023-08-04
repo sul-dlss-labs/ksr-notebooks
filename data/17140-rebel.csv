@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Grand Boulevard,located in the administrative territorial entity,St. Louis,17140
+St. Louis,located in the administrative territorial entity,Missouri,17140
+Missouri,contains administrative territorial entity,St. Louis,17140
+St. Louis,located in the administrative territorial entity,Missouri,17140
+Missouri,contains administrative territorial entity,St. Louis,17140
+Grand Boulevard,located in the administrative territorial entity,Missouri,17140

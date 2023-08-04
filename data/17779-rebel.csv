@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Kentwood,located in the administrative territorial entity,Grand Rapids,17779
+Grand Rapids,contains administrative territorial entity,Kentwood,17779
+"GRAND RAPIDS, MI",located in the administrative territorial entity,Kent County,17779
+Kent County,contains administrative territorial entity,"GRAND RAPIDS, MI",17779
+Kentwood,located in the administrative territorial entity,Grand Rapids,17779

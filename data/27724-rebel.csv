@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Police in Miami-Dade County are investigating a shooting,instance of,police-involved shooting,27724
+Police in Miami-Dade County,significant event,police-involved shooting,27724
+Police in Miami-Dade County,has part,police-involved shooting,27724
+police-involved shooting,part of,Police in Miami-Dade County,27724

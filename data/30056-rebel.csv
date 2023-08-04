@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shot and killed Michael Brown,location,"Ferguson, Missouri",30056
+shootings with the police,facet of,Michael Brown,30056
+shootings with the police,participant,Michael Brown,30056

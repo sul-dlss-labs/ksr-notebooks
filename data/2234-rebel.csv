@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Costa Mesa,located in the administrative territorial entity,Los Angeles County,2234
+Ladera Ranch,located in the administrative territorial entity,Los Angeles County,2234
+Los Angeles County,contains administrative territorial entity,Costa Mesa,2234
+Costa Mesa,located in the administrative territorial entity,Los Angeles County,2234

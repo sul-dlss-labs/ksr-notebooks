@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Davie,located in the administrative territorial entity,Broward,17417
+Broward,contains administrative territorial entity,Davie,17417
+Davie police,applies to jurisdiction,Davie,17417
+Davie,shares border with,Miramar,17417
+Miramar,shares border with,Davie,17417

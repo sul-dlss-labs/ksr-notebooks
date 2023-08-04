@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+David Williams,employer,Fayetteville Police Department,8653
+officer-involved shooting,participant,Fayetteville Police Department,8653
+Fayetteville Police Chief,part of,Fayetteville Police Department,8653
+Fayetteville Police Department,has part,Fayetteville Police Chief,8653

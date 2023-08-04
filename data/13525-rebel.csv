@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Salem,located in the administrative territorial entity,Virginia,13525
+Roanoke,located in the administrative territorial entity,Virginia,13525
+Virginia,contains administrative territorial entity,Salem,13525
+Virginia,contains administrative territorial entity,Roanoke,13525
+Salem,located in the administrative territorial entity,"Roanoke, Virginia",13525
+Salem,located in the administrative territorial entity,"Roanoke, Virginia",13525
+"Roanoke, Virginia",contains administrative territorial entity,Salem,13525

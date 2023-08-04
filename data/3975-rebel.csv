@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser stun gun,instance of,stun gun,3975
+Taser stun gun,subclass of,stun gun,3975
+shot him with a stun gun,instance of,Taser stun gun,3975

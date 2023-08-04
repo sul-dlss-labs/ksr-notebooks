@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Anne Arundel County police,applies to jurisdiction,Anne Arundel County,29837
+Anne Arundel County,contains administrative territorial entity,Pasadena,29837
+Pasadena,located in the administrative territorial entity,Anne Arundel County,29837
+Anne Arundel County,contains administrative territorial entity,Eastern District,29837
+Eastern District,located in the administrative territorial entity,Anne Arundel County,29837

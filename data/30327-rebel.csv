@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shooting,location,Denver,30327
+shooting,participant,Denver Police,30327
+shot and killed a carjacking suspect,operator,Denver Police,30327

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+standoff,located in the administrative territorial entity,St. Louis,7857
+St. Louis,located in the administrative territorial entity,Missouri,7857
+Missouri,contains administrative territorial entity,St. Louis,7857
+Anything for Money,located in the administrative territorial entity,St. Louis,7857

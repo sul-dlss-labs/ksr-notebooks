@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Arizona,shares border with,California,25492
+California,shares border with,Arizona,25492
+Highway Patrol,parent organization,Arizona Department of Public Safety,25492
+Arizona,shares border with,California,25492
+California,shares border with,Arizona,25492
+Arizona Department of Public Safety,applies to jurisdiction,Arizona,25492

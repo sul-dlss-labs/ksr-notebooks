@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Southeast Division,parent organization,Los Angeles Police Department,30509
+Southeast Division,parent organization,Los Angeles Police Department,30509
+Los Angeles Police Department,subsidiary,Southeast Division,30509
+Southeast Division,part of,Los Angeles Police Department,30509

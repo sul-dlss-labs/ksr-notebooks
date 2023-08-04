@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alexis,sibling,Taylor,23202
+Taylor,sibling,Alexis,23202
+Lap-Band,subclass of,gastric band,23202
+Lap-Band,instance of,gastric band,23202

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Santa Cruz County Jail,located in the administrative territorial entity,Santa Cruz,30035
+San Jose,shares border with,Santa Cruz,30035
+Santa Cruz,shares border with,San Jose,30035
+Santa Cruz,has part,Santa Cruz County Jail,30035

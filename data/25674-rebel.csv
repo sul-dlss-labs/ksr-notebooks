@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a police pursuit,instance of,pursuit,25674
+police pursuit,subclass of,pursuit,25674
+police pursuit,subclass of,evasive action,25674

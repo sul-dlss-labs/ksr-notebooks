@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police Department,applies to jurisdiction,Little Rock,13692
+Todd Hurd,occupation,detective,13692
+shot by a Little Rock police officer,instance of,officer-involved shooting,13692

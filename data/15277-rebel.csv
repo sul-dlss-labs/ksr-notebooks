@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Iredell County,shares border with,Davidson County,15277
+Davidson County,shares border with,Iredell County,15277
+Iredell County,contains administrative territorial entity,Winston-Salem,15277
+Winston-Salem,located in the administrative territorial entity,Iredell County,15277
+Iredell County prosecutor,applies to jurisdiction,Iredell County,15277
+Iredell County,legislative body,Iredell County prosecutor,15277

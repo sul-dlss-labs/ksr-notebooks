@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Loma Linda,located in the administrative territorial entity,Orange County,10220
+Jonathan Montano,date of death,"June 11, 2011",10220
+Veterans Affairs,subsidiary,hospital,10220
+hospital,parent organization,Veterans Affairs,10220

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Pixley,located in the administrative territorial entity,Tulare County,15260
+Bakersfield,located in the administrative territorial entity,Tulare County,15260
+Tulare County,contains administrative territorial entity,Bakersfield,15260
+Visalia,located in the administrative territorial entity,Tulare County,15260
+Tulare County,contains administrative territorial entity,Visalia,15260

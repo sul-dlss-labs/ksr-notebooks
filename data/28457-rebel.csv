@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Worthington Industries,headquarters location,Cleveland,28457
+Cleveland,located in the administrative territorial entity,Cuyahoga County,28457
+Cuyahoga County,contains administrative territorial entity,Cleveland,28457
+Ohio,contains administrative territorial entity,Cuyahoga County,28457
+Cuyahoga County,located in the administrative territorial entity,Ohio,28457

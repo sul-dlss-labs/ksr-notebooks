@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+About archive blog posts,is a list of,blog post,12534
+About archive blog posts,subclass of,blog post,12534
+About archive blog posts,instance of,blog post platform,12534

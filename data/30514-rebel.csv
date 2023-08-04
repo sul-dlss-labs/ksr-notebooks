@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Azusa Police,parent organization,Los Angeles County Sheriff's Department,30514
+Azusa Police,parent organization,Los Angeles County Sheriff's Department,30514
+Los Angeles County Sheriff's Department,subsidiary,Azusa Police,30514
+Los Angeles County Sheriff's Department,applies to jurisdiction,LA County,30514

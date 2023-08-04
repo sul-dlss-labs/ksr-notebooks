@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+South San High School,located in the administrative territorial entity,San Antonio,24395
+South San High School,school district,San Antonio Police Department,24395
+San Antonio Police Department,parent organization,department,24395
+department,subsidiary,San Antonio Police Department,24395

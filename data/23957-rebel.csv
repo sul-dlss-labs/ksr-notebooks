@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+a series of bombing attacks,located in the administrative territorial entity,Austin,23957
+a series of bombing attacks in Austin,has part,a weekslong siege of the Texas capital,23957
+a weekslong siege of the Texas capital,part of,a series of bombing attacks in Austin,23957
+a series of bombing attacks in Austin,has effect,a weekslong siege of the Texas capital,23957
+a weekslong siege of the Texas capital,has cause,a series of bombing attacks in Austin,23957

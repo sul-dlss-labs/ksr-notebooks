@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+North Memorial,located in the administrative territorial entity,Minneapolis,26360
+Chihuahua,country,Mexico,26360
+Mexico,contains administrative territorial entity,Chihuahua,26360
+Chihuahua,located in the administrative territorial entity,Mexico,26360
+Mexico,contains administrative territorial entity,Chihuahua,26360

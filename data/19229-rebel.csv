@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Oklahoma City Police Department,instance of,Police,19229
+Oklahoma Department of Corrections,applies to jurisdiction,Oklahoma City,19229
+Police,has part,Oklahoma City Police Department,19229

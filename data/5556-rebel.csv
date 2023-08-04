@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Pima County Sheriff's Department,applies to jurisdiction,Pima County,5556
+Pima County,legislative body,Board of Supervisors,5556
+Board of Supervisors,applies to jurisdiction,Pima County,5556
+Pima County,contains administrative territorial entity,Corona de Tucson,5556
+Corona de Tucson,located in the administrative territorial entity,Pima County,5556

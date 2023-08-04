@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+online,subclass of,website,12065
+online subscription,subclass of,website,12065
+online subscription,subclass of,online newspaper,12065

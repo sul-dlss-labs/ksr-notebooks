@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Chicago police,applies to jurisdiction,Chicago,17637
+shot and killed,participant,Chicago police,17637
+Chicago police,significant event,shot and killed,17637
+shot and killed,participant,Chicago police,17637
+shot and killed,location,Mount Sinai Hospital,17637

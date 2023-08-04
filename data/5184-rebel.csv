@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Nathan Hicks,employer,Chicago Police Department,5184
+Chicago police officers,parent organization,Chicago Police Department,5184
+Chicago Police Department,subsidiary,Chicago police officers,5184
+Chicago police officers,parent organization,Chicago Police Department,5184

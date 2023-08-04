@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+David Smith,employer,Johnson City Polce Department,14275
+Johnson City,located in the administrative territorial entity,New York,14275
+New York,contains administrative territorial entity,Johnson City,14275
+Police Chief,applies to jurisdiction,Johnson City,14275

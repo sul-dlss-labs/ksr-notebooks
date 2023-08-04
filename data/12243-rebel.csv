@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+9th grade,follows,8th grade,12243
+8th grade,followed by,9th grade,12243
+9th grader,follows,8th grade,12243
+8th grade,followed by,9th grader,12243
+Skyla Nuncio,place of death,Houston,12243

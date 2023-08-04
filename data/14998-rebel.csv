@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+first three months of the year,has part,June,14998
+June,part of,first three months of the year,14998
+first three months of the year,followed by,second half of this year,14998
+first three months of the year,followed by,second half of this year,14998
+second half of this year,follows,first three months of the year,14998

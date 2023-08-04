@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Montgomery City,located in the administrative territorial entity,Audrain County,18383
+Montgomery County,contains administrative territorial entity,Martinsburg,18383
+Martinsburg,located in the administrative territorial entity,Montgomery County,18383
+Montgomery County,contains administrative territorial entity,Montgomery City,18383
+Montgomery County,contains administrative territorial entity,Montgomery City,18383

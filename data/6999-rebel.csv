@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,subclass of,gun,6999
+Taser,used by,police,6999
+Taser,operator,Chicago police,6999

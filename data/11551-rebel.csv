@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Regions Hospital,located in the administrative territorial entity,St. Paul,11551
+Chisago County,contains administrative territorial entity,St. Paul,11551
+St. Paul,located in the administrative territorial entity,Chisago County,11551
+Regions Hospital,located in the administrative territorial entity,St. Paul,11551
+North Branch,located in the administrative territorial entity,Chisago County,11551

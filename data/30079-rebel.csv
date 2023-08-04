@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Shooter kills man in backyard,location,backyard,30079
+"Shooter kills man in backyard, then shoots at police",instance of,shoot and kill him,30079
+"Shootout kills man in backyard, then shoots at police",instance of,shoot and kill him,30079

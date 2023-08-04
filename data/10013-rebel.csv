@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+carjacking,instance of,kidnapping,10013
+carjacking,subclass of,kidnapping,10013
+"Police Charge Surviving Offender in Fatal Carjacking, Bond Set at $300K",point in time,April 13,10013

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Virginia State Police,subsidiary,Virginia State Police Bureau of Criminal Investigation,27275
+Virginia State Police Bureau of Criminal Investigation,parent organization,Virginia State Police,27275
+Richmond County Sheriff’s Office,located in the administrative territorial entity,Richmond,27275
+Warsaw,located in the administrative territorial entity,Richmond County,27275

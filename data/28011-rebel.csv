@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Los Angeles County,contains administrative territorial entity,Pasadena,28011
+Pasadena,located in the administrative territorial entity,Los Angeles County,28011
+Los Angeles County,located in the administrative territorial entity,California,28011
+California,contains administrative territorial entity,Los Angeles County,28011
+Pasadena Police Department,applies to jurisdiction,Los Angeles County,28011
+Los Angeles County,contains administrative territorial entity,Pasadena,28011
+Pasadena,located in the administrative territorial entity,Los Angeles County,28011

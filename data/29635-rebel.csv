@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Jimi Hendrix Park,location,Central District,29635
+Northwest African American Museum,location,Central District,29635
+Seattle police,part of,Seattle Police Department,29635
+Seattle Police Department,has part,Seattle police,29635

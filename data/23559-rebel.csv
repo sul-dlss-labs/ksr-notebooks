@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Pacific Division,parent organization,Los Angeles Police Department,23559
+Pacific Division,part of,Los Angeles Police Department,23559
+Los Angeles Police Department,has part,Pacific Division,23559
+Pacific Division,part of,Los Angeles Police Department,23559

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Pat Camden,employer,Chicago Police,14410
+officer,part of,Chicago Police,14410
+Chicago Police,represents,Fraternal Order of Police,14410

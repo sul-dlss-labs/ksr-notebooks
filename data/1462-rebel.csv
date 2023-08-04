@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Los Angeles Times,has part,California section,1462
+California section,part of,Los Angeles Times,1462
+shootout involving Ontario police,location,Ontario,1462
+Los Angeles Times,place of publication,California,1462

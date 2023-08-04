@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police,applies to jurisdiction,Mobile,9728
+took a couple hostage,participant,Mobile Police,9728
+police,has part,Mobile Police Chief,9728

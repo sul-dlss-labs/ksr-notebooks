@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Morgan Hill,located in the administrative territorial entity,Sonoma County,5830
+Morgan Hill,located in the administrative territorial entity,Santa Clara County,5830
+Santa Clara County,contains administrative territorial entity,Morgan Hill,5830
+Morgan Hill,located in the administrative territorial entity,Santa Clara County,5830

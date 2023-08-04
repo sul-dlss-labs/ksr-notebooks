@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Benton,located in the administrative territorial entity,"Franklin County, Ill.",17539
+Kentucky,contains administrative territorial entity,St. Louis,17539
+St. Louis,located in the administrative territorial entity,Kentucky,17539
+Kentucky,contains administrative territorial entity,Franklin County,17539
+Franklin County,located in the administrative territorial entity,Kentucky,17539

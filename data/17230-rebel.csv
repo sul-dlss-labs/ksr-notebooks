@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Investigation into Man's Death Following Incident at 3625 Lockwood,point in time,"February 8, 2016",17230
+Police Department,has part,Homicide,17230
+Homicide,part of,Police Department,17230
+Homicide,parent organization,Houston police,17230

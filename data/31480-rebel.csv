@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+downtown,located in the administrative territorial entity,San Antonio,31480
+Detention Center,operator,San Antonio Police Department,31480
+San Antonio Police Department,located in the administrative territorial entity,downtown,31480

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Edmundson,located in the administrative territorial entity,St. Louis County,27111
+St. Louis County,contains administrative territorial entity,Berkeley,27111
+Berkeley,located in the administrative territorial entity,St. Louis County,27111
+Bel-Ridge Police Chief,applies to jurisdiction,Berkeley,27111

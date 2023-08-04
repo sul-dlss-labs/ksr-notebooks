@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+fatally shot,location,"Princeton, N.J.",23951
+New Jersey Attorney General,subsidiary,Division of Criminal Justice,23951
+Division of Criminal Justice,parent organization,New Jersey Attorney General,23951
+New Jersey Attorney General,office held by head of the organization,Director of the Division of Criminal Justice,23951
+Director of the Division of Criminal Justice,part of,New Jersey Attorney General,23951

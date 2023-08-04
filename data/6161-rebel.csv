@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+police,has part,tactical officers,6161
+tactical officers,part of,police,6161
+Jon Dalberg,employer,police officers,6161
+police,has part,tactical officers,6161

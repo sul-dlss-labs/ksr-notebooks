@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+LA 16,located in the administrative territorial entity,Tangipahoa Parish,15714
+St. Helena Parish,shares border with,Tangipahoa Parish,15714
+Tangipahoa Parish,shares border with,St. Helena Parish,15714
+LA 16,located in the administrative territorial entity,Louisiana,15714
+Louisiana,contains administrative territorial entity,St. Helena Parish,15714
+St. Helena Parish,located in the administrative territorial entity,Louisiana,15714

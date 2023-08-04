@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Texas Rangers,parent organization,Texas Department of Public Safety,30012
+Texas Department of Public Safety,subsidiary,Texas Rangers,30012
+Texas Rangers,parent organization,Texas Department of Public Safety,30012
+Texas Rangers Division,parent organization,Texas Department of Public Safety,30012
+Texas Department of Public Safety,subsidiary,Texas Rangers Division,30012

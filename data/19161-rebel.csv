@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a similar incident,location,Des Moines,19161
+a similar incident,point in time,August of 2016,19161
+a similar incident happened in August of 2016,location,Des Moines,19161

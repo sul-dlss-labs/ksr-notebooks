@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bay City Public Safety,located in the administrative territorial entity,Bay City,20915
+South End,located in the administrative territorial entity,Bay City,20915
+Bay City,located in the administrative territorial entity,Bay County,20915
+Bay County,contains administrative territorial entity,Bay City,20915

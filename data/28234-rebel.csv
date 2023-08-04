@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Flash,instance of,plugin,28234
+Flash,instance of,browser,28234
+Flash plugin,use,browser,28234

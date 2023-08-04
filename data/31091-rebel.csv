@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alaska State Troopers,parent organization,Alaska Bureau of Investigation,31091
+Alaska State Troopers,parent organization,Alaska Bureau of Investigation,31091
+Alaska Bureau of Investigation,subsidiary,Alaska State Troopers,31091
+Alaska Wildlife Troopers,parent organization,Alaska State Troopers,31091

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+York City Attorney,applies to jurisdiction,York,6
+York,shares border with,O'Neill,6
+O'Neill,shares border with,York,6
+York,shares border with,O'Neill,6

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Starbucks,headquarters location,Seattle,5372
+Starbucks,location of formation,Seattle,5372
+Breast milk,different from,formula,5372
+formula,different from,Breast milk,5372

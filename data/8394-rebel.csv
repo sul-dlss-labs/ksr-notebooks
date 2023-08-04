@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT standoff,location,Miami Gardens,8394
+standoff,location,Miami Gardens,8394
+SWAT,applies to jurisdiction,Miami-Dade,8394

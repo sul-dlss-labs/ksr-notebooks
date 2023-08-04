@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Fresno,located in the administrative territorial entity,Fresno County,18681
+Fresno County,contains administrative territorial entity,Fresno,18681
+Fresno police,applies to jurisdiction,Fresno County,18681
+Fresno County,located in the administrative territorial entity,California,18681
+California,contains administrative territorial entity,Fresno County,18681

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Suffolk County,shares border with,Middlesex,11172
+Middlesex,shares border with,Suffolk County,11172
+Suffolk County,shares border with,Essex County,11172
+Essex County,shares border with,Suffolk County,11172
+Saugus,located in the administrative territorial entity,Middlesex,11172
+Middlesex,contains administrative territorial entity,Saugus,11172

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Miami-Dade Police,has part,Miami Beach Police,9855
+Miami Beach Police,parent organization,Miami-Dade Police Department,9855
+Miami-Dade Police,subsidiary,Miami Beach Police,9855

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Critical Incident Task Force,part of,Idaho State Police,23866
+car chase,subclass of,chase,23866
+Critical Incident Task Force,parent organization,Idaho State Police,23866

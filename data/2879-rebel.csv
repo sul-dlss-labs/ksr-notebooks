@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Nebraska State Patrol,applies to jurisdiction,Nebraska,2879
+Nebraska,contains administrative territorial entity,Dakota County,2879
+Dakota County,located in the administrative territorial entity,Nebraska,2879
+Nebraska State Patrol,applies to jurisdiction,Dakota County,2879

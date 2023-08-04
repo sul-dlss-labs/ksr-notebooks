@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+thunderstorm,subclass of,rain,27507
+thunderstorm,has part,rain,27507
+Jefferson City,located in the administrative territorial entity,MO,27507
+MO,contains administrative territorial entity,Jefferson City,27507

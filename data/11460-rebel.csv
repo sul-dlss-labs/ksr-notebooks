@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Prince George’s County Police Department,applies to jurisdiction,Prince George’s,11460
+Metro Transit Police,applies to jurisdiction,District,11460
+Metro Transit Police,parent organization,Metro,11460
+Metro,subsidiary,Metro Transit Police,11460

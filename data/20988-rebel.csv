@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,headquarters location,"Scottsdale, Ariz.",20988
+Taser,subclass of,police shock devices,20988
+Taser,location of formation,"Scottsdale, Ariz.",20988

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Lafayette County,shares border with,Jackson County,17786
+Jackson County,shares border with,Lafayette County,17786
+Kansas City,located in the administrative territorial entity,Lafayette County,17786
+Lafayette County,contains administrative territorial entity,"Kansas City, Mo.",17786
+"Kansas City, Mo.",located in the administrative territorial entity,Lafayette County,17786

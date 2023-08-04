@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Longview Police Department,applies to jurisdiction,Longview,26575
+Longview,located in the administrative territorial entity,Clark County,26575
+Clark County,contains administrative territorial entity,Longview,26575
+Longview,located in the administrative territorial entity,Cowlitz County,26575
+Cowlitz County,contains administrative territorial entity,Longview,26575

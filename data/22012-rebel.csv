@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+M26,manufacturer,TASER International,22012
+M26,manufacturer,TASER International Inc.,22012
+M26 taser gun,manufacturer,TASER International Inc.,22012

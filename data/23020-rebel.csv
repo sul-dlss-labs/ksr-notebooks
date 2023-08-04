@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,"Nashua, New Hampshire",23020
+a man killed himself,location,"Nashua, New Hampshire",23020
+standoff ended Friday night,location,"Nashua, New Hampshire",23020

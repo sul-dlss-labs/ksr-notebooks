@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+fatally shot in the back,participant,Chicago police,2008
+fatally shot in the back by an off-duty Chicago police officer,point in time,2002,2008
+fatally shot in the back by an off-duty Chicago police officer in 2002,point in time,2002,2008

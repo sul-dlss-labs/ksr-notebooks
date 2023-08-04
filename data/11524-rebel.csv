@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Missouri Highway Patrol,headquarters location,Jefferson City,11524
+Missouri Highway Patrol,located in the administrative territorial entity,Jefferson City,11524
+Missouri Highway Patrol,parent organization,Missouri State Highway Patrol,11524
+Missouri State Highway Patrol,subsidiary,Missouri Highway Patrol,11524

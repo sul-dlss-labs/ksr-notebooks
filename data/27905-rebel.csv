@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Newton Division,parent organization,LAPD,27905
+LAPD,subsidiary,Newton Division,27905
+Newton Division,parent organization,LAPD,27905
+LAPD,has part,Newton Division,27905
+Newton Division,part of,LAPD,27905

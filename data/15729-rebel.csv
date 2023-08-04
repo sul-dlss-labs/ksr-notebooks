@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+seeks to reclaim the White House in 2024,point in time,2024,15729
+a long-running federal investigation,has part,schemes by Trump and his allies,15729
+schemes by Trump and his allies,part of,a long-running federal investigation,15729
+a long-running federal investigation,has cause,schemes by Trump and his allies to subvert the peaceful transfer of power,15729
+schemes by Trump and his allies to subvert the peaceful transfer of power,has effect,a long-running federal investigation,15729

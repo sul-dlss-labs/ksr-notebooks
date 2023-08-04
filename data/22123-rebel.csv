@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Ocean County,contains administrative territorial entity,Ocean Township,22123
+Ocean Township,located in the administrative territorial entity,Ocean County,22123
+Ocean County,contains administrative territorial entity,Waretown,22123
+Waretown,located in the administrative territorial entity,Ocean County,22123
+OCEAN TOWNSHIP,located in the administrative territorial entity,Ocean County,22123
+Ocean County,contains administrative territorial entity,OCEAN TOWNSHIP,22123

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+attempting to elude a police officer,instance of,Class A misdemeanor,11706
+attempting to elude a police officer,subclass of,misdemeanor,11706
+attempting to elude a police officer,instance of,Class C felony,11706

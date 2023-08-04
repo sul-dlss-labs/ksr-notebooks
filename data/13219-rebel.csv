@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Hammond,located in the administrative territorial entity,Cook County,13219
+Hammond,located in the administrative territorial entity,Chicago,13219
+Cook County,contains administrative territorial entity,Chicago,13219
+Chicago,located in the administrative territorial entity,Cook County,13219

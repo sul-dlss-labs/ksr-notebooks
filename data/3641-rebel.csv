@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+cocaine psychosis,subclass of,poisoning,3641
+cocaine psychosis,subclass of,toxicosis,3641
+asthma,subclass of,cardiac problems,3641

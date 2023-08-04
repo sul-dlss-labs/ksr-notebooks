@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff with the FBI,participant,Portland Police Bureau,31160
+standoff,participant,FBI,31160
+a standoff with the FBI,participant,Portland Police Bureau,31160

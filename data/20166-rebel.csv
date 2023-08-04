@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Bedford-Stuyvesant,located in the administrative territorial entity,Brooklyn,20166
+NYPD,contains administrative territorial entity,Brooklyn North,20166
+Brooklyn North,located in the administrative territorial entity,NYPD,20166
+NYPD,subsidiary,Brooklyn North,20166
+Brooklyn North,parent organization,NYPD,20166

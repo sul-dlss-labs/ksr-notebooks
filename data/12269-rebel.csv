@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shell casings,subclass of,projectile,12269
+shell casings,part of,ammunition,12269
+shell casings,part of,ammunition,12269
+ammunition,has part,shell casings,12269

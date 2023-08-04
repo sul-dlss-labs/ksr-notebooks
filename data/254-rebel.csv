@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Marine Unit,parent organization,Chicago Police Department,254
+Marine Unit,part of,Chicago Police Department,254
+Chicago Police Department,has part,Marine Unit,254
+Marine Unit,part of,Chicago Police Department,254

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Medical Center-Navicent Health,located in the administrative territorial entity,Macon,24581
+Monroe County,contains administrative territorial entity,Macon,24581
+Macon,located in the administrative territorial entity,Monroe County,24581
+Monroe County,contains administrative territorial entity,Macon,24581
+Medical Center-Navicent Health,located in the administrative territorial entity,Monroe County,24581
+Macon,located in the administrative territorial entity,Monroe County,24581

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+University Hospital,located in the administrative territorial entity,Newark,10911
+Newark,located in the administrative territorial entity,Essex County,10911
+Essex County,contains administrative territorial entity,Newark,10911
+Newark,located in the administrative territorial entity,Essex County,10911
+Essex County,capital,Newark,10911

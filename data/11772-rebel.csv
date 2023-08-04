@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+robbery,subclass of,criminal,11772
+raped,subclass of,murder,11772
+robbery,subclass of,criminal,11772
+burglary,subclass of,criminal,11772

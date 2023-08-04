@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+North Station,located in the administrative territorial entity,Boston,17042
+Boston,part of,metro Boston,17042
+metro Boston,has part,Boston,17042
+New England,has part,Vermont,17042
+New England,has part,Maine,17042

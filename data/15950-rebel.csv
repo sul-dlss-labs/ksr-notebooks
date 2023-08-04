@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+hit-and-run,participant,driver,15950
+hit-and-run,has cause,driver,15950
+hit-and-run,has effect,fatal,15950

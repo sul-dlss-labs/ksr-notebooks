@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a standoff with authorities,location,Bakersfield,27870
+standoff with authorities,location,Bakersfield,27870
+a standoff with authorities in Bakersfield,point in time,"April 12, 2020",27870

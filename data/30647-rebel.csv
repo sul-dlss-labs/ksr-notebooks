@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+ONE PERSON,place of death,LAKE PARK,30647
+SHERIFF,subclass of,DEPUTIES,30647
+SHERIFF,subclass of,DEPUTies,30647

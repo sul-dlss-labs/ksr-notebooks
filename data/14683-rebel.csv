@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+columnist,subclass of,journalism,14683
+news site,subclass of,journalism,14683
+news sites,subclass of,journalism,14683

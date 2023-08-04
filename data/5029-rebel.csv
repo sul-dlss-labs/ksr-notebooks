@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Murder in the Second Degree,different from,Manslaughter,5029
+Manslaughter,different from,Murder in the Second Degree,5029
+Murder in the Second Degree,subclass of,lesser charge,5029
+Murder in the Second Degree,different from,Manslaughter,5029

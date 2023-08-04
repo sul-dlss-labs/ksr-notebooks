@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+policereporters,subclass of,crime reporter,22092
+The Advocate,owned by,The Advocate,22092
+The Advocate,publisher,The Advocate,22092

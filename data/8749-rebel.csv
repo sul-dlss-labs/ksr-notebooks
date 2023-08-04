@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+St. Louis,located in the administrative territorial entity,Missouri,8749
+Missouri,contains administrative territorial entity,St. Louis,8749
+St. Louis police,applies to jurisdiction,St. Louis,8749
+St. Louis police,located in the administrative territorial entity,St. Louis,8749

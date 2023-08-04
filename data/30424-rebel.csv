@@ -1,0 +1,10 @@
+subject,predicate,object,fe_id
+Partly cloudy,followed by,Sunny,30424
+Sunny,follows,Partly cloudy,30424
+Today,has part,Partly cloudy,30424
+Today,has part,scattered thunderstorms,30424
+scattered thunderstorms,part of,Today,30424
+Today,has part,Partly cloudy,30424
+Today,has part,scattered thunderstorms,30424
+Today,point in time,104F,30424
+scattered thunderstorms,part of,Today,30424

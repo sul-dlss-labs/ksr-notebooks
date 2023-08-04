@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Andrew,sibling,Stephen,7903
+Stephen,sibling,Andrew,7903
+Ana,sibling,Xena,7903
+Xena,sibling,Ana,7903
+Andrew,sibling,Stephen,7903

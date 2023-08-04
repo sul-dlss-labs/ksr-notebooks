@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+multiple gunshot wounds,subclass of,homicide,16417
+Dontae Martin,place of death,Montgomery County,16417
+Montgomery County,contains administrative territorial entity,Harrison Twp.,16417
+Harrison Twp.,located in the administrative territorial entity,Montgomery County,16417

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+University Hospital,located in the administrative territorial entity,Newark,22038
+Newark,located in the administrative territorial entity,Essex County,22038
+Essex County,contains administrative territorial entity,Newark,22038
+Union Township,shares border with,Newark,22038
+Newark,shares border with,Union Township,22038

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Pistol,subclass of,semi-automatic rifle,22329
+Pistol,subclass of,semiautomatic rifle,22329
+Pistol,different from,semi-automatic rifle,22329
+semi-automatic rifle,different from,Pistol,22329

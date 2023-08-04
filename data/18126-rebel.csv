@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Mercer County,contains administrative territorial entity,Trenton,18126
+Trenton,located in the administrative territorial entity,Mercer County,18126
+Alfred Toe,sibling,Constantine Toe,18126
+Constantine Toe,sibling,Alfred Toe,18126
+Mercer County Prosecutor's Office,located in the administrative territorial entity,New Jersey,18126
+New Jersey,contains administrative territorial entity,Mercer County Prosecutor's Office,18126

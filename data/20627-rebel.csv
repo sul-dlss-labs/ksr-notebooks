@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+MALDEBROWN,located in the administrative territorial entity,MAINE,20627
+MALDEBROWN,located in the administrative territorial entity,MAINE,20627
+MAINE,contains administrative territorial entity,MALDEBROWN,20627
+MASSACHUSETTS,shares border with,MAINE,20627
+MAINE,shares border with,MASSACHUSETTS,20627

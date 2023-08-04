@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alaska Bureau of Investigation,applies to jurisdiction,Alaska,29756
+Alaska State Troopers,parent organization,Department of Public Safety,29756
+Department of Public Safety,subsidiary,Alaska State Troopers,29756
+Alaska State Troopers,parent organization,Department of Public Safety,29756

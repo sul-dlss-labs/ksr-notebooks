@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+I-215,terminus,I-80,14504
+I-80,terminus,I-215,14504
+I-80 interchange,terminus,I-215,14504

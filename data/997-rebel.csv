@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Ponce de Leon Avenue,located in the administrative territorial entity,"Atlanta, GA",997
+Ponce de Leon Avenue,located in the administrative territorial entity,"Atlanta, GA",997
+Ponce de Leon Avenue,located in the administrative territorial entity,Atlanta,997
+DeKalb County,contains administrative territorial entity,"Atlanta, GA",997
+DeKalb County,contains administrative territorial entity,Atlanta,997
+Atlanta,located in the administrative territorial entity,DeKalb County,997
+Atlanta,located in the administrative territorial entity,DeKalb County,997

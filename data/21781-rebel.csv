@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,parent organization,Waco police,21781
+SWAT,part of,Waco police,21781
+SWAT officers,parent organization,Waco police,21781

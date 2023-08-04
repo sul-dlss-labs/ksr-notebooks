@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Jason Edwards,sibling,John Edwards,17266
+John Edwards,sibling,Jason Edwards,17266
+Jason Edwards,place of birth,"Papillion, Nebraska",17266
+Jason Edwards,place of death,"Papillion, Nebraska",17266

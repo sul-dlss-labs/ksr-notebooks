@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Armed Suspect Fatally Shot at 19210 Gulf Freeway,operator,Houston police,15160
+Armed Suspect Fatally Shot at 19210 Gulf Freeway,participant,Houston police,15160
+Houston police,has part,HPD Homicide,15160
+HPD Homicide,part of,Houston police,15160

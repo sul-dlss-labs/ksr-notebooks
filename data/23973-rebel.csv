@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,parent organization,Austin Police,23973
+officer-involved shooting,participant,SWAT,23973
+SWAT,part of,Austin Police,23973

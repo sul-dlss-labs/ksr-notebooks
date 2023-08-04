@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Panic,subclass of,anxiety,13880
+panic,subclass of,anxiety,13880
+Panic,has effect,anxiety,13880

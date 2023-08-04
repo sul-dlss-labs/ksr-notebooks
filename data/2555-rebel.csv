@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Jose A. Mateo,place of death,Washington Heights,2555
+opioid,subclass of,drug,2555
+seized,subclass of,seized,2555

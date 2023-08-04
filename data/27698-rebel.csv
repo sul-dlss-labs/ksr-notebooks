@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chicago,country,United States,27698
+Chicago,country,American,27698
+Chicago,country,United States,27698
+United States,contains administrative territorial entity,Chicago,27698

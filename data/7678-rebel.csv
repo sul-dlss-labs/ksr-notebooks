@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+man shot self,spouse,wife,7678
+wife,spouse,man shot self,7678
+man shot self after wounding wife,participant,Police,7678
+man shot self after wounding wife,operator,Police,7678

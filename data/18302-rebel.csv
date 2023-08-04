@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Martinez,located in the administrative territorial entity,Contra Costa,18302
+Concord BART station,located in the administrative territorial entity,Concord,18302
+Contra Costa,contains administrative territorial entity,Martinez,18302
+Martinez,located in the administrative territorial entity,Contra Costa,18302

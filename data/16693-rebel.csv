@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Troutville,located in the administrative territorial entity,Grayson County,16693
+Grayson County,shares border with,Roanoke,16693
+Roanoke,shares border with,Grayson County,16693
+Grayson County,contains administrative territorial entity,Troutville,16693
+Troutville,located in the administrative territorial entity,Grayson County,16693

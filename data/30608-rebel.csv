@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Chippenham Parkway,located in the administrative territorial entity,Richmond,30608
+Richmond,located in the administrative territorial entity,Virginia,30608
+Virginia,contains administrative territorial entity,Richmond,30608
+Richmond,located in the administrative territorial entity,Va,30608
+Va,contains administrative territorial entity,Richmond,30608

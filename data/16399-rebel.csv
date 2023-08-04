@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Police Department,applies to jurisdiction,Chicago,16399
+Died in police custody,located in the administrative territorial entity,Chicago,16399
+death,different from,cause of death,16399
+cause of death,different from,death,16399

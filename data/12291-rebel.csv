@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+$34 BILLION FISCAL 2014 STATE BUDGET,point in time,2014,12291
+$34 billion,point in time,2014,12291
+$34 BILLION FISCAL 2014 STATE BUDGET,follows,$32.5 billion package,12291
+$32.5 billion package,followed by,$34 BILLION FISCAL 2014 STATE BUDGET,12291

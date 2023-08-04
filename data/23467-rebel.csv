@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+University Hospitals and Clinics,affiliation,University of Iowa,23467
+University Hospitals and Clinics,located in the administrative territorial entity,Iowa,23467
+University of Iowa Hospitals,affiliation,University Hospitals and Clinics,23467

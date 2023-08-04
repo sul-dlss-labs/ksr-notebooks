@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Nuevo,located in the administrative territorial entity,Riverside County,15338
+Menlo Park,located in the administrative territorial entity,San Mateo County,15338
+San Mateo County,contains administrative territorial entity,Menlo Park,15338
+Menlo Park,located in the administrative territorial entity,San Mateo,15338
+San Mateo,contains administrative territorial entity,Menlo Park,15338

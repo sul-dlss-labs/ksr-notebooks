@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chicago Police Department,applies to jurisdiction,Chicago,2042
+Chicago police officer,parent organization,Chicago Police Department,2042
+Chicago Police Department,subsidiary,Chicago police officer,2042
+Chicago police officer,parent organization,Chicago Police Department,2042

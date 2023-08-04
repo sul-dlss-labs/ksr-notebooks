@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+LAPD,subsidiary,Mission Division,16656
+Mission Division,parent organization,LAPD,16656
+shot and killed,location,Panorama City,16656
+LAPD,has part,Mission Division,16656
+Mission Division,part of,LAPD,16656

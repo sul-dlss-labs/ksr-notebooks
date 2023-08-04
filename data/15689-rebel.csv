@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Dutchtown,located in the administrative territorial entity,St. Louis County,15689
+St. Louis,located in the administrative territorial entity,Missouri,15689
+Missouri,contains administrative territorial entity,St. Louis,15689
+St. Louis,shares border with,St. Louis County,15689
+St. Louis County,shares border with,St. Louis,15689

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+TAURUS,instance of,REVOLVER,30149
+TAURUS,subclass of,REVOLVER,30149
+TAURUS,instance of,WEAPON,30149

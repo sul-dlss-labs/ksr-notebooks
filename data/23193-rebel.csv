@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Newark Police Department,applies to jurisdiction,Newark,23193
+Jersey City,contains administrative territorial entity,Newark,23193
+Newark,located in the administrative territorial entity,Jersey City,23193
+Newark Police Department,applies to jurisdiction,Jersey City,23193

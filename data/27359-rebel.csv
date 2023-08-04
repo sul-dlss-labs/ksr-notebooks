@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shooting,location,Wausau,27359
+shooting that killed a 35-year-old man in January,location,Wausau,27359
+Department of Justice,subsidiary,Division of Criminal Investigation,27359
+Division of Criminal Investigation,parent organization,Department of Justice,27359

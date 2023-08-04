@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bettendorf,located in the administrative territorial entity,Scott County,28724
+Bettendorf,located in the administrative territorial entity,Scott County,28724
+Scott County,contains administrative territorial entity,Bettendorf,28724
+Bettendorf Police Officer,applies to jurisdiction,"Bettendorf, Iowa",28724

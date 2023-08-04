@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Narrows,located in the administrative territorial entity,Giles County,13606
+Tom Bowers,position held,Salem Commonwealth’s Attorney,13606
+Giles County,contains administrative territorial entity,Salem,13606
+Salem,located in the administrative territorial entity,Giles County,13606

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a volatile incident in Columbus,instance of,standoff,24125
+a volatile incident,location,Columbus,24125
+a volatile incident in Columbus on Sunday,instance of,standoff,24125

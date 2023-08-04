@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Lizella,located in the administrative territorial entity,Bibb County,25214
+Macon,located in the administrative territorial entity,Bibb County,25214
+Bibb County,contains administrative territorial entity,Macon,25214
+Navicent Health Center,located in the administrative territorial entity,Macon,25214

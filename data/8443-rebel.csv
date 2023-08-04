@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Chatham County,shares border with,Moore County,8443
+Moore County,shares border with,Chatham County,8443
+Pittsboro,located in the administrative territorial entity,Moore County,8443
+Moore County,contains administrative territorial entity,Pittsboro,8443
+Pittsboro,located in the administrative territorial entity,Chatham County,8443
+Chatham County,contains administrative territorial entity,Pittsboro,8443

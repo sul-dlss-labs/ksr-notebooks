@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,part of,Columbus Police,24230
+SWAT,parent organization,Columbus Police,24230
+Columbus Police Hostage Negotiation Team,part of,SWAT,24230

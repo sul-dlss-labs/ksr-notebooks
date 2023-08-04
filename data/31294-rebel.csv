@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Lithonia,located in the administrative territorial entity,DeKalb County,31294
+DeKalb County,located in the administrative territorial entity,Ga.,31294
+Ga.,contains administrative territorial entity,DeKalb County,31294
+Lithonia,located in the administrative territorial entity,"DeKalb County, Ga.",31294

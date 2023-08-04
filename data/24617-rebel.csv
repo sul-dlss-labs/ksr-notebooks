@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+He is doing a good job,opposite of,He is doing an average job,24617
+He is doing an average job,opposite of,He is doing a good job,24617
+He is doing a good job,opposite of,He is doing a bad job,24617
+He is doing a bad job,opposite of,He is doing a good job,24617
+He is doing a good job,different from,He is doing an average job,24617
+He is doing an average job,different from,He is doing a good job,24617

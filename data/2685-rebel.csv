@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+San Bernardino County Sheriff’s deputies,parent organization,San Bernardino County Sheriff’s Department,2685
+San Bernardino County Sheriff’s Department,subsidiary,San Bernardino County Sheriff’s deputies,2685
+San Bernardino County Sheriff’s deputies,part of,San Bernardino County Sheriff’s Department,2685
+San Bernardino County Sheriff’s Department,has part,San Bernardino County Sheriff’s deputies,2685
+San Bernardino County Sheriff’s deputies,parent organization,San Bernardino County Sheriff’s Department,2685

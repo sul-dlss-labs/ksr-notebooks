@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Rodney Harrison,employer,NYPD,31072
+NYPD Chief of Department,part of,NYPD,31072
+NYPD,office held by head of the organization,NYPD Chief of Department,31072

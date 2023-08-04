@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+West Side,located in the administrative territorial entity,San Antonio,30057
+San Antonio police,has part,San Antonio Police Department,30057
+San Antonio Police Department,part of,San Antonio police,30057
+San Antonio police,has part,San Antonio Police Department,30057
+San Antonio Police Department,parent organization,San Antonio police,30057

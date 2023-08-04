@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer Jake Knight,employer,Milwaukee police,20346
+shot and killed a man,point in time,11/19/2005,20346
+officer,applies to jurisdiction,Milwaukee,20346

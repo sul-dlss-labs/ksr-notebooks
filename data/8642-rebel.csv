@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Nelson & Rozier,instance of,law firm,8642
+Big rig,subclass of,tanker,8642
+Big rig,subclass of,semi trucks,8642

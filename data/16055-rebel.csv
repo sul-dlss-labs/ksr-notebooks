@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Rescue 57,operator,DFR,16055
+Rescue 57,owned by,DFR,16055
+"The subject died on May 4, 2015",point in time,"May 4, 2015",16055

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Los Angeles County Sheriff's,subsidiary,Sheriff’s Headquarters Bureau,13610
+Sheriff’s Headquarters Bureau,parent organization,Los Angeles County Sheriff's,13610
+Sgt. Eddie Hernandez,employer,Los Angeles County Sheriff's,13610
+Los Angeles County Sheriff's,has part,Sheriff’s Headquarters Bureau,13610
+Sheriff’s Headquarters Bureau,part of,Los Angeles County Sheriff's,13610

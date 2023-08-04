@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+Virginia,contains administrative territorial entity,Bedford,22667
+Virginia,contains administrative territorial entity,Richmond,22667
+Bedford,located in the administrative territorial entity,Virginia,22667
+Richmond,located in the administrative territorial entity,Virginia,22667
+Bedford County,shares border with,Richmond,22667
+Richmond,shares border with,Bedford County,22667
+Bedford County,contains administrative territorial entity,Richmond,22667
+Richmond,located in the administrative territorial entity,Bedford County,22667

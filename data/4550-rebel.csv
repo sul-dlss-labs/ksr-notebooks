@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Heritage Oaks Hospital,located in the administrative territorial entity,Sacramento,4550
+a large brain tumor,has effect,retardation,4550
+a large brain tumor,has effect,retardation,4550
+retardation,has cause,a large brain tumor,4550

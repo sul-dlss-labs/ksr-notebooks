@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+News-Record,instance of,free views,26225
+No subscription,different from,subscription,26225
+subscription,different from,No subscription,26225
+News-Record,has part,News-Record newsletter,26225

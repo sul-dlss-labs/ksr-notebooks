@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+navigation,part of,site,10434
+navigation,part of,site,10434
+site,has part,navigation,10434
+error,facet of,navigation,10434

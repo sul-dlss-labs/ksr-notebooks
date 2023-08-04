@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Oklahoma City Police chase,instance of,police chase,4711
+second-degree murder,follows,first-degree murder,4711
+second-degree murder,follows,first-degree murder,4711
+first-degree murder,followed by,second-degree murder,4711

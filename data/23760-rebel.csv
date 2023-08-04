@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Brevard County,contains administrative territorial entity,Grant-Valkaria,23760
+Grant-Valkaria,located in the administrative territorial entity,Brevard County,23760
+Brevard County,located in the administrative territorial entity,Florida,23760
+Florida,contains administrative territorial entity,Brevard County,23760
+Brevard County Sheriff,applies to jurisdiction,Brevard County,23760
+Grant-Valkaria,located in the administrative territorial entity,Brevard County,23760

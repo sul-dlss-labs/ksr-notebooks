@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Fernando,located in the administrative territorial entity,Los Angeles County,30010
+San Fernando police officers,parent organization,Los Angeles County Sheriff's Department,30010
+San Fernando,located in the administrative territorial entity,Los Angeles County,30010
+Los Angeles County,contains administrative territorial entity,San Fernando,30010

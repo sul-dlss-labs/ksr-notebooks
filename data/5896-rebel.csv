@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Officer Mike Lopez,employer,Los Angeles Police Department,5896
+Mike Lopez,employer,Los Angeles Police Department,5896
+LAPD,subsidiary,Force Investigation Division,5896
+Force Investigation Division,parent organization,LAPD,5896

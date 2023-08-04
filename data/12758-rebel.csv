@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Montana Department of Justice,subsidiary,Division of Criminal Investigation,12758
+Division of Criminal Investigation,parent organization,Montana Department of Justice,12758
+Montana Department of Justice,subsidiary,Montana State Crime Lab,12758
+Montana Department of Justice,subsidiary,Montana State Crime Lab,12758
+Montana State Crime Lab,parent organization,Montana Department of Justice,12758

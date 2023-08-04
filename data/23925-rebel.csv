@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Wausau Police Chief,applies to jurisdiction,Wausau,23925
+Marathon County,contains administrative territorial entity,Wausau,23925
+Marathon County,contains administrative territorial entity,Marshfield,23925
+Marshfield,located in the administrative territorial entity,Marathon County,23925

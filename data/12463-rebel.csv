@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+digital e-edition,subclass of,online content,12463
+online content,subclass of,digital e-edition,12463
+e-edition,subclass of,online content,12463

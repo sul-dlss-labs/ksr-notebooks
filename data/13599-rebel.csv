@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Wilmington Police,located in the administrative territorial entity,WWAY,13599
+Police Chief,part of,Wilmington Police,13599
+Police Chief,part of,Wilmington Police,13599
+Wilmington Police,has part,Police Chief,13599

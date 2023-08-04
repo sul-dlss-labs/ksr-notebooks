@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+standoff,participant,Chesapeake police,25813
+SWAT,parent organization,Chesapeake police,25813
+Chesapeake police,has part,PIO,25813
+PIO,part of,Chesapeake police,25813

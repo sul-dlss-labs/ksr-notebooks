@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alvaro Zabaleta,employer,Miami-Dade Police,11230
+West Miami Police,parent organization,Miami-Dade Police,11230
+West Miami Police,parent organization,Miami-Dade Police,11230
+Miami-Dade Police,subsidiary,West Miami Police,11230

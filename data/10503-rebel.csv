@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Tompkins County,located in the administrative territorial entity,New York state,10503
+New York state,contains administrative territorial entity,Tompkins County,10503
+Tompkins County,located in the administrative territorial entity,New York,10503
+New York,contains administrative territorial entity,Tompkins County,10503
+Tompkins County Mental Health Association,located in the administrative territorial entity,New York state,10503

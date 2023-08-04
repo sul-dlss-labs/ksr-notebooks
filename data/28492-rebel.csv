@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Westminster Barrack,operator,Maryland State Police,28492
+Maryland State Police Crash Team,part of,Maryland State Police,28492
+Maryland State Police,has part,Maryland State Police Crash Team,28492

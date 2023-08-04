@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+eight-hour standoff,location,Port St. Lucie,17642
+unrelated standoff,location,Port St. Lucie,17642
+an eight-hour standoff,location,Port St. Lucie,17642

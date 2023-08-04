@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+January incident,location,Baltimore,10638
+January incident,located in the administrative territorial entity,Baltimore,10638
+January incident outside Select Lounge,instance of,police shooting,10638

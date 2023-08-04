@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Broadway,located in the administrative territorial entity,"Rockingham County, Va.",29215
+Broadway,located in the administrative territorial entity,Rockingham County,29215
+Rockingham County,contains administrative territorial entity,"Harrisonburg, Va.",29215
+"Harrisonburg, Va.",located in the administrative territorial entity,Rockingham County,29215

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Washington Blvd,connects with,Route 50,17819
+Route 50,connects with,Washington Blvd,17819
+Washington Blvd,connects with,Route 50,17819
+All lanes of Washington Blvd remains closed near Fort Myer,location,Washington Blvd,17819

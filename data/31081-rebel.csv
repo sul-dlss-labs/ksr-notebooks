@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alexis Sharkey,date of death,"November 27, 2020",31081
+Alexis Sharkey,employer,Houston Police Department,31081
+Alexis Sharkey,spouse,her husband,31081
+her husband,spouse,Alexis Sharkey,31081

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Jose,located in the administrative territorial entity,Santa Clara County,10645
+Lehigh Permanente,headquarters location,Cupertino,10645
+Santa Clara County,contains administrative territorial entity,Sunnyvale,10645
+Sunnyvale,located in the administrative territorial entity,Santa Clara County,10645

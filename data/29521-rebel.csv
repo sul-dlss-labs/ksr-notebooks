@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Gilroy,shares border with,San Jose,29521
+San Jose,shares border with,Gilroy,29521
+Gilroy,shares border with,San Jose,29521
+homicide,location,Gilroy,29521

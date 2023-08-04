@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+Troy Goode,spouse,Kelli,16393
+Kelli,spouse,Troy Goode,16393
+Troy Goode,spouse,his wife Kelli,16393
+his wife Kelli,spouse,Troy Goode,16393
+Troy Goode,spouse,Kelli,16393
+Kelli,spouse,Troy Goode,16393
+Kelli,child,Ryan,16393
+Ryan,mother,Kelli,16393

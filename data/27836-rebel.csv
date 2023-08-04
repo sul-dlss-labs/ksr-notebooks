@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Department of Justice,subsidiary,Wisconsin Department of Justice,27836
+Department of Justice,subsidiary,Division of Criminal Investigation,27836
+Division of Criminal Investigation,parent organization,Wisconsin Department of Justice,27836
+Department of Justice Division of Criminal Investigation,parent organization,Wisconsin Department of Justice,27836

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Gary Loyd,place of birth,Albuquerque,5156
+Sweetwater County,contains administrative territorial entity,Albuquerque,5156
+Albuquerque,located in the administrative territorial entity,Sweetwater County,5156
+Sweetwater County,contains administrative territorial entity,Albuquerque,5156

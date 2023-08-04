@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Brooklyn,shares border with,Cleveland,8444
+Brook Park,shares border with,Brooklyn,8444
+Brooklyn,shares border with,Brook Park,8444
+Cleveland,shares border with,Brooklyn,8444
+Brooklyn,shares border with,Cleveland,8444

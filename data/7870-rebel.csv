@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,use,shocked,7870
+Taser,subject has role,shocked,7870
+Los Angeles,country,United States,7870

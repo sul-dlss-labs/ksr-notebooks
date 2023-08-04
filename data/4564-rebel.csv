@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+sickle-cell trait,subclass of,intravascular sickling,4564
+sickle-cell disease,subclass of,intravascular sickling,4564
+sickle-cell trait,subclass of,sickle-cell disease,4564

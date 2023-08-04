@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Topeka,located in the administrative territorial entity,Douglas County,2822
+Douglas County,contains administrative territorial entity,Topeka,2822
+Topeka,located in the administrative territorial entity,Jefferson County,2822
+Jefferson County,contains administrative territorial entity,Topeka,2822
+Lawrence,located in the administrative territorial entity,Douglas County,2822
+Douglas County,contains administrative territorial entity,Lawrence,2822

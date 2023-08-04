@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Border Patrol,subsidiary,El Paso Sector,26950
+El Paso Sector,parent organization,Border Patrol,26950
+El Paso Sector,located in the administrative territorial entity,New Mexico,26950
+Sunland Park shooting,location,Sunland Park,26950

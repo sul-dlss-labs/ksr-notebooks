@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Excited Delirium Syndrome,subclass of,overdose of adrenaline,6124
+Excited Delirium Syndrome,subclass of,sudden death,6124
+Excited Delirium Syndrome,has cause,overdose of adrenaline,6124

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Santa Clarita,located in the administrative territorial entity,Los Angeles County,5423
+Santa Clarita,located in the administrative territorial entity,Los Angeles County,5423
+Los Angeles County,contains administrative territorial entity,Santa Clarita,5423
+Andres Garcia,place of death,Santa Clarita,5423

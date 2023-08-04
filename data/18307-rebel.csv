@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Kent Police,has part,Auburn Police,18307
+Kent Police,applies to jurisdiction,Kent,18307
+Kent Police,subsidiary,Auburn Police,18307
+Auburn Police,parent organization,Kent Police,18307

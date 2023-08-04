@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Juan Bautista,country,Mexico,22943
+pursuit crash,location,Interstate 15,22943
+San Juan Bautista,country,Mexico,22943
+Mexico,contains administrative territorial entity,San Juan Bautista,22943

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+West Rogers Park,instance of,Northwest Side,25125
+West Rogers Park,location,Northwest Side,25125
+Chicago,located in the administrative territorial entity,Cook County,25125
+Cook County,contains administrative territorial entity,Chicago,25125

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police Chief John Hayden,applies to jurisdiction,St. Louis,27143
+Police Chief,applies to jurisdiction,St. Louis,27143
+police,applies to jurisdiction,St. Louis,27143

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+CBSMIAMI,owned by,CBS Radio Inc.,17132
+CBSMIAMI,owned by,CBS,17132
+CBS,owner of,CBSMIAMI,17132
+CBSMIAMI.COM,owned by,CBS Radio Inc.,17132
+CBS Radio Inc.,owner of,CBSMIAMI.COM,17132

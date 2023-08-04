@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Chicago,located in the administrative territorial entity,Cook County,16342
+Cook County,contains administrative territorial entity,Chicago,16342
+Chatham,located in the administrative territorial entity,Chicago,16342
+Chicago,located in the administrative territorial entity,Cook County,16342
+Chicago Police Department,applies to jurisdiction,Chicago,16342

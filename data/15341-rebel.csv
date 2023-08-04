@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Plant City Police Department,applies to jurisdiction,Plant City,15341
+Florida,contains administrative territorial entity,Hillsborough County,15341
+Hillsborough County,located in the administrative territorial entity,Florida,15341
+Plant City,located in the administrative territorial entity,Hillsborough County,15341
+Hillsborough County,contains administrative territorial entity,Plant City,15341

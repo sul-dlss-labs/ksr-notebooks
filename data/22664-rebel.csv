@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Chesapeake,located in the administrative territorial entity,Virginia,22664
+Virginia,contains administrative territorial entity,Chesapeake,22664
+Chesapeake,shares border with,York County,22664
+York County,shares border with,Chesapeake,22664
+Jelani Adom Green,place of death,Chesapeake,22664

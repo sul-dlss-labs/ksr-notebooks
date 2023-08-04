@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Oakland County Sheriff’s Office,parent organization,Public Safety Department,23498
+Public Safety Department,parent organization,Oakland County Sheriff’s Office,23498
+Public Safety Department,applies to jurisdiction,Oakland County,23498

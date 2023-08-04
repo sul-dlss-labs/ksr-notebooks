@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Wayne County,contains administrative territorial entity,Detroit,25127
+Detroit,located in the administrative territorial entity,Wayne County,25127
+Detroit Police,applies to jurisdiction,Detroit,25127
+Wayne County Sheriff's,located in the administrative territorial entity,Detroit,25127

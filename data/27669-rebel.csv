@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+NW Side,located in the administrative territorial entity,San Antonio,27669
+standoff,location,San Antonio,27669
+"SWAT situation unfolds at NW Side home, nearby school on lockdown",instance of,standoff,27669

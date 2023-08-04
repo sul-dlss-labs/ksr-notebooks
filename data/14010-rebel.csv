@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+WWAY,located in the administrative territorial entity,Wilmington,14010
+Wilmington Police,applies to jurisdiction,Wilmington,14010
+Wilmington Police,owner of,WWAY,14010
+WWAY,owned by,Wilmington Police,14010

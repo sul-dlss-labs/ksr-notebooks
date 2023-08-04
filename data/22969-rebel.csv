@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Rogers,located in the administrative territorial entity,Hennepin County,22969
+Hennepin County,located in the administrative territorial entity,Minnesota,22969
+Minnesota,contains administrative territorial entity,Hennepin County,22969
+Hennepin County,contains administrative territorial entity,Rogers,22969
+Rogers,located in the administrative territorial entity,Hennepin County,22969

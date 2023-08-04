@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+SWAT team,applies to jurisdiction,San Jose,27302
+SWAT,part of,San Jose police,27302
+San Jose police officers,subsidiary,SWAT team,27302
+SWAT team,parent organization,San Jose police officers,27302

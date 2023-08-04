@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+political,subclass of,forum,6903
+political,part of,public,6903
+political,has part,forum,6903

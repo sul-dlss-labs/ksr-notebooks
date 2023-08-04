@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Taurus,subclass of,firearm,16356
+firearm,has part,chamber,16356
+firearm,has part,chamber,16356
+chamber,part of,firearm,16356

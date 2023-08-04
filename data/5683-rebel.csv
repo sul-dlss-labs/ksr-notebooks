@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+current heat wave,has cause,drought,5683
+current heat wave,has cause,drought,5683
+drought,has effect,current heat wave,5683
+heat wave,has cause,drought,5683
+drought,has effect,heat wave,5683

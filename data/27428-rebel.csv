@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+"Savannah, GA",located in the administrative territorial entity,"Chatham County, Georgia",27428
+"Chatham County, Georgia",contains administrative territorial entity,"Savannah, GA",27428
+Savannah,located in the administrative territorial entity,"Chatham County, Georgia",27428
+"Chatham County, Georgia",contains administrative territorial entity,Savannah,27428
+"Savannah, GA",located in the administrative territorial entity,"Chatham County, Georgia",27428
+"Chatham County, Georgia",capital,"Savannah, GA",27428

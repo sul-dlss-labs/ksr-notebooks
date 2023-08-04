@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Atlanta police,applies to jurisdiction,Atlanta,10223
+Atlanta,part of,metro area,10223
+Atlanta,part of,metro area,10223
+metro area,has part,Atlanta,10223

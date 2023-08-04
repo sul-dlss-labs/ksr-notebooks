@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Interstate 5,maintained by,California Highway Patrol,12323
+Interstate 5,owned by,California Highway Patrol,12323
+Golden State Freeway,has part,5 Freeway,12323
+5 Freeway,part of,Golden State Freeway,12323

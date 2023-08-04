@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Swartz,located in the administrative territorial entity,Ouachita Parish,27801
+Louisiana State Police Bureau of Investigations,subsidiary,Monroe Field Office,27801
+Monroe Field Office,parent organization,Louisiana State Police Bureau of Investigations,27801
+Louisiana State Police,subsidiary,Monroe Field Office,27801
+Monroe Field Office,parent organization,Louisiana State Police,27801

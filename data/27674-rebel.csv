@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+I-275 Westbound,terminus,US-127,27674
+I-275,has part,I-275 Westbound,27674
+I-275 Westbound,terminus,I-275,27674

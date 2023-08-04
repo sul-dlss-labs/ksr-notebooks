@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Carlos Ocana,date of death,"May 24, 2014",14542
+Los Angeles Police Department,has part,Metropolitan Division,14542
+Metropolitan Division,part of,Los Angeles Police Department,14542
+Los Angeles Police Department,has part,Metropolitan Division,14542
+Metropolitan Division,parent organization,Los Angeles Police Department,14542

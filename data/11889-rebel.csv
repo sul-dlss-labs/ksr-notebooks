@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Henrietta Lacks' cancer cells,instance of,cells,11889
+Henrietta Lacks' cancer cells,subclass of,cells,11889
+Henrietta Lacks' cancer cells,significant event,taken from her without consent or knowledge,11889

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+head-on crash,operator,California Highway Patrol,7822
+fatal head-on crash,location,10 Freeway,7822
+a head-on collision,operator,California Highway Patrol,7822

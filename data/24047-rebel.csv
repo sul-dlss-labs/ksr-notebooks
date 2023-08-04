@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,Hazleton,24047
+Police find body of man who held them at bay inside duplex,instance of,standoff,24047
+police,located in the administrative territorial entity,Hazleton,24047

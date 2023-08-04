@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Pima Regional SWAT Team,parent organization,Pima County Sheriff's deputies,22890
+Pima Regional SWAT Team,part of,Pima County Sheriff's deputies,22890
+Pima County Sheriff's,has part,Pima Regional SWAT Team,22890

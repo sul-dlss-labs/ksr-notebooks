@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+incarcerated,subclass of,prison,15669
+Alaska State Troopers,applies to jurisdiction,Alaska,15669
+a report Monday,author,Gov. Bill Walker,15669

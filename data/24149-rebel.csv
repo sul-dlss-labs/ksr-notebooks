@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting in the past 10 days,point in time,2018,24149
+officer-involved shooting,subclass of,shootings involving police,24149
+officer-involved shooting in the past 10 days,is a list of,officer-involved shootings,24149

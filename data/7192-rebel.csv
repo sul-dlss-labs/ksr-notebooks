@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police shot and killed Minshew,instance of,standoff,7192
+police standoff,instance of,standoff,7192
+a police officer was killed,instance of,standoff,7192

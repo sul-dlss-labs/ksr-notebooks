@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+CPR,practiced by,nurse,15561
+CPR,instance of,certified,15561
+certified,practiced by,nurse,15561

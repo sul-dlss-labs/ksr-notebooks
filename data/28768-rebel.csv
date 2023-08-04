@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+protests,has cause,September 9 killing of Antonio Blackbear,28768
+shootings,has effect,protests,28768
+protests,point in time,September 9,28768

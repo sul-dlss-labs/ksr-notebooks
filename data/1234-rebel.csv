@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Chicago,contains administrative territorial entity,Calumet District,1234
+Calumet District,located in the administrative territorial entity,Chicago,1234
+Chicago,has part,Calumet District,1234
+Calumet District,located in the administrative territorial entity,Chicago,1234
+Chicago police,located in the administrative territorial entity,Calumet District,1234

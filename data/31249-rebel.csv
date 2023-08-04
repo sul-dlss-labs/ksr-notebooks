@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+LAS VEGAS,located in or next to body of water,Lake Mead,31249
+Las Vegas Metro,instance of,police,31249
+Las Vegas Metro police,has part,Officer Amelia Lukac,31249
+Officer Amelia Lukac,part of,Las Vegas Metro police,31249

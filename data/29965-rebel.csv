@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Corvallis,located in the administrative territorial entity,Benton County,29965
+Benton County,contains administrative territorial entity,Corvallis,29965
+Philomath,located in the administrative territorial entity,Corvallis,29965
+Corvallis Police Department,applies to jurisdiction,Corvallis,29965

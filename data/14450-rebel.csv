@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Daytona Beach Police Department,applies to jurisdiction,Daytona Beach,14450
+Florida,contains administrative territorial entity,"Volusia County, Fla.",14450
+"Volusia County, Fla.",located in the administrative territorial entity,Florida,14450
+Florida,contains administrative territorial entity,Volusia County,14450
+Volusia County,located in the administrative territorial entity,Florida,14450

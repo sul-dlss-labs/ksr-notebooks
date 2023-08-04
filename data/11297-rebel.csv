@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Computer software applications,subclass of,software,11297
+computer programs,subclass of,Computer software,11297
+computer program,subclass of,Computer software,11297

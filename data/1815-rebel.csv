@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Tremont,located in the administrative territorial entity,The Bronx,1815
+Tremont,located in the administrative territorial entity,The Bronx,1815
+Hudson line,located in the administrative territorial entity,The Bronx,1815
+Metro-North,has part,Hudson line,1815
+Hudson line,operator,Metro-North,1815

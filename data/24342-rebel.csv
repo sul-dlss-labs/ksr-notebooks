@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Baltimore,located in the administrative territorial entity,Maryland,24342
+Maryland,contains administrative territorial entity,Baltimore,24342
+Hillside Police Department,located in the administrative territorial entity,"Baltimore, Maryland",24342
+Hillside Police Department,located in the administrative territorial entity,Union Township,24342

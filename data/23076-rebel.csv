@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+AdminCP,use,theme,23076
+AdminCP,use,Theme,23076
+CustomHeader,instance of,Theme,23076

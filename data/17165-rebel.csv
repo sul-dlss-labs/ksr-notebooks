@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+news,part of,community,17165
+news in our community,facet of,news,17165
+news in our community,subclass of,news,17165

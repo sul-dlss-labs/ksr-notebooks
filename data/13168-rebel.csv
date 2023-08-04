@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police shot,instance of,officer-involved shooting,13168
+Police,applies to jurisdiction,Durham,13168
+Police,has part,Durham Police Department,13168

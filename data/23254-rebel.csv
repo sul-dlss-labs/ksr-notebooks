@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+TBI Special Agents,parent organization,Tennessee Bureau of Investigation,23254
+Overton County,contains administrative territorial entity,Livingston,23254
+Livingston,located in the administrative territorial entity,Overton County,23254
+officer-involved shooting in Overton County,participant,Overton County Sheriff's Office,23254

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+crash,instance of,accident,24632
+Orinda BART station,located in the administrative territorial entity,Orinda,24632
+accident,subclass of,death,24632

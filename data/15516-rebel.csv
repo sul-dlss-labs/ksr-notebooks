@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Morgan,shares border with,Owen,15516
+Owen,shares border with,Morgan,15516
+Zionsville,located in the administrative territorial entity,Owen,15516
+Owen,contains administrative territorial entity,Zionsville,15516
+Owen County,shares border with,Morgan,15516
+Morgan,shares border with,Owen County,15516

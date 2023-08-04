@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Frank Perino,employer,San Pablo police,8606
+San Pablo police officers,applies to jurisdiction,San Pablo,8606
+Frank Perino,employer,San Pablo police officers,8606

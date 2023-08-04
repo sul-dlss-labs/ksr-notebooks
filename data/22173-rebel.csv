@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Arcola,located in the administrative territorial entity,Allen County,22173
+Allen County,contains administrative territorial entity,Fort Wayne,22173
+Fort Wayne,located in the administrative territorial entity,Allen County,22173
+Allen County Coroner,located in the administrative territorial entity,Fort Wayne,22173

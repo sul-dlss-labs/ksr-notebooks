@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+paramedics,field of this occupation,emergency medical treatment,444
+emergency medical treatment,practiced by,paramedics,444
+opioid,subclass of,drug,444
+coronation,subclass of,burial,444

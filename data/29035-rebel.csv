@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Herriman,located in the administrative territorial entity,Salt Lake County,29035
+Utah,contains administrative territorial entity,Salt Lake County,29035
+Salt Lake County,located in the administrative territorial entity,Utah,29035
+Herriman,located in the administrative territorial entity,Salt Lake County,29035
+Salt Lake County,contains administrative territorial entity,Herriman,29035

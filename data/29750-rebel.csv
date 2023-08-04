@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff at Old No 77,location,New Orleans,29750
+standoff,location,New Orleans,29750
+standoff at Old No 77,located in the administrative territorial entity,New Orleans,29750

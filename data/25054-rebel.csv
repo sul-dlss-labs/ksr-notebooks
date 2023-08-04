@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+The World,has part,E-Editions,25054
+E-Editions,part of,The World,25054
+The World,has part,E-Editions,25054
+The World,instance of,E-Editions,25054

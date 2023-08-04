@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+WAFB,located in the administrative territorial entity,Walker,10029
+WAFB,located in the administrative territorial entity,Livingston Parish,10029
+Walker,located in the administrative territorial entity,Louisiana,10029
+Livingston Parish,located in the administrative territorial entity,Louisiana,10029
+Louisiana,contains administrative territorial entity,Livingston Parish,10029

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+OSBI,headquarters location,OSBI Headquarters,19226
+OSBI Forensic Science Center,parent organization,OSBI,19226
+OSBI Headquarters,has part,OSBI Forensic Science Center,19226
+OSBI Forensic Science Center,part of,OSBI Headquarters,19226

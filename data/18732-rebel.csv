@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Virginia State Police,subsidiary,Virginia State Police Bureau of Criminal Investigation,18732
+Virginia State Police Bureau of Criminal Investigation,parent organization,Virginia State Police,18732
+Tony Lippa,position held,Caroline County Sheriff's,18732
+Virginia State Police,subsidiary,Richmond Field Office,18732
+Richmond Field Office,parent organization,Virginia State Police,18732

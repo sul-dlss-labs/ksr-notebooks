@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Comment,subclass of,Article,25156
+Comment,part of,Article,25156
+Comment,part of,Article,25156
+Article,has part,Comment,25156

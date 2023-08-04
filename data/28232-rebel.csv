@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Amarillo Police Department,located in the administrative territorial entity,Texas,28232
+Amarillo,located in the administrative territorial entity,Potter County,28232
+Potter County,contains administrative territorial entity,Amarillo,28232
+Amarillo Police Department,applies to jurisdiction,Amarillo,28232

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Philadelphia,head of government,Michael Nutter,8177
+Philadelphia,office held by head of government,Mayor,8177
+Mayor,applies to jurisdiction,Philadelphia,8177
+Michael Nutter,position held,Mayor,8177
+Philadelphia,office held by head of government,Mayor,8177
+Mayor,applies to jurisdiction,Philadelphia,8177

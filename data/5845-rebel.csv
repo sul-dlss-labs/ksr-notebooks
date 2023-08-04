@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Uriah Hamilton,employer,Ypsilanti Police,5845
+Matt Harshberger,employer,Ypsilanti Police,5845
+Ypsilanti Police,subsidiary,Livingston and Washtenaw Narcotics Enforcement Team,5845
+Livingston and Washtenaw Narcotics Enforcement Team,parent organization,Ypsilanti Police,5845

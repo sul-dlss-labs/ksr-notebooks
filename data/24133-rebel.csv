@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Alamance County,shares border with,Randolph County,24133
+Randolph County,shares border with,Alamance County,24133
+"Alamance County, NC",shares border with,Randolph County,24133
+Randolph County,shares border with,"Alamance County, NC",24133
+Alamance,shares border with,Randolph County,24133
+Randolph County,shares border with,Alamance,24133

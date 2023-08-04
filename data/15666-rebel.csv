@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer Emilio Luna,employer,Omaha police,15666
+officer,part of,police,15666
+Officer Emilio Luna,employer,Omaha police officers,15666

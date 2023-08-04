@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+HPD Special Investigations Unit,parent organization,Houston police,24813
+Houston police,has part,Special Weapons and Tactics,24813
+Houston police,has part,Special Weapons and Tactics,24813
+Special Weapons and Tactics,part of,Houston police,24813

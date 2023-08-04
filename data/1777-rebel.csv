@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Kane County,contains administrative territorial entity,Naperville,1777
+Naperville,located in the administrative territorial entity,Kane County,1777
+Kane County Sheriff's,headquarters location,Naperville,1777
+Dan Schindlbeck,employer,Kane County Sheriff's,1777

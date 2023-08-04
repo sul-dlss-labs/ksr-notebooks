@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,use,stun gun,4099
+police use of Tasers,has effect,contributing cause,4099
+contributing cause,has cause,police use of Tasers,4099

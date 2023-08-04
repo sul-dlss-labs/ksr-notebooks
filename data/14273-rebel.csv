@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+pump-action,part of,shotgun,14273
+16-gauge,subclass of,shotgun,14273
+shotgun,subclass of,firearm,14273

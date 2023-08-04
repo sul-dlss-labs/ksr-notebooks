@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shooting,participant,Los Angeles Sheriff's Department,29802
+sheriff's homicide division,parent organization,Los Angeles Sheriff's Department,29802
+sheriff's homicide division,part of,Los Angeles Sheriff's Department,29802

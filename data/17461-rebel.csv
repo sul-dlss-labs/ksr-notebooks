@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a self-inflicted gunshot wound,instance of,suicide,17461
+suicide,subclass of,self-inflicted gunshot wound,17461
+Mojave Road,owned by,Las Vegas Metropolitan Police Department,17461

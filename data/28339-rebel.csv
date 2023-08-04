@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+San Diego Police Department,applies to jurisdiction,San Diego,28339
+San Diego Police,applies to jurisdiction,San Diego,28339
+police shooting,participant,San Diego Police Department,28339

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+California Gov.,officeholder,Gavin Newsom,21120
+Gavin Newsom,position held,California Gov.,21120
+California Gov,officeholder,Gavin Newsom,21120
+Gavin Newsom,position held,California Gov,21120
+Florida Gov.,officeholder,Ron DeSantis,21120
+Ron DeSantis,position held,Florida Gov.,21120

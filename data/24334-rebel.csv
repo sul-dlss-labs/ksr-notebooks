@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+St. Louis,located in the administrative territorial entity,Missouri,24334
+Missouri,contains administrative territorial entity,St. Louis,24334
+St. Louis City Police,applies to jurisdiction,St. Louis,24334
+St. Louis,located in the administrative territorial entity,MO,24334
+MO,contains administrative territorial entity,St. Louis,24334

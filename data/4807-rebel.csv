@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Town of Orange,located in the administrative territorial entity,Schuyler County,4807
+Schuyler County,located in the administrative territorial entity,New York,4807
+New York,contains administrative territorial entity,Schuyler County,4807
+Town of Orange,located in the administrative territorial entity,Schuyler County,4807
+Schuyler County,contains administrative territorial entity,Town of Orange,4807

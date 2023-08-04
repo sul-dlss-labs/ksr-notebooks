@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Lake Station,located in the administrative territorial entity,Lake County,15468
+Lake County,contains administrative territorial entity,Lake Station,15468
+"shooting of an armed, elderly man outside of City Hall",location,Lake Station,15468
+"shooting of an armed, elderly man outside of City Hall on Tuesday",location,Lake Station,15468

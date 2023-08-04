@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bill Bratton,position held,Police Commissioner,15033
+Bill Bratton,employer,NYPD,15033
+Police Commissioner,officeholder,Bill Bratton,15033
+Bill Bratton,position held,Police Commissioner,15033

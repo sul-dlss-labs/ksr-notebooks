@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer-involved shooting,participant,Los Angeles County Sheriff’s Department,25118
+Shot and killed,instance of,officer-involved shooting,25118
+Bell Gardens Police Department,parent organization,Los Angeles County Sheriff’s Department,25118

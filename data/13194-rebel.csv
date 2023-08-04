@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,subclass of,police,13194
+police,applies to jurisdiction,Texas,13194
+police had surrounded the home of a local man who was firing guns from his house,point in time,"July 30, 2013",13194

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+homicide,subclass of,autopsies,27792
+murdered,different from,suicide,27792
+suicide,different from,murdered,27792
+homicide,subclass of,autopsies,27792
+suicide,subclass of,autopsies,27792

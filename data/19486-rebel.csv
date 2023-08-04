@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Frank Toledo,employer,Paterson Police Department,19486
+Paterson Police Department,applies to jurisdiction,Paterson,19486
+Paterson,located in the administrative territorial entity,Passaic County,19486
+Passaic County,contains administrative territorial entity,Paterson,19486

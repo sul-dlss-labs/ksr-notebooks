@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Jeffrey Allen Wright,place of death,"Navarre, Fla.",12472
+Jeffrey Allen Wright,instance of,sovereign citizen,12472
+Santa Rosa County,contains administrative territorial entity,"Fort Walton Beach, Fla.",12472
+"Fort Walton Beach, Fla.",located in the administrative territorial entity,Santa Rosa County,12472

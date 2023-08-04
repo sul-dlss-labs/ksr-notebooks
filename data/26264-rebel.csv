@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Washington County,located in the administrative territorial entity,Indiana,26264
+Indiana,contains administrative territorial entity,Washington County,26264
+ISP,applies to jurisdiction,Indiana,26264
+Salem,located in the administrative territorial entity,Washington County,26264
+Washington County,contains administrative territorial entity,Salem,26264

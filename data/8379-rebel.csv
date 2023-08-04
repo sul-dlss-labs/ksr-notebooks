@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Coricidin,instance of,cough medicine,8379
+Josh Davies,date of death,Aug. 21,8379
+Coricidin,subject has role,cough medicine,8379

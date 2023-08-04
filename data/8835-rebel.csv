@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+John Foote,position held,Clackamas County District Attorney,8835
+Clackamas County,shares border with,Multnomah County,8835
+Multnomah County,shares border with,Clackamas County,8835
+Clackamas County,located in the administrative territorial entity,Multnomah County,8835
+Multnomah County,contains administrative territorial entity,Clackamas County,8835

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Interstate 90,located in the administrative territorial entity,Wyoming,27593
+Tyler,capital of,Texas,27593
+Texas,capital,Tyler,27593
+Tyler,located in the administrative territorial entity,Texas,27593
+Texas,contains administrative territorial entity,Tyler,27593

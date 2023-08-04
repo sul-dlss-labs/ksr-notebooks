@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+inadvertently shot,participant,Palm Springs Police Department,9492
+accidentally shot,subclass of,police shootings,9492
+unintentionally shot,subclass of,police shootings,9492

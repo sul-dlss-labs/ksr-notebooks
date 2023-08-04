@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Gaffney,located in the administrative territorial entity,Cherokee County,29785
+Cherokee County,contains administrative territorial entity,Gaffney,29785
+Gaffney,located in the administrative territorial entity,Cherokee County,29785
+North Carolina,contains administrative territorial entity,Cherokee County,29785
+North Carolina,contains administrative territorial entity,Cleveland County,29785
+Cherokee County,located in the administrative territorial entity,North Carolina,29785
+Cleveland County,located in the administrative territorial entity,North Carolina,29785

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Derry,located in the administrative territorial entity,McLean County,17343
+McLean County,contains administrative territorial entity,"Derry, New Hampshire",17343
+"Derry, New Hampshire",located in the administrative territorial entity,McLean County,17343
+Derry,located in the administrative territorial entity,McLean County,17343
+New Hampshire,contains administrative territorial entity,McLean County,17343

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Michael Laws,employer,Overland Police Department,8939
+Overland Police Department,applies to jurisdiction,Overland,8939
+Overland,has part,Overland Police Department,8939

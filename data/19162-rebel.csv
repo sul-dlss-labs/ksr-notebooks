@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Smithfield,located in the administrative territorial entity,Isle of Wight County,19162
+Virginia,contains administrative territorial entity,Isle of Wight County,19162
+Isle of Wight County,located in the administrative territorial entity,Virginia,19162
+Virginia,contains administrative territorial entity,Isle of Wight County,19162
+Isle of Wight County,located in the administrative territorial entity,Virginia,19162
+Isle of Wight County,contains administrative territorial entity,Smithfield,19162
+Smithfield,located in the administrative territorial entity,Isle of Wight County,19162

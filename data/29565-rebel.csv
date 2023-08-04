@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Queensbury,located in the administrative territorial entity,Washington County,29565
+McCann’s Pharmacy,located in the administrative territorial entity,Hudson Falls,29565
+Hudson Falls,located in the administrative territorial entity,Washington County,29565
+Washington County,contains administrative territorial entity,Hudson Falls,29565

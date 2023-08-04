@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+heat exhaustion,subclass of,heat illness,30644
+Oklahoma,shares border with,Texas,30644
+Texas,shares border with,Oklahoma,30644
+heat index,facet of,heat illness,30644

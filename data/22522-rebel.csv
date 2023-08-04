@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shot and killed,instance of,homicide,22522
+gunshot wound,subclass of,cause of death,22522
+shot and killed by Oceanside officers last year,instance of,homicide,22522

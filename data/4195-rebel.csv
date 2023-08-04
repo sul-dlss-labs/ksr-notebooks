@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Los Angeles Police Department,has part,LAPD,4195
+LAPD,parent organization,Los Angeles Police Department,4195
+Los Angeles Police Department,subsidiary,LAPD,4195
+LAPD,parent organization,Los Angeles Police Department,4195
+Los Angeles Police Department,has part,LAPD,4195

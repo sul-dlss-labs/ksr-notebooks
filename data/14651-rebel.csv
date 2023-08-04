@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Fortville,located in the administrative territorial entity,Hancock County,14651
+Fishers,located in the administrative territorial entity,Hancock County,14651
+Hancock County,contains administrative territorial entity,Fishers,14651
+Fortville,located in the administrative territorial entity,Hancock County,14651
+Hancock County,contains administrative territorial entity,Fortville,14651

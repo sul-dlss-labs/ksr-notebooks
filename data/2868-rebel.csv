@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Ciara Jobes,place of death,Baltimore County,2868
+Ciara Jobes,place of death,Baltimore City,2868
+Baltimore City,different from,Baltimore County,2868
+Baltimore County,different from,Baltimore City,2868

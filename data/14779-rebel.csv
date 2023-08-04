@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Dean Flippo,position held,Monterey County District Attorney,14779
+Salinas,located in the administrative territorial entity,Monterey County,14779
+Monterey County,contains administrative territorial entity,Salinas,14779
+District Attorney,applies to jurisdiction,Monterey County,14779

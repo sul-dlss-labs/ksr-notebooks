@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+H-1 freeway,located in the administrative territorial entity,Honolulu,30771
+H-1,located in the administrative territorial entity,Honolulu,30771
+crash,location,H-1 freeway,30771

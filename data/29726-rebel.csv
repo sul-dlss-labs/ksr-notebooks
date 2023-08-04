@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Fresno Police,parent organization,Fresno County Sheriff-Coroner,29726
+Fresno Police,parent organization,Fresno County Sheriff-Coroner,29726
+Fresno County Sheriff-Coroner,subsidiary,Fresno Police,29726
+George Floyd,place of death,Minneapolis,29726

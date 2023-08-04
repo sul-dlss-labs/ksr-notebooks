@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+violent Saturday night,location,Berkeley,8100
+violent Saturday night,location,Berkeley,8100
+violent Saturday night,location,Oakland,8100
+Berkeley,shares border with,Oakland,8100
+Oakland,shares border with,Berkeley,8100

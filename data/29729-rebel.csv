@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+PIT maneuver,subclass of,crash,29729
+PIT maneuver,use,crash,29729
+PIT maneuver,facet of,crash,29729

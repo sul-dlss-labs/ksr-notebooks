@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Kern County,located in the administrative territorial entity,California,10357
+California,contains administrative territorial entity,Kern County,10357
+Kern County,located in the administrative territorial entity,California,10357
+Kern County,contains administrative territorial entity,Bakersfield,10357
+California,contains administrative territorial entity,Kern County,10357
+Bakersfield,located in the administrative territorial entity,Kern County,10357
+Bakersfield,located in the administrative territorial entity,"Kern County, California",10357

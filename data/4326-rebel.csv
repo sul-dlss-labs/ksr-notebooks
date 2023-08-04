@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+David Green,date of death,01 Jul 2005,4326
+Police,applies to jurisdiction,Illinois,4326
+Police,subsidiary,Illinois State Police,4326
+Illinois State Police,parent organization,Police,4326

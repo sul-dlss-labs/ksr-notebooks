@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+bomb squad,parent organization,Los Angeles Police Department,600
+bomb squad,part of,Los Angeles Police Department,600
+LAPD,subsidiary,Los Angeles Police Department bomb squad,600

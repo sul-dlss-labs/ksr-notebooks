@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+methadone,subject has role,narcotic,5382
+methadone,instance of,narcotic,5382
+methadone,subclass of,narcotic,5382

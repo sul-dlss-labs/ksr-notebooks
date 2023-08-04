@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+1999 chase,point in time,1999,3526
+a 1999 chase,point in time,1999,3526
+Police Chief,part of,Wichita police,3526
+Wichita police,has part,Police Chief,3526

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+murdered,subclass of,homicide,1268
+El Monte Police Department,applies to jurisdiction,El Monte,1268
+El Monte Police Department,applies to jurisdiction,Los Angeles County,1268

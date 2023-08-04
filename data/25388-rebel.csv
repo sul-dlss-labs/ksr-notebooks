@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a shootout with San Antonio police,instance of,officer-involved shooting,25388
+man who was shot and killed by police Thursday,instance of,officer-involved shooting,25388
+"a shootout with San Antonio police and was described as an ""active shooter"" has died",instance of,officer-involved shooting,25388

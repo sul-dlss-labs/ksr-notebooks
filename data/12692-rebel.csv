@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shot,operator,Milwaukee Police Department,12692
+"shot an armed, suicidal man",operator,Milwaukee Police Department,12692
+Milwaukee Police Department,has part,District 4,12692
+District 4,part of,Milwaukee Police Department,12692

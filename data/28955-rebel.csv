@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+LAPD,applies to jurisdiction,Los Angeles,28955
+LAPD Southeast patrol unit,parent organization,Los Angeles Police Department,28955
+LAPD Southeast,parent organization,Los Angeles Police Department,28955

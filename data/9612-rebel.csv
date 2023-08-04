@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Incident at 4800 Laura Koppe,point in time,"November 8, 2010",9612
+HPD,applies to jurisdiction,Houston,9612
+Houston Police Department,subsidiary,HPD Homicide,9612
+HPD Homicide,parent organization,Houston Police Department,9612

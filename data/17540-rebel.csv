@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+murder-suicide,subclass of,suicide,17540
+murder-suicide,subclass of,multiple gunshot wounds,17540
+murder-suicide,has cause,multiple gunshot wounds,17540

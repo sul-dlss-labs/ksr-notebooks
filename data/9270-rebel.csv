@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alisa Maier,mother,Kimberly Harrison,9270
+Alisa Maier,mother,Kimberly Harrison,9270
+Kimberly Harrison,child,Alisa Maier,9270
+Alisa Maier,father,David Maier,9270

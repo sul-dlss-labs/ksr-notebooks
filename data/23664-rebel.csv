@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police,applies to jurisdiction,Tulsa,23664
+pursuit,participant,police,23664
+a low-speed pursuit and standoff,location,Tulsa,23664

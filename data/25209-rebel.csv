@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a semitruck was hijacked last week,instance of,carjacking,25209
+shot and killed by police after a semitruck was hijacked last week,participant,police,25209
+shot and killed by police,participant,police,25209

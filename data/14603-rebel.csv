@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+motorcycle wreck,subclass of,crash,14603
+crash,has cause,driver,14603
+crash,participant,driver,14603

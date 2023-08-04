@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Josh Beasley,date of death,2004,3663
+Larry Williams,employer,Orangeburg County Sheriff's,3663
+SLED,subsidiary,State Law Enforcement Division,3663
+State Law Enforcement Division,parent organization,SLED,3663

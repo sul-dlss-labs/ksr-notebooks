@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Metropolitan Hospital,affiliation,NYPD,24405
+Police,parent organization,NYPD,24405
+Force Investigation Division,parent organization,NYPD,24405

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+St. Louis,located in the administrative territorial entity,Missouri,20638
+Missouri,contains administrative territorial entity,St. Louis,20638
+Old North,located in the administrative territorial entity,St. Louis,20638
+Old North St. Louis,instance of,neighborhood,20638

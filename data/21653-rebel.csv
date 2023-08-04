@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Paulden,located in the administrative territorial entity,Arizona,21653
+Arizona,contains administrative territorial entity,Yavapai County,21653
+Yavapai County,located in the administrative territorial entity,Arizona,21653
+PHOENIX,located in the administrative territorial entity,Arizona,21653
+Arizona,contains administrative territorial entity,PHOENIX,21653

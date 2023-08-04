@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Azusa Police Department,parent organization,Los Angeles County Sheriff’s Department,30706
+Glendora,located in the administrative territorial entity,Los Angeles County Sheriff’s Department,30706
+Azusa Police Department,parent organization,Los Angeles County Sheriff’s Department,30706
+Los Angeles County Sheriff’s Department,subsidiary,Azusa Police Department,30706

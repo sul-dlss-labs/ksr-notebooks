@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police Department,applies to jurisdiction,Indio,11478
+shot a suspect,location,Indio,11478
+"police officers shot a suspect Monday, June 25",location,Indio,11478

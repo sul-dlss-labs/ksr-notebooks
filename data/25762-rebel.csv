@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Stone County,contains administrative territorial entity,Springfield,25762
+Springfield,located in the administrative territorial entity,Stone County,25762
+Y Highway,located in the administrative territorial entity,Stone County,25762
+"STONE COUNTY, Mo.",contains administrative territorial entity,Springfield,25762
+Springfield,located in the administrative territorial entity,"STONE County, Mo.",25762

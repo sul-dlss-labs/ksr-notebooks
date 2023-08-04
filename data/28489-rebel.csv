@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Lake View,instance of,North Side,28489
+Lake View,located in the administrative territorial entity,Chicago,28489
+Lake View,located in the administrative territorial entity,Chicago,28489
+Chicago,located in the administrative territorial entity,Cook County,28489
+Cook County,contains administrative territorial entity,Chicago,28489

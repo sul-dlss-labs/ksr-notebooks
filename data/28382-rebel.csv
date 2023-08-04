@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+MacArthur Boulevard,located in the administrative territorial entity,Oklahoma City,28382
+Oklahoma Highway Patrol,located in the administrative territorial entity,metro,28382
+metro,has part,Oklahoma City,28382
+Oklahoma City,part of,metro,28382

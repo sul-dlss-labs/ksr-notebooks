@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,location,Kansas City,21675
+officers,applies to jurisdiction,Kansas City,21675
+"Officers called on domestic disturbance about 8,45 a.m. Friday",instance of,officer-involved shooting,21675

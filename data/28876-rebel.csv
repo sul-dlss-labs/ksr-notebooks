@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,subclass of,police,28876
+SWAT team,part of,Warner Robins Police Department,28876
+a standoff,location,Warner Robins,28876

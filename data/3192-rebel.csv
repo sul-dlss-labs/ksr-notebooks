@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Nicholas Hans Killinger,place of death,Santa Monica,3192
+Los Angeles police officers,has part,Hollywood Division,3192
+Hollywood Division,part of,Los Angeles police officers,3192
+Los Angeles police,has part,Hollywood Division,3192
+Hollywood Division,part of,Los Angeles police,3192

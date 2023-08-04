@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+State Route 76,terminus,Interstate 15,25034
+State Route 76,connects with,Interstate 15,25034
+a police chase,location,Interstate 15,25034

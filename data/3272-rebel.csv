@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Password,has part,user name,3272
+user name,different from,password,3272
+password,different from,user name,3272
+Password,has part,user name,3272
+user name,part of,Password,3272

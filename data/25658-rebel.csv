@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Anthony Longino,place of death,"Jackson, Miss",25658
+Mississippi,contains administrative territorial entity,"Hinds County, Miss",25658
+"Hinds County, Miss",located in the administrative territorial entity,Mississippi,25658
+Jackson,located in the administrative territorial entity,"Hinds County, Miss",25658
+"Hinds County, Miss",contains administrative territorial entity,Jackson,25658

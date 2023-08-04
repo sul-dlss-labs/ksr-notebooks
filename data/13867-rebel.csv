@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Metro,headquarters location,Nashville,13867
+Metro,located in the administrative territorial entity,Nashville,13867
+Nashville,located in the administrative territorial entity,Metro,13867

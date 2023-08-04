@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Brian Arnett,place of death,Lenawee County,21319
+Lenawee County,located in the administrative territorial entity,Michigan,21319
+Michigan,contains administrative territorial entity,Lenawee County,21319
+Lenawee County,parent organization,Michigan State Police,21319
+Michigan State Police,subsidiary,Lenawee County,21319

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Marcellon,located in the administrative territorial entity,Jefferson County,20710
+Jefferson County,contains administrative territorial entity,Madison,20710
+Madison,located in the administrative territorial entity,Jefferson County,20710
+Jefferson County,contains administrative territorial entity,Cambridge,20710

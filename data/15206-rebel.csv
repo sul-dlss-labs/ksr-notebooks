@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer involved shooting,participant,police officer,15206
+shooting,instance of,officer involved shooting,15206
+shot and killed,instance of,officer involved shooting,15206

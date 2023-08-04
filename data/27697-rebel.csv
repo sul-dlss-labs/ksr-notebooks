@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Visitation Park,located in the administrative territorial entity,St. Louis,27697
+St. Louis,located in the administrative territorial entity,Missouri,27697
+Missouri,contains administrative territorial entity,St. Louis,27697
+St. Louis,located in the administrative territorial entity,St. Louis,27697

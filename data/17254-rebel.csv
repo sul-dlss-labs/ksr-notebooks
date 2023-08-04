@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Psalm 119,length,119,17254
+Psalm 119,has part,114,17254
+114,part of,Psalm 119,17254
+Psalm 119 <subj>114,has part <triplet>114,,17254
+Psalm 119 <subj>114,part of,Psalm 119,17254

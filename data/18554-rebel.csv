@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Omaha police,instance of,police,18554
+teen commits suicide,participant,Omaha police,18554
+police try to arrest him,operator,Omaha police,18554

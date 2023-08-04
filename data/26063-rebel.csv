@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SUV,subclass of,vehicle,26063
+crash,location,Oklahoma City,26063
+crash,participant,Oklahoma City Police,26063

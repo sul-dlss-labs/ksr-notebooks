@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+State of California,contains administrative territorial entity,Sonoma County,13553
+Sonoma County,located in the administrative territorial entity,State of California,13553
+State of California,contains administrative territorial entity,County of Sonoma,13553
+County of Sonoma,located in the administrative territorial entity,State of California,13553
+State of California,contains administrative territorial entity,Sonoma,13553
+Sonoma,located in the administrative territorial entity,State of California,13553

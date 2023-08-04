@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+Texas,contains administrative territorial entity,Rusk County,7107
+Texas,contains administrative territorial entity,Cherokee County,7107
+Rusk County,located in the administrative territorial entity,Texas,7107
+Cherokee County,located in the administrative territorial entity,Texas,7107
+Texas,contains administrative territorial entity,Cherokee County,7107
+Cherokee County,located in the administrative territorial entity,Texas,7107
+Texas,contains administrative territorial entity,Cass County,7107
+Cass County,located in the administrative territorial entity,Texas,7107

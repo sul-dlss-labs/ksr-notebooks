@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+NYPD,office held by head of the organization,Police Commissioner,7748
+Police Commissioner,part of,NYPD,7748
+Stacey Blount,place of death,Brooklyn,7748
+Police Commissioner,part of,NYPD,7748

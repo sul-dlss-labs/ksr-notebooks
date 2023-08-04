@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Tommy Thompson,employer,Los Angeles Police Department,2082
+a four-day period when 13 people were killed in the city,participant,Los Angeles Police Department,2082
+a four-day period,has part,13 people were killed in the city,2082
+13 people were killed in the city,part of,a four-day period,2082

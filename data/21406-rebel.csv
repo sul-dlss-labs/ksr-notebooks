@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Henrico Police,applies to jurisdiction,Henrico,21406
+Henrico,located in the administrative territorial entity,Virginia,21406
+Virginia,contains administrative territorial entity,Henrico,21406
+Henrico,contains administrative territorial entity,Henrico Police,21406
+Henrico Police,located in the administrative territorial entity,Henrico,21406

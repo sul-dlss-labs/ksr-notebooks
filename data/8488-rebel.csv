@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+MyBossier,inception,2007,8488
+Bossier,located in the administrative territorial entity,Louisiana,8488
+Louisiana,contains administrative territorial entity,Bossier,8488
+Bossier,located in the administrative territorial entity,Louisiana,8488
+North,located in the administrative territorial entity,Louisiana,8488
+Louisiana,contains administrative territorial entity,Bossier,8488

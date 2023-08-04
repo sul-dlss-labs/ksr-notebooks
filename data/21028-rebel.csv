@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Kent County,located in the administrative territorial entity,Mich,21028
+Mich,contains administrative territorial entity,Kent County,21028
+Mich.,contains administrative territorial entity,Kent County,21028
+Kent County,located in the administrative territorial entity,Mich.,21028
+"KENTWOOD, Mich.",located in the administrative territorial entity,Kent County,21028

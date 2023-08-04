@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Oates Street,located in the administrative territorial entity,Houston,28900
+Houston,located in the administrative territorial entity,Harris County,28900
+Harris County,contains administrative territorial entity,Houston,28900
+Houston police,parent organization,Harris County District Attorney’s Office,28900
+Harris County District Attorney’s Office,subsidiary,Houston police,28900

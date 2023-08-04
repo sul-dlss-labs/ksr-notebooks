@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+registrar,different from,hosting company,9899
+hosting company,different from,registrar,9899
+registrar,subclass of,hosting company,9899
+registrar,different from,hosting company,9899

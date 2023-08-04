@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+heat exhaustion,subclass of,heat illness,11654
+heat exhaustion,subclass of,heat illnesses,11654
+heat exhaustion,subclass of,heat illness,11654
+heat index,facet of,heat illness,11654

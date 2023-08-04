@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+John McDaniel,position held,Jackson County Sheriff,5869
+Mellie McDaniel,spouse,Jackson County Sheriff John McDaniel,5869
+Mellie McDaniel,spouse,John McDaniel,5869
+John McDaniel,spouse,Mellie McDaniel,5869

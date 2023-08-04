@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Violent crime in our nation,facet of,New Mexico,13868
+Drunk driving,subclass of,crime,13868
+Violent crime,location,New Mexico,13868

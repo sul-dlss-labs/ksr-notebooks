@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Roger Hunt,employer,Michigan State Police,12197
+Bernard Rowley,place of death,"Belding, MI",12197
+Belding,located in the administrative territorial entity,Ionia County,12197
+Ionia County,contains administrative territorial entity,Belding,12197

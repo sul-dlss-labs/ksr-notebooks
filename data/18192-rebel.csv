@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police shooting,participant,Eugene Craig,18192
+Eugene Craig,significant event,police shooting,18192
+tragic possibility,subclass of,police shooting,18192

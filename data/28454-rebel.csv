@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Ocean Boulevard,located in the administrative territorial entity,Long Beach,28454
+Ocean Boulevard,connects with,Broadway,28454
+Broadway,connects with,Ocean Boulevard,28454
+Hermosa,connects with,Broadway,28454
+Broadway,connects with,Hermosa,28454

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+were fired upon by suspect,point in time,"June 5, 2008",7196
+LAPD,headquarters location,Los Angeles,7196
+Los Angeles,subsidiary,Force Investigation Division,7196
+Force Investigation Division,parent organization,Los Angeles,7196

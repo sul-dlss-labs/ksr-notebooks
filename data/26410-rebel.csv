@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Wyoming Highway Patrol,parent organization,Wyoming Division of Criminal Investigation,26410
+Wyoming Highway Patrol,instance of,law enforcement agency,26410
+Wyoming Highway Patrol,applies to jurisdiction,Wyoming,26410

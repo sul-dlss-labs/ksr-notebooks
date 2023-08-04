@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Franklin,located in the administrative territorial entity,Macon County,25987
+Macon County,contains administrative territorial entity,"Franklin, N.C.",25987
+"Franklin, N.C.",located in the administrative territorial entity,Macon County,25987
+Macon County,contains administrative territorial entity,Franklin,25987
+Franklin,located in the administrative territorial entity,Macon County,25987

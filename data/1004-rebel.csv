@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Scripps Mercy Hospital,located in the administrative territorial entity,San Diego,1004
+shot and killed,operator,San Diego police,1004
+San Diego police,has part,homicide,1004
+homicide,part of,San Diego police,1004

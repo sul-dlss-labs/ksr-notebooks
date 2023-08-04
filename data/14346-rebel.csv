@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+weather forecasts,subclass of,breaking news,14346
+weather forecasts,facet of,breaking news,14346
+weather forecasts,subclass of,forecasts,14346

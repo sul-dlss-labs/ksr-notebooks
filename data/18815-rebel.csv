@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Texas Department of Public Safety,subsidiary,Texas Rangers,18815
+Texas Rangers,parent organization,Texas Department of Public Safety,18815
+officer involved shooting,operator,Texas Department of Public Safety,18815
+Texas Department of Public Safety,has part,Texas Rangers,18815
+Texas Rangers,parent organization,Texas Department of Public Safety,18815

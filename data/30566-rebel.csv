@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Culpeper County,shares border with,Manassas,30566
+Manassas,shares border with,Culpeper County,30566
+Culpeper County,contains administrative territorial entity,Manassas,30566
+Manassas,located in the administrative territorial entity,Culpeper County,30566
+Culpeper County Sheriff’s Office,applies to jurisdiction,Culpeper County,30566

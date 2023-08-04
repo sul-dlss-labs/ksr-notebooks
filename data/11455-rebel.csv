@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+JavaScript,use,web browser,11455
+web browser,uses,JavaScript,11455
+JavaScript,use,web browser,11455
+web browser,has part,JavaScript,11455

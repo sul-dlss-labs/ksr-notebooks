@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Rouge,manufacturer,Ford,20847
+Rouge,manufacturer,Ford's,20847
+Rouge plant,owned by,Ford,20847

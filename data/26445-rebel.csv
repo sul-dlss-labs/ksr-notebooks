@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Aaron Luther,place of death,Riverside,26445
+shootout,location,Riverside,26445
+CHP Riverside shootout,instance of,shootout,26445

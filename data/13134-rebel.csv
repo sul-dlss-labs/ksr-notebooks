@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+SWAT,part of,State Police,13134
+SWAT,parent organization,State Police,13134
+SWAT,parent organization,State Police,13134
+State Police,subsidiary,SWAT,13134

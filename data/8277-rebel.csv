@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+cookies,part of,website,8277
+cookies,part of,website,8277
+website,has part,cookies,8277
+cookie,part of,website,8277

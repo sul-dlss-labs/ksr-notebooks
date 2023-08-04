@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Michelle Tufenkjian,employer,Illinois State Police,1326
+Illinois State Police,applies to jurisdiction,Illinois,1326
+Illinois State Police,has part,Trooper,1326
+Trooper,part of,Illinois State Police,1326

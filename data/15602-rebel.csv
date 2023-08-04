@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police news release,main subject,911,15602
+police news release from last week,main subject,911,15602
+police news release,facet of,911,15602

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+LAPD,subsidiary,Newton Division,27950
+Newton Division,parent organization,LAPD,27950
+Los Angeles Police Department,has part,Newton Division,27950
+Newton Division,part of,Los Angeles Police Department,27950
+Los Angeles Police Department,subsidiary,Newton Division,27950
+Newton Division,parent organization,Los Angeles Police Department,27950

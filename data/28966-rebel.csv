@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,participant,Albuquerque Police,28966
+Albuquerque Police,applies to jurisdiction,Albuquerque,28966
+officer-involved shooting,location,Albuquerque,28966

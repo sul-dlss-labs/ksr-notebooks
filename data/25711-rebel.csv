@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Sheriff Greene,employer,Sheriff's Office,25711
+SWAT,part of,Sheriff's Office,25711
+Sheriff's Office,chairperson,Sheriff Greene,25711

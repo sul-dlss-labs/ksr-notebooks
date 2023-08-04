@@ -1,0 +1,13 @@
+subject,predicate,object,fe_id
+Georgia,contains administrative territorial entity,Stephens County,30290
+Georgia,contains administrative territorial entity,Habersham County,30290
+Stephens County,located in the administrative territorial entity,Georgia,30290
+Habersham County,located in the administrative territorial entity,Georgia,30290
+Georgia,contains administrative territorial entity,Stephens County,30290
+Georgia,contains administrative territorial entity,Habersham County,30290
+Stephens County,located in the administrative territorial entity,Georgia,30290
+Stephens County,shares border with,Habersham County,30290
+Habersham County,located in the administrative territorial entity,Georgia,30290
+Habersham County,shares border with,Stephens County,30290
+Stephens County,shares border with,Habersham County,30290
+Habersham County,shares border with,Stephens County,30290

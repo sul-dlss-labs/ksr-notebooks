@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+BART,owner of,Union Plaza,10332
+Union Plaza,owned by,BART,10332
+Civic Center/ Union Plaza station,owned by,BART,10332
+Civic Center/ Union Plaza,owned by,BART,10332

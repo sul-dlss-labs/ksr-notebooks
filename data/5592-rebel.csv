@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Letitia James,position held,City Councilwoman,5592
+Mayor,officeholder,Bloomberg,5592
+Bloomberg,position held,Mayor,5592
+City Councilwoman,officeholder,Mayor Bloomberg,5592
+Mayor Bloomberg,position held,City Councilwoman,5592

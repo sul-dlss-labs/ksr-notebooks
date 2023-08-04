@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Albuquerque,capital of,N.M.,17791
+N.M.,capital,Albuquerque,17791
+Albuquerque,capital of,New Mexico,17791
+New Mexico,capital,Albuquerque,17791
+officer involved shooting,location,Albuquerque,17791

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shot by two police officers,operator,El Paso police,23261
+shooting,participant,El Paso police,23261
+police officers,applies to jurisdiction,El Paso,23261

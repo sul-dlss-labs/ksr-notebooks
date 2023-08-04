@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,uses,shock,21619
+Taser shock,subclass of,stun gun,21619
+Taser shock,uses,stun gun,21619

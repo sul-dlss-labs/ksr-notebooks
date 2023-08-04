@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Anne Arundel County Police,parent organization,Anne Arundel County Police Department,31281
+Anne Arundel County Police Department,subsidiary,Anne Arundel County Police,31281
+Anne Arundel County Police,parent organization,Anne Arundel County Police Department,31281
+Anne Arundel County Police,subsidiary,Bureau of Patrol,31281
+Bureau of Patrol,parent organization,Anne Arundel County Police,31281

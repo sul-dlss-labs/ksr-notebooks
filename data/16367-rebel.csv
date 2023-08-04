@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shot by police,location,Venice,16367
+Jason Charles Davis,place of death,Venice,16367
+LAPD,has part,Pacific Division,16367
+Pacific Division,part of,LAPD,16367

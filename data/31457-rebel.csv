@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+A DEADLY STANDOFF,location,SIMPSONVILLE,31457
+SIMPSONVILLE,located in the administrative territorial entity,GREENVILLE County,31457
+SHOOTGIN,subclass of,INCIDENT,31457

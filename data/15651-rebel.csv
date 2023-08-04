@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Demaris Turner,employer,Broward Sheriff's Office,15651
+Lauderhill Police,parent organization,Broward Sheriff's Office,15651
+Lauderhill Police,parent organization,Broward Sheriff's Office,15651
+Broward Sheriff's Office,subsidiary,Lauderhill Police,15651

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+pepper balls,subclass of,non-lethal,10804
+pepper ball,subclass of,non-lethal,10804
+pepper balls,instance of,non-lethal,10804

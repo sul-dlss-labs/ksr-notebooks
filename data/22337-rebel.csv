@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Raleigh,shares border with,Durham,22337
+Durham,shares border with,Raleigh,22337
+Raleigh,shares border with,Durham County,22337
+Durham County,shares border with,Raleigh,22337
+Raleigh,shares border with,Durham,22337

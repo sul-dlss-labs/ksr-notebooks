@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+20th Air Force,part of,Air Force Space Command,6333
+20th Air Force,parent organization,Air Force Space Command,6333
+Air Force Space Command,subsidiary,20th Air Force,6333
+20th Air Force,part of,Air Force Space Command,6333
+Air Force Space Command,has part,20th Air Force,6333

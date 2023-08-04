@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Inkster police,parent organization,Michigan State Police,23258
+Inkster police,parent organization,Michigan State Police,23258
+Michigan State Police,subsidiary,Inkster police,23258
+a fatal confrontation with officers and a suspect,location,Inkster,23258

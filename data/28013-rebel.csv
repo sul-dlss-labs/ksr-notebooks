@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+710 Freeway,connects with,405 Freeway,28013
+405 Freeway,connects with,710 Freeway,28013
+710 Freeway,terminus,405 Freeway,28013
+710 Freeway,connects with,405 Freeway,28013

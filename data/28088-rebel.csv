@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Brevard County,contains administrative territorial entity,Viera,28088
+Viera,located in the administrative territorial entity,Brevard County,28088
+Brevard County Sheriff,applies to jurisdiction,Brevard County,28088
+Brevard County,contains administrative territorial entity,Brevard County Sheriff,28088
+Brevard County Sheriff’s Office,applies to jurisdiction,Brevard County,28088
+Brevard County,legislative body,Brevard County Sheriff’s Office,28088

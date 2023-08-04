@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+thunderstorm,has part,rain,30502
+rain,subclass of,thunderstorm,30502
+rain,has part,thunderstorm,30502

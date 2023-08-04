@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+COMPTON,located in the administrative territorial entity,COMPTON,5920
+ALCOHOL,instance of,DRUG,5920
+ALCOHOL,instance of,PHENCYCLIDINE,5920

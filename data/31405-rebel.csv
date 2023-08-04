@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+City of Elmira,shares border with,Town of Elmira,31405
+Town of Elmira,shares border with,City of Elmira,31405
+West Elmira,located in the administrative territorial entity,Town of Elmira,31405
+West Elmira,located in the administrative territorial entity,Town of Elmira,31405
+Town of Elmira,contains administrative territorial entity,West Elmira,31405

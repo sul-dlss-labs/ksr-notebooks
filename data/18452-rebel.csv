@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,El Cajon,18452
+standoff,participant,El Cajon Police Department,18452
+SWAT,parent organization,San Diego County Sheriff's Department,18452

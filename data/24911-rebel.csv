@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+FOX 10,headquarters location,Phoenix,24911
+Phoenix,capital of,Arizona,24911
+Arizona,capital,Phoenix,24911
+Phoenix,capital of,Arizona,24911

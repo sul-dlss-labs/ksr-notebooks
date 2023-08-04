@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+State Police SERT,part of,State and Local Police,30789
+State Police,parent organization,State and Local Police,30789
+State Police SERT,parent organization,State and Local Police,30789

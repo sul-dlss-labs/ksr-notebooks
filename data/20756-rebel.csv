@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,location,Phoenix,20756
+police spokesperson,part of,Phoenix Police,20756
+Police say a man is dead,instance of,officer-involved shooting,20756

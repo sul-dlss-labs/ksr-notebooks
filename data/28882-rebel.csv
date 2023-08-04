@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+"Fresno Police shoot, kill man",instance of,Officer-involved shooting,28882
+"Fresno Police shoot, kill man",participant,Fresno Police,28882
+"Fresno Police shoot, kill man",instance of,Officer-involved shooting,28882
+FOX26,significant event,"Fresno Police shoot, kill man",28882

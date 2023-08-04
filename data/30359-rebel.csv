@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Braintree,head of government,Charles Kokoros,30359
+Kitt,instance of,K-9,30359
+Braintree,office held by head of government,Mayor,30359
+Mayor,applies to jurisdiction,Braintree,30359

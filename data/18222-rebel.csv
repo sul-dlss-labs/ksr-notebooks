@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Metro Police,applies to jurisdiction,Nashville,18222
+Metro Police,located in the administrative territorial entity,Nashville,18222
+Nashville,located in the administrative territorial entity,Robertson County,18222
+Robertson County,contains administrative territorial entity,Nashville,18222

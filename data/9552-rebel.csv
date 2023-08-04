@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Arizona State Hospital,located in the administrative territorial entity,Phoenix,9552
+Arizona State Hospital,headquarters location,Phoenix,9552
+Tucson,located in the administrative territorial entity,Pima County,9552
+Pima County,contains administrative territorial entity,Tucson,9552

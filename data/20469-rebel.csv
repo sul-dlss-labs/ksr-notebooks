@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+"Washington, PA",inception,15301,20469
+"Washington, PA",point in time,15301,20469
+Washington,located in the administrative territorial entity,PA,20469
+PA,contains administrative territorial entity,Washington,20469

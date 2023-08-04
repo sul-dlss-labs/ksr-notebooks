@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bill Gore,position held,San Diego County Sheriff,25081
+San Diego County Sheriff,applies to jurisdiction,San Diego,25081
+San Diego County,subsidiary,San Diego Sheriff’s Department,25081
+San Diego Sheriff’s Department,applies to jurisdiction,San Diego County,25081

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Sheldon,located in the administrative territorial entity,Harris County,30038
+Sheldon,located in the administrative territorial entity,"Harris County, Texas",30038
+Harris County,located in the administrative territorial entity,Texas,30038
+Texas,contains administrative territorial entity,Harris County,30038

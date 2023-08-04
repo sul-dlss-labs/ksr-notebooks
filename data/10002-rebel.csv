@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Calle Fresa,connects with,Camino De La Tierra,10002
+Camino De La Tierra,connects with,Calle Fresa,10002
+Calle Fresa,connects with,North Camino De La Tierra,10002
+North Camino De La Tierra,connects with,Calle Fresa,10002
+Calle Fresa,shares border with,Camino De La Tierra,10002
+Camino De La Tierra,shares border with,Calle Fresa,10002

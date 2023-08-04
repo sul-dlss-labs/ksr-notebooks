@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Orange County,located in the administrative territorial entity,Florida,27519
+Florida,contains administrative territorial entity,Orange County,27519
+Deputies,parent organization,Florida Department of Law Enforcement,27519
+Florida Department of Law Enforcement,subsidiary,Deputies,27519
+Orange County,located in the administrative territorial entity,Florida,27519
+Florida,contains administrative territorial entity,Orange County,27519
+Florida Department of Law Enforcement,applies to jurisdiction,Florida,27519

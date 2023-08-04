@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Love's,instance of,convenience store,9151
+Pump,subclass of,fuel pump,9151
+Conoco,product or material produced,fuel pump,9151

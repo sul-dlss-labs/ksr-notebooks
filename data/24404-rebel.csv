@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Dade County,located in the administrative territorial entity,Mo,24404
+Mo,contains administrative territorial entity,Dade County,24404
+Dade County,located in the administrative territorial entity,Mo.,24404
+Mo.,contains administrative territorial entity,Dade County,24404
+Dade County Sheriff’s Department,applies to jurisdiction,Dade County,24404

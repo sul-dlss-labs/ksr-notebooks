@@ -1,0 +1,31 @@
+subject,predicate,object,fe_id
+Tennessee,contains administrative territorial entity,Fulton County,19648
+Tennessee,contains administrative territorial entity,Graves,19648
+Tennessee,contains administrative territorial entity,Calloway,19648
+Tennessee,shares border with,Kentucky,19648
+Fulton County,located in the administrative territorial entity,Tennessee,19648
+Fulton County,located in the administrative territorial entity,Tennessee,19648
+Graves,located in the administrative territorial entity,Tennessee,19648
+Graves,located in the administrative territorial entity,Tennessee,19648
+Calloway,located in the administrative territorial entity,Tennessee,19648
+Calloway,located in the administrative territorial entity,Tennessee,19648
+Tennessee,contains,Fulton County,19648
+Tennessee,contains administrative territorial entity,Fulton County,19648
+Tennessee,contains administrative territorial entity,Graves,19648
+Tennessee,contains administrative territorial entity,Calloway,19648
+Tennessee,shares border with,Kentucky,19648
+Fulton County,located in the administrative territorial entity,Tennessee,19648
+Graves,located in the administrative territorial entity,Tennessee,19648
+Calloway,located in the administrative territorial entity,Tennessee,19648
+Kentucky,shares border with,Tennessee,19648
+Tennessee,contains administrative territorial entity,Hickman,19648
+Tennessee,contains administrative territorial entity,Calloway,19648
+Tennessee,shares border with,Kentucky,19648
+Hickman,located in the administrative territorial entity,Tennessee,19648
+Hickman,located in the administrative territorial entity,Tennessee,19648
+Calloway,located in the administrative territorial entity,Tennessee,19648
+Calloway,located in the administrative territorial entity,Tennessee,19648
+Tennessee,contains administrative territorial entity,Hickman,19648
+Tennessee,contains administrative territorial entity,Calloway,19648
+Tennessee,contains administrative territorial entity,Henry County,19648
+Henry County,located in,Tennessee,19648

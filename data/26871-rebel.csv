@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Cameron Ely,date of death,"October 15, 2019",26871
+Cameron Ely,mother,Valerie Ely,26871
+Valerie Ely,child,Cameron Ely,26871
+Cameron Ely,mother,Valerie Ely,26871

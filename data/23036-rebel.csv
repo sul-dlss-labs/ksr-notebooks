@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+KTRK,located in the administrative territorial entity,Houston,23036
+Houston,owner of,METRO,23036
+METRO,located in the administrative territorial entity,Houston,23036
+KTRK,headquarters location,Houston,23036

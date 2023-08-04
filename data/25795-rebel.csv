@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Mount Pleasant,located in the administrative territorial entity,St. Louis,25795
+St. Louis,located in the administrative territorial entity,Missouri,25795
+Missouri,contains administrative territorial entity,St. Louis,25795
+Police Chief,applies to jurisdiction,St. Louis,25795

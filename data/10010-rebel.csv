@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+apublished,different from,republished,10010
+apublished,subclass of,attribution,10010
+apublished,different from,republished,10010
+republished,different from,apublished,10010

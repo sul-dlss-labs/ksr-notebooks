@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Houston Police Department,applies to jurisdiction,Houston,5137
+HPD Homicide Division,parent organization,Houston police,5137
+Houston Police Department,has part,HPD Homicide Division,5137
+HPD Homicide Division,part of,Houston Police Department,5137

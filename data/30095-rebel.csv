@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+KTRK,located in the administrative territorial entity,Texas,30095
+KTRK,located in the administrative territorial entity,Rosenberg,30095
+Rosenberg,located in the administrative territorial entity,Fort Bend County,30095
+Fort Bend County,contains administrative territorial entity,Rosenberg,30095

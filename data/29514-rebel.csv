@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+TUCSON,located in the administrative territorial entity,Ariz.,29514
+Pima County Attorney’s Office,applies to jurisdiction,Pima County,29514
+Pima County,contains administrative territorial entity,Tucson,29514
+Tucson,located in the administrative territorial entity,Pima County,29514

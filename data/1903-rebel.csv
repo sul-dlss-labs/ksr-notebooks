@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Forrest General Hospital,located in the administrative territorial entity,Hattiesburg,1903
+Hattiesburg,located in the administrative territorial entity,Forrest County,1903
+Forrest County,contains administrative territorial entity,Hattiesburg,1903
+Hattiesburg,located in the administrative territorial entity,Forrest County,1903

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+KOIN,located in the administrative territorial entity,Salem,29039
+KOIN,located in the administrative territorial entity,Portland,29039
+Salem,located in the administrative territorial entity,Marion County,29039
+Marion County,contains administrative territorial entity,Salem,29039

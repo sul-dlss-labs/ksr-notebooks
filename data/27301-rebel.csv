@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shot and killed,participant,Phoenix police,27301
+PHOENIX,authority,police,27301
+PHOENIX,authority,police,27301
+police,applies to jurisdiction,PHOENIX,27301

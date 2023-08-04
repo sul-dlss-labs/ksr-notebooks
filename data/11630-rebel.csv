@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Santa Paula Police Department,applies to jurisdiction,Santa Paula,11630
+Santa Paula Police Department,located in the administrative territorial entity,Santa Paula,11630
+Santa Paula Police Department,has part,Oxnard Police,11630
+Oxnard Police,part of,Santa Paula Police Department,11630

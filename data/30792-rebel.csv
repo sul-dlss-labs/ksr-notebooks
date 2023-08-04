@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Snook,located in the administrative territorial entity,Burleson County,30792
+Burleson County,contains administrative territorial entity,College Station,30792
+College Station,located in the administrative territorial entity,Burleson County,30792
+Baylor Scott & White Hospital,located in the administrative territorial entity,College Station,30792

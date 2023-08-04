@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+three days of rioting,location,Cincinnati,3348
+"shooting of a fleeing, unarmed black man by a white police officer in 2001",has effect,rioting,3348
+"shooting of a fleeing, unarmed black man by a white police officer in 2001",has effect,three days of rioting,3348
+three days of rioting,has cause,"shooting of a fleeing, unarmed black man by a white police officer in 2001",3348

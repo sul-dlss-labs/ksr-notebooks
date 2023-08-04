@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+KANSAS City,capital of,MISSOURI,28251
+MISSOURI,capital,KANSAS City,28251
+KANSAS CITY,capital of,MISSOURI,28251
+MISSOURI,capital,KANSAS City,28251
+CHIEF OF POLICE,applies to jurisdiction,KANSAS CITY,28251

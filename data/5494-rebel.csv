@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+subscription,operator,us,5494
+purchase a new subscription,subclass of,subscription,5494
+subscription,owned by,us,5494

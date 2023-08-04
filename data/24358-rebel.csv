@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Mount Rushmore National Park,located in the administrative territorial entity,New Mexico,24358
+standoff,location,Mount Rushmore National Park,24358
+shot and killed himself,instance of,standoff,24358

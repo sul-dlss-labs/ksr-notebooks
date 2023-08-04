@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Wayne County,contains administrative territorial entity,Detroit,20936
+Detroit,located in the administrative territorial entity,Wayne County,20936
+Wayne County Prosecutor,officeholder,Kym Worthy,20936
+Kym Worthy,position held,Wayne County Prosecutor,20936
+Wayne County Sheriff's,located in the administrative territorial entity,Detroit,20936
+Lincoln Park,located in the administrative territorial entity,Detroit,20936

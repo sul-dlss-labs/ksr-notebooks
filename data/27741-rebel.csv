@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Police Department,applies to jurisdiction,San Bernardino,27741
+Police Department,located in the administrative territorial entity,San Bernardino,27741
+San Bernardino police,parent organization,Police Department,27741
+Police Department,subsidiary,San Bernardino police,27741

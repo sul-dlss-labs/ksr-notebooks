@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+homicide,subclass of,cause of death,13524
+homicide,instance of,cause of death,13524
+hypertension,has effect,heart,13524

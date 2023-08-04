@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+murder,different from,homicide,13398
+homicide,different from,murder,13398
+Murder-suicide,subclass of,homicide,13398
+Murder-suicide,different from,homicide,13398
+homicide,different from,Murder-suicide,13398

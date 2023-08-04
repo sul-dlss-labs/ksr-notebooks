@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Wrightstown Elementary,different from,Newtown Elementary,15489
+Newtown Elementary,different from,Wrightstown Elementary,15489
+fifth-,part of,elementary school,15489
+sixth-graders,part of,elementary school,15489
+fifth-,part of,elementary schools,15489
+sixth-graders,part of,elementary schools,15489

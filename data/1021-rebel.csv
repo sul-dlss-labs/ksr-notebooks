@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+within 2 words,followed by,within 5 words,1021
+surpassing,follows,surpassing,1021
+surpassing,followed by,surpassing,1021
+within 2 words,followed by,within 5 words,1021
+within 5 words,follows,within 2 words,1021

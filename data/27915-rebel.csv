@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer shoots man during fight,operator,North Las Vegas Police,27915
+North Las Vegas Police,instance of,police,27915
+officer,applies to jurisdiction,North Las Vegas Police,27915

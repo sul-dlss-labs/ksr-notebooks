@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Delaware State Police,instance of,trooper,23420
+Delaware State Police,has part,trooper,23420
+Delaware State Police,has part,trooper,23420
+trooper,part of,Delaware State Police,23420

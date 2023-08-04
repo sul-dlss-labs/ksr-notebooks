@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+suicide,instance of,cause of death,27250
+suicide,instance of,10th cause of death,27250
+suicide,subclass of,cause of death,27250

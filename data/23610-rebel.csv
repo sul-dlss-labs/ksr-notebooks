@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Jose Police Department,applies to jurisdiction,San Jose,23610
+San Jose,located in the administrative territorial entity,Santa Clara County,23610
+Santa Clara County,contains administrative territorial entity,San Jose,23610
+San Jose Fire Paramedics,located in the administrative territorial entity,San Jose,23610

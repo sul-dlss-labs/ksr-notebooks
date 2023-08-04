@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Jason Gonzalez,family,Gonzalez family,26722
+Jason Gonzalez,employer,CHP,26722
+Jason Gonzalez,family,Gonzalez family,26722
+Gonzalez family,has part,Jason Gonzalez,26722

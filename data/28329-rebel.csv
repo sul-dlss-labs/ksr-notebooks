@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Arkansas State Police,parent organization,Arkansas Department of Transportation,28329
+State Trooper,parent organization,Arkansas Department of Transportation,28329
+Arkansas State Police,parent organization,Arkansas Department of Transportation,28329
+Arkansas Department of Transportation,subsidiary,Arkansas State Police,28329

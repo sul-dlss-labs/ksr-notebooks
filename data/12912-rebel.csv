@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Officer Mike Bowman,employer,Cobb County Police Department,12912
+Officer B.J. Daniel,employer,Cobb County Police Department,12912
+Cobb,contains administrative territorial entity,Cobb County Police Department,12912
+Cobb County Police Department,located in the administrative territorial entity,Cobb,12912

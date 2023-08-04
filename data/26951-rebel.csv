@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+IPv6,followed by,IPv7,26951
+IPv6,followed by,IPv7,26951
+IPv7,follows,IPv6,26951
+IPv4,followed by,IPv6,26951

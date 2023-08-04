@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+murder,subclass of,felonies,11996
+murdered,subclass of,armed robbery,11996
+murdered,has part,armed robbery,11996

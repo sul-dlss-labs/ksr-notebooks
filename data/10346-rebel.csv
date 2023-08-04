@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+St. Clair,located in the administrative territorial entity,Illinois,10346
+Illinois,contains administrative territorial entity,St. Clair,10346
+St. Louis,located in the administrative territorial entity,Illinois,10346
+Illinois,contains administrative territorial entity,St. Louis,10346
+East St. Louis,located in the administrative territorial entity,St. Clair County,10346

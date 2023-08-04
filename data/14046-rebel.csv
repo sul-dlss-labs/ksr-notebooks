@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shot an unarmed teenager,location,"Ferguson, Mo.",14046
+"Ferguson, Mo., police officer shot",instance of,officer-involved shootings,14046
+shooting,location,"Ferguson, Mo.",14046

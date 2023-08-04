@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+Utah,shares border with,Arizona,10946
+Arizona,shares border with,Utah,10946
+Utah,shares border with,Arizona,10946
+Arizona,shares border with,Utah,10946
+Arizona Department of Transportation,applies to jurisdiction,Arizona,10946
+Utah Department of Transportation,applies to jurisdiction,Utah,10946
+Utah,shares border with,Arizona,10946
+Arizona,shares border with,Utah,10946

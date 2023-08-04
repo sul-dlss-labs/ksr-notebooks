@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Man killed by Yakima police,instance of,airsoft gun,13914
+airsoft gun,subclass of,gun,13914
+airsoft gun,instance of,gun,13914

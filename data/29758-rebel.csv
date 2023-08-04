@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+situation in Clay County,instance of,standoff,29758
+standoff,participant,SWAT,29758
+situation in Clay County,location,St. Johns County,29758

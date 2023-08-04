@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Tamm Avenue Grill,located in the administrative territorial entity,St. Louis,22774
+Tamm Avenue Grill,location,Dogtown,22774
+St. Louis Police Department,subsidiary,Force Investigative Unit,22774
+Force Investigative Unit,parent organization,St. Louis Police Department,22774

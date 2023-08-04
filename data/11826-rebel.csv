@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Federal Reserve Bank,country,United States,11826
+Federal Reserve Bank,applies to jurisdiction,United States,11826
+Recession,subclass of,recession,11826

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+in-custody death,subclass of,suicide,16890
+suicide,subclass of,in-custody death,16890
+apparent suicide,location,Lincoln,16890

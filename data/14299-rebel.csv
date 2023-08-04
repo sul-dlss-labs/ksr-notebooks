@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Burdette Becks,place of death,Douglas County,14299
+officer,subclass of,police,14299
+Omaha,located in the administrative territorial entity,Douglas County,14299
+Douglas County,contains administrative territorial entity,Omaha,14299

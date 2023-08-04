@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Immigration and Customs Enforcement,subsidiary,Border Patrol,14105
+Border Patrol,parent organization,Immigration and Customs Enforcement,14105
+Immigration and Customs Enforcement,subsidiary,Border Patrol,14105
+Immigration and Customs Enforcement,subsidiary,Homeland Security Investigations,14105
+Homeland Security Investigations,parent organization,Immigration and Customs Enforcement,14105

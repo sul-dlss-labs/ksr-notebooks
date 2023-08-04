@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Barnes Jewish Hospital,located in the administrative territorial entity,St. Louis,18457
+St. Louis,located in the administrative territorial entity,Missouri,18457
+Missouri,contains administrative territorial entity,St. Louis,18457
+St. Louis,office held by head of government,Mayor,18457
+Mayor,applies to jurisdiction,St. Louis,18457
+Francis Slay,position held,Mayor,18457

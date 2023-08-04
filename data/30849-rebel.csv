@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+46th Precinct,parent organization,NYPD,30849
+46th Precinct,part of,NYPD,30849
+46th Precinct,operator,NYPD,30849

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+"Jacksonville, NC",elevation above sea level,88,28625
+thunderstorm,subclass of,rain,28625
+"Jacksonville, NC (28540)",elevation above sea level,88,28625

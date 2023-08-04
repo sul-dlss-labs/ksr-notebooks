@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+car chase,subclass of,fleeing from police,15973
+car chase,participant,police,15973
+car chase,location,Blue Springs,15973

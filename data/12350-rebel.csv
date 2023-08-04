@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Otis Roberson,place of death,St. Louis,12350
+St. Louis,located in the administrative territorial entity,St. Louis,12350
+St. Louis,located in the administrative territorial entity,Missouri,12350
+Missouri,contains administrative territorial entity,St. Louis,12350

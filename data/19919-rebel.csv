@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bellflower,located in the administrative territorial entity,Los Angeles County,19919
+Long Beach,located in the administrative territorial entity,Los Angeles County,19919
+Los Angeles County,contains administrative territorial entity,Long Beach,19919
+Long Beach,located in the administrative territorial entity,Los Angeles County,19919

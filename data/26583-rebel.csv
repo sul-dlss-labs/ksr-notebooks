@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Tasjon Tyreek Osbourne,employer,Columbus Police,26583
+Columbus Police,parent organization,Columbus Division of Police,26583
+Columbus Division of Police,subsidiary,Columbus Police,26583
+officer-involved shooting,participant,Columbus Police,26583

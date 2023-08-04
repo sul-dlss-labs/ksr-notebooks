@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Yorktown,located in the administrative territorial entity,New Kent,31358
+New Kent,located in the administrative territorial entity,Yorktown,31358
+New Kent,located in the administrative territorial entity,Virginia,31358
+Virginia,contains administrative territorial entity,New Kent,31358

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Michael Romero,place of death,Lutheran Medical Center,8989
+Lutheran Medical Center,location,Green-Wood,8989
+72nd Precinct,parent organization,NYPD,8989
+NYPD,subsidiary,72nd Precinct,8989

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+St. Louis Post-Dispatch,located in the administrative territorial entity,St. Louis,24570
+St. Louis,located in the administrative territorial entity,Missouri,24570
+Missouri,contains administrative territorial entity,St. Louis,24570
+St. Louis Post-Dispatch,place of publication,St. Louis,24570

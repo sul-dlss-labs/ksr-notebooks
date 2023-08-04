@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Crawford County,shares border with,Bibb County,31247
+Bibb County,shares border with,Crawford County,31247
+Crawford County,located in the administrative territorial entity,GBI,31247
+Crawford County,located in the administrative territorial entity,Bibb County,31247
+Bibb County,contains administrative territorial entity,Crawford County,31247

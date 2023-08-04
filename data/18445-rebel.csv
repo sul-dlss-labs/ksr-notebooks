@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Ludowici,located in the administrative territorial entity,Georgia,18445
+Sumter County,located in the administrative territorial entity,South Carolina,18445
+South Carolina,contains administrative territorial entity,Sumter County,18445
+Ludowici,located in the administrative territorial entity,Georgia,18445
+Georgia,contains administrative territorial entity,Ludowici,18445

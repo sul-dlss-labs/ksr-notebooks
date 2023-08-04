@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+William Bing,sibling,Brian Bing,2025
+Brian Bing,sibling,William Bing,2025
+William Bing,date of death,"August 01, 2006",2025
+William Bing,sibling,Brian Bing,2025

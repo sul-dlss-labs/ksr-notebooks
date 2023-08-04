@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer shot and wounded,location,Durham,4364
+shot and wounded a suspect,location,Durham,4364
+shot and wounded a suspect who refused to drop two guns,instance of,officer involved in a shooting,4364

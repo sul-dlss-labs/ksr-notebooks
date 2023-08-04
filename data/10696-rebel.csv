@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+St. Louis,located in the administrative territorial entity,Illinois,10696
+Illinois,contains administrative territorial entity,St. Louis,10696
+Creve Coeur,located in the administrative territorial entity,Illinois,10696
+Illinois,contains administrative territorial entity,Creve Coeur,10696
+Robert Fuller,place of death,St. Louis,10696

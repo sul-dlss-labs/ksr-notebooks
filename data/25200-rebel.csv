@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,location,"North Hills, California",25200
+LAPD HQ,parent organization,Los Angeles Police Department,25200
+officer-involved shooting,participant,Los Angeles Police Department,25200

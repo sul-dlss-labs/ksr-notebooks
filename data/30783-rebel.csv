@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Ceres,located in the administrative territorial entity,county,30783
+Ceres,located in the administrative territorial entity,county,30783
+county,contains administrative territorial entity,Ceres,30783
+CERES,located in the administrative territorial entity,Ceres,30783

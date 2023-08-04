@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+police,has part,Weld County Sheriff's Office,351
+police,subsidiary,Weld County Sheriff's Office,351
+Weld County Sheriff's Office,parent organization,police,351
+opioid,subclass of,drug,351

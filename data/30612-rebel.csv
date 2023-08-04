@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Montgomery County,contains administrative territorial entity,Gaithersburg,30612
+Gaithersburg,located in the administrative territorial entity,Montgomery County,30612
+Gaithersburg,located in the administrative territorial entity,Howard County,30612
+Montgomery County Police Chief,applies to jurisdiction,Gaithersburg,30612
+Gaithersburg,authority,Montgomery County Police Chief,30612

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+median annual income,subclass of,wages,31305
+median annual income,facet of,cost of living,31305
+Financial advisors earn more than $100K in these cities,publisher,SmartAsset,31305

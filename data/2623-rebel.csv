@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Carol Olesak,employer,Albuquerque police officer,2623
+Carol Olesak,significant event,shot in the head at close range,2623
+Carol Olesak,significant event,shot in the head,2623
+shot in the head,participant,Carol Olesak,2623

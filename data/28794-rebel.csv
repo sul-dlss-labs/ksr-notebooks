@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Coahuila,country,Mexico,28794
+Mexico,contains administrative territorial entity,Coahuila,28794
+Coleman County,country,Mexico,28794
+Mexico,contains administrative territorial entity,Coleman County,28794
+Coahuila,located in the administrative territorial entity,Mexico,28794
+Mexico,contains administrative territorial entity,Coahuila,28794

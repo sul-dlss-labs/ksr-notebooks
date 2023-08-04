@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Border Patrol,headquarters location,El Cajon station,30248
+El Cajon station,operator,Border Patrol,30248
+Border Patrol,applies to jurisdiction,San Diego County,30248
+Campo,located in the administrative territorial entity,San Diego County,30248
+Border Patrol,headquarters location,El Cajon,30248
+El Cajon,operator,Border Patrol,30248

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+taser gun,use,tase,5529
+a man in Texas,instance of,tasered,5529
+taser gun,uses,taser,5529

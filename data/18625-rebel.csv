@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+homicide by eluding,subclass of,Homicide,18625
+homicide by eluding,instance of,Homicide,18625
+homicide by eluding,subclass of,Homicide charges,18625

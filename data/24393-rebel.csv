@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+fatally shot,point in time,"May 9, 2018",24393
+fatally shot a man last year,point in time,"May 9, 2018",24393
+firearm,has part,cartridge,24393

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Amber Nashay Carter,employer,Greensboro Police Department,12181
+Amber Nashay Carter,employer,Greensboro Police,12181
+Police,subsidiary,Greensboro Police Department,12181
+Greensboro Police Department,parent organization,Police,12181

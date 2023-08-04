@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Roy Cooper,member of political party,Democratic,13406
+Roy Cooper,position held,governor,13406
+governor,officeholder,Roy Cooper,13406
+Roy Cooper,member of political party,Democratic,13406
+Democratic,chairperson,Roy Cooper,13406

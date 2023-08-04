@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Manila,capital of,Ark.,27654
+Ark.,capital,Manila,27654
+Manila,capital of,Ark,27654
+Ark,capital,Manila,27654
+Manila,located in the administrative territorial entity,Ark.,27654
+Ark.,contains administrative territorial entity,Manila,27654

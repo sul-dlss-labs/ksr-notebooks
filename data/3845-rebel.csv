@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+West Valley Division,parent organization,Los Angeles Police Department,3845
+West Valley Division,parent organization,Los Angeles Police Department,3845
+Los Angeles Police Department,subsidiary,West Valley Division,3845
+K-9 Unit,parent organization,Los Angeles Police Department,3845

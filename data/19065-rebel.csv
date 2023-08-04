@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Columbia,capital of,SC,19065
+SC,capital,Columbia,19065
+"Columbia, SC",population,29201,19065
+"Columbia, SC",elevation above sea level,70,19065

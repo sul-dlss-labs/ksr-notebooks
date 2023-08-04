@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+John Henry Cervantes Jr.,father,Andru Cervantes,4949
+Andru Cervantes,father,John Henry Cervantes Jr.,4949
+John Henry Cervantes Jr.,father,Andru Cervantes,4949
+Andru Cervantes,child,John Henry Cervantes Jr.,4949

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+DUI manslaughter,subclass of,vehicular homicide,30928
+DUI manslaughter,subclass of,manslaughter,30928
+Palm Beach County,located in the administrative territorial entity,Florida,30928
+Florida,contains administrative territorial entity,Palm Beach County,30928

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Joel Queenan,employer,Glendale Police Department,20876
+officer,part of,police,20876
+police report,main subject,Glendale Police Department,20876

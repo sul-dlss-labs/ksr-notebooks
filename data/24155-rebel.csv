@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police killed more people in Wisconsin than in past years,point in time,2017,24155
+Police killed more people in Wisconsin,point in time,2017,24155
+Police killed more people in Wisconsin than in past years,facet of,police,24155

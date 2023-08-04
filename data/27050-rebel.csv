@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Kent County,located in the administrative territorial entity,MI,27050
+MI,contains administrative territorial entity,Kent County,27050
+Kent County,located in the administrative territorial entity,Michigan,27050
+Michigan,contains administrative territorial entity,Kent County,27050
+Kent County Prosecutor,officeholder,Chris Becker,27050
+Chris Becker,position held,Kent County Prosecutor,27050

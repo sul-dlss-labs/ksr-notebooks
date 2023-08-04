@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+suicide,different from,justifiable homicide,20563
+justifiable homicide,different from,suicide,20563
+suicide,different from,justifiable homicide,20563
+suicide,subclass of,justifiable homicide,20563

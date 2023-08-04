@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Muscatine,located in the administrative territorial entity,Warren County,15157
+Warren County,contains administrative territorial entity,Des Moines,15157
+Des Moines,located in the administrative territorial entity,Warren County,15157
+Warren County Sheriff's,located in the administrative territorial entity,Des Moines,15157

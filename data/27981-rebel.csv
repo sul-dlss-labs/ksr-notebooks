@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+60 Freeway,owned by,Caltrans,27981
+60 Freeway,connects with,710,27981
+60 Freeway,connects with,605,27981
+710,connects with,60 Freeway,27981
+605,connects with,60 Freeway,27981
+60 Freeway,owned by,Caltrans,27981
+710,owned by,Caltrans,27981
+605,owned by,Caltrans,27981

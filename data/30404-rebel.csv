@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Omaha Police,applies to jurisdiction,Omaha,30404
+a fatal shooting,participant,Omaha Police,30404
+fatal shooting,participant,Omaha Police,30404

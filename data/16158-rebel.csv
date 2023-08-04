@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Dalton Branch,employer,New York Police Department,16158
+Dalton Branch,employer,NYPD,16158
+NYPD,parent organization,New York Police Department,16158

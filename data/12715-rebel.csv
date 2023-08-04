@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+redirector page,use,redirect,12715
+redirector,subclass of,page,12715
+redirector page,subclass of,redirect,12715

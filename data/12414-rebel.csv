@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+double fatal collision,location,Plano Street,12414
+a double fatal collision,location,Plano Street,12414
+double fatal collision,located on street,Plano Street,12414

@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+"Canton, Mississippi",located in the administrative territorial entity,Madison County,30625
+Arkansas,contains administrative territorial entity,Madison County,30625
+Madison County,located in the administrative territorial entity,Arkansas,30625
+Arkansas,contains administrative territorial entity,Madison County,30625
+Madison County,located in the administrative territorial entity,Arkansas,30625
+Madison County,contains administrative territorial entity,"Jonesboro, Arkansas",30625
+"Jonesboro, Arkansas",located in the administrative territorial entity,Madison County,30625

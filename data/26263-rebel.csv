@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff in Muskogee,participant,Muskogee police,26263
+standoff in Muskogee,location,Muskogee,26263
+Muskogee police,applies to jurisdiction,Muskogee,26263

@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Officer Crellin,employer,Houston Police Department,5237
+Officer Crellin,employer,Houston Police Department,5237
+Officer Crellin,employer,Houston Police Department,5237
+Houston Police Department,has part,Homicide,5237
+Homicide,part of,Houston Police Department,5237
+Houston Police Department,has part,Homicide,5237

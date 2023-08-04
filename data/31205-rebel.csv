@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shot and killed,location,Tulsa,31205
+Tulsa,capital of,Okla.,31205
+Okla.,capital,Tulsa,31205
+officer,applies to jurisdiction,Tulsa,31205

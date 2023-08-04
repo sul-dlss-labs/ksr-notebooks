@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Sergeant,subclass of,officer,15089
+Officer,part of,Cincinnati police,15089
+Sergeant,subclass of,officer,15089
+Officer,subclass of,officer,15089

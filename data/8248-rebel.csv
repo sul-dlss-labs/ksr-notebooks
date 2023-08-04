@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+State Law Enforcement Division,applies to jurisdiction,South Carolina,8248
+Gastonia,located in the administrative territorial entity,South Carolina,8248
+South Carolina,contains administrative territorial entity,Gastonia,8248
+Gastonia,located in the administrative territorial entity,Gaston County,8248
+Gaston County,contains administrative territorial entity,Gastonia,8248

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shooting,subclass of,killing,27372
+killing of a person by another,subclass of,homicide,27372
+killing of a person by another,said to be the same as,Homicide,27372
+Homicide,said to be the same as,killing of a person by another,27372

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+CBS,owned by,CBS Radio Inc.,30209
+CBS,subsidiary,CBS Radio,30209
+CBS Radio,owned by,CBS,30209
+CBS,subsidiary,CBS Radio Inc.,30209
+CBS Radio Inc.,owned by,CBS,30209

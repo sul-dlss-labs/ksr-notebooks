@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+registered,subclass of,sex offenders,6168
+sex offenders,subclass of,sex offenses,6168
+sex offenders,has effect,sex offense,6168
+sex offense,has cause,sex offenders,6168

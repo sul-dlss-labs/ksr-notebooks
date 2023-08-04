@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Willis,located in the administrative territorial entity,Harris County,26956
+Deadly Officer-Involved Shooting,point in time,"November 5, 2019",26956
+Montgomery County Sheriff’s Office,subsidiary,Precinct 2 Constable’s Office,26956
+Precinct 2 Constable’s Office,parent organization,Montgomery County Sheriff’s Office,26956

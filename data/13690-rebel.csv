@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Hawthorne Police Department,parent organization,Los Angeles County Sheriff’s Department,13690
+shot a man to death,instance of,officer-involved shooting,13690
+Hawthorne Police Department,parent organization,Los Angeles County Sheriff’s Department,13690
+Los Angeles County Sheriff’s Department,subsidiary,Hawthorne Police Department,13690

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+TASER,used by,911,16212
+TASER,use,911,16212
+911,uses,police response code,16212
+police response code,used by,911,16212

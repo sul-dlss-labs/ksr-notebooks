@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Round Lake Beach,located in the administrative territorial entity,Lake County,18565
+Grayslake,located in the administrative territorial entity,Lake County,18565
+Fox Lake,located in the administrative territorial entity,Lake County,18565
+Lake County,contains administrative territorial entity,Fox Lake,18565
+Fox Lake,located in the administrative territorial entity,Lake County,18565

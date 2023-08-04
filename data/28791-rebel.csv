@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Antonio Police Department,applies to jurisdiction,San Antonio,28791
+San Antonio,head of government,Ron Nirenberg,28791
+San Antonio police,has part,San Antonio Police Department,28791
+San Antonio Police Department,part of,San Antonio police,28791

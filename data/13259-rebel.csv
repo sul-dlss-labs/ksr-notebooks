@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Capital Health Regional Medical Center,located in the administrative territorial entity,Trenton,13259
+Trenton,located in the administrative territorial entity,Mercer County,13259
+Mercer County,contains administrative territorial entity,Trenton,13259
+Trenton,located in the administrative territorial entity,Mercer County,13259
+Mercer County,capital,Trenton,13259

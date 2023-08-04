@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Arizona,part of,Southwest,19112
+Phoenix,capital of,Arizona,19112
+Arizona,capital,Phoenix,19112
+Phoenix,capital of,Arizona,19112
+New Mexico,part of,Southwest,19112
+Arizona,capital,Phoenix,19112
+Arizona,part of,Southwest,19112

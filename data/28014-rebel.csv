@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Department of Justice,subsidiary,Wisconsin Department of Justice Division of Criminal Investigation,28014
+Wisconsin Department of Justice Division of Criminal Investigation,parent organization,Department of Justice,28014
+Department of Justice,subsidiary,Wisconsin Department of Justice Division of Criminal Investigation,28014
+Officer Roman Trimberger,employer,Green Bay Police Department,28014

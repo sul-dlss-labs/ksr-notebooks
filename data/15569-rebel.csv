@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+protests,location,Bridgeton,15569
+shootings,has effect,protests,15569
+protests in Bridgeton,has part,last month’s fatal shooting,15569

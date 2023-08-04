@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Passaic,located in the administrative territorial entity,New Jersey,22037
+New Jersey,contains administrative territorial entity,Passaic,22037
+Passaic,located in the administrative territorial entity,New Jersey,22037
+Passaic,shares border with,Clifton,22037
+Clifton,shares border with,Passaic,22037

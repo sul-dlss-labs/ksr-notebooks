@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Murders,different from,Suicide,18992
+Suicide,different from,Murders,18992
+Murders,different from,Suicide,18992
+sex offenders,has effect,sex offense,18992

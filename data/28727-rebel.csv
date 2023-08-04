@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Statehouse,located in the administrative territorial entity,Columbus,28727
+Cleveland,located in the administrative territorial entity,Cuyahoga County,28727
+Cuyahoga County,contains administrative territorial entity,Cleveland,28727
+James Skernivitz,employer,Cleveland police,28727

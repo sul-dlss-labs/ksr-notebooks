@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Staci Coyne,place of death,"Lawrenceburg, Indiana",29024
+Lawrenceburg,located in the administrative territorial entity,Dearborn County,29024
+Dearborn County,contains administrative territorial entity,Lawrenceburg,29024
+Hamilton County Coroner's Office,located in the administrative territorial entity,Indiana,29024
+Indiana,contains administrative territorial entity,Hamilton County Coroner's Office,29024

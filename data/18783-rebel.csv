@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+McAllen,part of,South Texas,18783
+South Texas,has part,McAllen,18783
+McAllen,located in the administrative territorial entity,Texas,18783

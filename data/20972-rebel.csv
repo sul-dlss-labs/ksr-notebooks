@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Safari,instance of,browser,20972
+Safari,instance of,web app,20972
+Safari,use,browser,20972

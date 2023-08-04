@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Electroshock weapon,uses,electrical discharge,23043
+Electroshock weapon,uses,electric current,23043
+Electroshock weapon,subclass of,electrical discharge,23043

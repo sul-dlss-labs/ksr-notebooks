@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Soddy-Daisy,located in the administrative territorial entity,Hamilton County,12828
+Hamilton County,located in the administrative territorial entity,Georgia,12828
+Georgia,contains administrative territorial entity,Hamilton County,12828
+Hamilton County,contains administrative territorial entity,"Calhoun, Ga.",12828
+"Calhoun, Ga.",located in the administrative territorial entity,Hamilton County,12828

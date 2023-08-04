@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+LAPD,applies to jurisdiction,Los Angeles County,23344
+Indiana Street,owned by,Los Angeles Police Department,23344
+LAPD,follows,Los Angeles County Sheriff’s Department,23344

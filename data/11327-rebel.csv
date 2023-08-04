@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+the crash,instance of,police pursuit,11327
+police pursuit,participant,Danny Irizarry Roman,11327
+police pursuit,participant,Danny Irizarry Roman,11327
+Danny Irizarry Roman,participant in,police pursuit,11327

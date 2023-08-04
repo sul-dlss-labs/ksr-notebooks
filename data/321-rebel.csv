@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+private browsing window,use,sign in,321
+private browsing window,subclass of,computer,321
+private browsing window,subclass of,sign in,321

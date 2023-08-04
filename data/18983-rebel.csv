@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Highway Patrol,parent organization,South Carolina Department of Public Safety,18983
+Greenville County Sheriff's Office,located in the administrative territorial entity,Greenville,18983
+Highway Patrol,parent organization,South Carolina Department of Public Safety,18983
+South Carolina Department of Public Safety,subsidiary,Highway Patrol,18983

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+I-45,located in the administrative territorial entity,Harris County,30742
+Harris County,located in the administrative territorial entity,Texas,30742
+Texas,contains administrative territorial entity,Harris County,30742
+I-45,located in the administrative territorial entity,Texas,30742

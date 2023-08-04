@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Email Address,subclass of,e-mail address,19550
+Email Address,part of,e-mail address,19550
+comma,subclass of,character,19550

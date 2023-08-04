@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Jacksonville,shares border with,Duval County,10138
+Duval County,shares border with,Jacksonville,10138
+Jacksonville,shares border with,Duval,10138
+Duval,shares border with,Jacksonville,10138
+Jacksonville,located in the administrative territorial entity,Duval County,10138
+Duval County,contains administrative territorial entity,Jacksonville,10138

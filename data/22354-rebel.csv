@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Washington-Lee High School,located in the administrative territorial entity,Arlington,22354
+Arlington,located in the administrative territorial entity,Fairfax County,22354
+Fairfax County,contains administrative territorial entity,Arlington,22354
+Arlington County,owner of,Washington-Lee High School,22354
+Washington-Lee High School,located in the administrative territorial entity,Arlington County,22354

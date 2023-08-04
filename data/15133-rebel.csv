@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shooting,location,Elkhart,15133
+Elkhart shooting,has effect,officers involved in deadly Elkhart shooting,15133
+No indictments for officers involved in deadly Elkhart shooting,facet of,Elkhart shooting,15133

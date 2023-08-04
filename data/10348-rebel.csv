@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Police Department,applies to jurisdiction,Milwaukee,10348
+Homicide,different from,homicide,10348
+homicide,different from,Homicide,10348
+Police Department,located in the administrative territorial entity,Milwaukee,10348

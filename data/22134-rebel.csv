@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Vogelson Regional Branch Library,parent organization,Camden County Library System,22134
+Camden County Library System,subsidiary,Vogelson Regional Branch Library,22134
+Vogelson Regional Branch Library,part of,Camden County Library System,22134
+Camden County Library System,has part,Vogelson Regional Branch Library,22134
+Vogelson Regional Branch Library,owned by,Camden County Library System,22134

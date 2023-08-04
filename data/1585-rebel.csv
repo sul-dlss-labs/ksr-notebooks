@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Cicero station,owned by,Chicago Transit Authority,1585
+Cicero station,owned by,Chicago Transit Authority,1585
+Chicago Transit Authority,owner of,Cicero station,1585
+Cicero station,operator,Chicago Transit Authority,1585

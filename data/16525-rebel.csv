@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+San Aleso,located in the administrative territorial entity,Sunnyvale,16525
+San Diego,shares border with,Fresno County,16525
+Fresno County,shares border with,San Diego,16525
+Sunnyvale,located in the administrative territorial entity,Fresno County,16525
+Fresno County,contains administrative territorial entity,Sunnyvale,16525

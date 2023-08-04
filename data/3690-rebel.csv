@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Brian Camat,place of birth,Federal Way,3690
+the Downunder,location,Belltown,3690
+Rick Camat,sibling,Brian,3690
+Brian,sibling,Rick Camat,3690

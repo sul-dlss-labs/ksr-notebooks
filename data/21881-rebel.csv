@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Pacific Division,parent organization,Los Angeles Police,21881
+Pacific Division,parent organization,Los Angeles Police,21881
+Los Angeles Police,subsidiary,Pacific Division,21881
+Eric Paul Bogart,place of death,Pacific Palisades,21881

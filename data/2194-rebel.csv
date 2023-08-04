@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shooting at an officer,point in time,1999,2194
+shootings,subclass of,crime,2194
+Seth Low shooting,location,73rd Precinct,2194

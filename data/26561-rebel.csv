@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Tavares,located in the administrative territorial entity,Lake County,26561
+Tavares,located in the administrative territorial entity,Orange County,26561
+Orange County,contains administrative territorial entity,Tavares,26561
+Tavares,located in the administrative territorial entity,Lake County,26561
+Lake,contains administrative territorial entity,Tavares,26561

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Aaron Schley,employer,Kewaunee County Sheriff's Deputies,27038
+Kewaunee County,contains administrative territorial entity,Green Bay,27038
+Green Bay,located in the administrative territorial entity,Kewaunee County,27038
+Kewaunee County Sheriff's Deputies,applies to jurisdiction,Kewaunee County,27038

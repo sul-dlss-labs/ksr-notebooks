@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Man gets 20 years for DUI crash following police chase,instance of,drunken driving crash,21588
+Man gets 20 years for DUI crash,instance of,drunken driving crash,21588
+DUI crash following police chase,has cause,drunken driving,21588

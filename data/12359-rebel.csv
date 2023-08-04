@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a firefight,location,San Bernardino Mountains,12359
+LAPD,applies to jurisdiction,Los Angeles,12359
+a firefight in which Dorner was killed,location,San Bernardino Mountains,12359

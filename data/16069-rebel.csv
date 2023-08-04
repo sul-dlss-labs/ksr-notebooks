@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+mayor,subsidiary,LAPD,16069
+LAPD,parent organization,mayor,16069
+mayor,subsidiary,LAPD,16069
+mayor’s,subsidiary,LAPD,16069
+LAPD,parent organization,mayor’s,16069

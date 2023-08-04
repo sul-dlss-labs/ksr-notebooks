@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Milwaukee North,operator,Metra,18657
+Lake-Cook Station,operator,Metra,18657
+Metra,has part,Milwaukee North,18657
+Milwaukee North,operator,Metra,18657

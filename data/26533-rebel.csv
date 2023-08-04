@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+police shooting,part of,standoff,26533
+police shooting,location,Baton Rouge,26533
+police shooting,follows,standoff,26533
+standoff,followed by,police shooting,26533

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Bellville,located in the administrative territorial entity,Austin County,17817
+Austin County,contains administrative territorial entity,"Bellville, TX",17817
+"Bellville, TX",located in the administrative territorial entity,Austin County,17817
+Austin County Sheriff,contains administrative territorial entity,"Bellville, TX",17817
+"Bellville, TX",located in the administrative territorial entity,Austin County Sheriff,17817

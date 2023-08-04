@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Patrick S. Conway,educated at,Clarence Senior High School,12901
+collided,subclass of,head-on collision,12901
+collided,has effect,head-on collision,12901

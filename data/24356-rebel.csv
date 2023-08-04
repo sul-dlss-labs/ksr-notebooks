@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+WBP Special Response Team,parent organization,WBP,24356
+Williamsport Bureau of Police,parent organization,WBP,24356
+WBP,subsidiary,Williamsport Bureau of Police,24356
+Williamsport Bureau of Police,subsidiary,WBP Special Response Team,24356
+WBP Special Response Team,parent organization,Williamsport Bureau of Police,24356

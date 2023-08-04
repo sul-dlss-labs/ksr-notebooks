@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+BLEA,place of death,ATLANTA,13246
+BRIDGE,subclass of,INTOTHEM,13246
+BRIDGE,part of,INTOTHEM,13246

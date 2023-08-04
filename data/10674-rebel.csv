@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Miami-Dade Police Department,applies to jurisdiction,"Miami-Dade County, FL",10674
+Homicide Bureau,parent organization,Miami-Dade Police Department,10674
+Homicide Bureau,part of,Miami-Dade Police Department,10674

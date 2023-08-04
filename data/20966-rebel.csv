@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Writers Guild of America,instance of,union,20966
+on strike since July 14,participant,Writers Guild of America,20966
+Hollywood actors,participant in,strike since July 14,20966
+strike since July 14,participant,Hollywood actors,20966

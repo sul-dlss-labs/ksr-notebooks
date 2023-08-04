@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Fernwood,located in the administrative territorial entity,Chicago,17653
+Englewood,located in the administrative territorial entity,Chicago,17653
+Chicago police,subsidiary,Chicago Police Special Functions Unit,17653
+Chicago Police Special Functions Unit,parent organization,Chicago police,17653

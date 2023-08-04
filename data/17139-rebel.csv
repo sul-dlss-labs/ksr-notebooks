@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Efrain Herrera Jr.,place of death,North Hills,17139
+LAPD,has part,West Valley,17139
+West Valley,part of,LAPD,17139
+LAPD,has part,Mission,17139
+LAPD,has part,West Valley,17139
+Mission,part of,LAPD,17139
+West Valley,part of,LAPD,17139

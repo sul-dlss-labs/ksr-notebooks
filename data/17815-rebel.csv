@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+standoff and shooting,location,DeSoto County,17815
+DeSoto County,located in the administrative territorial entity,Mississippi,17815
+Mississippi,contains administrative territorial entity,DeSoto County,17815
+standoff and shooting,located in the administrative territorial entity,DeSoto County,17815

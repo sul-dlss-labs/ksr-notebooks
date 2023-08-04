@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Estancia,located in the administrative territorial entity,Torrance County,31336
+Estancia,located in the administrative territorial entity,Torrance County,31336
+Torrance County,contains administrative territorial entity,Estancia,31336
+New Mexico State Police,subsidiary,Investigations Bureau,31336
+Investigations Bureau,parent organization,New Mexico State Police,31336

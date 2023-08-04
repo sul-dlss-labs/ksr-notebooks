@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Hernando Police,applies to jurisdiction,DeSoto County,26745
+DeSoto County,contains administrative territorial entity,Memphis,26745
+Memphis,located in the administrative territorial entity,DeSoto County,26745
+Hernando Police,located in the administrative territorial entity,DeSoto County,26745

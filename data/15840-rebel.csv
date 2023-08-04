@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Henry Solis,employer,LAPD,15840
+Los Angeles police,office held by head of the organization,Police Chief,15840
+Police Chief,applies to jurisdiction,Los Angeles police,15840
+Los Angeles police,office held by head of the organization,Police Chief,15840

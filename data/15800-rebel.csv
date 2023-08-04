@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+North Hollywood,located in the administrative territorial entity,Burbank,15800
+Burbank,located in the administrative territorial entity,Los Angeles,15800
+Burbank,located in the administrative territorial entity,Los Angeles,15800
+Los Angeles,contains administrative territorial entity,Burbank,15800

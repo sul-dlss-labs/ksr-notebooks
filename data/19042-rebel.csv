@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,Big Lake,19042
+standoff,point in time,Friday,19042
+shot and killed,instance of,standoff,19042

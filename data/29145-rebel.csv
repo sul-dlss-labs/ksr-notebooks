@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Abilene police,located in the administrative territorial entity,Clyde,29145
+Clyde man,employer,Abilene police,29145
+Abilene police,located in the administrative territorial entity,Clyde,29145
+Clyde,contains administrative territorial entity,Abilene police,29145

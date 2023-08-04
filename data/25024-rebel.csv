@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Houston Police Department,applies to jurisdiction,Houston,25024
+Houston police officers,parent organization,Houston Police Department,25024
+Houston police officers,parent organization,Houston Police Department,25024
+Houston Police Department,subsidiary,Houston police officers,25024

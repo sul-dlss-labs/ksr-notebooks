@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Carondelet,located in the administrative territorial entity,St. Louis,9860
+Pennsylvania Avenue,located in the administrative territorial entity,St. Louis,9860
+St. Louis,located in the administrative territorial entity,Missouri,9860
+Missouri,contains administrative territorial entity,St. Louis,9860

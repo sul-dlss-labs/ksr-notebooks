@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+West Oakland,located in the administrative territorial entity,Oakland,9721
+Oakland Police Department,has part,Homicide,9721
+Homicide,parent organization,Oakland Police Department,9721
+Oakland Police Department,subsidiary,Homicide,9721
+Homicide,parent organization,Oakland Police Department,9721

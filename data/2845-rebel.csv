@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Harborview Medical Center,located in the administrative territorial entity,Seattle,2845
+Monroe,located in the administrative territorial entity,Pierce County,2845
+Pierce County,contains administrative territorial entity,Monroe,2845
+Monroe Police Department,inception,1994,2845

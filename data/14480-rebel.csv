@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Baltimore Beltway,connects with,I-70,14480
+I-70,connects with,Baltimore Beltway,14480
+I-70,connects with,Baltimore Beltway,14480
+Baltimore Beltway ramps to close temporarily for Triple Bridges project,part of,Baltimore Beltway,14480

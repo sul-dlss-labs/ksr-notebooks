@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+chase and standoff,participant,Sheriff,31430
+chase and standoff,instance of,chase,31430
+chase and standoff,subclass of,chase,31430

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Scott Thompson,sibling,Shane Thompson,4866
+Shane Thompson,sibling,Scott Thompson,4866
+Scott Thompson,sibling,Shane Thompson,4866
+Scott Thompson,sibling,Shane,4866
+Shane,sibling,Scott Thompson,4866

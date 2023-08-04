@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bay Area,has part,San Francisco,12435
+Bay Area,has part,San Francisco,12435
+San Francisco,part of,Bay Area,12435
+a spate of deadly officer-involved shootings,location,San Jose,12435

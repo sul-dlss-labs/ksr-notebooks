@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Department of Mental Health,applies to jurisdiction,state,24891
+involuntarily committed,subclass of,mental health facilities,24891
+involuntarily committed,facet of,mental health facilities,24891

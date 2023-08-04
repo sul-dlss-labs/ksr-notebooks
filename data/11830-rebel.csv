@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+KTVI,located in the administrative territorial entity,St. Louis,11830
+St. Louis,located in the administrative territorial entity,MO,11830
+MO,contains administrative territorial entity,St. Louis,11830
+KTVI,headquarters location,St. Louis,11830

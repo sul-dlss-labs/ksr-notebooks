@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Harnett County,contains administrative territorial entity,Fayetteville,8539
+Fayetteville,located in the administrative territorial entity,Harnett County,8539
+Harnett County Sheriff's Office,located in the administrative territorial entity,Sanford,8539
+Harnett County,contains administrative territorial entity,Sanford,8539
+Sanford,located in the administrative territorial entity,Harnett County,8539

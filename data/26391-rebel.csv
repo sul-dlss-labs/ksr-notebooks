@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Minneapolis,head of government,Jacob Frey,26391
+Mayor,officeholder,Jacob Frey,26391
+Jacob Frey,position held,Mayor,26391
+Police Chief,applies to jurisdiction,Minneapolis,26391
+Jacob Frey,work location,Minneapolis,26391

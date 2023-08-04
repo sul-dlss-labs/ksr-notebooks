@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Bloomington police,applies to jurisdiction,Bloomington,15625
+Bloomington police,located in the administrative territorial entity,Bloomington,15625
+Bloomington,located in the administrative territorial entity,Hennepin County,15625
+Hennepin County,contains administrative territorial entity,Bloomington,15625

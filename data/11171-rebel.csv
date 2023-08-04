@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Macron,country of citizenship,France,11171
+Macron,country,France,11171
+Comment,subclass of,Article,11171

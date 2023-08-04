@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,location,Blackwell,26103
+second-degree murder,subclass of,manslaughter,26103
+second-degree murder,subclass of,officer-involved shooting,26103

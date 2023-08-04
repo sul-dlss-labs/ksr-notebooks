@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+HEAT ADVISORY,applies to jurisdiction,Mississippi,26294
+Heat index,facet of,heat illnesses,26294
+Heat index,facet of,heat illness,26294

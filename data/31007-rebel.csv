@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+"Memphis, TN",population,38111,31007
+thunderstorm,subclass of,rain,31007
+"Memphis, TN",point in time,38111,31007

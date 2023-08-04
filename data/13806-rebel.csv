@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Alabama,contains administrative territorial entity,Franklin County,13806
+Ozark,located in the administrative territorial entity,Franklin County,13806
+Franklin County,located in the administrative territorial entity,Alabama,13806
+Ozark,located in the administrative territorial entity,Franklin County,13806
+Alabama,contains administrative territorial entity,"Madison Co., Alabama",13806
+Ozark,located in the administrative territorial entity,Franklin County,13806
+"Madison Co., Alabama",located in the administrative territorial entity,Alabama,13806

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+KTTN,affiliation,KGOZ,16945
+KGOZ,owned by,KTTN,16945
+KTTN,owned by,KGOZ,16945

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Five hour standoff on Krystal Lane,participant,police,18982
+Five hour standoff on Krystal Lane,has effect,suicide,18982
+Five hour standoff on Krystal Lane,instance of,suicide,18982

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+murder,subclass of,accident,17229
+Wendell Celestine Jr.,place of death,Pittsburg,17229
+asphyxiation,subclass of,cause of death,17229

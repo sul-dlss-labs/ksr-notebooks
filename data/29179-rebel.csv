@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+shooting,location,Dania Beach,29179
+Broward Sheriff’s Office,parent organization,Florida Department of Law Enforcement,29179
+Florida Department of Law Enforcement,subsidiary,Broward Sheriff’s Office,29179
+Broward Sheriff’s Office,parent organization,Florida Department of Law Enforcement,29179

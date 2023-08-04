@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Bismarck,located in the administrative territorial entity,St. Francois County,27308
+St. Francois County,contains administrative territorial entity,Bismarck,27308
+"Bismarck, Missouri",located in the administrative territorial entity,St. Francois County,27308
+St. Louis,located in the administrative territorial entity,Missouri,27308
+Missouri,contains administrative territorial entity,St. Louis,27308

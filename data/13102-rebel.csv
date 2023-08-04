@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Marisol Mercado,date of death,"July 14, 2013",13102
+Chicago,instance of,West Side,13102
+Chicago,shares border with,West Side,13102
+West Side,shares border with,Chicago,13102

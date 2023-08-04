@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+UAB Hospital,located in the administrative territorial entity,Birmingham,26316
+Birmingham,located in the administrative territorial entity,Jefferson County,26316
+Jefferson County,contains administrative territorial entity,Birmingham,26316
+Birmingham,located in the administrative territorial entity,Jefferson County,26316
+Jefferson County,capital,Birmingham,26316

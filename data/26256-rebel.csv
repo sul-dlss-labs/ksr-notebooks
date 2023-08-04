@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Lorain County,contains administrative territorial entity,Elyria,26256
+Elyria,located in the administrative territorial entity,Lorain County,26256
+Lorain County,contains administrative territorial entity,Cleveland,26256
+Cleveland,located in the administrative territorial entity,Lorain County,26256
+Lorain County,capital,Elyria,26256
+Elyria,located in the administrative territorial entity,Lorain County,26256

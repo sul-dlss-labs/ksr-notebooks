@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+John Daly Boulevard,located in the administrative territorial entity,Daly City,21587
+San Mateo County,contains administrative territorial entity,Daly City,21587
+Daly City,located in the administrative territorial entity,San Mateo County,21587
+San Francisco,located in the administrative territorial entity,San Mateo County,21587

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+marketing,has part,advertising,7474
+Terms of Service,has part,Privacy Policy,7474
+Privacy Policy,part of,Terms of Service,7474
+Terms of Service,part of,Privacy Policy,7474

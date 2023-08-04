@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Marion Police shooting of Dallas County man,point in time,"April 30, 2005",4161
+Marion Police shooting,point in time,"April 30, 2005",4161
+Marion,located in the administrative territorial entity,Dallas County,4161
+Dallas County,contains administrative territorial entity,Marion,4161

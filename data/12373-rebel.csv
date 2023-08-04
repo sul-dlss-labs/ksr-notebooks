@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+James Smith,employer,California Highway Patrol,12373
+California Highway Patrol,instance of,officers,12373
+STOCKTON,operator,California Highway Patrol,12373

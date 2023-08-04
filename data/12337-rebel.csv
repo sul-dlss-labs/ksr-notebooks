@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT team,located in the administrative territorial entity,El Monte,12337
+SWAT team,location,El Monte,12337
+El Monte police,has part,SWAT,12337

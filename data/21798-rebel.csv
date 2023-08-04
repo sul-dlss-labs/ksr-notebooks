@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Francisco International Airport,has part,International Terminal,21798
+International Terminal,part of,San Francisco International Airport,21798
+San Francisco International Airport,has part,International Terminal,21798
+shot and killed by police,location,San Francisco International Airport,21798

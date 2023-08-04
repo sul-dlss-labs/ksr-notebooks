@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+my father,residence,Homestead,11935
+Homestead,owned by,my father,11935
+My father,residence,Homestead,11935

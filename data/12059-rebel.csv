@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+SWAT,subclass of,police,12059
+SWAT,instance of,tactical,12059
+Brunswick Police,parent organization,Brunswick City Schools,12059

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+fatally shot,location,Utica Avenue,18334
+police,has part,officers,18334
+fatally shot,participant,police,18334

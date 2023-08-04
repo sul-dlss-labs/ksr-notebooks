@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+National City,located in the administrative territorial entity,San Diego,19851
+San Diego police,located in the administrative territorial entity,National City,19851
+San Diego,owner of,Interstate 805,19851
+Interstate 805,owned by,San Diego,19851

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+perennial,subclass of,plant,16240
+tree,subclass of,perennial,16240
+tree,has parts of the class,root,16240

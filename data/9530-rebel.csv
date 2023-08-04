@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Newsletter,subclass of,Subscription,9530
+Newsletter,use,Subscription,9530
+Subscription,has part,subscriber,9530

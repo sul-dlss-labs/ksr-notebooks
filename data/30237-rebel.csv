@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alvarado,located in the administrative territorial entity,Hill County,30237
+Alvarado,located in the administrative territorial entity,Ellis County,30237
+Hill County,contains administrative territorial entity,Alvarado,30237
+Alvarado,located in the administrative territorial entity,Hill County,30237

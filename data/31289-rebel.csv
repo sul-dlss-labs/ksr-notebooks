@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police bodycams,subclass of,CCTV,31289
+police bodycams,subclass of,CCTV camera,31289
+police bodycam,subclass of,CCTV,31289

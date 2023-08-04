@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Fort Lauderdale police,parent organization,Florida Department of Law Enforcement,27976
+police-involved shooting,location,Fort Lauderdale,27976
+Fort Lauderdale police,parent organization,Florida Department of Law Enforcement,27976
+Florida Department of Law Enforcement,subsidiary,Fort Lauderdale police,27976

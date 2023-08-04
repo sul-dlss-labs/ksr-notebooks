@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+York,capital of,Pennsylvania,20767
+Pennsylvania,capital,York,20767
+opened fire,point in time,"November 24, 2012",20767
+City of York,located in the administrative territorial entity,Pennsylvania,20767
+West Manchester,located in the administrative territorial entity,Pennsylvania,20767

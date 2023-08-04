@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Anthony Nunez,date of death,"July 4, 2016",17881
+San Jose,part of,Bay Area,17881
+Bay Area,has part,San Jose,17881
+San Jose,part of,Bay Area,17881

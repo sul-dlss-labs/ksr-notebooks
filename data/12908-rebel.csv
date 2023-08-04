@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Hickory,located in the administrative territorial entity,Caldwell County,12908
+Caldwell County,located in the administrative territorial entity,N.C.,12908
+N.C.,contains administrative territorial entity,Caldwell County,12908
+Hickory,located in the administrative territorial entity,Caldwell County,12908
+Caldwell County,contains administrative territorial entity,Hickory,12908

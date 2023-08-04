@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+9MM Beretta,subclass of,firearm,28049
+9MM Beretta,subclass of,BB gun,28049
+9MM Beretta,instance of,firearm,28049

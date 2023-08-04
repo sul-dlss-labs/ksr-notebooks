@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Michel Moore,employer,LAPD,27034
+LAPD Chief,part of,Los Angeles Police Commission,27034
+LAPD,has part,Los Angeles Police Commission,27034

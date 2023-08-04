@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+crashed his car,point in time,"July 9, 2011",22900
+crashed his car in the 6400 block of Holland Road,point in time,"July 9, 2011",22900
+crashed his car in the 6400 block of Holland Road while fleeing from a traffic stop,point in time,"July 9, 2011",22900

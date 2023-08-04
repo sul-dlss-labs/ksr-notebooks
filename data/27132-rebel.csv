@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Nelson Township,located in the administrative territorial entity,Tioga County,27132
+Pennsylvania State Police,subsidiary,PSP SERT,27132
+PSP SERT,parent organization,Pennsylvania State Police,27132
+Pennsylvania State Police,has part,PSP SERT,27132
+PSP SERT,part of,Pennsylvania State Police,27132

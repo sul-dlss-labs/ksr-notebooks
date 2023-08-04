@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+email,has part,link,31162
+email,has part,link,31162
+link,part of,email,31162
+Signup,subclass of,email,31162

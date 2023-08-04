@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+violent collision,location,Inglewood,30123
+violent collision,located in the administrative territorial entity,Inglewood,30123
+violent collision in Inglewood,location,Inglewood,30123

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+CTA,has part,Red Line,2394
+Red Line,operator,CTA,2394
+Red Line,owned by,CTA,2394
+Red Line,operator,CTA,2394

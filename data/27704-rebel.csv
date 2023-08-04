@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Camas,located in the administrative territorial entity,Clark County,27704
+Clark County,contains administrative territorial entity,Camas,27704
+Camas,located in the administrative territorial entity,Clark County,27704
+Camas,shares border with,Washougal,27704
+Washougal,shares border with,Camas,27704

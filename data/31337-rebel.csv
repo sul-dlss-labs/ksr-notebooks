@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+North Carolina,contains administrative territorial entity,Mitchell County,31337
+North Carolina,contains administrative territorial entity,Mitchell County,31337
+Mitchell County,located in the administrative territorial entity,North Carolina,31337
+Mitchell County,located in the administrative territorial entity,North Carolina,31337
+North Carolina,contains administrative territorial entity,Mitchell County,31337
+Mitchell County,located in the administrative territorial entity,North Carolina,31337
+North Carolina State Highway Patrol,parent organization,North Carolina Department of Public Safety,31337
+North Carolina Department of Public Safety,subsidiary,North Carolina State Highway Patrol,31337

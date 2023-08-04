@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Tijuana,part of,Mexico,4831
+Mexico,shares border with,United States,4831
+United States,shares border with,Mexico,4831
+Tijuana,part of,Mexico,4831
+Mexico,contains administrative territorial entity,Tijuana,4831

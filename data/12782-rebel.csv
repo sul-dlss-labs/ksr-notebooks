@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Carnesville,located in the administrative territorial entity,Franklin County,12782
+McDonough,located in the administrative territorial entity,Banks County,12782
+McDonough,located in the administrative territorial entity,Banks County,12782
+Banks County,contains administrative territorial entity,McDonough,12782

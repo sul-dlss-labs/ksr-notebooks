@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Lafayette Police Department,applies to jurisdiction,"Lafayette, LA",30738
+Louisiana State Police,subsidiary,Louisiana State Police Bureau of Investigations,30738
+Louisiana State Police Bureau of Investigations,parent organization,Louisiana State Police,30738
+"Lafayette, LA",located in the administrative territorial entity,KPLC,30738

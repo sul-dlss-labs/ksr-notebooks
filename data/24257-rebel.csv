@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+LAPD,applies to jurisdiction,Los Angeles,24257
+Pacoima,located in the administrative territorial entity,Los Angeles,24257
+Los Angeles police,subsidiary,LAPD,24257
+LAPD,parent organization,Los Angeles police,24257

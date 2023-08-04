@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+"Cedar City, Utah",located in the administrative territorial entity,Iron County,30345
+standoff,location,Iron County,30345
+hourslong standoff,location,"Cedar City, Utah",30345

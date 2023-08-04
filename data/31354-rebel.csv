@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+killed a 17-year-old teenager,instance of,vehicular homicide,31354
+arrested on suspicion of vehicular homicide,subclass of,felonies,31354
+murdered,instance of,vehicular homicide,31354

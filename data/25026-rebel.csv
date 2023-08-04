@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a wild police shootout,location,Interstate 17,25026
+police shootout,location,Interstate 17,25026
+a wild police shootout on Interstate 17 last week,point in time,October 29,25026

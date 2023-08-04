@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police shooting,location,Fayetteville,12730
+a police shooting,location,Fayetteville,12730
+"FAYETTEVILLE, N.C.",instance of,police,12730

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Baylor University Medical Center,located in the administrative territorial entity,Dallas,19636
+Fannin County,contains administrative territorial entity,Dallas,19636
+Dallas,located in the administrative territorial entity,Fannin County,19636
+Texas Department of Public Safety,subsidiary,Texas Rangers,19636
+Texas Rangers,parent organization,Texas Department of Public Safety,19636

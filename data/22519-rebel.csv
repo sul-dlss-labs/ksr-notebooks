@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Lane,located in the administrative territorial entity,Atoka County,22519
+Highway 3,located in the administrative territorial entity,Atoka County,22519
+Highway 3,located in the administrative territorial entity,Oklahoma,22519
+Oklahoma,contains administrative territorial entity,Atoka County,22519
+Atoka County,located in the administrative territorial entity,Oklahoma,22519

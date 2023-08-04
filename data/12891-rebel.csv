@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Eric Matsumoto,employer,Honolulu Police Department,12891
+HONOLULU,located in the administrative territorial entity,Kaneohe,12891
+HONOLULU,contains administrative territorial entity,Kaneohe,12891
+Kaneohe,located in the administrative territorial entity,HONOLULU,12891

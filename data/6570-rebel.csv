@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+John Brown,date of death,"October 4, 2007",6570
+Beauregard,instance of,parish,6570
+a chase,location,Beauregard,6570

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Police Chief,applies to jurisdiction,D.C.,26603
+Comment,subclass of,Article,26603
+Comment,part of,Article,26603

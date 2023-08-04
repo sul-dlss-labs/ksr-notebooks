@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,Livermore,21965
+armed man police officers fatally shot Wednesday night,instance of,standoff,21965
+SWAT,part of,Livermore police,21965

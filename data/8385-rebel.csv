@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+police,applies to jurisdiction,San Bernardino,8385
+shot and killed,location,San Bernardino,8385
+San Bernardino,instance of,police,8385

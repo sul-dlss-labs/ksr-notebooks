@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Sgt.,subclass of,officer,19725
+Officer James M. Gardill,award received,Medal of Valor,19725
+Sgt.,subclass of,officer,19725
+Officer,has part,sergeant,19725

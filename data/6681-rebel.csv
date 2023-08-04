@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Anne Arundel,shares border with,Baltimore,6681
+Baltimore,shares border with,Anne Arundel,6681
+Anne Arundel,contains administrative territorial entity,Baltimore,6681
+Baltimore,located in the administrative territorial entity,Anne Arundel,6681
+Anne Arundel,located in the administrative territorial entity,Maryland,6681
+Maryland,contains administrative territorial entity,Anne Arundel,6681

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Bakersfield,elevation above sea level,5,30235
+standoff,location,Bakersfield,30235
+SWAT,located in the administrative territorial entity,Bakersfield,30235

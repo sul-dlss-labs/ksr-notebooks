@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+State Patrol,parent organization,Department of Justice,29289
+Department of Justice,subsidiary,Division of Criminal Investigation,29289
+Division of Criminal Investigation,parent organization,Department of Justice,29289
+Johnson Creek,located in the administrative territorial entity,Jefferson County,29289

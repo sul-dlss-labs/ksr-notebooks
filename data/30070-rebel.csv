@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Irvine,shares border with,Tustin,30070
+Tustin,shares border with,Irvine,30070
+Irvine,shares border with,Tustin,30070
+Orange,shares border with,Tustin,30070
+Tustin,shares border with,Orange,30070

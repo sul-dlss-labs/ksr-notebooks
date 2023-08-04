@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Montana Department of Justice,subsidiary,Division of Criminal Investigation,27178
+Division of Criminal Investigation,parent organization,Montana Department of Justice,27178
+Montana Department of Justice,subsidiary,Division of Criminal Investigation,27178
+Cascade County Sheriff,applies to jurisdiction,Great Falls,27178

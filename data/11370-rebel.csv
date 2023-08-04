@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Suspect Arrested in Fatal Traffic Accident at 7000 State Highway 288,point in time,"May 24, 2012",11370
+Suspect Arrested in Fatal Traffic Accident,point in time,"May 24, 2012",11370
+7000 State Highway 288,part of,Highway 288,11370

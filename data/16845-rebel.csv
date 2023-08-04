@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer Sandra Boonenberg,employer,Boca Raton police,16845
+Sandra Boonenberg,employer,Boca Raton police,16845
+officer,subclass of,police,16845

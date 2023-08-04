@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Los Angeles County Jail,operator,Sheriff’s Department,3290
+Inmate Reception Center,instance of,jail,3290
+Inmate Reception Center,operator,Sheriff’s Department,3290

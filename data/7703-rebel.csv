@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Fairfax County,shares border with,Arlington,7703
+Arlington,shares border with,Fairfax County,7703
+Fairfax County,contains administrative territorial entity,McLean,7703
+McLean,located in the administrative territorial entity,Fairfax County,7703
+Fairfax County,located in the administrative territorial entity,Virginia,7703
+Virginia,contains administrative territorial entity,Fairfax County,7703

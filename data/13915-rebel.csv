@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Modesto standoff,instance of,standoff,13915
+Modesto standoff,participant,Modesto police,13915
+Modesto standoff,location,Modesto,13915

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Charlie Hales,position held,Mayor,15887
+Gail Shibley,position held,Mayor,15887
+East Precinct,parent organization,Portland police bureau,15887
+Portland police bureau,subsidiary,East Precinct,15887

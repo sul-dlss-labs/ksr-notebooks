@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer Involved Shooting,subclass of,shooting incident,16774
+Officer Involved Shooting,subclass of,shooting,16774
+HPD shooting incidents,participant,Houston Police Department,16774

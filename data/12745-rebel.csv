@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a shootout,location,Orlando,12745
+a shootout,participant,Orlando Police Department,12745
+officers initiated a traffic stop,facet of,police officers,12745

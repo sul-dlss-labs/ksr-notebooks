@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Commerce City,located in the administrative territorial entity,Boulder County,9088
+Commerce City,located in the administrative territorial entity,Boulder County,9088
+Boulder County,contains administrative territorial entity,Commerce City,9088
+Commerce City,located in the administrative territorial entity,Adams County,9088
+Adams County,contains administrative territorial entity,Commerce City,9088

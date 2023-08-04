@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Billings Clinic,located in the administrative territorial entity,Billings,15679
+Billings Clinic,headquarters location,Billings,15679
+Billings,located in the administrative territorial entity,Yellowstone County,15679
+Yellowstone County,contains administrative territorial entity,Billings,15679

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Civic Center,located in the administrative territorial entity,Santa Ana,18006
+Orange County Superior Court,located in the administrative territorial entity,Santa Ana,18006
+Santa Ana,located in the administrative territorial entity,Orange County,18006
+Orange County,contains administrative territorial entity,Santa Ana,18006

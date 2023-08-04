@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+UVerse,product or material produced,DIRECTV,21585
+UVerse,follows,DIRECTV/UVerse,21585
+UVerse,follows,DIRECTV,21585

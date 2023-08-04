@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer /*Isabel Nazario*/,date of death,September 5th,20334
+officer who was killed,point in time,"September 23, 2008",20334
+Officer,applies to jurisdiction,Philadelphia,20334

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Federal Correctional Institution,operator,federal Bureau of Prisons,5243
+Federal Bureau of Prisons,parent organization,Department of Justice,5243
+Office of the Inspector General,parent organization,Department of Justice,5243

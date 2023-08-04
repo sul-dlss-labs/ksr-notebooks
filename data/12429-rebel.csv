@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Michigan,contains administrative territorial entity,Sanilac County,12429
+Sanilac County,located in the administrative territorial entity,Michigan,12429
+El Paso Police Department,located in the administrative territorial entity,Texas,12429
+El Paso,capital of,Texas,12429
+Texas,capital,El Paso,12429

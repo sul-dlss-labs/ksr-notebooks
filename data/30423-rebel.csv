@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+DeKalb County Sheriff,subsidiary,DeKalb County Police,30423
+DeKalb County Police,parent organization,DeKalb County Sheriff,30423
+DeKalb County Sheriff,subsidiary,DeKalb County Police,30423
+DeKalb County Sheriff,applies to jurisdiction,DeKalb County,30423

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Utah,contains administrative territorial entity,Carbon County,3100
+Trooper Robert Garner,employer,Wyoming Highway Patrol,3100
+Wyoming Highway Patrol,located in the administrative territorial entity,Utah,3100

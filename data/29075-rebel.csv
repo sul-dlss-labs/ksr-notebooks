@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+LVMPD,applies to jurisdiction,Metro,29075
+Police,applies to jurisdiction,Las Vegas,29075
+LVMPD,has part,Metro police,29075

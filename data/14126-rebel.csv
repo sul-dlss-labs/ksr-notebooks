@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+St. Charles County,located in the administrative territorial entity,Mo,14126
+Mo,contains administrative territorial entity,St. Charles County,14126
+Taser,subclass of,less-lethal weapon,14126
+gun that fires beanbag rounds,subclass of,less-lethal weapons,14126

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Fort Morgan Police Department,applies to jurisdiction,Fort Morgan,13303
+Morgan County Sheriff’s Office,located in the administrative territorial entity,Fort Morgan,13303
+Fort Morgan,located in the administrative territorial entity,Morgan County,13303
+Morgan County,contains administrative territorial entity,Fort Morgan,13303

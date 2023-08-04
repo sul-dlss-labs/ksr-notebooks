@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+I-75 Northbound,terminus,OH-73,24143
+I-75 Northbound,terminus,OH-73 Central Ave.,24143
+I-75 Northbound,connects with,OH-73,24143
+OH-73,connects with,I-75 Northbound,24143

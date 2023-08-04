@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Nashville,capital of,Tenn.,29747
+Tenn.,capital,Nashville,29747
+Nolensville Pike,located in the administrative territorial entity,"Nashville, Tenn.",29747
+Davidson County,contains administrative territorial entity,Nashville,29747
+Nashville,located in the administrative territorial entity,Davidson County,29747

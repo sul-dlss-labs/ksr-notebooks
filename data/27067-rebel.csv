@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Eatonville,located in the administrative territorial entity,Pierce County,27067
+Pierce County,contains administrative territorial entity,Olympia,27067
+Olympia,located in the administrative territorial entity,Pierce County,27067
+Pierce County,contains administrative territorial entity,Tacoma,27067
+Tacoma,located in the administrative territorial entity,Pierce County,27067

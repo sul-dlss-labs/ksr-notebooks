@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a police standoff,participant,Miami-Dade Police,23668
+police standoff,participant,Miami-Dade Police,23668
+SWAT,part of,Miami-Dade Police,23668

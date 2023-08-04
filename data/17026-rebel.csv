@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Knox,located in the administrative territorial entity,Tennessee,17026
+Tennessee,contains administrative territorial entity,Knox,17026
+Knox County Sheriff's Office,applies to jurisdiction,Knox,17026
+Knox County,contains administrative territorial entity,Knoxville,17026
+Knoxville,located in the administrative territorial entity,Knox County,17026

@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Osceola County,contains administrative territorial entity,Kissimmee,27900
+Kissimmee,located in the administrative territorial entity,Osceola County,27900
+Osceola County Sheriff,located in the administrative territorial entity,Kissimmee,27900
+Osceola County Sheriff's Office,applies to jurisdiction,Osceola County,27900
+Osceola County,contains administrative territorial entity,Osceola County Sheriff's Office,27900

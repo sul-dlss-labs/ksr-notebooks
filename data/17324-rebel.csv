@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+prosecutor,subclass of,judge,17324
+prosecutor,different from,judge,17324
+prosecutor,different from,judge,17324
+judge,different from,prosecutor,17324

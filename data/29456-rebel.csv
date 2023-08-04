@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+standoff at an RV,point in time,Tuesday,29456
+standoff at an RV,point in time,Tuesday,29456
+standoff at an RV,located in the administrative territorial entity,Texas,29456
+Chambers County,located in the administrative territorial entity,Texas,29456
+Texas,contains administrative territorial entity,Chambers County,29456
+a standoff at an RV,located in the administrative territorial entity,Texas,29456
+Chambers County,located in the administrative territorial entity,Texas,29456
+Texas,contains administrative territorial entity,Chambers County,29456

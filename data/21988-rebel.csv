@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+UPMC,headquarters location,Pittsburgh,21988
+Jefferson County,contains administrative territorial entity,Pittsburgh,21988
+Pittsburgh,located in the administrative territorial entity,Jefferson County,21988
+Jefferson County,contains administrative territorial entity,Steubenville,21988
+UPMC,headquarters location,Pittsburgh,21988
+Steubenville,located in the administrative territorial entity,Jefferson County,21988

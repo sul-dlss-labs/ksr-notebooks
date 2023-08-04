@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Missoula,located in the administrative territorial entity,Mineral County,16484
+Montana Highway,located in the administrative territorial entity,Superior,16484
+Mineral County,contains administrative territorial entity,Superior,16484
+Superior,located in the administrative territorial entity,Mineral County,16484

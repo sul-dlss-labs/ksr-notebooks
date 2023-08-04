@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,location,Phoenix,14881
+officer-involved shooting in north Phoenix,location,Phoenix,14881
+officer-involved shooting in north Phoenix,instance of,officer-involved shooting,14881

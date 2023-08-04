@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+domain provider,product or material produced,domain,7569
+pending renewal,different from,expired,7569
+expired,different from,pending renewal,7569
+renewal,different from,expired,7569
+expired,different from,renewal,7569

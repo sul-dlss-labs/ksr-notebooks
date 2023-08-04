@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Jason Ellerbach,employer,Scott County Sheriff’s Office,5936
+Davenport,located in the administrative territorial entity,Scott County,5936
+Scott County,contains administrative territorial entity,Davenport,5936
+Jason Ellerbach,employer,Davenport police officers,5936

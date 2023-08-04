@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Victoria,capital of,TX,16704
+TX,capital,Victoria,16704
+Victoria,located in the administrative territorial entity,TX,16704
+TX,capital,Victoria,16704
+Victoria,located in the administrative territorial entity,TX,16704
+TX,contains administrative territorial entity,Victoria,16704

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,Springfield,18768
+standoff,located in the administrative territorial entity,Springfield,18768
+a standoff,location,Springfield,18768

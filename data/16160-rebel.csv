@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Attorney General's Office,chairperson,Delie Honig,16160
+Attorney General,officeholder,Delie Honig,16160
+Attorney General's Office,subsidiary,New Jersey Division of Criminal Justice,16160
+New Jersey Division of Criminal Justice,parent organization,Attorney General's Office,16160

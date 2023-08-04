@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Eric Jackson,employer,FBI,18014
+FBI raid,participant,FBI,18014
+FBI raid,location,"Kansas City, Mo.",18014

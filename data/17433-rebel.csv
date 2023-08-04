@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff with police,participant,Maricopa Police Department,17433
+SWAT,part of,Department of Public Safety,17433
+SWAT,parent organization,Department of Public Safety,17433

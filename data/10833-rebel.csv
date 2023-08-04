@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Oklahoma City Police,subsidiary,Oklahoma State Bureau of Investigation,10833
+Oklahoma City Police,has part,Oklahoma State Bureau of Investigation,10833
+Oklahoma City Police,subsidiary,Oklahoma State Bureau of Investigation,10833
+Oklahoma State Bureau of Investigation,parent organization,Oklahoma City Police,10833

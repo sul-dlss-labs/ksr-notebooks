@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chicago,instance of,Northwest Side,8724
+Chicago,instance of,West Side,8724
+Chicago,shares border with,West Side,8724
+West Side,shares border with,Chicago,8724

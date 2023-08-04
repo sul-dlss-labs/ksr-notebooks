@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Tennessee Bureau of Investigation,applies to jurisdiction,Tennessee,17118
+Sevier County,contains administrative territorial entity,Sevierville,17118
+Sevierville,located in the administrative territorial entity,Sevier County,17118
+Sevier County Sheriff's Office,located in the administrative territorial entity,Sevierville,17118

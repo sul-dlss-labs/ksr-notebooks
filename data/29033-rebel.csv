@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+LAS VEGAS,located in the administrative territorial entity,Nevada,29033
+Nevada,contains administrative territorial entity,LAS VEGAS,29033
+LAS VEGAS,part of,valley,29033
+LAS VEGAS,part of,valley,29033
+valley,has part,LAS VEGAS,29033

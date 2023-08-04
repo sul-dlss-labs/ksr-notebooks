@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,manufacturer,"Taser International, Inc.",4321
+Taser,manufacturer,Taser International,4321
+TASER,manufacturer,"Taser International, Inc.",4321

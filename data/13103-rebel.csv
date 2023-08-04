@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Johnson County,shares border with,Shelby County,13103
+Shelby County,shares border with,Johnson County,13103
+Johnson,shares border with,Shelby County,13103
+Shelby County,shares border with,Johnson,13103
+"Johnson County, IN",shares border with,Shelby County,13103
+Shelby County,shares border with,"Johnson County, IN",13103

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Brian Hundley,date of death,"March 23, 2002",1567
+first trial,instance of,trial,1567
+the shooting of Brian Hundley,point in time,"March 23, 2002",1567

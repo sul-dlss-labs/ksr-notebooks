@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+New London,located in the administrative territorial entity,Des Moines County,1994
+Iowa,contains administrative territorial entity,Des Moines County,1994
+Iowa,contains administrative territorial entity,Henry County,1994
+Des Moines County,located in the administrative territorial entity,Iowa,1994
+Henry County,located in the administrative territorial entity,Iowa,1994
+Iowa,contains administrative territorial entity,Des Moines County,1994
+Des Moines County,located in the administrative territorial entity,Iowa,1994

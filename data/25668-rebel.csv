@@ -1,0 +1,10 @@
+subject,predicate,object,fe_id
+New York City,head of government,Bill de Blasio,25668
+New York City,office held by head of government,Mayor,25668
+Mayor,applies to jurisdiction,New York City,25668
+Mayor,officeholder,James O'Neill,25668
+James O'Neill,position held,Mayor,25668
+New York City,office held by head of government,Mayor,25668
+Mayor,applies to jurisdiction,New York City,25668
+Mayor,officeholder,Bill de Blasio,25668
+Bill de Blasio,position held,Mayor,25668

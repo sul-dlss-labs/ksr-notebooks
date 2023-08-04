@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+police,applies to jurisdiction,Colorado Springs,23398
+police officers,applies to jurisdiction,Colorado Springs,23398
+Colorado Springs,located in the administrative territorial entity,El Paso County,23398
+El Paso County,contains administrative territorial entity,Colorado Springs,23398

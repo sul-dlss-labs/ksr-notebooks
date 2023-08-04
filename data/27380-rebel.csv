@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+premium content,subclass of,subscription,27380
+Premium content,subclass of,subscription,27380
+subscription,subclass of,premium content,27380

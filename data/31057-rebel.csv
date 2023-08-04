@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Anthony Holloway,employer,St. Petersburg Police Department,31057
+St. Petersburg Police Chief,officeholder,Anthony Holloway,31057
+Anthony Holloway,position held,St. Petersburg Police Chief,31057
+St. Petersburg Police,applies to jurisdiction,St. Petersburg,31057

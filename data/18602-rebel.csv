@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+UVerse,follows,DIRECTV,18602
+WDVM,developer,DIRECTV/UVerse,18602
+DIRECTV/UVerse,owner of,1-800-531-5000,18602
+1-800-531-5000,owned by,DIRECTV/UVerse,18602

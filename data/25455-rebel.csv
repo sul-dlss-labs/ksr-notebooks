@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+John McCarthy,position held,Montgomery County State’s Attorney,25455
+State’s Attorney,part of,State’s Attorney’s office,25455
+State’s Attorney’s office,office held by head of the organization,State’s Attorney,25455
+State’s Attorney,subclass of,State’s Attorney,25455

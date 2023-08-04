@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Robert Lang,employer,St. Louis Police Department,6034
+Chief Dan Isom,employer,St. Louis Police Department,6034
+St. Louis Police Department,follows,city police,6034
+city police,followed by,St. Louis Police Department,6034

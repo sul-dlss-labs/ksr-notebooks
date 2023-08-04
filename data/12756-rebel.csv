@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Kern County,located in the administrative territorial entity,California,12756
+California,contains administrative territorial entity,Kern County,12756
+Kern Medical Center,located in the administrative territorial entity,"Bakersfield, California",12756
+Kern Medical Center,located in the administrative territorial entity,Kern County,12756

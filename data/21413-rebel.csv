@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+"Maricopa County homicide map, 2017",point in time,2017,21413
+Goodyear,located in the administrative territorial entity,Maricopa County,21413
+Maricopa County,contains administrative territorial entity,Phoenix,21413
+Phoenix,located in the administrative territorial entity,Maricopa County,21413

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Federal Court,applies to jurisdiction,Kentucky,19972
+Checkpoints and Stops,subclass of,Police Enforcement,19972
+Checkpoints and Stops,part of,Police Enforcement,19972

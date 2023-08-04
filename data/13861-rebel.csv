@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+first-degree murder,subclass of,murder,13861
+murder,different from,manslaughter,13861
+manslaughter,different from,murder,13861
+manslaughter,different from,murder,13861

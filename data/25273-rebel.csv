@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Byhalia,located in the administrative territorial entity,Marshall County,25273
+Batesville,located in the administrative territorial entity,Marshall County,25273
+Marshall County,contains administrative territorial entity,Batesville,25273
+Mississippi,contains administrative territorial entity,Union County,25273
+Union County,located in the administrative territorial entity,Mississippi,25273

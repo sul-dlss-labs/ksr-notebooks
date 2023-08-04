@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Delaware State Police,parent organization,Delaware Department of Justice,27066
+Delaware Department of Justice,applies to jurisdiction,Delaware,27066
+Delaware State Police,parent organization,Delaware Department of Justice,27066
+Delaware Department of Justice,subsidiary,Delaware State Police,27066

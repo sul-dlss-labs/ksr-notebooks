@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Queen Anne,located in the administrative territorial entity,Seattle,27219
+King County District Court,located in the administrative territorial entity,Seattle,27219
+Seattle,located in the administrative territorial entity,King County,27219
+King County,contains administrative territorial entity,Seattle,27219

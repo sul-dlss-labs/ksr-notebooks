@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Maine State Police,parent organization,Maine Department of Public Safety,27926
+Maine Department of Public Safety,subsidiary,Maine State Police,27926
+Maine State Police,parent organization,Maine Department of Public Safety,27926
+State Police Tactical Team,part of,Maine State Police,27926

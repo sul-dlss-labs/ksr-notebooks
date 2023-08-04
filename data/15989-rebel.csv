@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Trooper,part of,Maryland State Police,15989
+trooper,part of,Maryland State Police,15989
+Maryland State Police,has part,301-392-1231,15989
+301-392-1231,part of,Maryland State Police,15989

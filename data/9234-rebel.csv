@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+car,used by,police,9234
+car,has part,siren,9234
+vehicle pursuit,used by,police,9234

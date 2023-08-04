@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Enhanced Subscription,subclass of,subscription,23543
+free story view,subclass of,subscription,23543
+Enhanced Subscription,used by,Daily Journal,23543

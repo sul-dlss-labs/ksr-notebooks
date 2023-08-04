@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+police,parent organization,state police,6492
+police,parent organization,state police,6492
+state police,subsidiary,police,6492
+state police,headquarters location,Bel Air,6492

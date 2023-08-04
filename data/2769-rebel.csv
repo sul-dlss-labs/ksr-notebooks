@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Rafael Ramos,place of death,Los Angeles,2769
+Los Angeles Police Department,subsidiary,Special Collision Investigation Division,2769
+Special Collision Investigation Division,parent organization,Los Angeles Police Department,2769
+Los Angeles Police Department,has part,Special Collision Investigation Division,2769
+Special Collision Investigation Division,part of,Los Angeles Police Department,2769

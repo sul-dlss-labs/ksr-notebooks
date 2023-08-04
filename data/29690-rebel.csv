@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Eddie Garcia,employer,Dallas Police Department,29690
+Police Chief,part of,Dallas Police Department,29690
+Dallas Police Department,has part,SWAT,29690
+SWAT,part of,Dallas Police Department,29690

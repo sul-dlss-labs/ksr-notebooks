@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Demario Bass,place of death,St. Louis,25221
+St. Louis,located in the administrative territorial entity,Missouri,25221
+Missouri,contains administrative territorial entity,St. Louis,25221
+Goodfellow Boulevard,located in the administrative territorial entity,St. Louis,25221

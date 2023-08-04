@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+WPVI,located in the administrative territorial entity,Pennsylvania,30704
+Montgomery County,located in the administrative territorial entity,Pennsylvania,30704
+Pennsylvania,contains administrative territorial entity,Montgomery County,30704
+WPVI,located in the administrative territorial entity,"Montgomery County, Pennsylvania",30704
+WPVI,located in the administrative territorial entity,Pennsylvania,30704
+Pennsylvania,contains administrative territorial entity,Montgomery County,30704
+Montgomery County,located in the administrative territorial entity,Pennsylvania,30704

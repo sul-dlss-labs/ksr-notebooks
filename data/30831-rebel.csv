@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Submit Here,is a list of,news,30831
+Send us your news,is a list of,news,30831
+Send us your news,subclass of,news,30831

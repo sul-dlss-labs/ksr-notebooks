@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Carlos Reyna,employer,Immigration and Naturalization Service,831
+Immigration and Naturalization Service,field of work,deportation officers,831
+deportation officers,part of,Immigration and Naturalization Service,831

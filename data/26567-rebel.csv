@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Hartford Hospital,located in the administrative territorial entity,Connecticut,26567
+Connecticut,instance of,state,26567
+Connecticut,capital,Hartford,26567
+Hartford,capital of,Connecticut,26567

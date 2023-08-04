@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+sharing space,subclass of,sharing,3309
+sharing space,subclass of,Upload,3309
+sharing space is unlimited,subclass of,Upload unlimited,3309

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Chicago,located in the administrative territorial entity,Cook County,2029
+Cook County,contains administrative territorial entity,Chicago,2029
+Chicago police,applies to jurisdiction,Chicago,2029
+Cook County,contains administrative territorial entity,Chicago,2029

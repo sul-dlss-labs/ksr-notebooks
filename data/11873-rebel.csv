@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Robbery Intervention Detail,instance of,detectives,11873
+Robbery Intervention Detail,subclass of,police officers,11873
+Robbery Intervention Detail,instance of,police officers,11873

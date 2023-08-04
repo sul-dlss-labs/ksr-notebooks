@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Wichita Police Department,applies to jurisdiction,Wichita,26363
+Wichita Police Department,located in the administrative territorial entity,Wichita,26363
+Wichita,located in the administrative territorial entity,Sedgwick County,26363
+Sedgwick County,contains administrative territorial entity,Wichita,26363

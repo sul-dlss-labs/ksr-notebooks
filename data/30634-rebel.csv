@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Polk County Sheriff’s Office,applies to jurisdiction,"Polk County, Fla.",30634
+Polk County Sheriff’s Office,located in the administrative territorial entity,Davenport,30634
+Davenport,located in the administrative territorial entity,Polk County,30634
+Polk County,contains administrative territorial entity,Davenport,30634

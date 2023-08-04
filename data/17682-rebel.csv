@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Amarillo Police Department,applies to jurisdiction,Amarillo,17682
+SWAT situation,location,Amarillo,17682
+SWAT,part of,Amarillo Police Department,17682

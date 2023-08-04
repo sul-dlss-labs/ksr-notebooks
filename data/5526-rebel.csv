@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Catalina,located in the administrative territorial entity,Pima County,5526
+Oracle,located in the administrative territorial entity,Pima County,5526
+Pima County,contains administrative territorial entity,Catalina,5526
+Catalina,located in the administrative territorial entity,Pima County,5526

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Wesley Johnson,employer,Pennsylvania State Police,18434
+Pennsylvania State Trooper,part of,Pennsylvania State Police,18434
+Pennsylvania State Trooper,parent organization,Pennsylvania State Police,18434

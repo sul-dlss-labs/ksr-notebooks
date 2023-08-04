@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Colleen Mestas,employer,Visalia Police Department,13562
+Carol Allen,child,George Allen,13562
+George Allen,mother,Carol Allen,13562
+Police Chief,applies to jurisdiction,Visalia Police Department,13562
+Visalia Police Department,office held by head of the organization,Police Chief,13562

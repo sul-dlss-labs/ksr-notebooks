@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+McDonough,located in the administrative territorial entity,Henry County,12703
+Children’s Healthcare of Atlanta,located in the administrative territorial entity,Egleston,12703
+Henry County,contains administrative territorial entity,McDonough,12703
+McDonough,located in the administrative territorial entity,Henry County,12703

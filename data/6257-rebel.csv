@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Hardy Myers,position held,Attorney General,6257
+Oregon,contains administrative territorial entity,Washington County,6257
+Washington County,located in the administrative territorial entity,Oregon,6257
+Oregon,shares border with,Washington,6257
+Washington,shares border with,Oregon,6257

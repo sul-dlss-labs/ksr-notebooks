@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+boarded a school bus,has effect,abducted the boy,12331
+abducted the boy,has cause,boarded a school bus,12331
+boarded a school bus,has effect,abducted the boy,12331
+abducted the boy,located in the administrative territorial entity,Alabama,12331

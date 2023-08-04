@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+arrest,participant,police,19249
+cardiac arrhythmia due to stress,subclass of,homicide,19249
+cardiac arrhythmia due to stress and attempt to escape/resist arrest,subclass of,homicide,19249

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+a shooting,location,Pasadena,12146
+a shooting,location,"Daly City, Calif.",12146
+shooting,participant,Los Angeles County Sheriff's Department,12146

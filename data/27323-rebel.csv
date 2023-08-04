@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Los Angeles,shares border with,Culver City,27323
+Culver City,shares border with,Los Angeles,27323
+Los Angeles Police Department,has part,Pacific Division,27323
+Pacific Division,part of,Los Angeles Police Department,27323
+Los Angeles Police Department,has part,Pacific Division,27323
+Pacific Division,parent organization,Los Angeles Police Department,27323

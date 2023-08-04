@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Willow Glen,located in the administrative territorial entity,San Jose,20161
+San Jose,located in the administrative territorial entity,Santa Clara County,20161
+Santa Clara County,contains administrative territorial entity,San Jose,20161
+San Jose,shares border with,Santa Clara County,20161
+Santa Clara County,shares border with,San Jose,20161

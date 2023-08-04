@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+LAPD,parent organization,Los Angeles County Sheriff’s Department,16302
+Los Angeles County Sheriff’s Department,subsidiary,LAPD,16302
+LAPD,parent organization,Los Angeles County Sheriff’s Department,16302
+LAPD,applies to jurisdiction,Los Angeles County,16302

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Ukiah Morning Report,part of,sister papers,9393
+sister papers,has part,Ukiah Morning Report,9393
+Ukiah Morning Report,instance of,News Alerts,9393
+Ukiah Morning Report,part of,sister papers,9393

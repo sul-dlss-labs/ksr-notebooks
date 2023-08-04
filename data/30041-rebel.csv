@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Dorchester County,contains administrative territorial entity,St. George,30041
+St. George,located in the administrative territorial entity,Dorchester County,30041
+I-26,located in the administrative territorial entity,South Carolina,30041
+Dorchester,located in the administrative territorial entity,South Carolina,30041
+South Carolina,contains administrative territorial entity,Dorchester,30041
+St. George,located in the administrative territorial entity,Dorchester County,30041
+Dorchester County,contains administrative territorial entity,St. George,30041

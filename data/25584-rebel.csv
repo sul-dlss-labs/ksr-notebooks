@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Cypress,located in the administrative territorial entity,Fort Bend County,25584
+Fort Bend,shares border with,Harris,25584
+Harris,shares border with,Fort Bend,25584
+Fort Bend,located in the administrative territorial entity,Harris,25584
+Harris,contains administrative territorial entity,Fort Bend,25584

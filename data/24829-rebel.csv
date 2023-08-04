@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Sarasota Police Department,applies to jurisdiction,Sarasota,24829
+Sarasota police,applies to jurisdiction,Sarasota,24829
+Sarasota,located in the administrative territorial entity,Broward County,24829
+Broward County,contains administrative territorial entity,Sarasota,24829

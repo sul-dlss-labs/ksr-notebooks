@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Houston Police Department,has part,Homicide,13470
+Houston Police Department,has part,Homicide,13470
+Homicide,part of,Houston Police Department,13470
+Homicide,parent organization,Houston Police Department,13470

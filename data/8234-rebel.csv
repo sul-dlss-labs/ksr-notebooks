@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Felix Vess,employer,Chattanooga Police Department,8234
+Felix Vess,employer,Chattanooga Police,8234
+Police Chief,part of,Chattanooga Police Department,8234

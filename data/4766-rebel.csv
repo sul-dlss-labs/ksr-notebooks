@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Incident at 2300 Mason,point in time,"December 19, 2005",4766
+shooting of a Houston police officer,point in time,"December 19, 2005",4766
+HPD,applies to jurisdiction,Houston,4766

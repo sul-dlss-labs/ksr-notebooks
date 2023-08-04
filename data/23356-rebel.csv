@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+officer-involved shooting,subclass of,use of deadly force,23356
+officer-involved shooting,has cause,use of deadly force,23356
+officers who shot and killed a man after he drove at them with a multi-ton pickup last year,instance of,officer-involved shooting,23356

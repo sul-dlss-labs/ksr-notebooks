@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+amphetamine,subject has role,opioid,25561
+methamphetamine,subject has role,opioid,25561
+amphetamine,instance of,drug,25561
+methamphetamine,instance of,drug,25561

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Interstate 205,terminus,Interstate 5,3149
+Interstate 205,connects with,Interstate 5,3149
+Interstate 5,connects with,Interstate 205,3149
+Interstate 205,maintained by,Washington State Patrol,3149

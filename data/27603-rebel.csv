@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Long Island,contains administrative territorial entity,Queens,27603
+Queens,located in the administrative territorial entity,Long Island,27603
+Nassau County,shares border with,Queens,27603
+Queens,shares border with,Nassau County,27603
+Nassau County,located on terrain feature,Long Island,27603
+Long Island,contains administrative territorial entity,Nassau County,27603

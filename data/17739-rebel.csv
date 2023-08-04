@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+incident,location,100 Homes,17739
+100 Homes,point in time,"June 3, 2016",17739
+incident led to a fatality,point in time,"June 3, 2016",17739

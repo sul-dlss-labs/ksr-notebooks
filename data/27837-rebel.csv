@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Alaska State Troopers,located in the administrative territorial entity,Tok,27837
+Alaska State Troopers,location,Tok,27837
+Alaska State Troopers,has part,Special Emergency Response Team,27837
+Special Emergency Response Team,part of,Alaska State Troopers,27837

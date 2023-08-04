@@ -1,0 +1,9 @@
+subject,predicate,object,fe_id
+Childress County,shares border with,Hall,23966
+Hall,shares border with,Childress County,23966
+Iowa Park,located in the administrative territorial entity,Childress County,23966
+Texas Department of Public Safety,applies to jurisdiction,Texas,23966
+Texas,contains administrative territorial entity,Donley,23966
+Texas,contains administrative territorial entity,Hall,23966
+Donley,located in the administrative territorial entity,Texas,23966
+Hall,located in the administrative territorial entity,Texas,23966

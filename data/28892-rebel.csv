@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Raleigh County,contains administrative territorial entity,Whitby,28892
+Whitby,located in the administrative territorial entity,Raleigh County,28892
+Raleigh County Sheriff’s Department,located in the administrative territorial entity,West Virginia,28892
+West Virginia,contains administrative territorial entity,Raleigh County Sheriff’s Department,28892
+Raleigh County Sheriff’s Department,located in the administrative territorial entity,West Virginia,28892
+West Virginia,contains administrative territorial entity,Raleigh County Sheriff’s Department,28892
+Whitby,located in the administrative territorial entity,Raleigh County,28892

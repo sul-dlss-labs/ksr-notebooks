@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Florida,contains administrative territorial entity,"Saint John's County, Florida",8028
+"Saint John's County, Florida",located in the administrative territorial entity,Florida,8028
+Mississippi,contains administrative territorial entity,Jackson County,8028
+Jackson County,located in the administrative territorial entity,Mississippi,8028
+Gautier,located in the administrative territorial entity,Jackson County,8028

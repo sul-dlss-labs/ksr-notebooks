@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,Perry,13852
+standoff in Perry,location,Perry,13852
+standoff,located in the administrative territorial entity,Perry,13852

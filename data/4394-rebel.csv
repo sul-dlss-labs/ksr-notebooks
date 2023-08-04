@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+HPD Homicide Division,located in the administrative territorial entity,Houston,4394
+HPD Homicide Division,parent organization,Houston police,4394
+Houston Police Department,has part,Homicide,4394
+Homicide,part of,Houston Police Department,4394

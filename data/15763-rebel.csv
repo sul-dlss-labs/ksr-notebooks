@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Sussex County,shares border with,Suffolk,15763
+Suffolk,shares border with,Sussex County,15763
+Suffolk Police,applies to jurisdiction,Suffolk,15763
+"Suffolk, Va.",shares border with,Sussex County,15763
+Sussex County,shares border with,"Suffolk, Va.",15763

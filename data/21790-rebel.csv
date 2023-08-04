@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Airsoft pistol,subclass of,semi-automatic handgun,21790
+San Diego Police Homicide Unit,applies to jurisdiction,San Diego,21790
+San Diego Police Homicide Unit,parent organization,San Diego police,21790

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,"Manchester, New Hampshire",30312
+North End,located in the administrative territorial entity,"Manchester, New Hampshire",30312
+standoff,location,Manchester,30312

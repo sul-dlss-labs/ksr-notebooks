@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+excited delirium,subclass of,cardiac event,16654
+opioid,subclass of,drug,16654
+opioid,has effect,hallucination,16654

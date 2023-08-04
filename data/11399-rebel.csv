@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+home,use,residence,11399
+Are you prepared,has part,equip yourself,11399
+equip yourself,part of,Are you prepared,11399
+Are you prepared,facet of,equip yourself and your residence,11399

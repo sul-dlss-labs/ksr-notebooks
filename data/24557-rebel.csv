@@ -1,0 +1,11 @@
+subject,predicate,object,fe_id
+Lake,shares border with,McHenry,24557
+McHenry,shares border with,Lake,24557
+Lake County,shares border with,McHenry,24557
+McHenry,shares border with,Lake County,24557
+Pennsylvania,contains administrative territorial entity,Lake,24557
+Pennsylvania,contains administrative territorial entity,McHenry,24557
+Lake,located in the administrative territorial entity,Pennsylvania,24557
+Lake,shares border with,McHenry,24557
+McHenry,located in the administrative territorial entity,Pennsylvania,24557
+McHenry,shares border with,Lake,24557

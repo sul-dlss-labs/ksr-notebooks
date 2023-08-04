@@ -1,0 +1,10 @@
+subject,predicate,object,fe_id
+New Jersey,contains administrative territorial entity,Bergen County,2466
+Bergen County,located in the administrative territorial entity,New Jersey,2466
+New Jersey,contains administrative territorial entity,Bergen County,2466
+Bergen County,located in the administrative territorial entity,New Jersey,2466
+Passaic,located in the administrative territorial entity,Bergen County,2466
+Florida,contains administrative territorial entity,Hernando,2466
+Florida,contains administrative territorial entity,Sumter County,2466
+Hernando,located in the administrative territorial entity,Florida,2466
+Sumter County,located in the administrative territorial entity,Florida,2466

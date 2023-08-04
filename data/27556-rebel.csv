@@ -1,0 +1,8 @@
+subject,predicate,object,fe_id
+Polk County,shares border with,Osceola,27556
+Osceola,shares border with,Polk County,27556
+Polk County Sheriff,shares border with,Osceola,27556
+Osceola,shares border with,Polk County Sheriff,27556
+Polk County Sheriff,applies to jurisdiction,Polk,27556
+Polk,shares border with,Osceola,27556
+Osceola,shares border with,Polk,27556

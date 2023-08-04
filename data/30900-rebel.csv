@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Eden Prairie,shares border with,Minnetonka,30900
+Minnetonka,shares border with,Eden Prairie,30900
+Maplewood,shares border with,Eden Prairie,30900
+Maplewood,shares border with,Minnetonka,30900
+Minnetonka,shares border with,Maplewood,30900

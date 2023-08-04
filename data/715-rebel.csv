@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+John Tye,employer,Los Angeles Police Department,715
+LAPD,parent organization,Los Angeles Police Department,715
+LAPD,parent organization,Los Angeles Police Department,715
+Los Angeles Police Department,subsidiary,LAPD,715

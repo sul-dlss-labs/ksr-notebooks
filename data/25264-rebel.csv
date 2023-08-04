@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+San Antonio,located in the administrative territorial entity,Bexar County,25264
+Bexar County,contains administrative territorial entity,San Antonio,25264
+San Antonio,located in the administrative territorial entity,Bexar County,25264
+Bexar County,capital,San Antonio,25264
+SAN ANTONIO,located in the administrative territorial entity,Bexar County,25264
+Bexar County,contains administrative territorial entity,San ANTONIO,25264

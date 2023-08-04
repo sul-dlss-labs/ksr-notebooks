@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+CLAREMONT,located in the administrative territorial entity,LAKE County,12716
+CLAREMONT,located in the administrative territorial entity,Orange County,12716
+CLAREMONT,located in the administrative territorial entity,LAKE County,12716
+LAKE County,contains administrative territorial entity,CLAREMONT,12716

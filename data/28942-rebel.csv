@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Forest Grove,located in the administrative territorial entity,Oregon,28942
+Oregon,contains administrative territorial entity,Forest Grove,28942
+Forest Grove,located in the administrative territorial entity,Washington County,28942
+Washington County,contains administrative territorial entity,Forest Grove,28942
+OregonLive,place of publication,"Portland, Ore.",28942

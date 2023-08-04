@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shootout,participant,Chicago police,3978
+shootout,location,Chicago,3978
+police officers involved in a Southwest Side shootout,instance of,shootout,3978

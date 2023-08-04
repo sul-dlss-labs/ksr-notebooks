@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Vacaville,located in the administrative territorial entity,Napa County,924
+Vacaville Police,applies to jurisdiction,Napa County,924
+Napa County,contains administrative territorial entity,Vacaville,924
+Vacaville,located in the administrative territorial entity,Napa County,924

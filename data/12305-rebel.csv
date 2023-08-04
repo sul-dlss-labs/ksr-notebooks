@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+convicted of a felony injury in 1996,point in time,1996,12305
+convicted,subclass of,sentence,12305
+felony injury,subclass of,law,12305

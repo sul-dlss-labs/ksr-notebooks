@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+La Porte County,shares border with,Lake County,30574
+Lake County,shares border with,La Porte County,30574
+Indiana State Police,parent organization,Indiana Department of Transportation,30574
+Indiana State Police,parent organization,Indiana Department of Transportation,30574
+Indiana Department of Transportation,subsidiary,Indiana State Police,30574

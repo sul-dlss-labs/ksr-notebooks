@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Pentagon,located in the administrative territorial entity,"Arlington, Virginia",30702
+Arlington,located in the administrative territorial entity,Virginia,30702
+Virginia,contains administrative territorial entity,Arlington,30702
+Pentagon,located in the administrative territorial entity,"Arlington, Virginia",30702
+Pentagon Metro,located in the administrative territorial entity,"Arlington, Virginia",30702

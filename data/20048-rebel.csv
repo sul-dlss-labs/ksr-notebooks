@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+paramedics,part of,EMS,20048
+paramedics,part of,EMS,20048
+EMS,has part,paramedics,20048
+Jeronimo Zamora Jr.,employer,Galveston County Sheriff's Office,20048

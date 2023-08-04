@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+JL Beavers,employer,Greensboro Police Department,12082
+Police,applies to jurisdiction,Greensboro,12082
+Police,has part,Greensboro Police Department,12082
+Greensboro Police Department,part of,Police,12082

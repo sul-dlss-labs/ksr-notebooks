@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+NYPD,subsidiary,Intelligence Department,23850
+Intelligence Department,parent organization,NYPD,23850
+CBS2,headquarters location,New York,23850
+NYPD,has part,Intelligence Department,23850
+Intelligence Department,part of,NYPD,23850

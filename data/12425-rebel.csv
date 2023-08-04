@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Fairfax County,located in the administrative territorial entity,Virginia,12425
+Virginia,contains administrative territorial entity,Fairfax County,12425
+Fairfax County,contains administrative territorial entity,Fairfax City,12425
+Fairfax City,located in the administrative territorial entity,Fairfax County,12425
+Fairfax County Police,applies to jurisdiction,Fairfax City,12425

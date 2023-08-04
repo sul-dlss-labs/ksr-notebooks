@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+shootout and chase,location,I-30,13186
+shootout and chase on I-30,location,I-30,13186
+shootout,part of,chase,13186

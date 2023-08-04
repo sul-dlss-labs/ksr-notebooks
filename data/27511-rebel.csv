@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+I-64,located in the administrative territorial entity,Hampton,27511
+Hampton,located in the administrative territorial entity,Virginia,27511
+Virginia,contains administrative territorial entity,Hampton,27511
+Hampton,shares border with,Newport News,27511
+Newport News,shares border with,Hampton,27511

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Officer Thomas Herman,employer,Florence Police Department,24472
+shooting,point in time,"July 14, 2018",24472
+Florence Police Department,parent organization,South Carolina Law Enforcement Division,24472

@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+related fatal shooting,location,San Jose,16531
+related fatal shooting,participant,San Jose police,16531
+related fatal shooting,has effect,police shooting in San Jose,16531

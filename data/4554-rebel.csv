@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Taser,manufacturer,Taser International,4554
+tased,subclass of,excessive force,4554
+Taser International,product or material produced,Taser,4554

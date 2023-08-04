@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+subscription,subclass of,digital access,4916
+digital access,subclass of,subscription,4916
+digital access,different from,subscription,4916
+subscription,different from,digital access,4916

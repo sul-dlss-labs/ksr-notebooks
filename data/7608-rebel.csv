@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Paul,date of death,October 2007,7608
+Paul,place of death,"Peoria, Ariz.",7608
+Paul,place of death,"Peoria, Ariz",7608

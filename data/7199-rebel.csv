@@ -1,0 +1,23 @@
+subject,predicate,object,fe_id
+Kansas,contains administrative territorial entity,Bourbon,7199
+Kansas,contains administrative territorial entity,Crawford,7199
+Kansas,contains administrative territorial entity,Cherokee Counties,7199
+Bourbon,located in the administrative territorial entity,Kansas,7199
+Crawford,located in the administrative territorial entity,Kansas,7199
+Cherokee Counties,located in the administrative territorial entity,Kansas,7199
+Kansas,contains administrative territorial entity,Bourbon,7199
+Kansas,contains administrative territorial entity,Crawford,7199
+Kansas,contains administrative territorial entity,Cherokee,7199
+Bourbon,located in the administrative territorial entity,Kansas,7199
+Crawford,located in the administrative territorial entity,Kansas,7199
+Cherokee,located in the administrative territorial entity,Kansas,7199
+Missouri,contains administrative territorial entity,Vernon,7199
+Missouri,contains administrative territorial entity,Barton,7199
+Missouri,contains administrative territorial entity,Jasper,7199
+Missouri,contains administrative territorial entity,Newton,7199
+Missouri,contains administrative territorial entity,McDonald Counties,7199
+Vernon,located in the administrative territorial entity,Missouri,7199
+Barton,located in the administrative territorial entity,Missouri,7199
+Jasper,located in the administrative territorial entity,Missouri,7199
+Newton,located in the administrative territorial entity,Missouri,7199
+McDonald Counties,located in the administrative territorial entity,Missouri,7199

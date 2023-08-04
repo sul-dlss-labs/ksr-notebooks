@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+negligent driving,subclass of,speeding,12965
+negligent driving,has part,speeding,12965
+negligent driving,has parts of the class,speeding,12965

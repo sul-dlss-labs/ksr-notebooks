@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Los Angeles County Sheriff's Department,subsidiary,Homicide Bureau,23752
+Homicide Bureau,parent organization,Los Angeles County Sheriff's Department,23752
+Deputy Trina Schrader,date of death,"February 06, 2018",23752
+Deputy Trina Schrader,date of death,"February 06, 2018",23752
+Los Angeles County Sheriff's Department,has part,Homicide Bureau,23752
+Homicide Bureau,parent organization,Los Angeles County Sheriff's Department,23752

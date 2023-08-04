@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Gary,located in the administrative territorial entity,Lake County,22422
+Gary,shares border with,Calumet Township,22422
+Calumet Township,shares border with,Gary,22422
+Gary,located in the administrative territorial entity,Lake County,22422
+Lake County,contains administrative territorial entity,Gary,22422

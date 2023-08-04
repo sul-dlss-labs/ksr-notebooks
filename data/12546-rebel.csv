@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+DeSoto,located in the administrative territorial entity,Texas,12546
+Texas,contains administrative territorial entity,DeSoto,12546
+DeSoto,shares border with,Lancaster,12546
+Lancaster,shares border with,DeSoto,12546
+Abel Reyna Jr.,place of death,DeSoto,12546

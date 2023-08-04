@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,Topeka,23727
+standoff,participant,Topeka Police Dept.,23727
+standoff,located in the administrative territorial entity,Topeka,23727

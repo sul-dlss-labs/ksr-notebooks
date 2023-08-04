@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+incident the day before,participant,Gaston County Police,19168
+incident,participant,Gaston County Police,19168
+incident the day before,instance of,standoff,19168

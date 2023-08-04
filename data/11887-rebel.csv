@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Seven Points,located in the administrative territorial entity,Henderson County,11887
+Henderson County,contains administrative territorial entity,Tyler,11887
+Tyler,located in the administrative territorial entity,Henderson County,11887
+Seven Points,located in the administrative territorial entity,Henderson County,11887
+Henderson County,contains administrative territorial entity,Seven Points,11887

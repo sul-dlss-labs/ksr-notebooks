@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Houston,located in the administrative territorial entity,Harris County,13193
+Austin,located in the administrative territorial entity,Travis County,13193
+Travis County,contains administrative territorial entity,Austin,13193
+Austin,located in the administrative territorial entity,Travis County,13193
+Travis County,capital,Austin,13193

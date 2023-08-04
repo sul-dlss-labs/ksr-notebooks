@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Norfolk,shares border with,Chesapeake,26068
+Norfolk,shares border with,Chesapeake,26068
+Chesapeake,shares border with,Norfolk,26068
+Suffolk,shares border with,Portsmouth,26068
+Portsmouth,shares border with,Suffolk,26068

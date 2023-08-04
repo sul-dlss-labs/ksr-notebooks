@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Charles Garrett,child,Shawn Garrett,9781
+Shawn Garrett,father,Charles Garrett,9781
+Chicago,located in the administrative territorial entity,Cook County,9781
+Cook County,contains administrative territorial entity,Chicago,9781
+Daywatch,publisher,Chicago Tribune,9781

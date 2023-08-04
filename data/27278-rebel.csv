@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Shooting Death of Jonathan Alvarado,point in time,"April 8, 2013",27278
+Connecticut State Police Eastern District-Major Crime Squad,part of,Connecticut State Police,27278
+State Police,subsidiary,Connecticut State Police Eastern District-Major Crime Squad,27278
+Connecticut State Police Eastern District-Major Crime Squad,parent organization,State Police,27278

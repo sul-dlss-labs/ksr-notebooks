@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+opioid overdose,subclass of,medical distress,24418
+opioid overdose,has effect,medical distress,24418
+Narcan,medical condition treated,opioid overdose,24418

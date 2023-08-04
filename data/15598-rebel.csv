@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+Madison County,contains administrative territorial entity,Omaha,15598
+Omaha,located in the administrative territorial entity,Madison County,15598
+Madison County Attorney,applies to jurisdiction,Madison,15598
+Madison,office held by head of government,Madison County Attorney,15598
+Madison County Attorney,applies to jurisdiction,Madison,15598

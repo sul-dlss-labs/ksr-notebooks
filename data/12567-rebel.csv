@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+linebacker,league,NFL,12567
+linebacker,opposite of,quarterback,12567
+quarterback,opposite of,linebacker,12567
+linebacker,member of sports team,NFL,12567

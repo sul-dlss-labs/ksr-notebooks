@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+standoff,location,Dallas,22873
+standoff,located in the administrative territorial entity,Dallas,22873
+standoff at a Dallas apartment,participant,Dallas police,22873

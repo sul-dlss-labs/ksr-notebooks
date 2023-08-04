@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Rock Springs Police Department,located in the administrative territorial entity,Sweetwater County,29918
+Rock Springs,located in the administrative territorial entity,Sweetwater County,29918
+Sweetwater County,contains administrative territorial entity,Rock Springs,29918
+Rock Springs Police Department,parent organization,Sweetwater County Sheriff's Office,29918

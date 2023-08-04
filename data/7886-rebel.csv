@@ -1,0 +1,7 @@
+subject,predicate,object,fe_id
+Jennifer Denmark,spouse,Bill Denmark,7886
+Bill Denmark,spouse,Jennifer Denmark,7886
+Jennifer Denmark,spouse,her estranged husband,7886
+her estranged husband,spouse,Jennifer Denmark,7886
+Jennifer Denmark,spouse,her husband,7886
+her husband,spouse,Jennifer Denmark,7886

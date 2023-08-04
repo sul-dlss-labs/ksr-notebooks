@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+crash,operator,Illinois State Police,27893
+police chase,instance of,chase,27893
+Alton Police,parent organization,Illinois State Police,27893

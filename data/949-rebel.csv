@@ -1,0 +1,6 @@
+subject,predicate,object,fe_id
+La Libertad,country,El Salvador,949
+El Salvador,contains administrative territorial entity,La Libertad,949
+La Libertad,country,El Salvador,949
+La Libertad,located in the administrative territorial entity,El Salvador,949
+El Salvador,contains administrative territorial entity,La Libertad,949

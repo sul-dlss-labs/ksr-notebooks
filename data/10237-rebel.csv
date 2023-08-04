@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Breaking News,main subject,breaking news,10237
+Breaking News,instance of,breaking news,10237
+Breaking News,instance of,breaking news coverage,10237

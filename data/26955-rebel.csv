@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Two Rivers Police,located in the administrative territorial entity,Manitowoc County,26955
+Manitowoc County,contains administrative territorial entity,Green Bay,26955
+Green Bay,located in the administrative territorial entity,Manitowoc County,26955
+Two Rivers Police Officer,located in the administrative territorial entity,Manitowoc County,26955

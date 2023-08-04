@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Calvin,located in the administrative territorial entity,Nicholas County,23172
+Nicholas County,contains administrative territorial entity,Summersville,23172
+Summersville,located in the administrative territorial entity,Nicholas County,23172
+West Virginia State Police,located in the administrative territorial entity,Summersville,23172

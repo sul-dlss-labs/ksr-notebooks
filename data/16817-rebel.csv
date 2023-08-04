@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+Market-Frankford Line,operator,SEPTA,16817
+Huntingdon El,connecting line,Market-Frankford Line,16817
+Market-Frankford Line,owned by,SEPTA,16817

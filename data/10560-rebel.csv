@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+Wyoming Medical Center,located in the administrative territorial entity,Casper,10560
+Wyoming,contains administrative territorial entity,Platte County,10560
+Platte County,located in the administrative territorial entity,Wyoming,10560
+Wyoming State Parks,located in the administrative territorial entity,Platte County,10560

@@ -1,0 +1,5 @@
+subject,predicate,object,fe_id
+San Leandro,shares border with,Oakland,28543
+Oakland,shares border with,San Leandro,28543
+San Leandro police K9,located in the administrative territorial entity,San Leandro,28543
+San Leandro,located in the administrative territorial entity,Oakland,28543

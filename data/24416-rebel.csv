@@ -1,0 +1,4 @@
+subject,predicate,object,fe_id
+George Floyd,employer,Minneapolis police,24416
+police killings and brutality involving Black people,subclass of,excessive force,24416
+police killings and brutality involving Black people,facet of,police,24416
